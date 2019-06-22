@@ -26,10 +26,10 @@ ACADEMIC INTERESTS<br>
 <blockquote>  AI: Ethical and Legal Challenges (Governing AI)<br>
   Accountability for Algorithm and Artificial Intelligence <br>
   Cybersecurity Policy: A Multi-stakeholder Approach <br>
-  Cybersecurity and Internet Governance <br>
+  Internet Governance <br>
   Platform Liability <br>
   Data Localization <br>
-  Data Governance <br>
+  User Privacy, Data Governance <br>
   Open Data for Sustainable Development <br> 
   Intellectual Property<br>
   Information Commons<br> 
