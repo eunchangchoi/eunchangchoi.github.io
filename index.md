@@ -9,7 +9,7 @@ title: "Eun Chang Choi"
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-<div style="width:93%">
+<div style="width:92%">
 <div>
  <img style="height:250px" src="images/profile.jpg">
  <a href="https://mitpress.mit.edu/books/memes-digital-culture"><img style="vertical-align:top;height:200px;width:130px;" src="images/book1.png"></a>
@@ -18,13 +18,13 @@ title: "Eun Chang Choi"
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791130437002&orderClick=357"><img style="vertical-align:top;height:200px;width:130px;" src="images/book4.jpg"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788964361436&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:130px;" src="images/book5.jpg"></a>
 
-<p> Eun Chang Choi has been a member of Law Committee, IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems, and a fellow of the Free Internet Project, housed in Illinois Institute of Technology at Chicago. He has consulted with Korea Information Society Development Institute (KISDI) and South Korean Presidential Committee on the Fourth Industrial Revolution on AI policy, and taught multistakeholder perspectives on ethical framework of AI at the Asia Pacific Internet Governance Academy (APIGA). Previously, he was a resident fellow of Information Society Project at Yale Law School, and a coordinator of Harvard-Yale Cyberscholar Working Group. He also held an appointment as a visiting scholar at Centre for Socio-Legal Studies, Law Faculty Faculty of University of Oxford on scholarship. He was an invited expert of W3C Privacy Interest Group and a fellow of Science and Technology Policy Institute (STEPI) of Korea.</p>
+<p> Eun Chang Choi has been a member of Law Committee, IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems, and a fellow of the Free Internet Project, housed in Illinois Institute of Technology at Chicago. He has consulted with Korea Information Society Development Institute (KISDI) and South Korean Presidential Committee on the Fourth Industrial Revolution on AI policy, and taught multistakeholder perspectives on ethical framework of AI at the Asia Pacific Internet Governance Academy(APIGA). Previously, he was a resident fellow of Information Society Project at Yale Law School, and a coordinator of Harvard-Yale Cyberscholar Working Group. He also held an appointment as a visiting scholar at Centre for Socio-Legal Studies, Law Faculty Faculty of University of Oxford on scholarship. He was an invited expert of W3C Privacy Interest Group and a fellow of Science and Technology Policy Institute (STEPI) of Korea.</p>
 <p> His research focuses on governance of artificial intelligence and regulatory policy on emerging technologies.His articles primarily addressing underlying legal, policy issues associated with computer algorithm, Internet architecture, data privacy in cloud computing, data ownership, and social media platform. He has auhored books 'Layered Model of Regulation', 'Al Governance' (forthcoming) and 'The Future of Fake News'  (forthcoming)  and also translated several books inlcuding 'The Weath of Networks' by Yochai Bnekler (Yale Univ Press), 'Meme in Digital Culture' and 'Internet of Things' (MIT Press). 
 </p>
 <p> Currently he serves on a steering committee of the Korea Internet Governance Alliance (KIGA) that brings stakeholders together to participate in the dialogue on Internet policy. At Korea Internet Governance Forum(http://krigf.kr), he organized workshops on the future of AI, ethical framework for a good AI society, Cybersecurity & Encryption Policy, an Data Governance in social networks. He is also a founder of GP3Korea (www.povertyinfo.org), a non-profit initiative, designed to provide citizens with open information about global poverty and preventable diseases.</p>
 
 ACADEMIC INTERESTS<br> 
-  AI: Ethical and Legal Challenges (Governing AI)<br>
+<blockquote>  AI: Ethical and Legal Challenges (Governing AI)<br>
   Accountability for Algorithm and Artificial Intelligence <br>
   Cybersecurity Policy: A Multi-stakeholder Approach <br>
   Cybersecurity and Internet Governance <br>
@@ -35,3 +35,4 @@ ACADEMIC INTERESTS<br>
   Intellectual Property<br>
   Cyber Communication<br>
   The Interplay of Law, Science, and Technology<br>
+  </blockquote>
