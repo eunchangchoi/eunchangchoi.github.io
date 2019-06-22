@@ -32,6 +32,6 @@ ACADEMIC INTERESTS<br>
   Cybersecurity Policy: A Multi-stakeholder Approach <br>
   Internet Governance <br>
   Intellectual Property<br>
-  Information Commons<br> 
-  The Interplay of Law, Science, and Technology<br>
+  Information Commons <br> 
+  The Interplay of Law,Science,and Technology<br>
   </blockquote> 
