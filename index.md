@@ -13,12 +13,11 @@ title: "Eun Chang Choi"
 <div>
  <img style="height:250px" src="images/profile.jpg">
  <a href="https://mitpress.mit.edu/books/memes-digital-culture"><img style="vertical-align:top;height:200px;width:130px;" src="images/book1.png"></a>
- <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=55678098&start=slayer"><img style="vertical-align:top;height:200px;width:130px;" src="images/book2.jpg"></a>
- <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=101505520"><img style="vertical-align:top;height:200px;width:130px;" src="images/book3.jpg"></a>
- <a href="http://www.aladin.co.kr/m/mproduct.aspx?ItemId=59460403"><img style="vertical-align:top;height:200px;width:130px;" src="images/book4.jpg"></a>
- <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=152888650"><img style="vertical-align:top;height:200px;width:130px;" src="images/book5.jpg"></a>
+ <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791130435473&orderClick=LAG&Kc="><img style="vertical-align:top;height:200px;width:130px;" src="images/book2.jpg"></a>
+ <a href="www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:130px;" src="images/book3.jpg"></a>
+ <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791130437002&orderClick=357"><img style="vertical-align:top;height:200px;width:130px;" src="images/book4.jpg"></a>
+ <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788964361436&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:130px;" src="images/book5.jpg"></a>
 </div>
-
 
 
 
