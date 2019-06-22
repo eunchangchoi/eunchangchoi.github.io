@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 title: "Eun Chang Choi"
 ---
-
+<body bottommargin="0">
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
@@ -36,5 +36,4 @@ ACADEMIC INTERESTS<br>
   Information Commons<br> 
   The Interplay of Law, Science, and Technology<br>
   </blockquote>
-<body bottommargin="0"> </body>
-</html>
+ </body> 
