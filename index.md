@@ -30,7 +30,6 @@ ACADEMIC INTERESTS<br>
   Data Privacy, Data Governance <br>
   Open Data for Sustainable Development <br> 
   Cybersecurity Policy: A Multi-stakeholder Approach <br>
-  Internet Governance <br>
   Intellectual Property<br>
   Information Commons <br> 
   The Interplay of Law,Science,and Technology<br>
