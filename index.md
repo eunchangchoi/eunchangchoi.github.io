@@ -9,12 +9,12 @@ title: "Eun Chang Choi"
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-<div style="width:95%">
+<div style="width:93%">
 <div>
  <img style="height:250px" src="images/profile.jpg">
  <a href="https://mitpress.mit.edu/books/memes-digital-culture"><img style="vertical-align:top;height:200px;width:130px;" src="images/book1.png"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791130435473&orderClick=LAG&Kc="><img style="vertical-align:top;height:200px;width:130px;" src="images/book2.jpg"></a>
- <a href="ttp://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:130px;" src="images/book3.jpg"></a>
+ <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:130px;" src="images/book3.jpg"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791130437002&orderClick=357"><img style="vertical-align:top;height:200px;width:130px;" src="images/book4.jpg"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788964361436&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:130px;" src="images/book5.jpg"></a>
 
@@ -22,10 +22,8 @@ title: "Eun Chang Choi"
 <p> His research focuses on governance of artificial intelligence and regulatory policy on emerging technologies.His articles primarily addressing underlying legal, policy issues associated with computer algorithm, Internet architecture, data privacy in cloud computing, data ownership, and social media platform. He has auhored books 'Layered Model of Regulation', 'Al Governance' (forthcoming) and 'The Future of Fake News'  (forthcoming)  and also translated several books inlcuding 'The Weath of Networks' by Yochai Bnekler (Yale Univ Press), 'Meme in Digital Culture' and 'Internet of Things' (MIT Press). 
 </p>
 <p> Currently he serves on a steering committee of the Korea Internet Governance Alliance (KIGA) that brings stakeholders together to participate in the dialogue on Internet policy. At Korea Internet Governance Forum(http://krigf.kr), he organized workshops on the future of AI, ethical framework for a good AI society, Cybersecurity & Encryption Policy, an Data Governance in social networks. He is also a founder of GP3Korea (www.povertyinfo.org), a non-profit initiative, designed to provide citizens with open information about global poverty and preventable diseases.</p>
-
-
 <p>ACADEMIC INTERESTS</p><br> 
-  AI: Ethical and Legal Challenges (Governing AI) <br>
+  AI: Ethical and Legal Challenges (Governing AI)<br>
   Accountability for Algorithm and Artificial Intelligence <br>
   Cybersecurity Policy: A Multi-stakeholder Approach <br>
   The interplay of Cybersecurity and Internet Governance <br>
@@ -33,6 +31,6 @@ title: "Eun Chang Choi"
   Data Localization <br>
   Data Governance <br>
   ICT for Development (ICD4D and SDGs)
-  Intellectual Property <br>
-  Internet as Media <br>
+  Intellectual Property<br>
+  Cyber Communication <br>
   The Interplay of Law, Science, and Technology<br>
