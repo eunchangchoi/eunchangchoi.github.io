@@ -36,4 +36,4 @@ ACADEMIC INTERESTS<br>
   Information Commons <br> 
   The Interplay of Law, Science, and Technology<br>
   </blockquote>
-  (body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0")(/body)<br>
+<body bottommargin="0"> <br>
