@@ -31,9 +31,10 @@ ACADEMIC INTERESTS<br>
   Platform Liability <br>
   Data Localization <br>
   Data Governance <br>
-  Open Data for Sustainable Development
+  Open Data for Sustainable Development <br> 
   Intellectual Property<br>
-  Information Commons <br> 
+  Information Commons<br> 
   The Interplay of Law, Science, and Technology<br>
   </blockquote>
-<body bottommargin="0"> <br>
+<body bottommargin="0"> </body>
+</html>
