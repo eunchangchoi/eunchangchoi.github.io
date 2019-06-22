@@ -33,16 +33,13 @@ sitemap: false
 /*
    Components
    ========================================================================== */
-
 @import "helpers";
 @import "buttons";
-@import "badges";
+@import "badges"; 
 @import "bullets"
 @import "notices";
 @import "animations"; 
-@import "footnotes";
-@import "toc"; /* table of contents */
-@import "breadcrumbs";
+@import "footnotes"; 
 @import "syntax";
 
 /*
