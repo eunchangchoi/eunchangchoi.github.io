@@ -9,7 +9,7 @@ title: "Eun Chang Choi"
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-<div style="width:85%">
+<div style="width:90%">
 <div>
  <img style="height:250px" src="images/profile.jpg">
  <a href="https://mitpress.mit.edu/books/memes-digital-culture"><img style="vertical-align:top;height:200px;width:130px;" src="images/book1.png"></a>
@@ -25,13 +25,13 @@ title: "Eun Chang Choi"
 <p> Currently he serves on a steering committee of the Korea Internet Governance Alliance (KIGA) that brings stakeholders together to participate in the dialogue on Internet policy. At Korea Internet Governance Forum(http://krigf.kr), he organized workshops on the future of AI, ethical framework for a good AI society, Cybersecurity & Encryption Policy, an Data Governance in social networks. He is also a founder of GP3Korea (www.povertyinfo.org), a non-profit initiative, designed to provide citizens with open information about global poverty and preventable diseases.</p>
 
 
-<p>ACADEMIC INTERESTS</p><div>
-  AI: Ethical and Legal Challenges (Governing AI)<div>
-  Accountability for Algorithm and Artificial Intelligence<div>
-  Cybersecurity Policy: A Multi-stakeholder Approach<div>
-  The interplay of Cybersecurity and Internet Governance<div>
-  Platform Liability<div>
-  Data Localization<div>
-  Data Governance<div>
+<p>ACADEMIC INTERESTS</p><br> 
+  AI: Ethical and Legal Challenges (Governing AI) <br>
+  Accountability for Algorithm and Artificial Intelligence <br>
+  Cybersecurity Policy: A Multi-stakeholder Approach <br>
+  The interplay of Cybersecurity and Internet Governance <br>
+  Platform Liability <br>
+  Data Localization <br>
+  Data Governance <br>
   ICT for Development (ICD4D and SDGs)
  
