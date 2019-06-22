@@ -1,19 +1,67 @@
-body { margin: 60px auto; width: 70%; }
+ 
+---
+sitemap: false
+---
 
-a { text-decoration: none; color: #888; }
-a:hover { text-decoration: underline; }
+/*
+ *
+ *  Skinny Bones Jekyll Starter
+ *
+ *  Designer: Michael Rose
+ *  Twitter: http://twitter.com/mmistakes
+ *
+*/
 
-p, ul { font-size: 1em; line-height: 1.25em; color: #333; }
+@import "variables";
 
+/*
+   Vendor
+   ========================================================================== */
 h1, h2, h3 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
 h2 { font-size: 1.5em; }
 h3 { font-size: 1.5em; }
 
+@import "vendor/bourbon/bourbon";
+@import "grid-settings";
+@import "vendor/neat/neat";
+@import "vendor/font-awesome/font-awesome";
 h4 {font-family: 'times, serif';}
 h4 { font-size: 0.7em; }
-
+/*
+   Global
+   ========================================================================== */
 nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
+@import "mixins";
+@import "reset";
+@import "base";
 
-footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
+/*
+   Components
+   ========================================================================== */
+
+@import "helpers";
+@import "buttons";
+@import "badges";
+@import "bullets";
+@import "sliding-menu";
+@import "menu-navicons"; /* animated 3 line menu icon */
+@import "notices";
+@import "animations";
+@import "tiles";
+@import "footnotes";
+@import "toc"; /* table of contents */
+@import "breadcrumbs";
+@import "syntax";
+
+/*
+   Page specific
+   ========================================================================== */
+
+@import "layout";
+
+.menu_{
+	text-decoration:none;
+}
++ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
