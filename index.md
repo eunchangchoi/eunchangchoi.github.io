@@ -25,12 +25,12 @@ title: "Eun Chang Choi"
 ACADEMIC INTERESTS<br> 
 <blockquote>  AI: Ethical and Legal Challenges (Governing AI)<br>
   Accountability for Algorithm and Artificial Intelligence <br>
-  Cybersecurity Policy: A Multi-stakeholder Approach <br>
-  Internet Governance <br>
   Platform Liability <br>
   Data Localization <br>
-  User Privacy, Data Governance <br>
+  Data Privacy, Data Governance <br>
   Open Data for Sustainable Development <br> 
+  Cybersecurity Policy: A Multi-stakeholder Approach <br>
+  Internet Governance <br>
   Intellectual Property<br>
   Information Commons<br> 
   The Interplay of Law, Science, and Technology<br>
