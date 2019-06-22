@@ -31,7 +31,7 @@ ACADEMIC INTERESTS<br>
   Platform Liability <br>
   Data Localization <br>
   Data Governance <br>
-  ICT for Development (ICD4D and SDGs)
+  Data for Sustainable Development; ICT for Development 
   Intellectual Property<br>
   Information Commons <br>
   Cyber Communication <br>
