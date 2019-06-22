@@ -31,7 +31,8 @@ ACADEMIC INTERESTS<br>
   Open Data for Sustainable Development <br> 
   Cybersecurity Policy: A Multi-stakeholder Approach <br>
   Intellectual Property<br>
-  Information Commons <br> 
+  Social Media and Democracy<br> 
+  Information Commons<br> 
   The Interplay of Law,Science,and Technology<br>
   </blockquote> 
   
