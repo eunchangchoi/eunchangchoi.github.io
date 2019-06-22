@@ -22,15 +22,16 @@ title: "Eun Chang Choi"
 <p> His research focuses on governance of artificial intelligence and regulatory policy on emerging technologies.His articles primarily addressing underlying legal, policy issues associated with computer algorithm, Internet architecture, data privacy in cloud computing, data ownership, and social media platform. He has auhored books 'Layered Model of Regulation', 'Al Governance' (forthcoming) and 'The Future of Fake News'  (forthcoming)  and also translated several books inlcuding 'The Weath of Networks' by Yochai Bnekler (Yale Univ Press), 'Meme in Digital Culture' and 'Internet of Things' (MIT Press). 
 </p>
 <p> Currently he serves on a steering committee of the Korea Internet Governance Alliance (KIGA) that brings stakeholders together to participate in the dialogue on Internet policy. At Korea Internet Governance Forum(http://krigf.kr), he organized workshops on the future of AI, ethical framework for a good AI society, Cybersecurity & Encryption Policy, an Data Governance in social networks. He is also a founder of GP3Korea (www.povertyinfo.org), a non-profit initiative, designed to provide citizens with open information about global poverty and preventable diseases.</p>
-<p>ACADEMIC INTERESTS</p><br> 
+
+ACADEMIC INTERESTS<br> 
   AI: Ethical and Legal Challenges (Governing AI)<br>
   Accountability for Algorithm and Artificial Intelligence <br>
   Cybersecurity Policy: A Multi-stakeholder Approach <br>
-  The interplay of Cybersecurity and Internet Governance <br>
+  Cybersecurity and Internet Governance <br>
   Platform Liability <br>
   Data Localization <br>
   Data Governance <br>
   ICT for Development (ICD4D and SDGs)
   Intellectual Property<br>
-  Cyber Communication <br>
+  Cyber Communication<br>
   The Interplay of Law, Science, and Technology<br>
