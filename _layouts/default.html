@@ -28,7 +28,33 @@
     <![endif]-->
 
   </head>
-
+  
+<style>
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 600px;
+    background-color: #444;
+    color: #fff;
+    text-align: left;
+    border-radius: 6px;
+    padding: 10px 10px 10px 10px;
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+}
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 0.75;
+}
+</style>
+  
   <body id="js-body">
     {% include browser-upgrade.html %}
     {% include header.html %}
