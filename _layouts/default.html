@@ -55,12 +55,14 @@
 }
 </style>
   
-  <body id="js-body">
-    {% include browser-upgrade.html %}
-    {% include header.html %}
-    {% include navigation-sliding.html %}
-
-    <div id="page-wrapper">
+  <body>
+    <nav>
+<ul>
+  <li><a href="/">Home</a> | <a href="/research">Research</a> | <a href="/teaching">Teaching</a></li>
+</ul>
+    </nav>
+<div class="container">
+ 
       {{ content }}
       {% include footer.html %}
     </div>
