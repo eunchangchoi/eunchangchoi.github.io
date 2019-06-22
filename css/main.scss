@@ -14,7 +14,7 @@ a { text-decoration: none; color: #888; }
 a:hover { text-decoration: underline; }
 
 @import "variables";
-p, ul { font-size: .7em; line-height: 1.00em; color: #333; }
+p, ul { font-size: .6em; line-height: .90em; color: #333; }
 
 /*
    Vendor
@@ -29,7 +29,7 @@ h3 { font-size: 1.5em; }
 @import "vendor/neat/neat";
 @import "vendor/font-awesome/font-awesome";
 h4 {font-family: 'times, serif';}
-h4 { font-size: 0.7em; }
+h4 { font-size: 0.6em; }
 
 /*
    Global
