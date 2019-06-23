@@ -9,15 +9,15 @@
 body {
 	font-family: $base-font;
 	color: $text-color;
-	@include font-size(10);
+	@include font-size(14);
 }
 
 p {
-	@include font-size(12,yes,28);
+	@include font-size(14,yes,28);
 }
 
 li {
-	@include font-size(10,10,24);
+	@include font-size(14,14,24);
 }
 
 /* Headings */
@@ -42,7 +42,7 @@ h5 {
 	@include font-size(20);
 }
 h6 {
-	@include font-size(10);
+	@include font-size(14);
 }
 
 /* Underlined text */
@@ -96,7 +96,7 @@ pre {
 }
 p code,
 li code {
-	@include font-size(10,no);
+	@include font-size(14,no);
 	color: $text-color;
 	white-space: nowrap;
 	margin: 0 2px;
