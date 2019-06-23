@@ -22,8 +22,8 @@ title: "Eun Chang Choi 최은창"
 <p> My articles primarily addressed underlying legal, policy issues associated with computer algorithm, Internet architecture, data privacy in cloud computing, data ownership, and social media platform. I have authored books <i> Layered Model of Regulation, Al Governance</i>(forthcoming) and <i>The Future of Fake News</i>(forthcoming), and also translated<i> The Weath of Networks</i> written by Yochai Benkler (Yale Univ Press),<i> Meme in Digital Culture,</i> and <i>Internet of Things</i> (MIT Press). </p>
 <p> I am sitting on a steering committee of the Korea Internet Governance Alliance(KIGA) that brings diverse stakeholders together to participate in the dialogue related to Internet policy. At the annual meeting of <a href="http://krigf.kr"> Korea Internet Governance Forum(Kr-IGF)</a>, I have organized workshops on the future of AI, ethical framework for a good AI society,  transformative applications of AI  in cybersecurity, cybersecurity & encryption policy, a data governance in social media. Many volunteers, lawyer friends and I have launched the <a href="http://www.povertyinfo.org"> Global Poverty Public Awareness Project</a>, an information commons initiative that provides citizens with open knowledge about issues affecting global poverty, and how AI and open data help sustainable global development.</p>
 
+<strong> ACADEMIC INTERESTS </strong> <br> 
 <blockquote>
-  ACADEMIC INTERESTS<br> 
   AI: Ethical and Legal Challenges (Governing AI)<br>
   Accountability for Algorithm and Artificial Intelligence <br>
   Platform Liability <br>
