@@ -35,5 +35,6 @@ ACADEMIC INTERESTS<br>
   Social Media and Democracy<br> 
   Information Commons<br> 
   The Interplay of Law,Science,and Technology<br>
-  </blockquote> 
+ 
+  
   
