@@ -3,9 +3,9 @@
    ========================================================================== */
 
 .footnotes {
-  font-family: $alt-font;
+  font-family: Georgia;
   p, li {
-    @include font-size(11,no);
+    @include font-size(10,no);
   }
   &:before {
     content: 'Footnotes:';
