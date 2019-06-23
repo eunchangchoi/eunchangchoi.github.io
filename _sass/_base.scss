@@ -9,15 +9,15 @@
 body {
 	font-family: $base-font;
 	color: $text-color;
-	@include font-size(12);
+	@include font-size(10);
 }
 
 p {
-	@include font-size(12,yes,28);
+	@include font-size(10,yes,28);
 }
 
 li {
-	@include font-size(12,12,24);
+	@include font-size(10,10,24);
 }
 
 /* Headings */
@@ -96,7 +96,7 @@ pre {
 }
 p code,
 li code {
-	@include font-size(12,no);
+	@include font-size(10,no);
 	color: $text-color;
 	white-space: nowrap;
 	margin: 0 2px;
