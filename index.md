@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Eun Chang Choi"
+title: "Eun Chang Choi 최은창"
 ---
 <body bottommargin="0">
 <div class="tiles">
@@ -11,7 +11,7 @@ title: "Eun Chang Choi"
 </div><!-- /.tiles -->
 <div style="width:90%">
 <div>
-<img style="height:250px" src="images/profile.jpg">
+<img style="height:300px" src="images/profile.jpg">
  <a href="https://mitpress.mit.edu/books/memes-digital-culture"><img style="vertical-align:top;height:200px;width:130px;" src="images/book1.png"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791130435473&orderClick=LAG&Kc="><img style="vertical-align:top;height:200px;width:130px;" src="images/book2.jpg"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:130px;" src="images/book3.jpg"></a>
