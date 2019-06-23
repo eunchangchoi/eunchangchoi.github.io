@@ -34,7 +34,7 @@ title: "Eun Chang Choi"
   Intellectual Property<br>
   Social Media and Democracy<br> 
   Information Commons<br> 
-  The Interplay of Law,Science,and Technology<br>
+  The Interplay of Law,Science,and Technology<br> </p>
  
   
-  </p>
+ 
