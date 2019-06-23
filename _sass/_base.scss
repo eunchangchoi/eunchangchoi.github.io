@@ -9,15 +9,15 @@
 body {
 	font-family: $base-font;
 	color: $text-color;
-	@include font-size(16);
+	@include font-size(12);
 }
 
 p {
-	@include font-size(18,yes,28);
+	@include font-size(12,yes,28);
 }
 
 li {
-	@include font-size(16,12,24);
+	@include font-size(12,12,24);
 }
 
 /* Headings */
@@ -42,7 +42,7 @@ h5 {
 	@include font-size(20);
 }
 h6 {
-	@include font-size(18);
+	@include font-size(12);
 }
 
 /* Underlined text */
@@ -83,7 +83,7 @@ blockquote {
     font-family: $base-font;
     font-weight: 700;
     font-style: normal;
-    @include font-size(18);
+    @include font-size(12);
   }
 }
 
@@ -96,7 +96,7 @@ pre {
 }
 p code,
 li code {
-	@include font-size(16,no);
+	@include font-size(12,no);
 	color: $text-color;
 	white-space: nowrap;
 	margin: 0 2px;
