@@ -23,6 +23,7 @@ title: "Eun Chang Choi"
 <p> I am sitting on a steering committee of the Korea Internet Governance Alliance(KIGA) that brings diverse stakeholders together to participate in the dialogue related to Internet policy. At the annual meeting of <a href="http://krigf.kr"> Korea Internet Governance Forum(Kr-IGF)</a>, I have organized workshops on the future of AI, ethical framework for a good AI society,  transformative applications of AI  in cybersecurity, cybersecurity & encryption policy, a data governance in social media. In 2010, I have launched the <a href="http://www.povertyinfo.org"> Global Poverty Public Awareness Project</a>, an information commons initiative that provides citizens with open knowledge about issues affecting global poverty, and how AI and open data help sustainable global development.</p>
 
 ACADEMIC INTERESTS<br> 
+<blockquote>
   AI: Ethical and Legal Challenges (Governing AI)<br>
   Accountability for Algorithm and Artificial Intelligence <br>
   Platform Liability <br>
@@ -34,7 +35,7 @@ ACADEMIC INTERESTS<br>
   Social Media and Democracy<br> 
   Information Commons<br> 
   The Interplay of Law, Science, and Technology<br> 
-  
+  </blockquote>
   <p> 
   
   
