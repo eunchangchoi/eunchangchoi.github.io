@@ -338,7 +338,7 @@
 	margin-top: (3 * (0px + $doc-line-height));
 	margin-top: (3 * (0rem + ($doc-line-height / $doc-font-size)));
 	padding-bottom: $gutter;
-	font-family: $alt-font;
+	font-family: "Georgia";
   /* Copyright text */
 	.copyright {
 		@include font-size(12);
