@@ -10,11 +10,11 @@ body { margin: 60px auto; width:90%; }
  *  Twitter: http://twitter.com/mmistakes
  *
 */
-a { text-decoration: none; color:#b03060; }
+a { text-decoration: none; color:#333; }
 a:hover { text-decoration: underline; }
 
 @import "variables";
-p, ul { font-size: .7em; line-height: .80em; color: #b03060; }
+p, ul { font-size: .7em; line-height: .80em; color: #333; }
 
 /*
    Vendor
