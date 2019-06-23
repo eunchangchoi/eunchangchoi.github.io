@@ -21,8 +21,8 @@ p, ul { font-size: 60%; line-height:50%; color: #333; }
    ========================================================================== */
 h1, h2, h3 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
-h2 { font-size: 1em; }
-h3 { font-size: 1em; }
+h2 { font-size: 0.7em; }
+h3 { font-size: 0.7em; }
 
 @import "vendor/bourbon/bourbon";
 @import "grid-settings";
