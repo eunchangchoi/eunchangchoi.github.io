@@ -5,10 +5,10 @@
 .footnotes {
   font-family: Georgia;
   p, li {
-    @include font-size(10,no);
+    @include font-size(9,no);
   }
   &:before {
     content: 'Footnotes:';
-    font-weight: 600;
+    font-weight: 500;
   }
 }
