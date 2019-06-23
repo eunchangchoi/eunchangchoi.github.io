@@ -19,7 +19,7 @@ p, ul { font-size: 60%; line-height:50%; color: #333; }
 /*
    Vendor
    ========================================================================== */
-h1, h2, h3 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+h1, h2, h3 { font-family: 'Times'; }
 h1 { font-size: 3em;  }
 h2 { font-size: 0.7em; }
 h3 { font-size: 0.7em; }
@@ -68,4 +68,4 @@ nav ul li, footer ul li { display: inline; margin-right: 30px; }
 .menu_{
 	text-decoration:none;
 }
-footer { border-top: 1px "Times" #d5d5d5; font-size: .7em; }
+footer { border-top: 1px 'Times' #d5d5d5; font-size: .7em; }
