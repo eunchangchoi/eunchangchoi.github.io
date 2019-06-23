@@ -1,7 +1,7 @@
 ---
 sitemap: false
 ---
-body { margin: 60px auto; width:90%; }
+body { margin: 60px, auto; width:90%; }
 /*
  *
  *  Skinny Bones Jekyll Starter
@@ -14,27 +14,27 @@ a { text-decoration: none; color:#333; }
 a:hover { text-decoration: underline; }
 
 @import "variables";
-p, ul { font-size: 60%; line-height:50%; color: #333; }
+p, ul { font-size: 60%; line-height:50%; color: #333;}
 
 /*
    Vendor
    ========================================================================== */
 h1, h2, h3 { font-family: 'Times'; }
 h1 { font-size: 3em;  }
-h2 { font-size: 0.7em; }
-h3 { font-size: 0.7em; }
+h2 { font-size: .7em; }
+h3 { font-size: .7em; }
 
 @import "vendor/bourbon/bourbon";
 @import "grid-settings";
 @import "vendor/neat/neat";
 @import "vendor/font-awesome/font-awesome";
-h4 {font-family: 'times, serif';}
-h4 { font-size: 0.6em; }
+h4 {font-family: 'times';}
+h4 { font-size: .6em; }
 
 /*
    Global
    ========================================================================== */
-nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 10px; list-style: none; font-weight: 200; }
+nav ul, footer ul { font-size: 1em; font-family: 'times'; padding: 10px; list-style: none; font-weight: 200; }
 nav ul li, footer ul li { display: inline; margin-right: 30px; }
 
 @import "mixins";
@@ -68,4 +68,4 @@ nav ul li, footer ul li { display: inline; margin-right: 30px; }
 .menu_{
 	text-decoration:none;
 }
-footer { border-top: 1px 'Times' #d5d5d5; font-size: .7em; }
+footer { border-top: 1px 'times' #d5d5d5; font-size: .7em; }
