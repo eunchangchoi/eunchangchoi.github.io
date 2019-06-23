@@ -16,15 +16,15 @@ a {text-decoration: none; color:#333;}
 a:hover { text-decoration: underline;}
 
 @import "variables";
-p, ul { font-size: 0.6em; line-height:0.6em; color: #333;}
+p, ul { font-size: 0.5em; line-height:0.6em; color: #333;}
 
 /*
    Vendor
    ========================================================================== */
 h1, h2, h3 { font-family: 'Times'; }
 h1 { font-size: 3.0em; }
-h2 { font-size: 0.6em; }
-h3 { font-size: 0.6em; }
+h2 { font-size: 0.5em; }
+h3 { font-size: 0.5em; }
 
 @import "vendor/bourbon/bourbon";
 @import "grid-settings";
@@ -36,7 +36,7 @@ h4 { font-size: 0.6em; }
 /*
    Global
    ========================================================================== */
-nav ul, footer ul { font-size: 1em; font-family: 'times'; padding: 10px; list-style: none; font-weight: 200; }
+nav ul, footer ul { font-size: 1em; font-family: 'times'; padding: 10px; list-style: none; font-weight: 500; }
 nav ul li, footer ul li { display: inline; margin-right: 30px; }
 
 @import "mixins";
@@ -70,4 +70,5 @@ nav ul li, footer ul li { display: inline; margin-right: 30px; }
 .menu_{
 	text-decoration:none;
 }
-footer { border-top: 1px; 'times' #333; font-size: 0.7em; }
+footer { border-top: 1px; 'times';}
+ {font-size: 0.7em; }
