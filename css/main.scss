@@ -10,11 +10,11 @@ body { margin: 60px auto; width:90%; }
  *  Twitter: http://twitter.com/mmistakes
  *
 */
-a { text-decoration: none; color: #888; }
+a { text-decoration: none; color:#b03060; }
 a:hover { text-decoration: underline; }
 
 @import "variables";
-p, ul { font-size: .7em; line-height: .80em; color: #333; }
+p, ul { font-size: .7em; line-height: .80em; color: #b03060; }
 
 /*
    Vendor
@@ -34,8 +34,8 @@ h4 { font-size: 0.6em; }
 /*
    Global
    ========================================================================== */
-nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 10px; list-style: none; font-weight: Gerogia; }
-nav ul li, footer ul li { display: inline; margin-right: 20px; }
+nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 10px; list-style: none; font-weight: 200; }
+nav ul li, footer ul li { display: inline; margin-right: 30px; }
 
 @import "mixins";
 @import "reset";
