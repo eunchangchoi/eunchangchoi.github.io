@@ -151,6 +151,9 @@
 	.page-title {
 		@include fill-parent;
 	}
+	.page-title h1{
+		
+	}
 	@at-root {
 		.page-content {
 			@include fill-parent;
@@ -253,6 +256,7 @@
 		@include media($large) {
 			@include font-size(72);
 		}
+		font-family: Georgia
 	}
 	h2 {
 		@include font-size(20);
