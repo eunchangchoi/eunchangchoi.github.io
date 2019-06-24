@@ -31,12 +31,12 @@ title: "Eun Chang Choi"
   Platform Liability <br>
   Data Localization, Data Governance <br>
   Data Privacy, Data Ownership <br>
+  Social Media and Democracy <br> 
   Open Data for Sustainable Development <br> 
   Cybersecurity Policy: A Multi-stakeholder Approach <br>
-  Intellectual Property<br>
-  Social Media and Democracy<br> 
+  Intellectual Property <br>
   Information Commons<br> 
-  The Interplay of Law, Science, and Technology<br> 
+  The History of Law, Science, and Technology<br> 
   </blockquote>
   <br> 
   <br>
