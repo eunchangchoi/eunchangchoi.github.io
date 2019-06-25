@@ -9,7 +9,7 @@ title: "Eun Chang Choi"
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-<div style="width:96%">
+<div style="width:97%">
 <div>
 <img style="height:200px" src="images/profile.jpg">
  <a href="https://mitpress.mit.edu/books/memes-digital-culture"><img style="vertical-align:top;height:200px;width:130px;" src="images/book1.png"></a>
