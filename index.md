@@ -9,9 +9,9 @@ title: "Eun Chang Choi"
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-<div style="width:96%">
+<div style="width:95%">
 <div>
-<img style="height:380px" src="images/profile.jpg">
+<img style="height:350px" src="images/profile.jpg">
  <a href="https://mitpress.mit.edu/books/memes-digital-culture"><img style="vertical-align:top;height:200px;width:130px;" src="images/book1.png"></a>
  <a href="http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf"><img style="vertical-align:top;height:200px;width:130px;" src="images/book2.jpg"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:130px;" src="images/book3.jpg"></a>
