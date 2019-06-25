@@ -11,7 +11,6 @@ title: "Eun Chang Choi"
 </div><!-- /.tiles -->
 <div style="width:95%">
 <div>
-::: Law, Tech Policy, Data and AI Algorithm ::
 <img style="height:200px" src="images/profile.jpg">
  <a href="https://mitpress.mit.edu/books/memes-digital-culture"><img style="vertical-align:top;height:200px;width:130px;" src="images/book1.png"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791130435473&orderClick=LAG&Kc="><img style="vertical-align:top;height:200px;width:130px;" src="images/book2.jpg"></a>
