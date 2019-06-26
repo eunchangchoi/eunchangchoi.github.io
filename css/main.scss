@@ -16,27 +16,27 @@ a {text-decoration: none; color:#262626;}
 a:hover { text-decoration: underline;}
 
 @import "variables";
-p, ul { font-size: 1.5em; line-height:0.2em; color: #191919;}
+p, ul { font-size: 1.7em; line-height:0.2em; color: #191919;}
 
 /*
    Vendor
    ========================================================================== */
 h1, h2, h3 { font-family: 'Georgia'; }
 h1 { font-size: 3.0em; }
-h2 { font-size: 1.5em; }
-h3 { font-size: 1.5em; }
+h2 { font-size: 1.7em; }
+h3 { font-size: 1.7em; }
 
 @import "vendor/bourbon/bourbon";
 @import "grid-settings";
 @import "vendor/neat/neat";
 @import "vendor/font-awesome/font-awesome";
 h4 {font-family: 'Georgia';}
-h4 { font-size: 1.5em; }
+h4 { font-size: 1.7em; }
 
 /*
    Global
    ========================================================================== */
-nav ul, footer ul { text-align:center; font-size: 1.5em; font-family: 'Georgia' #008d62; padding: 10px; list-style: none; font-weight: 500; }
+nav ul, footer ul { text-align:center; font-size: 1.7em; font-family: 'Georgia' #008d62; padding: 10px; list-style: none; font-weight: 500; }
 nav ul li, footer ul li { display: inline-block; margin-right: 30px; }
 
 @import "mixins";
@@ -71,4 +71,4 @@ nav ul li, footer ul li { display: inline-block; margin-right: 30px; }
 } 
 footer { border-top: 1 
 'Georgia' #008d62; 
- font-size: 1.5em; }
+ font-size: 1.7em; }
