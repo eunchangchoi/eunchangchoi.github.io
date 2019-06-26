@@ -36,7 +36,7 @@ h4 { font-size: 0.6em; }
 /*
    Global
    ========================================================================== */
-nav ul, footer ul { text-align:center; font-size: 1em; font-family: 'times'; padding: 10px; list-style: none; font-weight: 500; }
+nav ul, footer ul { text-align:center; font-size: 1em; font-family: 'Georgia'; padding: 10px; list-style: none; font-weight: 500; }
 nav ul li, footer ul li { display: inline-block; margin-right: 30px; }
 
 @import "mixins";
@@ -70,5 +70,5 @@ nav ul li, footer ul li { display: inline-block; margin-right: 30px; }
   text-decoration:none;
 } 
 footer { border-top: 1 
-'times' #008d62; 
+'Georgia' #008d62; 
  font-size: 0.7em; }
