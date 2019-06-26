@@ -16,14 +16,14 @@ a {text-decoration: none; color:#262626;}
 a:hover { text-decoration: underline;}
 
 @import "variables";
-p, ul { font-size: 2.0em; line-height:0.2em; color: #191919;}
+p, ul { font-size: 2.2em; line-height:0.2em; color: #191919;}
 
 /*
    Vendor
    ========================================================================== */
 h1, h2, h3 { font-family: 'Georgia'; }
 h1 { font-size: 3.0em; }
-h2 { font-size: 2.0em; }
+h2 { font-size: 2.2em; }
 h3 { font-size: 2.0em; }
 
 @import "vendor/bourbon/bourbon";
@@ -31,12 +31,12 @@ h3 { font-size: 2.0em; }
 @import "vendor/neat/neat";
 @import "vendor/font-awesome/font-awesome";
 h4 {font-family: 'Georgia';}
-h4 { font-size: 2.0em; }
+h4 { font-size: 2.2em; }
 
 /*
    Global
    ========================================================================== */
-nav ul, footer ul { text-align:center; font-size: 2.0em; font-family: 'Georgia' #008d62; padding: 10px; list-style: none; font-weight: 500; }
+nav ul, footer ul { text-align:center; font-size: 2.2em; font-family: 'Georgia' #008d62; padding: 6px; list-style: none; font-weight: 500; }
 nav ul li, footer ul li { display: inline-block; margin-right: 30px; }
 
 @import "mixins";
