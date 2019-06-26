@@ -43,7 +43,7 @@ title: "Eun Chang Choi"
   <blockquote>
    "<a href="www.cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=613&b_name=meet1_2&page=1">Algorithm Accountability"</a> Institute of International Studies, Seoul National University (Sept. 2019) <br> 
 "<a href="https://opennet.or.kr/wp-content/uploads/2015/08/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf"> Net-Neutrality Policy Review: OTT (Over-the-Top) Service and Zero-rating </a> OpenNet (Aug. 2015)<br> 
- "<a href="https://networkpolitics.ne.kr/userData/board/140533967828126500.pdf"> The Information: History, a Theory, a Flood <a> (May 2014) The Research Group of Technology and Society <br>  
+ "<a href="https://networkpolitics.ne.kr/userData/board/140533967828126500.pdf"> The Information: History, a Theory, a Flood <a> (May 2014)The Technology and Society Forum <br>  
  
   
  
