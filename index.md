@@ -33,13 +33,7 @@ title: "Eun Chang Choi"
   Social Media and Democracy <br> 
   Open Data for Sustainable Development <br> 
   Cybersecurity Policy: A Multi-stakeholder Approach <br>
-  Intellectual Property <br>
-  Information Commons<br> 
+  Intellectual Property <br> 
   The History of Law, Science, and Technology<br> 
   </blockquote>
   <br> 
-  <br>
-  
- 
-  
- 
