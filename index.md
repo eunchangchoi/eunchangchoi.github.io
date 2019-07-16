@@ -46,6 +46,6 @@ title: "Eun Chang Choi"
    <a href="https://dig.watch/sessions/session-fakenews">'Fake News: NRI Workshop Session'</a>,2018 Internet Governance Forum at UNESCO in Paris, France<br>
    <a href="http://www.snuiis.re.kr/sub2/2_2_5_1.php?mode=view&number=458&b_name=event1_1&page=1"> 'AI and Power Shift: Perspective of Social Science'</a> Seoul Nationl University Institute of International Studies <br>
    <a href="http://www.zdnet.co.kr/view/?no=20170915172456&from=Mobile"> 'Blockchain Paradigm : Information Security and Institutional Governance, </a>ZDNet <br>
-  <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf"> 'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a>Open Net Korea<br>
+  <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf"> 'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> Open Net Korea<br>
  
    
