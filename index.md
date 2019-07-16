@@ -40,9 +40,9 @@ title: "Eun Chang Choi"
   
   <strong> MEDIA & TALKS </strong> <br> 
 <blockquote>
-  <a href="https://dig.watch/sessions/session-fakenews">'Fack News Workshop' 2018 Internet Governance Forum in Paris, UNESCO </a><br>
+  <a href="https://dig.watch/sessions/session-fakenews">'Fake News: NRI Workshop Session' 2018 Internet Governance Forum in Paris, UNESCO </a><br>
   <a href="https://www.kaist.ac.kr/_prog/_board/?mode=V&no=96361&code=kaist_news&site_dvs_cd=kr&menu_dvs_cd=&list_typ=B&skey=&sval=&smonth=&site_dvs=&GotoPage=1"> 'AI Governance' in Tech & Talk Conferenc by the Fourth Industrial Revolution Intelligence Center, KAIST </a> <br>
-   <a href="https://https://www.youtube.com/watch?v=0-ysDtfJ8Jk"> 'AI for Global Goods, Ethics, and Governance: Global Trends' in 2019 Korea Internet Governance Forum </a>
+   <a href="https://https://www.youtube.com/watch?v=0-ysDtfJ8Jk"> 'AI for Global Goods, Ethics, and Governance: Global Trends' in 2019 Korea Internet Governance Forum </a> <br>
   <a href=" https://m.zdnet.co.kr/news_view.asp?article_id=20170915172456"> Blockchain Paradigm : Information Security and Institutional Governance </a> <br>
-   <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf"> 'Net Neuteality in ICT Ecosystem : OTT Service and Zero-rating'</a> <br>
+   <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf"> 'Net Neuteality in the ICT Ecosystem : OTT Service and Zero-rating'</a> <br>
    
