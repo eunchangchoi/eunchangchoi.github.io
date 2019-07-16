@@ -45,7 +45,7 @@ title: "Eun Chang Choi"
   <a href="https://www.kaist.ac.kr/_prog/_board/?mode=V&no=96361&code=kaist_news&site_dvs_cd=kr&menu_dvs_cd=&list_typ=B&skey=&sval=&smonth=&site_dvs=&GotoPage=1"> 'AI Governance' in Tech & Talk Conferenc by the Fourth Industrial Revolution Intelligence Center, KAIST </a> <br>
    <a href="https://www.youtube.com/watch?v=0-ysDtfJ8Jk">'AI for Global Goods, Ethics, and Governance: Global Trends' in 2019 Korea Internet Governance Forum </a> <br>
   <a href="http://www.zdnet.co.kr/view/?no=20170915172456&from=Mobile"> 'Blockchain Paradigm : Information Security and Institutional Governance, ZDNet </a> <br>
-  <a href="http://www.snuiis.re.kr/sub2/2_2_5_1.php?mode=view&number=458&b_name=event1_1&page=1" AI and Powershift : Perspective of Social Science' </a> Seoul Nationl University Institute of International Studies <br>
+  <a href="http://www.snuiis.re.kr/sub2/2_2_5_1.php?mode=view&number=458&b_name=event1_1&page=1"> 'AI and Powershift : Perspective of Social Science'</a> Seoul Nationl University Institute of International Studies <br>
   <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf"> 'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> Open Net Korea <br>
  
    
