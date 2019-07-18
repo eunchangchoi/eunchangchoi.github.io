@@ -50,9 +50,8 @@ title: "Eun Chang Choi"
   Multi-stakeholderism (Internet Governance) <br>
   Intellectual Property <br>  
   The History of Law, Science, and Technology<br> 
-  <br> 
+ </blockquote>
+    <br> 
   
 
-   
-  
-   
+
