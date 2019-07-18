@@ -25,7 +25,7 @@ title: "Eun Chang Choi"
  
  I represent South Korea Internet Community at <a href= "http://www.intgovforum.org/multilingual/content/igf-regional-and-national-initiatives"> National Regional Initiatives(NRI) </a> meeting moderated by the IGF Secretariat, United Nations Office at Genève, and have been involved in  <a href="http://www.intgovforum.org/multilingual/content/bpf-internet-of-things-iot-big-data-and-artificial-intelligence-ai-2018"> the Best Practice Forum (BPF) IoT-Big Data-AI </a> at global IGF. From 2017, I sit on a steering committee of Korea Internet Governance Alliance(KIGA) that brings diverse stakeholders together to participate in the dialogue related to Internet policy. At the annual meeting of <a href="http://krigf.kr"> Korea Internet Governance Forum(Kr-IGF)</a>, I have organized workshops on the future of AI, ethical framework for AI society, transformative applications of AI, cybersecurity & encryption policy, a data governance in social media. In 2010, together with college volunteers, public interest lawyers, I have launched 'Povertyinfo.Org', the <a href="http://www.povertyinfo.org"> Global Poverty Public Awareness Project </a> that provides citizens with open knowledge about issues affecting global poverty, and how <a href="http://news.itu.int/introducing-ai-commons/"> 'AI Commons' and <a href="http://www.un.org/en/sections/issues-depth/big-data-sustainable-development/index.html"> big data analytics </a>  can facilitate sustainable global development. I am a graduate of <a href="https://law.yale.edu/"> Yale Law School</a>, Duke-Geneva Institute in Transnational Law at Genève, and <a href="https://law.snu.ac.kr/index_en.php"> Seoul National University Law School.</a> 
   
-  <strong> ACADEMIC INTERESTS </strong> <br>  
+  <strong> ACADEMIC INTERESTS </strong><br>   
 <blockquote> 
   AI: Ethical and Legal Challenges (Governing AI)<br>
   Accountability for Algorithm and Artificial Intelligence <br>
@@ -40,6 +40,7 @@ title: "Eun Chang Choi"
   The History of Law, Science, and Technology<br> 
   </blockquote>
   <br> 
+  
  <strong> MEDIA & TALKS </strong> <br> 
 <blockquote>
    <a href="https://www.youtube.com/watch?v=0-ysDtfJ8Jk">'AI for Global Goods, Ethical Principles, and Governance: Global Trends'</a>  in 2019 Korea Internet Governance Forum <br>
