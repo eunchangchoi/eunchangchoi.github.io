@@ -23,9 +23,18 @@ title: "Eun Chang Choi"
 <p style="font-size:1.1em"> My articles primarily addressed underlying legal, policy issues associated with computer algorithm, Internet architecture, data privacy in cloud computing, legal foundation of data ownership, and platform liability. I have authored books <i> Al Governance </i>(forthcoming) and <i>The Future of Fake News</i>(forthcoming),<i> Layered Model of Regulation</i>, and co-authored <i>AI:Power Shift and International Politics</i> with political scientists. I have also translated <i> The Weath of Networks</i> written by Yochai Benkler (Yale Univ Press),<i> Meme in Digital Culture,</i> and <i>Internet of Things</i> (MIT Press) into Korean. </p>
 <p style="font-size:1.1em">
  
- I represent South Korea Internet Community at <a href= "http://www.intgovforum.org/multilingual/content/igf-regional-and-national-initiatives"> National Regional Initiatives(NRI) </a> meeting moderated by the IGF Secretariat, United Nations Office at Genève, and have been involved in  <a href="http://www.intgovforum.org/multilingual/content/bpf-internet-of-things-iot-big-data-and-artificial-intelligence-ai-2018"> the Best Practice Forum (BPF) IoT-Big Data-AI </a> at global IGF. I sit on a steering committee of Korea Internet Governance Alliance(KIGA) that brings diverse stakeholders together to participate in the dialogue related to Internet policy. At the annual meeting of <a href="http://krigf.kr"> Korea Internet Governance Forum(Kr-IGF)</a>, I have organized workshops on the future of AI, ethical framework for AI society, transformative applications of AI, cybersecurity & encryption policy, a data governance in social media. A decade ago, college volunteers, public interest lawyers and I have launched 'Povertyinfo.Org', the <a href="http://www.povertyinfo.org"> Global Poverty Public Awareness Project </a> that provides citizens with open knowledge about issues affecting global poverty, and how <a href="http://news.itu.int/introducing-ai-commons/"> 'AI Commons' and <a href="http://www.un.org/en/sections/issues-depth/big-data-sustainable-development/index.html"> big data analytics </a>  can facilitate sustainable global development. I am a graduate of <a href="https://law.yale.edu/"> Yale Law School</a>, Duke-Geneva Institute in Transnational Law at Genève, and <a href="https://law.snu.ac.kr/index_en.php"> Seoul National University Law School.</a></p>  
+ I represent South Korea Internet Community at <a href= "http://www.intgovforum.org/multilingual/content/igf-regional-and-national-initiatives"> National Regional Initiatives(NRI) </a> meeting moderated by the IGF Secretariat, United Nations Office at Genève, and have been involved in  <a href="http://www.intgovforum.org/multilingual/content/bpf-internet-of-things-iot-big-data-and-artificial-intelligence-ai-2018"> the Best Practice Forum (BPF) IoT-Big Data-AI </a> at global IGF. I sit on a steering committee of Korea Internet Governance Alliance(KIGA) that brings diverse stakeholders together to participate in the dialogue related to Internet policy. At the annual meeting of <a href="http://krigf.kr"> Korea Internet Governance Forum(Kr-IGF)</a>, I have organized workshops on the future of AI, ethical framework for AI society, transformative applications of AI, cybersecurity & encryption policy, a data governance in social media. A decade ago, college volunteers, public interest lawyers and I have launched 'Povertyinfo.Org', the <a href="http://www.povertyinfo.org"> Global Poverty Public Awareness Project </a> that provides citizens with open knowledge about issues affecting global poverty, and how <a href="http://news.itu.int/introducing-ai-commons/"> 'AI Commons' and <a href="http://www.un.org/en/sections/issues-depth/big-data-sustainable-development/index.html"> big data analytics </a>  can facilitate sustainable global development. I am a graduate of <a href="https://law.yale.edu/"> Yale Law School</a>, Duke-Geneva Institute in Transnational Law at Genève, and <a href="https://law.snu.ac.kr/index_en.php"> Seoul National University Law School.</a> 
   
   
+  <strong> MEDIA & TALKS </strong> <br> 
+<blockquote>
+   <a href="https://www.youtube.com/watch?v=0-ysDtfJ8Jk">'AI for Global Goods, Ethical Principles, and Governance: Global Trends'</a>  in 2019 Korea Internet Governance Forum <br>
+  <a href="https://www.kaist.ac.kr/_prog/_board/?mode=V&no=96361&code=kaist_news&site_dvs_cd=kr&menu_dvs_cd=&list_typ=B&skey=&sval=&smonth=&site_dvs=&GotoPage=1"> 'AI Governance' in Tech & Talk Conference,</a> the Fourth Industrial Revolution Intelligence Center, KAIST <br>
+   <a href="https://dig.watch/sessions/session-fakenews">'Fake News: NRI Workshop Session'</a>,2018 Internet Governance Forum at UNESCO in Paris, France<br>
+   <a href="http://www.snuiis.re.kr/sub2/2_2_5_1.php?mode=view&number=458&b_name=event1_1&page=1"> 'AI and Power Shift: Perspective of Social Science'</a> Seoul Nationl University Institute of International Studies <br>
+   <a href="http://www.zdnet.co.kr/view/?no=20170915172456&from=Mobile"> 'Blockchain Paradigm : Information Security and Institutional Governance, </a>ZDNet <br>
+  <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf"> 'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> Open Net Korea<br>
+   
   <strong> ACADEMIC INTERESTS </strong> <br>  
 <blockquote> AI: Ethical and Legal Challenges (Governing AI)<br>
   Accountability for Algorithm and Artificial Intelligence <br>
@@ -40,14 +49,5 @@ title: "Eun Chang Choi"
   The History of Law, Science, and Technology<br> 
   </blockquote>
   <br> 
-  
-  <strong> MEDIA & TALKS </strong> <br> 
-<blockquote>
-   <a href="https://www.youtube.com/watch?v=0-ysDtfJ8Jk">'AI for Global Goods, Ethical Principles, and Governance: Global Trends'</a>  in 2019 Korea Internet Governance Forum <br>
-  <a href="https://www.kaist.ac.kr/_prog/_board/?mode=V&no=96361&code=kaist_news&site_dvs_cd=kr&menu_dvs_cd=&list_typ=B&skey=&sval=&smonth=&site_dvs=&GotoPage=1"> 'AI Governance' in Tech & Talk Conference,</a> the Fourth Industrial Revolution Intelligence Center, KAIST <br>
-   <a href="https://dig.watch/sessions/session-fakenews">'Fake News: NRI Workshop Session'</a>,2018 Internet Governance Forum at UNESCO in Paris, France<br>
-   <a href="http://www.snuiis.re.kr/sub2/2_2_5_1.php?mode=view&number=458&b_name=event1_1&page=1"> 'AI and Power Shift: Perspective of Social Science'</a> Seoul Nationl University Institute of International Studies <br>
-   <a href="http://www.zdnet.co.kr/view/?no=20170915172456&from=Mobile"> 'Blockchain Paradigm : Information Security and Institutional Governance, </a>ZDNet <br>
-  <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf"> 'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> Open Net Korea<br>
  
    
