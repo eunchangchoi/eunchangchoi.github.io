@@ -27,8 +27,7 @@ title: "Eun Chang Choi"
   
   
   <strong> ACADEMIC INTERESTS </strong> <br>  
-<blockquote>
-  AI: Ethical and Legal Challenges (Governing AI)<br>
+<blockquote> AI: Ethical and Legal Challenges (Governing AI)<br>
   Accountability for Algorithm and Artificial Intelligence <br>
   <a href="http://www.stepi.re.kr/module/publishSubDown.jsp?categCd=A0505&ntNo=33&sbNo=8"> Algorithm Governance </a> <br>
   Platform Liability <br>
