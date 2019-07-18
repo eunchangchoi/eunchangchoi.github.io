@@ -24,6 +24,7 @@ title: "Eun Chang Choi"
 <p style="font-size:1.1em">
  
  I represent South Korea Internet Community at <a href= "http://www.intgovforum.org/multilingual/content/igf-regional-and-national-initiatives"> National Regional Initiatives(NRI) </a> meeting moderated by the IGF Secretariat, United Nations Office at Genève, and have been involved in  <a href="http://www.intgovforum.org/multilingual/content/bpf-internet-of-things-iot-big-data-and-artificial-intelligence-ai-2018"> the Best Practice Forum (BPF) IoT-Big Data-AI </a> at global IGF. I sit on a steering committee of Korea Internet Governance Alliance(KIGA) that brings diverse stakeholders together to participate in the dialogue related to Internet policy. At the annual meeting of <a href="http://krigf.kr"> Korea Internet Governance Forum(Kr-IGF)</a>, I have organized workshops on the future of AI, ethical framework for AI society, transformative applications of AI, cybersecurity & encryption policy, a data governance in social media. A decade ago, college volunteers, public interest lawyers and I have launched 'Povertyinfo.Org', the <a href="http://www.povertyinfo.org"> Global Poverty Public Awareness Project </a> that provides citizens with open knowledge about issues affecting global poverty, and how <a href="http://news.itu.int/introducing-ai-commons/"> 'AI Commons' and <a href="http://www.un.org/en/sections/issues-depth/big-data-sustainable-development/index.html"> big data analytics </a>  can facilitate sustainable global development. I am a graduate of <a href="https://law.yale.edu/"> Yale Law School</a>, Duke-Geneva Institute in Transnational Law at Genève, and <a href="https://law.snu.ac.kr/index_en.php"> Seoul National University Law School.</a> <br> 
+ <br> 
   
 <strong> ACADEMIC INTERESTS </strong> <br>  
 <blockquote>
@@ -51,4 +52,3 @@ title: "Eun Chang Choi"
   <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf"> 'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> Open Net Korea<br>
  
    
->
