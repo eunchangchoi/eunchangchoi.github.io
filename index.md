@@ -45,7 +45,7 @@ title: "Eun Chang Choi"
   Data Localization, Data Governance <br>
   Data Privacy, Data Ownership <br>
   Social Media and Democracy <br> 
-  <a href="http://news.itu.int/introducing-ai-commons/"> 'AI Commons' <br>
+  <a href="http://news.itu.int/introducing-ai-commons/"> 'AI Commons'</a> <br>
   Open Data for Sustainable Development <br> 
   Multi-stakeholderism (Internet Governance) <br>
   Intellectual Property <br>  
