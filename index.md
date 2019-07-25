@@ -36,7 +36,7 @@ I represent South Korea Internet Community at <a href= "http://www.intgovforum.o
     <br> 
   <strong> ACADEMIC INTERESTS </strong> <br>   
    AI: Ethical and Legal Challenges (Governing AI)<br>
-   Accountability for Algorithm and Artificial Intelligence <br>
+   AI Alignment, Accountability for Algorithm <br>
    Platform Liability <br>
    Data Localization, Data Privacy, Data Ownership <br>
    Social Media and Democracy <br> 
