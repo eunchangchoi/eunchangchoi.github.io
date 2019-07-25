@@ -38,11 +38,9 @@ I represent South Korea Internet Community at <a href= "http://www.intgovforum.o
    AI: Ethical and Legal Challenges (Governing AI)<br>
    Accountability for Algorithm and Artificial Intelligence <br>
    Platform Liability <br>
-   Data Localization, Data Governance <br>
-   Data Privacy, Data Ownership <br>
+   Data Localization, Data Privacy, Data Ownership <br>
    Social Media and Democracy <br> 
-  <a href="http://news.itu.int/introducing-ai-commons/"> 'AI Commons'</a> <br>
-   Open Data for Sustainable Development <br> 
+  <a href="http://news.itu.int/introducing-ai-commons/">AI Commons,</a> Open Data for Sustainable Development <br> 
    Institutionalization of Global Internet Governance <br>
    Intellectual Property and Commons <br>  
    The History of Law, Science, and Technology <br>  
