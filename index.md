@@ -29,8 +29,9 @@ I represent South Korea Internet Community at <a href= "http://www.intgovforum.o
  <strong> MEDIA & TALKS </strong> <br> 
    <a href="https://www.youtube.com/watch?v=0-ysDtfJ8Jk">'AI for Global Goods, Ethical Principles, and Governance: Global Trends'</a>  in 2019 Korea Internet Governance Forum <br>
   <a href="https://www.kaist.ac.kr/_prog/_board/?mode=V&no=96361&code=kaist_news&site_dvs_cd=kr&menu_dvs_cd=&list_typ=B&skey=&sval=&smonth=&site_dvs=&GotoPage=1"> 'AI Governance' in Tech & Talk Conference,</a> the Fourth Industrial Revolution Intelligence Center, KAIST <br>
-   <a href="https://dig.watch/sessions/session-fakenews">'Fake News Workshop'</a>,2018 Internet Governance Forum at UNESCO in Paris, France<br>
-   <a href="http://www.snuiis.re.kr/sub2/2_2_5_1.php?mode=view&number=458&b_name=event1_1&page=1"> 'AI and Power Shift: Perspective of Social Science'</a> Seoul Nationl University Institute of International Studies<br>
+   <a href="https://www.youtube.com/watch?v=quo1DLyitf8">'Fake News Workshop </a>,2018 Internet Governance Forum at UNESCO in Paris, France <br>
+   <a href="https://dig.watch/sessions/session-fakenews"> Fake News Session </a>, 13th Internet Governance Forum, Digital Watch <br>
+   <a href="http://www.snuiis.re.kr/sub2/2_2_5_1.php?mode=view&number=458&b_name=event1_1&page=1"> 'AI and Power Shift: Perspective of Social Science'</a> Seoul Nationl University Institute of International Studies <br>
    <a href="http://www.zdnet.co.kr/view/?no=20170915172456&from=Mobile"> 'Blockchain Paradigm: Information Security and Institutional Governance, </a>ZDNet <br>
   <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf"> 'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> Open Net Korea<br>
     <br> 
