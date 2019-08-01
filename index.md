@@ -44,6 +44,6 @@ I represent South Korea's Internet Community at <a href="http://www.intgovforum.
    Digital Public Sphere and Democracy <br> 
   <a href="http://news.itu.int/introducing-ai-commons/">AI Commons,</a> Open Data for Sustainable Development <br> 
    Institutionalization of Global Internet Governance <br>
-   Intellectual Property and Commons <br>  
+   Intellectual Property and Standard Setting<br>  
    The History of Law, Science, and Technology <br>  
     <br> 
