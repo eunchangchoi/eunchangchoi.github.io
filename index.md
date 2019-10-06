@@ -27,7 +27,8 @@ Currently I represent South Korea's Internet Community at <a href="http://www.in
    <br>   
 
  <strong> MEDIA & TALKS </strong> <br> 
- <a href="https://www.aprigf.ru/press/?p=video&vid=zuNIFuAXvno">'Build Concept on AI Society for Global Good: Quest for Inclusion'</a> 2019 <a href="https://www.aprigf.asia/"> Asia-Pacific Internet Governance Forum </a>, Vladivostok, Russia <br>
+ <a href="https://www.ftp.asia/index.php/s/tLZWIWMG1Qp7oA0">'Build Concept on AI Society for Global Good: Quest for Inclusion'</a> 2019 <a href="https://2019.aprigf.asia/prog"> Asia-Pacific Internet Governance Forum </a>, Vladivostok, Russia <br>
+ <a href="https://www.ftp.asia/index.php/s/HGkuD3YVUBssKrP">' Coping with misinformation in an era of information deluge: Who is Responsible?'</a> 2019 <a href="https://2019.aprigf.asia/prog"> Asia-Pacific Internet Governance Forum </a>, Vladivostok, Russia <br>
   <a href="https://www.youtube.com/watch?v=0-ysDtfJ8Jk">'AI for Global Goods, Ethical Principles, and Governance: Global Trends'</a>  2019 Korea Internet Governance Forum, Seoul <br>
   <a href="https://www.kaist.ac.kr/_prog/_board/?mode=V&no=96361&code=kaist_news&site_dvs_cd=kr&menu_dvs_cd=&list_typ=B&skey=&sval=&smonth=&site_dvs=&GotoPage=1"> 'AI Governance' in Tech & Talk Conference,</a> the Fourth Industrial Revolution Intelligence Center, KAIST <br>
    <a href="https://www.youtube.com/watch?v=quo1DLyitf8">'Fake News Workshop'</a>, 2018 Internet Governance Forum at UNESCO in Paris, France <br>
