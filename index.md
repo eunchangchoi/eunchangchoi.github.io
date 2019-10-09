@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Eun Chang Choi":::: Law, Tech Policy, Data, and AI Algorithm :::
+title: "Eun Chang Choi"
 ---
 <body bottommargin="0">
 <div class="tiles">
