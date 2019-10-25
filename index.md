@@ -33,10 +33,10 @@ Currently I represent South Korea's Internet Community at <a href="http://www.in
  <a href="https://youtu.be/92cmsMv6xhQ?t=451">'AI Application and Ethics & Governance: Multistakeholder Approach'</a> 2019 <a href="http://krigf.kr/"> Korea Internet Governance Forum</a>, Seoul, South Korea <br>
   <a href="https://www.kaist.ac.kr/_prog/_board/?mode=V&no=96361&code=kaist_news&site_dvs_cd=kr&menu_dvs_cd=&list_typ=B&skey=&sval=&smonth=&site_dvs=&GotoPage=1"> 'AI Governance' in Tech & Talk Conference,</a> the Fourth Industrial Revolution Intelligence Center, KAIST <br>
    <a href="https://www.youtube.com/watch?v=quo1DLyitf8">'Fake News Workshop'</a>, 2018 Internet Governance Forum at Maison de l'UNESCO, Paris, France <br>
-   <a href="www.donga.com/news/article/all/20170225/83056178/1">'AI becomes smarter… Is it a simple machine or artificial person?'</a>,  Interview with Donga Daily (Feb. 25, 2017)<br>
   <a href="https://dig.watch/sessions/session-fakenews">'Fake News Session'</a>, 2018 Internet Governance Forum report by GIP Digital Watch, Geneva Internet Platform <br>
-   <a href="http://www.zdnet.co.kr/view/?no=20170915172456&from=Mobile">'Blockchain Paradigm: Information Security and Institutional Governance, </a>ZDNet <br>
-  <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf"> 'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> Open Net Korea<br>
+  <a href="http://www.zdnet.co.kr/view/?no=20170915172456&from=Mobile">'Blockchain Paradigm: Information Security and Institutional Governance, </a>ZDNet Kora (Sept. 15, 2017)<br>
+ <a href="www.donga.com/news/article/all/20170225/83056178/1">'AI becomes smarter… Is it a simple machine or artificial person?'</a>,  Interview with The Dong-a Ilbo (Feb. 25, 2017)<br>
+ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf"> 'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> Open Net Korea <br>
   <a href="http://wealthofnetworks.kr"> The Wealth of Networks</a> (Book excerpts in Korean)
     <br> 
     <br> 
