@@ -27,7 +27,9 @@ Currently I represent South Korea's Internet Community at <a href="http://www.in
    <br>   
 
  <strong> MEDIA & TALKS </strong> <br> 
+ 
 <a href="https://www.youtube.com/watch?v=nsZJaB3fx0E&feature=youtu.be&t=1689"> 'NRIs Collaborative Session on Cybersecurity'</a> 2019 Internet Governance Forum, Berlin, Germany <br>
+<a href="https://www.youtube.com/watch?v=-o_1c7IW1K4">'How will AI affect humanity?'Interview with DiploFoundation'</a> Berin, Germany 
 <a href="https://youtu.be/uRsC_ypHGCg?t=1336">'IP Address and Cross-border Cooperation for Resolving the Cyber Attribution Challenge'</a> 2019<a href="https://conference.apnic.net/48/program/schedule/#/day/6/cooperation-sig"> APNIC 48 </a>, Chiang Mai, Thailand<br>
 <a href="https://www.ftp.asia/index.php/s/tLZWIWMG1Qp7oA0">'Build Concept on AI Society for Global Good: Quest for Inclusion'</a> 2019 <a href="https://2019.aprigf.asia/prog"> Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
 <a href="https://www.ftp.asia/index.php/s/HGkuD3YVUBssKrP">'Coping with misinformation in an era of information deluge?'</a> 2019 <a href="https://2019.aprigf.asia/prog"> Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
