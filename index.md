@@ -13,8 +13,8 @@ title: "Eun Chang Choi"
 <div> 
  <a href="https://mitpress.mit.edu/books/memes-digital-culture"><img style="vertical-align:top;height:200px;width:130px;" src="images/book1.png"></a>
  <a href="http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf"><img style="vertical-align:top;height:200px;width:130px;" src="images/book2.jpg"></a>
- <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:130px;" src="images/book3.jpg"></a>
- <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791130437002&orderClick=357"><img style="vertical-align:top;height:200px;width:130px;" src="images/book4.jpg"></a> <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788964361436&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:130px;" src="images/book5.jpg"> </a>
+ <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:150px;" src="images/book3.jpg"></a>
+ <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791130437002&orderClick=357"><img style="vertical-align:top;height:200px;width:130px;" src="images/book4.jpg"></a> <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788964361436&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:150px;" src="images/book5.jpg"> </a>
   <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=231787627"><img style="vertical-align:top;height:200px;width:150px;" src="images/book6.png"></a>
  <br>
  <br>
@@ -27,7 +27,7 @@ Currently I represent South Korea's Internet Community at <a href="http://www.in
    <br>   
 
  <strong> MEDIA & TALKS </strong> <br> 
- 
+ Book Reviews of <i>The Archaeology of Fake News</i> <a href="https://www.mk.co.kr/news/culture/view/2020/02/155878"> Maeil Economy </a>, <a href="http://www.donga.com/news/article/all/20200216/99724450/1"> Donga-Ilbo </a>, <a href="https://www.sedaily.com/NewsVIew/1YYX4ZYYI0"> Seoul Economy </a>,<a href="https://jnilbo.com/2020/02/20/2020022015101829561"> Chunnam-Ilbo </a> <br>
  <a href="https://www.diplomacy.edu/blog/will-algorithms-make-safe-decisions-foreign-affairs"> 'Will Algorithms Make Safe Decisions in Foreign Affairs?' </a> AI Lab, DiploFoundation, Geneva, Switzerland <br>
 <a href="https://www.youtube.com/watch?v=nsZJaB3fx0E&feature=youtu.be&t=1689">'National Representative Collaborative Session on Cybersecurity'</a> 2019 Internet Governance Forum, Berlin, Germany <br> 
 <a href="https://youtu.be/uRsC_ypHGCg?t=1336">'IP Address and Cross-border Cooperation for Resolving the Cyber Attribution Challenge'</a> 2019<a href="https://conference.apnic.net/48/program/schedule/#/day/6/cooperation-sig"> APNIC 48 </a>, Chiang Mai, Thailand<br>
