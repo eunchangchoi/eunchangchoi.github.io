@@ -15,7 +15,7 @@ title: "Eun Chang Choi"
  <a href="http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf"><img style="vertical-align:top;height:200px;width:130px;" src="images/book2.jpg"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:130px;" src="images/book3.jpg"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791130437002&orderClick=357"><img style="vertical-align:top;height:200px;width:130px;" src="images/book4.jpg"></a> <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788964361436&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:130px;" src="images/book5.jpg"> </a>
-  <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=231787627"><img style="vertical-align:top;height:200px;width:130px;" src="images/book6.jpg"></a>
+  <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=231787627"><img style="vertical-align:top;height:200px;width:130px;" src="images/book6.png"></a>
  <br>
  <br>
 <p style="font-size:1.1em">I,<a href="https://igf2019.sched.com/eunchangchoi"> 최은창 崔恩彰</a>,
