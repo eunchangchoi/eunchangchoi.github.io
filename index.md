@@ -45,15 +45,17 @@ Book Reviews of<i> the Archaeology of Fake News</i>:<a href="https://www.pdjourn
     <br> 
   <strong> ACADEMIC INTERESTS </strong> <br>   
    Data Governance, Data Localization, Data Privacy, Data Ownership <br>
-   AI: Ethical and Legal Challenges (Governing AI)<br>
-   Public Policy of AI, Data Governance, and Law <br>
+   Public Policy of AI, Data Governance (Legal Challenges of the Data Economy) <br>
    AI Alignment, Accountability for Algorithm <br>
-   Platform Liability <br>
+   AI: Ethical and Legal Challenges (Governing AI)<br>
+   Institutionalization of Global Internet Governance <br>
+   Platform Liability <br>  
    Internet Governance, Cybersecurity Norms and Attribution <br>
    Social Media, Disinformatoin <br>
-   Digital Public Sphere and Democracy <br> 
-  <a href="http://news.itu.int/introducing-ai-commons/">AI Commons,</a> Open Data for Sustainable Development <br> 
-   Institutionalization of Global Internet Governance <br>
-   Intellectual Property and Standard Setting<br>  
+   Digital Public Sphere for Democracy <br> 
+  <a href="http://news.itu.int/introducing-ai-commons/">AI Commons,</a> Open Data for Sustainable Development <br>
+   Pharmaceutical Patents and Global Health <br>  
+   Intellectual Property and Standard Setting <br>  
+   Blockchain (Institutionalization, ICT4D) <br>  
    The History of Law, Science, and Technology <br>  
     <br> 
