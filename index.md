@@ -56,6 +56,6 @@ Book Reviews of<i> the Archaeology of Fake News</i>:<a href="https://www.pdjourn
   <a href="http://news.itu.int/introducing-ai-commons/">AI Commons,</a> Open Data for Sustainable Development <br>
    Pharmaceutical Patents and Global Health: Access to Medicines <br>  
    Intellectual Property and Standard Setting <br>  
-   Blockchain (Institutionalization, ICT4D) <br>  
+   Institutionalization of Blockchain (for Digital Government, Public Sector, ICT4D) <br>  
    The History of Law, Science, and Technology <br>  
     <br> 
