@@ -51,7 +51,7 @@ Book Reviews of<i> the Archaeology of Fake News</i>:<a href="https://www.pdjourn
    Institutionalization of Global Internet Governance <br>
    Platform Liability <br>  
    Internet Governance, Cybersecurity Norms and Attribution <br>
-   Social Media, Disinformatoin <br>
+   Social Media, Disinformatoin, Algorithmic Filtering <br>
    Digital Public Sphere for Democracy <br> 
   <a href="http://news.itu.int/introducing-ai-commons/">AI Commons,</a> Open Data for Sustainable Development <br>
    Pharmaceutical Patents and Global Health <br>  
