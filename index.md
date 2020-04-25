@@ -45,15 +45,14 @@ Book Reviews of<i> the Archaeology of Disinformation </i>:<a href="https://www.p
     <br> 
   <strong> ACADEMIC INTERESTS </strong> <br>   
    Data Governance, Data Localization, Data Privacy, Data Ownership <br>
-   Public Policy of AI, Data Governance (Legal Challenges of the Data Economy) <br>
-   AI Alignment, Accountability for Algorithm <br>
+   Legal Challenges of the Data Economy, Informational Capitalism <br>
+   AI Policy, AI Alignment, Accountability for Algorithm <br>
    AI: Ethical and Legal Challenges (Governing AI)<br>
    Platform Liability <br>  
    Internet Governance, Cybersecurity Norms and Attribution <br>
    Social Media, Disinformatoin, Algorithmic Filtering <br>
    Digital Public Sphere for Democracy <br> 
-  <a href="http://news.itu.int/introducing-ai-commons/">AI Commons,</a> Open Data for Sustainable Development <br>
+   <a href="http://news.itu.int/introducing-ai-commons/">AI Commons,</a> Open Data for Sustainable Development <br>
    Pharmaceutical Patents and Global Health: Access to Medicines <br>  
-   The Cultural History of Law, Science, and Technology <br>  
-   Institutionalization of Blockchain (for Digital Government, Public Sector, ICT4D) <br>  
+   The Cultural History of Law, Science, and Technology <br>   
     <br> 
