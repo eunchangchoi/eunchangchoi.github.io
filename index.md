@@ -54,7 +54,7 @@ Acclaims of<i> the Archaeology of Disinformation </i>:<a href="https://www.pdjou
    Internet Governance, Cybersecurity Norms and Attribution <br> 
    Disinformation, Digital Public Sphere for Democracy <br> 
    <a href="http://news.itu.int/introducing-ai-commons/">AI Commons,</a> Open Data for Sustainable Development <br>
-   The History of Intellectual Property Law, Copyright and Social Media<br> 
+   Global Intellectual Property Law, Copyright and Social Media<br> 
    Pharmaceutical Patents and Global Health: Access to Medicines <br>  
    The Cultural History of Law, Science, and Technology <br>   
     <br> 
