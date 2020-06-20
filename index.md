@@ -52,9 +52,9 @@ Acclaims of<i> the Archaeology of Disinformation </i>:<a href="https://www.pdjou
    AI: Ethical and Legal Challenges (Governing AI)<br>
    Platform Liability, Automated Content Moderation <br>  
    Internet Governance, Cybersecurity Norms and Attribution <br> 
-   Digital Public Sphere for Democracy <br> 
+   Disinformation, Digital Public Sphere for Democracy <br> 
    <a href="http://news.itu.int/introducing-ai-commons/">AI Commons,</a> Open Data for Sustainable Development <br>
-   History of Intellectual Property Law (Copyright and Media)
+   The History of Intellectual Property Law, Copyright and Social Media
    Pharmaceutical Patents and Global Health: Access to Medicines <br>  
    The Cultural History of Law, Science, and Technology <br>   
     <br> 
