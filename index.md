@@ -50,10 +50,9 @@ Acclaims of<i> the Archaeology of Disinformation </i>:<a href="https://www.pdjou
     <br> 
   <strong> ACADEMIC INTERESTS </strong> <br>   
    Data Governance, Data Privacy, Data Ownership, Data Centres <br>
-   Data Ethics in relation to Automaed Decision-making, Machine Learning, Predictive Analytics
-   Legal Challenges of the Data Economy, Informational Capitalism <br>
+   Data Ethics in relation to Automaed Decision-making, Machine Learning, Predictive Analytics <br>
    AI Policy, AI Alignment, Accountability for Algorithm <br>
-   AI: Ethical and Legal Challenges (Governing AI)<br>
+   AI: Ethical and Legal Challenges (Governing AI)<br>   
    Platform Liability, Automated Content Moderation <br>  
    Internet Governance, Cybersecurity Norms and Attribution <br> 
    Disinformation, Digital Public Sphere for Democracy <br> 
