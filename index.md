@@ -43,13 +43,14 @@ Acclaims of<i> the Archaeology of Disinformation </i>:<a href="https://www.pdjou
 <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News Workshop'</a>, 2018 Internet Governance Forum at UNESCO, Paris, France <br>
 <a href="https://dig.watch/sessions/session-fakenews">'Fake News Session'</a>, 2018 Internet Governance Forum report by GIP Digital Watch, Geneva Internet Platform <br>
 <a href="http://www.zdnet.co.kr/view/?no=20170915172456&from=Mobile">'Blockchain Paradigm: Information Security and Institutional Governance'</a> ZDNet Korea (Sept. 15, 2017)<br>
- <a href="www.donga.com/news/article/all/20170225/83056178/1">'AI becomes smarter…Is it a simple machine or artificial person?'</a>,  Interview with The Dong-a Ilbo (Feb.25, 2017)<br>
+ <a href="www.donga.com/news/article/all/20170225/83056178/1">'AI becomes smarter…Is it a simple machine or artificial person?'</a>, Interview with Dong-a Ilbo (Feb.25, 2017)<br>
  <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> The Open Net Korea, Seoul<br>
   <a href="http://wealthofnetworks.kr">The Wealth of Networks</a> (Book Chapters)<a href="http://https://www.hankyung.com/life/article/2015041693541"> Hankyoung</a>, <a href="http://https://www.hankookilbo.com/News/Read/201504171632164530"> Hankook Ilbo </a>, <a href="http://slownews.kr/50013"> Slow News 1</a>, <a href="https://slownews.kr/50036"> 2</a>, <a href="http://www.bloter.net/archives/241128"> Bloter </a>, <a href="http://www.veritas-a.com/news/articleView.html?idxno=164861"> Veritas </a>, <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=125603"> Media Today</a>, <a href="http://www.digitaltoday.co.kr/news/articleView.html?idxno=65605"> Digital Today </a>
     <br> 
     <br> 
   <strong> ACADEMIC INTERESTS </strong> <br>   
-   Data Governance, Data Privacy, Data Ownership, Anthropology of Data Centres <br>
+   Data Governance, Data Privacy, Data Ownership, Data Centres <br>
+   Data Ethics in relation to Automaed Decision-making, Machine Learning, Predictive Analytics
    Legal Challenges of the Data Economy, Informational Capitalism <br>
    AI Policy, AI Alignment, Accountability for Algorithm <br>
    AI: Ethical and Legal Challenges (Governing AI)<br>
