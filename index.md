@@ -11,13 +11,13 @@ title: "Eun Chang Choi"
 </div><!-- /.tiles -->
 <div style="width:98%">
 <div> 
- <a href="https://mitpress.mit.edu/books/memes-digital-culture"><img style="vertical-align:top;height:200px;width:158px;" src="images/book1.png"></a>
- <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791130435473"><img style="vertical-align:top;height:200px;width:158px;" src="images/book2.jpg"></a>
- <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:158px;" src="images/book3.jpg"></a>
+ <a href="https://mitpress.mit.edu/books/memes-digital-culture"><img style="vertical-align:top;height:200px;width:160px;" src="images/book1.png"></a>
+ <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791130435473"><img style="vertical-align:top;height:200px;width:160px;" src="images/book2.jpg"></a>
+ <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:160px;" src="images/book3.jpg"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791130437002&orderClick=357"><img style="vertical-align:top;height:200px;width:158px;" src="images/book4.jpg"></a> <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788964361436&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:160px;" src="images/book5.jpg"> </a>
   <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=17090303&barcode=9788962623222"><img style="vertical-align:top;height:200px;width:155px;" src="images/book6.png"></a>
   <a href="http://view.copyright.or.kr:8080/SynapDocViewServer/viewer/doc.html?key=000000006ba186290172c9470e3d36b4&contextPath=/SynapDocViewServer"><img style="vertical-align:top;height:202px;width:157px;" src="images/book7.png"></a>
-  <img style="vertical-align:top;height:203px;width:488px;" src="images/book8.png">
+  <img style="vertical-align:top;height:203px;width:494px;" src="images/book8.png">
  <br>
  <br>
 <p style="font-size:1.1em">I,<a href="https://igf2019.sched.com/eunchangchoi"> 최은창 崔恩彰</a>,
