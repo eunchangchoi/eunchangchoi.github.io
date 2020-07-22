@@ -49,6 +49,7 @@ From 2017, as a committee member of <a href= "https://sites.google.com/a/kiga.or
  <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks: How Social Production Transforms Markets and Freedom</i></a> (Book Excerpts in Korean) <br>
  Acclaims/Reviews of <i>The Wealth of Networks</i>: <a href="http://https://www.hankyung.com/life/article/2015041693541"> Hankyoung</a>, <a href="http://https://www.hankookilbo.com/News/Read/201504171632164530"> Hankook Ilbo </a>, <a href="http://slownews.kr/50013"> Slow News 1</a>, <a href="https://slownews.kr/50036"> Slow News 2</a>, <a href="http://www.bloter.net/archives/241128"> Bloter </a>, <a href="http://www.veritas-a.com/news/articleView.html?idxno=164861"> Veritas </a>, <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=125603"> Media Today</a>, <a href="http://www.digitaltoday.co.kr/news/articleView.html?idxno=65605"> Digital Today </a>, <a href="https://www.opinionnews.co.kr/news/articleView.html?idxno=18408"> Opinion News</a>, <a href="https://act.jinbo.net/wp/8766/"> Jinbo Net</a>, <a href="http://www.ohmynews.com/nws_web/mobile/at_pg.aspx?cntn_cd=a0002543828"> OhmyNews </a>, 
     <br>  
+    <br>
   <strong> ACADEMIC INTERESTS </strong> <br>   
    Data Governance, Data Privacy, Data Ownership, Data Centres <br>
    Data Ethics in relation to Automaed Decision-making, Machine Learning, Predictive Analytics <br>
