@@ -48,8 +48,7 @@ From 2017, as a committee member of <a href= "https://sites.google.com/a/kiga.or
  <a href="www.inews24.com/view/913922"> 'The Economics of Zero-Rating and Net Neutrality'</a>, <a href="https://opennet.or.kr/9726"> Startup Alliance, Seoul</a> (Aug.13, 2015) <br>
  <a href="http://wealthofnetworks.kr">The Wealth of Networks</a> (Book Excerpts in Korean) <br>
  Acclaims/Reviews of The Wealth of Networks : <a href="http://https://www.hankyung.com/life/article/2015041693541"> Hankyoung</a>, <a href="http://https://www.hankookilbo.com/News/Read/201504171632164530"> Hankook Ilbo </a>, <a href="http://slownews.kr/50013"> Slow News 1</a>, <a href="https://slownews.kr/50036"> Slow News 2</a>, <a href="http://www.bloter.net/archives/241128"> Bloter </a>, <a href="http://www.veritas-a.com/news/articleView.html?idxno=164861"> Veritas </a>, <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=125603"> Media Today</a>, <a href="http://www.digitaltoday.co.kr/news/articleView.html?idxno=65605"> Digital Today </a>, <a href="https://www.opinionnews.co.kr/news/articleView.html?idxno=18408"> Opinion News</a>, <a href="https://act.jinbo.net/wp/8766/"> Jinbo Net</a>, <a href="http://www.ohmynews.com/nws_web/mobile/at_pg.aspx?cntn_cd=a0002543828"> OhmyNews </a>, 
-    <br> 
-    <br> 
+    <br>  
   <strong> ACADEMIC INTERESTS </strong> <br>   
    Data Governance, Data Privacy, Data Ownership, Data Centres <br>
    Data Ethics in relation to Automaed Decision-making, Machine Learning, Predictive Analytics <br>
