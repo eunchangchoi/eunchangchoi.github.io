@@ -52,15 +52,15 @@ From 2017, as a committee member of <a href= "https://sites.google.com/a/kiga.or
     <br>  
     <br>
   <strong> ACADEMIC INTERESTS </strong> <br>   
-   Data Governance, Data Privacy, Data Ownership, Data Centres <br>
-   Data Ethics in relation to Automaed Decision-making, Machine Learning, Predictive Analytics <br>
+   Data Governance, Data Privacy, Data Ownership <br>
+   Data Ethics in relation to Automated Decision-making, Predictive Analytics <br>
    AI Policy, AI Alignment, Accountability for Algorithm <br>
    AI: Ethical and Legal Challenges (Governing AI)<br>   
-   Platform Liability, Automated Content Moderation <br>  
-   Internet Governance, Cybersecurity Norms and Attribution <br> 
-   Disinformation, Digital Public Sphere for Democracy <br> 
-   <a href="http://news.itu.int/introducing-ai-commons/"> AI Commons,</a> Open Data for Sustainable Development <br>
-   The Political Economy of Intellectual Property, Copyright <br> 
+   Platform Liability, Automated Content Moderation, Copyright <br>  
+   Internet Infrastructure, Cybersecurity Norms <br> 
+   Digital Public Sphere for Democracy, Algorithmic Activism <br> 
+   <a href="http://news.itu.int/introducing-ai-commons/"> AI Commons;</a> Open Data for Sustainable Development <br>
+   Law and Political Theory, The Political Economy of Intellectual Property <br> 
    Pharmaceutical Patents and Global Health Inequality: Access to Medicines <br>  
    The Cultural History of Law, Science, and Technology <br>   
     <br> 
