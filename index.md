@@ -46,6 +46,7 @@ From 2017, as a committee member of <a href= "https://sites.google.com/a/kiga.or
 <a href="https://www.ftp.asia/index.php/s/tLZWIWMG1Qp7oA0">'Build the Concept on AI Society for Global Good: Quest for Inclusion'</a> 2019 <a href="https://2019.aprigf.asia/prog"> Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
 <a href="https://www.ftp.asia/index.php/s/HGkuD3YVUBssKrP">'Coping with Misinformation in an Era of Information Deluge?'</a> 2019 <a href="https://2019.aprigf.asia/prog"> Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
 <a href="https://youtu.be/92cmsMv6xhQ?t=451">'AI Application and Ethics & Governance: Multistakeholder Approach'</a> 2019 <a href="http://krigf.kr/"> Korea Internet Governance Forum</a>, Seoul, South Korea <br>
+'Artificial Intelligence Applications in Global Public Health and Epidemiology' National Medical Center, Seoul, South Korea<br>
 <a href="https://kpc4ir.kaist.ac.kr/index.php?mid=kpc4ir_events&document_srl=684"> 'AI Governance'</a> in Tech & Talk Conference with, KAIST, Seoul, South Korea <br>
 <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News Workshop'</a>, 2018 Internet Governance Forum at UNESCO, Paris, France <br>
 <a href="https://dig.watch/sessions/session-fakenews">'Fake News Session'</a>, 2018 Internet Governance Forum report by GIP Digital Watch, Geneva Internet Platform <br>
