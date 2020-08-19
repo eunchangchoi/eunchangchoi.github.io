@@ -36,7 +36,7 @@ From 2017, as a committee member of <a href= "https://sites.google.com/a/kiga.or
 'The Global Landscape of AI Ethics Principles: Between Soft Law and Hard Law' Seoul Digital Forum (Aug.2020) <br> 
 <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Digital Tracking for COVID-19 :Balancing Public Health and Personal Privacy'</a> Kr-IGF (Aug.2020) <br> 
 'Business Ethics for Ethical AI: The Function of AI Ethics Board' Korea Academy of Business Ethics (Aug.2020) <br> 
-<a href="https://youtu.be/UE72pdH8kBU">'Infodemic and Scientific Uncertainity: COVID19, Ebola, HIV/AIDS'</a> Korea Society of Internet Ethics (July 2020)<br>
+<a href="https://youtu.be/UE72pdH8kBU">'Medical Misinformation and Scientific Uncertainity: COVID19, Ebola, and HIV/AIDS'</a> Korea Society of Internet Ethics (July 2020)<br>
 <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercial Ads, and Copyright Lawsuits'</a> Cybercomm Conference (June 2020)<br>
 <a href="https://www.diplomacy.edu/blog/will-algorithms-make-safe-decisions-foreign-affairs">'Will Algorithms Make Safe Decisions in Foreign Affairs?' </a> AI Lab, DiploFoundation, Geneva, Switzerland <br>
 <a href="https://www.youtube.com/watch?v=nsZJaB3fx0E&feature=youtu.be&t=1689">'National Representative Collaborative Session on Cybersecurity'</a> 2019 Internet Governance Forum, Berlin, Germany <br> 
