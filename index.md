@@ -38,6 +38,7 @@ From 2017, as a committee member of <a href= "https://sites.google.com/a/kiga.or
 'Business Ethics for Ethical AI: The Function of AI Ethics Board' Korea Academy of Business Ethics (Aug.2020) <br> 
 <a href="https://youtu.be/UE72pdH8kBU">'Medical Misinformation and Scientific Uncertainity: COVID19, Ebola, and HIV/AIDS'</a> Korea Society of Internet Ethics (July 2020)<br>
 <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercial Ads, and Copyright Lawsuits'</a> Cybercomm Conference (June 2020)<br>
+'How Myths and Misinformation about SARS-CoV-2 Obstruct Public Health', Graduate School of Public Health, Yonsei University (April 2020)<br>
 <a href="https://www.diplomacy.edu/blog/will-algorithms-make-safe-decisions-foreign-affairs">'Will Algorithms Make Safe Decisions in Foreign Affairs?' </a> AI Lab, DiploFoundation, Geneva, Switzerland <br>
 <a href="https://www.youtube.com/watch?v=nsZJaB3fx0E&feature=youtu.be&t=1689">'National Representative Collaborative Session on Cybersecurity'</a> 2019 UN IGF Berlin, Germany <br> 
 <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx"> 'AI: Ethics, Security, Personal Data and Governance'</a> ITU Asia-Pacific Region, Bangkok, Thailand<br>  
