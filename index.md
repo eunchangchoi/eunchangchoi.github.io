@@ -40,6 +40,7 @@ From 2017, as a committee member of <a href= "https://sites.google.com/a/kiga.or
 <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercial Ads, and Copyright Lawsuits'</a> Cybercommunication Academic Society <br>
 'How Myths and Misinformation about SARS-CoV-2 Obstruct Public Health', Graduate School of Public Health, Yonsei University<br>
 <a href="https://www.diplomacy.edu/blog/will-algorithms-make-safe-decisions-foreign-affairs">'Will Algorithms Make Safe Decisions in Foreign Affairs?' </a> AI Lab, DiploFoundation, Geneva, Switzerland <br>
+<a href= "https://www.intgovforum.org/multilingual/content/igf-2019-ws-182-data-governance-for-smarter-city-mobility">'Data Governance for Smarter City Mobility'</a> 2019 UN IGF Berlin, Germany <br> 
 <a href="https://www.youtube.com/watch?v=nsZJaB3fx0E&feature=youtu.be&t=1689">'National Representative Collaborative Session on Cybersecurity'</a> 2019 UN IGF Berlin, Germany <br> 
 <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx"> 'AI: Ethics, Security, Personal Data and Governance'</a> ITU Asia-Pacific Region, Bangkok, Thailand<br>  
 <a href="https://youtu.be/uRsC_ypHGCg?t=1348">'IP Address and Cross-border Cooperation for Resolving the Cyber Attribution Challenges'</a> 2019<a href="https://conference.apnic.net/48/program/schedule/#/day/6/cooperation-sig"> APNIC 48</a>, Chiang Mai, Thailand <br>
