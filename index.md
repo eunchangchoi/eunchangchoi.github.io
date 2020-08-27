@@ -50,8 +50,8 @@ From 2017, as a committee member of <a href= "https://sites.google.com/a/kiga.or
 <a href="https://kpc4ir.kaist.ac.kr/index.php?mid=kpc4ir_events&document_srl=684"> 'AI Governance'</a> in Tech & Talk Conference with, KAIST, Seoul, South Korea <br>
 <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News Workshop'</a>, 2018 Internet Governance Forum at UNESCO, Paris, France <br>
 <a href="https://dig.watch/sessions/session-fakenews">'Fake News Session'</a>, 2018 Internet Governance Forum report by GIP Digital Watch, Geneva Internet Platform <br>
-<a href="http://www.zdnet.co.kr/view/?no=20170915172456&from=Mobile">'Blockchain Paradigm: Information Security and Institutional Governance'</a> ZDNet Korea (Sept. 15, 2017)<br>
- <a href="www.donga.com/news/article/all/20170225/83056178/1">'AI becomes smarter…Is it a simple machine or artificial person?'</a>, Interview with Dong-a Ilbo (Feb.25, 2017)<br>
+<a href="https://www.zdnet.co.kr/view/?no=20170915172456&from=Mobile">'Blockchain Paradigm: Information Security and Institutional Governance'</a> ZDNet Korea (Sept. 15, 2017)<br>
+ <a href="https://www.donga.com/news/article/all/20170225/83056178/1">'AI becomes smarter…Is it a simple machine or artificial person?'</a>, Interview with Dong-a Ilbo (Feb.25, 2017)<br>
  <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> Open Net Korea, Seoul<br>
  <a href="https://www.inews24.com/view/913922">'The Economics of Zero-rating: Why Free Mobile Data Matters?'</a>, Startup Alliance, Seoul (Aug.13, 2015) <br>
  <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks: How Social Production Transforms Markets and Freedom</i> </a> (Book Excerpts in Korean) <br>
