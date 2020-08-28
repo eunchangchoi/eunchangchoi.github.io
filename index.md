@@ -63,7 +63,7 @@ From 2017, as a committee member of <a href= "https://sites.google.com/a/kiga.or
    Data Governance, Data Privacy, Data Ownership <br>
    Data Ethics in relation to Automated Decision-making, Predictive Analytics <br> 
    AI: Ethical and Legal Challenges (Governing AI), Accountability for Algorithm <br>   
-   Digital Platform Power, Platform Liability <br>  
+   The Power of Digital Platform, Platform Liability <br>  
    Automated Content Moderation, Algorithmic Fair Use (Copyright) <br>  
    Internet Infrastructure, Cybersecurity Norms <br> 
    Digital Public Sphere for Democracy, Algorithmic Activism <br> 
