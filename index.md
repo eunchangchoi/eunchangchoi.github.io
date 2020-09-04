@@ -77,4 +77,4 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
    The Political Economy of Technology and Intellectual Property <br> 
    Pharmaceutical Patents and Global Health Inequality: Access to Medicines <br>  
    The Cultural History of Law, Science, and Technology <br>    
-    <br> 
+   
