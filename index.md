@@ -72,7 +72,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
    Data Ethics in relation to Automated Decision-making, Predictive Analytics <br> 
    AI: Ethical and Legal Challenges (Governing AI), Accountability for Algorithm <br>   
    Business Ethics for Ethical AI (AI Ethics Board) <br>  
-   The Power of Digital Platform, Platform Liability for Privacy <br>  
+   The Power of Digital Platform, Platform Liability <br>  
    Automated Content Moderation, Algorithmic Fair Use (Copyright) <br>  
    Internet Infrastructure, Cybersecurity Norms <br> 
    Digital Public Sphere for Democracy, Algorithmic Activism <br>  
