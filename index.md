@@ -44,7 +44,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪   <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks: How Social Production Transforms Markets and Freedom</i> </a> (Book Excerpts in Korean) <br>
 <br>    
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
-▪  'The Global Landscape of AI Ethics Principles: Between Soft Law and Hard Law' Tutorial, Korea Internet Governance Forum (2020)<br> 
+▪  'The Global Landscape of AI Ethics Principles: Between Soft Law and Hard Law' Tutorial, Korea Internet Governance Forum (2020) <br> 
 ▪  <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J">'Digital Tracking for COVID-19: Balancing Public Health & Data Privacy'</a>, Korea Internet Governance Forun (2020) <br> 
 ▪  'Business Ethics for Ethical AI: The Function of AI Ethics Board' The Korea Academy of Business Ethics Conference (Aug.2020) <br> 
 ▪  <a href="https://youtu.be/UE72pdH8kBU">'Medical Misinformation and Scientific Uncertainity: COVID19, Ebola, and HIV/AIDS'</a> Korea Society of Internet Ethics<br>
@@ -53,12 +53,12 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪  'The Risk Perception of AI', AI Policy Forum, Korean Associaton for Artificial Intelligence & Law (Oct. 2019) <br>
 ▪  <a href="https://www.diplomacy.edu/blog/will-algorithms-make-safe-decisions-foreign-affairs">'Will Algorithms Make Safe Decisions in Foreign Affairs?' </a> AI Lab, DiploFoundation, Geneva, Switzerland <br>
 ▪   <a href="https://clawar.org/wp-content/uploads/2019/11/ICRES2019_p64_paper_4.pdf">"The Making of South Korea's Robot Ethics Charter"</a>, <a href="https://www.icres2019.org/"> International Conference on Robot Ethics and Standards</a>, London, UK (2019)<br>
-▪   <a href= "https://www.intgovforum.org/multilingual/content/igf-2019-ws-182-data-governance-for-smarter-city-mobility">'Data Governance for Smarter City Mobility'</a> UN IGF Berlin, Germany (2019)<br> 
+▪   <a href= "https://www.intgovforum.org/multilingual/content/igf-2019-ws-182-data-governance-for-smarter-city-mobility">'Data Governance for Smarter City Mobility'</a>  <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html"> UN IGF</a>, Berlin, Germany (2019)<br> 
 ▪   <a href="https://www.youtube.com/watch?v=nsZJaB3fx0E&feature=youtu.be&t=1689">'National Collaborative Session on Cybersecurity'</a>, <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html"> UN Internet Governance Forum,</a> Berlin, Germany (2019) <br> 
 ▪   <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx">'AI: Ethics, Security, Personal Data and Governance'</a> ITU Academy, Centres of Excellence, Bangkok, Thailand (2019)<br>  
 ▪   <a href="https://youtu.be/uRsC_ypHGCg?t=1348">'IP Address and Cross-border Cooperation for Resolving the Cyber Attribution Challenges'</a>, <a href="https://conference.apnic.net/48/program/schedule/#/day/6/cooperation-sig"> APNIC 48</a>, Chiang Mai, Thailand (2019) <br>
-▪   <a href="https://www.ftp.asia/index.php/s/tLZWIWMG1Qp7oA0">'Build Concept on AI Society for Good: Quest for Inclusion'</a>, <a href="https://2019.aprigf.asia/prog"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
-▪   <a href="https://www.ftp.asia/index.php/s/HGkuD3YVUBssKrP">'Coping with Misinformation in an Deluge of Information'</a>, <a href="https://2019.aprigf.asia/prog"> Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
+▪   <a href="https://www.ftp.asia/index.php/s/tLZWIWMG1Qp7oA0">'Build Concept on AI Society for Good: Quest for Inclusion'</a>, <a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
+▪   <a href="https://www.ftp.asia/index.php/s/HGkuD3YVUBssKrP">'Coping with Misinformation in an Deluge of Information'</a>, <a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
 ▪   <a href="https://youtu.be/92cmsMv6xhQ?t=451">'AI Application and Ethics & Governance: Multistakeholder Approach'</a>, 2019 <a href="http://krigf.kr/"> Korea Internet Governance Forum</a>, Seoul, South Korea <br>
 ▪   'AI Ethics, Policies & Governance: A Global Overview' Korea Society of Internet Ethics (Nov. 2018) <br>
 ▪   'Artificial Intelligence Applications for Global Public Health' National Medical Center(NMC), Seoul, South Korea (Oct. 2018)<br>
@@ -67,8 +67,8 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪   <a href="https://dig.watch/sessions/session-fakenews">'Fake News Session'</a>, 2018 Internet Governance Forum report by GIP Digital Watch, Geneva Internet Platform <br>
 ▪   <a href="https://www.zdnet.co.kr/view/?no=20170915172456&from=Mobile">'Blockchain Paradigm: Information Security and Institutional Governance'</a> ZDNet Korea (Sept. 15, 2017)<br>
 ▪   <a href="https://www.donga.com/news/article/all/20170225/83056178/1">'AI becomes smarter…Is it a simple machine or artificial person?'</a>, Interview with Dong-a Ilbo (Feb.25, 2017)<br>
-▪   <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> Open Net Korea, Seoul<br>
-▪   <a href="https://www.inews24.com/view/913922">'The Economics of Zero-rating: Why Free Mobile Data Matters?'</a>, Startup Alliance, Seoul (Aug.13, 2015) <br>
+▪   <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> Open Net Korea, Seoul <br>
+▪   <a href="https://www.inews24.com/view/913922">'The Economics of Zero-rating: Why Free Mobile Data Matters?'</a>, Startup Alliance, Seoul (Aug. 2015) <br>
     <br>   
   <strong> ACADEMIC INTERESTS </strong> <br>   
    Data Governance, Data Privacy, Data Ownership <br>
