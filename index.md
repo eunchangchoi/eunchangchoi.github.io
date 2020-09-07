@@ -45,7 +45,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
 ▪  'The Global Landscape of AI Ethics Principles: Between Soft Law and Hard Law' Tutorial, Korea Internet Governance Forum (2020)<br> 
 ▪  <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J">'Digital Tracking for COVID-19: Balancing Public Health & Data Privacy'</a>, Korea Internet Governance Forun (2020) <br> 
-▪  'Business Ethics for Ethical AI: The Function of AI Ethics Board' The Korea Academy of Business Ethics Conference (2020) <br> 
+▪  'Business Ethics for Ethical AI: The Function of AI Ethics Board' The Korea Academy of Business Ethics Conference (Aug.2020) <br> 
 ▪  <a href="https://youtu.be/UE72pdH8kBU">'Medical Misinformation and Scientific Uncertainity: COVID19, Ebola, and HIV/AIDS'</a> Korea Society of Internet Ethics<br>
 ▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercials and Copyrighs'</a> Cybercommunication Academic Society, Seoul (2020)<br>
 ▪  'How Myths and Misinformation about SARS-CoV-2 Obstruct Public Health', Graduate School of Public Health, Yonsei Univ(2020)<br>
@@ -58,7 +58,8 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪ <a href="https://www.ftp.asia/index.php/s/tLZWIWMG1Qp7oA0">'Building An AI-Powered Society for Global Good: Quest for Inclusion'</a> <a href="https://2019.aprigf.asia/prog"> Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
 ▪  <a href="https://www.ftp.asia/index.php/s/HGkuD3YVUBssKrP">'Coping with Misinformation in an Deluge of Information'</a> <a href="https://2019.aprigf.asia/prog"> Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
 ▪  <a href="https://youtu.be/92cmsMv6xhQ?t=451">'AI Application and Ethics & Governance: Multistakeholder Approach'</a> 2019 <a href="http://krigf.kr/"> Korea Internet Governance Forum</a>, Seoul, South Korea <br>
-▪  'Artificial Intelligence Applications for Global Public Health' National Medical Center(NMC), Seoul, South Korea (2018)<br>
+▪  'AI Ethics, Policies & Governance: A Global Overview' Korea Society of Internet Ethics (Nov. 2018)
+▪  'Artificial Intelligence Applications for Global Public Health' National Medical Center(NMC), Seoul, South Korea (Oct. 2018)<br>
 ▪  'AI Governance'in <a href="https://kpc4ir.kaist.ac.kr/index.php?mid=kpc4ir_events&document_srl=684"> Tech & Talk Conference </a> with, KAIST, Seoul, South Korea <br>
 ▪  <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News Workshop'</a>,<a href="https://igf2018.fr/"> 2018 UN Internet Governance Forum </a> at UNESCO, Paris, France <br>
 ▪  <a href="https://dig.watch/sessions/session-fakenews">'Fake News Session'</a>, 2018 Internet Governance Forum report by GIP Digital Watch, Geneva Internet Platform <br>
