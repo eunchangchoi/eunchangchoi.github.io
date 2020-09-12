@@ -71,6 +71,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪   <a href="https://www.inews24.com/view/913922">'The Economics of Zero-rating: Why Free Mobile Data Matters?'</a>, Startup Alliance, Seoul (Aug. 2015) <br>
     <br>   
   <strong> ACADEMIC INTERESTS </strong> <br>   
+   ICT Law and Policy, Political Economy of Technology & Intellectual Property <br> 
    Data Governance, Data Privacy, Data Ownership <br>
    Data Ethics in relation to Automated Decision-making, Predictive Analytics <br> 
    AI: Ethical and Legal Challenges (Governing AI), Accountability for Algorithm <br>   
@@ -79,7 +80,6 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
    Automated Content Moderation, Algorithmic Fair Use (Copyright) <br>  
    Internet Infrastructure, Cybersecurity Norms <br> 
    Digital Public Sphere for Democracy, Algorithmic Activism <br>  
-   The Political Economy of Technology and Intellectual Property <br> 
    Pharmaceutical Patents and Global Health Inequality: Access to Medicines <br>  
    The Cultural History of Law, Science, and Technology <br>    
    
