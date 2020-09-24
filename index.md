@@ -64,9 +64,9 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪   <a href="https://youtu.be/92cmsMv6xhQ?t=451">'AI Application and Ethics & Governance: Multistakeholder Approach'</a>, 2019 <a href="http://krigf.kr/"> Korea Internet Governance Forum</a>, Seoul, South Korea <br>
 ▪   'AI Ethics, Policies & Governance: A Global Overview' Korea Society of Internet Ethics (Nov.2018) <br>
 ▪   'Artificial Intelligence Applications for Global Public Health' National Medical Center(NMC), Seoul, South Korea (Oct. 2018)<br>
-▪   <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News Workshop'</a>,<a href="https://igf2018.fr/"> 2018 UN Internet Governance Forum </a> at UNESCO, Paris, France <br>
-▪  "Would you trust Artificial Intelligence?" Infor-Human Right Institute (Dec 17, 2017)
 ▪   <a href="https://dig.watch/sessions/session-fakenews">'Fake News Session'</a>, 2018 Internet Governance Forum report by GIP Digital Watch, Geneva Internet Platform <br>
+▪   <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News Workshop'</a>,<a href="https://igf2018.fr/"> 2018 UN Internet Governance Forum </a> at UNESCO, Paris, France <br>
+▪  " Would you trust Artificial Intelligence?" Infor-Human Right Institute, Seoul (Dec 17, 2017)<br>   
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> Open Net Korea, Seoul <br>
   <br>
  <strong> MEDIA </strong> <br>  
