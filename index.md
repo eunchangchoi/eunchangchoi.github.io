@@ -48,7 +48,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪  'The Global Landscape of AI Ethics Principles: Between Soft Law and Hard Law' Tutorial, Korea Internet Governance Forum (2020) <br> 
 ▪  <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J">'Digital Tracking for COVID-19: Balancing Public Health & Data Privacy'</a>, Korea Internet Governance Forun (2020) <br> 
 ▪  'Business Ethics for Ethical AI: The Function of AI Ethics Board' The Korea Academy of Business Ethics Conference (Aug.2020) <br> 
-▪  <a href="https://youtu.be/UE72pdH8kBU">'Medical Misinformation and Scientific Uncertainity: COVID19, Ebola, and HIV/AIDS'</a> Korea Society of Internet Ethics<br>
+▪  <a href="https://youtu.be/UE72pdH8kBU">'Medical Misinformation and Scientific Uncertainty: COVID19, Ebola, and HIV/AIDS'</a> Korea Society of Internet Ethics<br>
 ▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercials and Copyrighs'</a> Cybercommunication Academic Society, Seoul (2020)<br>
 ▪  'How Myths & Misinformation about COVID 19 Obstruct Public Health Care', Graduate School of Public Health, Yonsei Univ (2020)<br>
 ▪  'The Risk Perception of AI', AI Policy Forum, Korean Associaton for Artificial Intelligence & Law (Oct. 2019) <br>
