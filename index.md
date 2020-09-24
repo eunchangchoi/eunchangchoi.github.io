@@ -73,7 +73,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪ <a href="https://www.zdnet.co.kr/view/?no=20170915172456&from=Mobile">'Blockchain Paradigm: Information Security and Institutional Governance'</a> ZDNet Korea (Sept. 15, 2017)<br>
 ▪  <a href="https://www.inews24.com/view/913922">'The Economics of Zero-rating: Why Free Mobile Data Matters?'</a>, Startup Alliance, Seoul (Aug. 2015) <br>
     <br>    
-
+ <br>   
   <strong> ACADEMIC INTERESTS </strong> <br>   
    ICT Law and Policy, Political Economy of Technology & Intellectual Property <br> 
    Data Governance, Data Privacy, Data Ownership <br>
