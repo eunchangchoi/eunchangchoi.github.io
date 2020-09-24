@@ -44,6 +44,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪   <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks: How Social Production Transforms Markets and Freedom</i> </a> (Book Excerpts in Korean) <br>
 <br>    
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
+▪  'Scientific Risk and Scientific Uncertainty' Technology and Society Forum (Sept 24, 2020)
 ▪  'The Global Landscape of AI Ethics Principles: Between Soft Law and Hard Law' Tutorial, Korea Internet Governance Forum (2020) <br> 
 ▪  <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J">'Digital Tracking for COVID-19: Balancing Public Health & Data Privacy'</a>, Korea Internet Governance Forun (2020) <br> 
 ▪  'Business Ethics for Ethical AI: The Function of AI Ethics Board' The Korea Academy of Business Ethics Conference (Aug.2020) <br> 
