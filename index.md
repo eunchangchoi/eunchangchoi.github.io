@@ -60,20 +60,20 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪   <a href="https://youtu.be/uRsC_ypHGCg?t=1348">'IP Address and Cross-border Cooperation for Resolving the Cyber Attribution Challenges'</a>, <a href="https://conference.apnic.net/48/program/schedule/#/day/6/cooperation-sig"> APNIC 48</a>, Chiang Mai, Thailand (2019) <br>
 ▪   <a href="https://www.ftp.asia/index.php/s/tLZWIWMG1Qp7oA0">'Build Concept on AI Society for Good: Quest for Inclusion'</a>, <a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
 ▪   <a href="https://www.ftp.asia/index.php/s/HGkuD3YVUBssKrP">'Coping with Misinformation in an Deluge of Information'</a>, <a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
-▪   'AI Governance'in <a href="https://kpc4ir.kaist.ac.kr/index.php?mid=kpc4ir_events&document_srl=684"> TECH & TALK Conference</a> KAIST, Seoul (May 2019)<br>
+▪   'AI Governance'in <a href="https://kpc4ir.kaist.ac.kr/index.php?mid=kpc4ir_events&document_srl=684"> TECH & TALK Conference</a> KAIST, Seoul (May. 2019)<br>
 ▪   <a href="https://youtu.be/92cmsMv6xhQ?t=451">'AI Application and Ethics & Governance: Multistakeholder Approach'</a>, 2019 <a href="http://krigf.kr/"> Korea Internet Governance Forum</a>, Seoul, South Korea <br>
 ▪   'AI Ethics, Policies & Governance: A Global Overview' Korea Society of Internet Ethics (Nov.2018) <br>
 ▪   'Artificial Intelligence Applications for Global Public Health' National Medical Center(NMC), Seoul, South Korea (Oct. 2018)<br>
 ▪   <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News Workshop'</a>,<a href="https://igf2018.fr/"> 2018 UN Internet Governance Forum </a> at UNESCO, Paris, France <br>
-▪  " Would you trust Artificial Intelligence?" Institution for Digital Rights, Seoul (Dec 17, 2017)<br>   
+▪  " Would you trust Artificial Intelligence? " AI Lecture Series, Institution for Digital Human Rights, Seoul (Dec.2017)<br>   
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> Open Net Korea, Seoul <br>
   <br>
  <strong> MEDIA </strong> <br>  
-▪ <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=192351"> 'COVID-19 Contact Tracing and Data Retention'</a> MediaUs (Sept.4. 2020)  <br>   
-▪   <a href="https://dig.watch/sessions/session-fakenews">'Fake News Session'</a>, 2018 Internet Governance Forum report by GIP Digital Watch, Geneva Internet Platform <br>
-▪ <a href="https://www.donga.com/news/article/all/20170225/83056178/1">'AI becomes smarter…Is it a simple machine or artificial person?'</a>, Dong-a Ilbo (Feb.25, 2017)<br>
-▪ <a href="https://www.boannews.com/media/view.asp?idx=57022&kind=3">'Blockchain Platform, Hacking, and Security' </a> Boan News (Sept. 17, 2017)<br>
-▪ <a href="https://www.zdnet.co.kr/view/?no=20170915172456&from=Mobile">'Blockchain Paradigm: Information Security and Institutional Governance'</a> ZDNet Korea (Sept. 15, 2017)<br>
+▪ <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=192351"> 'COVID-19 Contact Tracing and Data Retention'</a> MediaUs (Sept.2020)  <br>   
+▪   <a href="https://dig.watch/sessions/session-fakenews">'Fake News Session'</a>, 2018 Internet Governance Forum report, Geneva Internet Platform (Nov.2018) <br>
+▪ <a href="https://www.donga.com/news/article/all/20170225/83056178/1">'AI becomes smarter…Is it a simple machine or artificial person?'</a>, Dong-a Ilbo (Feb.2017)<br>
+▪ <a href="https://www.boannews.com/media/view.asp?idx=57022&kind=3">'Blockchain Platform, Hacking, and Security' </a> Boan News (Sept.2017)<br>
+▪ <a href="https://www.zdnet.co.kr/view/?no=20170915172456&from=Mobile">'Blockchain Paradigm:Information Security and Governance'</a> ZDNet Korea (Sept.2017)<br>
 ▪  <a href="https://www.inews24.com/view/913922">'The Economics of Zero-rating: Why Free Mobile Data Matters?'</a>, Startup Alliance, Seoul (Aug. 2015) <br>
   
  <br>   
