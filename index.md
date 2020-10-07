@@ -68,8 +68,9 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪  " Would you trust Artificial Intelligence? " AI Lecture Series, Institution for Digital Human Rights, Seoul (Dec.2017)<br>   
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> Open Net Korea, Seoul <br>
   <br>
- <strong> MEDIA </strong> <br>  
-▪ <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=192351"> 'COVID-19 Contact Tracing and Data Retention'</a> MediaUs (Sept.2020)  <br>   
+ <strong> MEDIA </strong> <br>   
+▪ <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=192351"> 'COVID-19 Contact Tracing and Data Retention'</a> MediaUs (Sept.2020) <br>  
+▪ <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=208888">'South Korea:The Scope of Contact Tracing for COVID-19 and Social Stigma'</a> MediaToday (Aug.2020)  <br>  
 ▪   <a href="https://dig.watch/sessions/session-fakenews">'Fake News Session'</a>, 2018 Internet Governance Forum report, Geneva Internet Platform (Nov.2018) <br>
 ▪ <a href="https://www.donga.com/news/article/all/20170225/83056178/1">'AI becomes smarter…Is it a simple machine or artificial person?'</a>, Dong-a Ilbo (Feb.2017)<br>
 ▪ <a href="https://www.boannews.com/media/view.asp?idx=57022&kind=3">'Blockchain Platform, Hacking, and Security' </a> Boan News (Sept.2017)<br>
