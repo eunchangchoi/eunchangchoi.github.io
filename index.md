@@ -44,13 +44,13 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪   <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks: How Social Production Transforms Markets and Freedom</i> </a> (Book Excerpts in Korean) <br>
 <br>    
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
-▪  'Scientific Risk and Scientific Uncertainty' Technology and Society Forum, Seoul (Sept 24, 2020)<br>
-▪  'The Global Landscape of AI Ethics Principles: Between Soft Law and Hard Law' Tutorial, Korea Internet Governance Forum (Aug. 2020) <br> 
+▪  'Scientific Risk and Scientific Uncertainty' Technology and Society Forum, Seoul National University (Sept 24, 2020)<br>
+▪  'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?' Tutorial, Korea Internet Governance Forum (Aug. 2020) <br> 
 ▪  'South Korea's Tracing for COVID-19 Contacts: A Balance between Public Health and Privacy' <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slide</a>, <a href="https://www.youtube.com/watch?v=cEhrZUKgGPk"> Video </a>, (Aug. 2020) <br> 
 ▪  'Business Ethics for Ethical AI: The Function of AI Ethics Board' The Korea Academy of Business Ethics Conference (Aug.2020) <br> 
 ▪  <a href="https://youtu.be/UE72pdH8kBU">'Medical Misinformation and Scientific Uncertainty: COVID19, Ebola, and HIV/AIDS'</a> Korea Society of Internet Ethics<br>
 ▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercials and Copyrighs'</a> Cybercommunication Academic Society, Seoul (2020)<br>
-▪  'How Myths & Misinformation about COVID 19 Obstruct Public Health Care', Graduate School of Public Health, Yonsei Univ (2020)<br>
+▪  'How Myths & Misinformation about COVID 19 Obstruct Public Health Care', Graduate School of Public Health, Yonsei University (2020)<br>
 ▪  'The Risk Perception of AI', AI Policy Forum, Korean Associaton for Artificial Intelligence & Law (Oct. 2019) <br>
 ▪  <a href="https://www.diplomacy.edu/blog/will-algorithms-make-safe-decisions-foreign-affairs">'Will Algorithms Make Safe Decisions in Foreign Affairs?' </a> AI Lab, DiploFoundation, Geneva, Switzerland <br>
 ▪   <a href="https://clawar.org/wp-content/uploads/2019/11/ICRES2019_p64_paper_4.pdf">"The Making of South Korea's Robot Ethics Charter"</a>, <a href="https://www.icres2019.org/"> International Conference on Robot Ethics and Standards</a>, London, UK (2019)<br>
