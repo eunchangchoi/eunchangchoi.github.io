@@ -46,7 +46,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
 ▪  'Scientific Risk and Scientific Uncertainty' Technology and Society Forum, Seoul (Sept 24, 2020)<br>
 ▪  'The Global Landscape of AI Ethics Principles: Between Soft Law and Hard Law' Tutorial, Korea Internet Governance Forum (2020) <br> 
-▪  <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slide</a> <a href="https://www.youtube.com/watch?v=cEhrZUKgGPk Video"</a>,'South Korea's Tracking for COVID-19 Conacts: Balancing Public Health & Data Privacy'</a>, Korea Internet Governance Forum (2020) <br> 
+▪  <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slide</a> <a href="https://www.youtube.com/watch?v=cEhrZUKgGPk Video"</a>,'South Korea's Tracking for COVID-19 Conacts: Balancing Public Health & Data Privacy'</a> (2020) <br> 
 ▪  'Business Ethics for Ethical AI: The Function of AI Ethics Board' The Korea Academy of Business Ethics Conference (Aug.2020) <br> 
 ▪  <a href="https://youtu.be/UE72pdH8kBU">'Medical Misinformation and Scientific Uncertainty: COVID19, Ebola, and HIV/AIDS'</a> Korea Society of Internet Ethics<br>
 ▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercials and Copyrighs'</a> Cybercommunication Academic Society, Seoul (2020)<br>
