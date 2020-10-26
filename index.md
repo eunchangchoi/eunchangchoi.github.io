@@ -60,7 +60,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪   <a href="https://youtu.be/uRsC_ypHGCg?t=1348">'IP Address and Cross-border Cooperation for Resolving the Cyber Attribution Challenges'</a>, <a href="https://conference.apnic.net/48/program/schedule/#/day/6/cooperation-sig"> APNIC 48</a>, Chiang Mai, Thailand (2019) <br>
 ▪   <a href="https://www.ftp.asia/index.php/s/tLZWIWMG1Qp7oA0">'Build Concept on AI Society for Good: Quest for Inclusion'</a>, <a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
 ▪   <a href="https://www.ftp.asia/index.php/s/HGkuD3YVUBssKrP">'Coping with Misinformation in an Deluge of Information'</a>, <a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
-▪   'AI Governance'in <a href="https://kpc4ir.kaist.ac.kr/index.php?mid=kpc4ir_events&document_srl=684"> TECH & TALK Conference</a> KAIST, Seoul (May. 2019)<br>
+▪   'AI Governance'in <a href="https://kpc4ir.kaist.ac.kr/index.php?mid=kpc4ir_events&document_srl=684"> TECH & TALK Conference</a>,<a href="https://kpc4ir.kaist.ac.kr/"> Korea Policy Center for the 4th Industrial Revolution(KPC4IR), KAIST,</a> Seoul (May. 2019)<br>
 ▪   <a href="https://youtu.be/92cmsMv6xhQ?t=451">'AI Application and Ethics & Governance: Multistakeholder Approach'</a>, 2019 <a href="http://krigf.kr/"> Korea Internet Governance Forum</a>, Seoul, South Korea <br>
 ▪   'AI Ethics, Policies & Governance: A Global Overview' Korea Society of Internet Ethics (Nov.2018) <br>
 ▪   'Artificial Intelligence Applications for Global Public Health' National Medical Center(NMC), Seoul, South Korea (Oct. 2018)<br>
