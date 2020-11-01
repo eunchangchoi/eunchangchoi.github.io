@@ -44,7 +44,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪   <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks: How Social Production Transforms Markets and Freedom</i> </a> (Book Excerpts in Korean) <br>
 <br>    
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
-▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit 2020</a>, Seoul (Dec. 2020)<br> 
+▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit 2020 </a>, Seoul (Dec. 2020)<br> 
 ▪  'Blockchain in Media Value Chain and Copyrights Management', Cybercommunication Academic Society, Seoul (Nov. 2020)<br> 
 ▪  'Blockchain for Devleopment Agenda(SDGs)', 46th Development Cooperation Forum, <a href="http://www.koica.go.kr/sites/koica_en/index.do"> KOICA </a>, <a href="https://youtu.be/BunQy8hsnVQ?t=5742"> Video </a> (Oct. 2020)<br> 
 ▪  'Scientific Risk and Scientific Uncertainty' Technology and Society Forum, Seoul National University (Sept 24, 2020)<br>
