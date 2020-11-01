@@ -44,6 +44,8 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪   <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks: How Social Production Transforms Markets and Freedom</i> </a> (Book Excerpts in Korean) <br>
 <br>    
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
+▪  'Blockchain in Media Value Chain and Copyrights' Cybercommunication Academic Society, Seoul (Nov. 2020)
+▪  <a href="https://youtu.be/BunQy8hsnVQ?t=5742">'Applications of Blockchain for Devleopment Agenda (SDGs)'</a> 46th Development Cooperation Forum, <a href="http://www.koica.go.kr/sites/koica_en/index.do"> Korea International Cooperation Agency</a> (Oct. 2020)<br> 
 ▪  'Scientific Risk and Scientific Uncertainty' Technology and Society Forum, Seoul National University (Sept 24, 2020)<br>
 ▪  'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?' Tutorial, Korea Internet Governance Forum (Aug. 2020) <br> 
 ▪  'South Korea's Tracing for COVID-19 Contacts: A Balance between Public Health and Privacy' <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slides </a>, <a href="https://youtu.be/4UZlkRLKGes"> Video </a> (Aug. 2020) <br> 
