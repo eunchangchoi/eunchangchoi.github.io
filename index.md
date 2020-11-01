@@ -83,7 +83,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
   
  <br>   
   <strong> ACADEMIC INTERESTS </strong> <br>   
-   Law and Policy for Information Technology and Bio-Science<br> 
+   Law and Policy for Information Technology and Biosciences <br> 
    AI: Ethical and Legal Challenges (Governing AI), Accountability for Algorithm <br>   
    Business Ethics for Ethical AI (AI Ethics Board) <br>  
    The Power of Digital Platform, Platform Liability <br>  
@@ -93,5 +93,5 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
    Data Ethics in relation to Automated Decision-making, Predictive Analytics <br> 
    Digital Public Sphere for Democracy, Algorithmic Activism <br>  
    Pharmaceutical Patents and Global Health Inequality: Access to Medicines <br>  
-   The Cultural History of Intellectual Property Law <br>    
+   The Cultural History of Intellectual Property Law and Science<br>    
    
