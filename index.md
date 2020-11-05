@@ -38,7 +38,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪   <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791130437002&orderClick=357"> <i>The Layered Model of Internet Regulation, </i></a> Publisher Communication Books (2015) <br> 
 ▪    "Solving the AI Accountability Gap" in Co-authored <a href="https://www.yes24.com/Product/Goods/62006191?scode=032&OzSrank=2"> <i> Artificial Intelligence and Power Shift,</i> </a> Publisher Samin(三仁) (2018) <br> 
 ▪   "Algorithm Governance" <a href="https://stepi.re.kr/app/publish/view.jsp?mode=new&cmsCd=CM0012&div=&categCd=A0505&ntNo=33&sdt=&edt=&src=&srcTemp=&opt=N&currtPg=5">Future Horizon,</a> Science and Technology Policy Institute, Summer 2017 <br> 
-▪   Co-authored <a href= "http://view.copyright.or.kr:8080/SynapDocViewServer/viewer/doc.html?key=000000006ba186290172c9470e3d36b4&contextPath=/SynapDocViewServer"> <i> Digital Copyright Terminology </i> </a>, Korea Copyright Commission (2016) <br>
+▪   Co-authored <a href= "http://view.copyright.or.kr:8080/SynapDocViewServer/viewer/doc.html?key=000000006ba186290172c9470e3d36b4&contextPath=/SynapDocViewServer"> <i> Copyright-related Tech Terminology </i> </a>, <a href="https://www.copyright.or.kr/eng/main.do"> Korea Copyright Commission </a>(2016) <br>
 ▪ "Legal and Ethical Controversies of AI" <a href="https://www.stepi.re.kr/app/publish/view.jsp?mode=topic&cmsCd=CM0160&ntNo=28&categCd=A0505&drctr=A030403&sdt=&edt=&src=&srcTemp=&sort=PUBDATE&currtPg=1"> Future Horizon,</a> Science and Technology Policy Institute, Spring 2016<br> 
 ▪  Book Translation <a href="https://mitpress.mit.edu/books/memes-digital-culture"> <i> Memes in Digital Culture,</i></a> Publisher MIT Press (2013), Hanul MPlus (2020) <br> 
 ▪  Book Translation <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="> <i> The Internet of Things,</i> </a> Publisher MIT Press (2015), Hanul MPlus (2017)<br> 
@@ -70,7 +70,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪   'AI Ethics, Policies & Governance: A Global Overview' The Korea Society of Internet Ethics Conference (Nov.2018) <br>
 ▪   <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News Workshop'</a>, <a href="https://igf2018.fr/"> 2018 UN Internet Governance Forum </a> at UNESCO, Paris, France (Nov. 2018) <br>
 ▪   'Artificial Intelligence Applications for Global Public Health' National Medical Center(NMC), Seoul, South Korea (Oct. 2018)<br>
-▪  " Would you trust Artificial Intelligence? " AI Lecture Series, Institution for Digital Human Rights, Seoul (Dec.2017)<br>   
+▪  " Would you trust Artificial Intelligence?" AI Lecture Series, Institution for Digital Human Rights, Seoul (Dec.2017)<br>   
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> OpenNet Korea, Seoul (2015) <br>
   <br>
  <strong> MEDIA </strong> <br>   
