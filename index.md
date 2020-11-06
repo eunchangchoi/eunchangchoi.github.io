@@ -55,7 +55,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪  'South Korea's Tracing for COVID-19 Contacts: A Balance between Public Health and Privacy', <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slides </a>, <a href="https://youtu.be/4UZlkRLKGes"> Video </a> (Aug. 2020) <br> 
 ▪  'Business Ethics for Ethical AI: The Function of AI Ethics Board' The Korea Academy of Business Ethics Conference (Aug.2020) <br> 
 ▪  'Medical Misinformation and Scientific Uncertainty: COVID19, Ebola, and HIV/AIDS', The Korea Society of Internet Ethics Conference <br>
-▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercials and Copyrighs'</a> Cybercommunication Academic Society, Seoul (2020)<br>
+▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercials and Copyright'</a> Cybercommunication Academic Society, Seoul (2020)<br>
 ▪  'How Unscientific Myths Obstruct Health Care during Pandemics in History', Graduate School of Public Health, Yonsei Univ (2020)<br>
 ▪  'The Risk Perception of AI', AI Policy Forum, Korean Associaton for Artificial Intelligence & Law (Oct. 2019) <br>
 ▪  <a href="https://www.diplomacy.edu/blog/will-algorithms-make-safe-decisions-foreign-affairs">'Will Algorithms Make Safe Decisions in Foreign Affairs?' </a> AI Lab, DiploFoundation, Geneva, Switzerland <br>
