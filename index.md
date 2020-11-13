@@ -49,8 +49,8 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit 2020, </a> COEX, Seoul (Dec. 2020)<br> 
 ▪  'Blockchain in Media Value Chain and Copyrights Management', Cybercommunication Academic Society, Seoul (Nov. 2020)<br> 
-▪  <a href="https://www.intgovforum.org/multilingual/content/igf-2020-main-session-nris-role-of-the-internet-in-emergency-situations">'The Role of the Internet in Emergency Situations'</a>,The United Nation's 15th Internet Governance Forum (Nov.14 2020) <br>  
-▪  'Blockchain for Humanity and Devleopment Agenda', the 46th Development Cooperation Forum, <a href="http://www.koica.go.kr/sites/koica_en/index.do"> KOICA </a>, <a href="https://youtu.be/BunQy8hsnVQ?t=5742"> Video </a> (Oct. 2020)<br> 
+▪  <a href="https://www.intgovforum.org/multilingual/content/igf-2020-main-session-nris-role-of-the-internet-in-emergency-situations">'The Role of the Internet in Emergency Situations'</a>, United Nation's 15th Internet Governance Forum (Nov. 2020) <br>  
+▪  'Blockchain for Humanity and Devleopment Agenda', 46th Development Cooperation Forum, <a href="http://www.koica.go.kr/sites/koica_en/index.do"> KOICA </a>, <a href="https://youtu.be/BunQy8hsnVQ?t=5742"> Video </a> (Oct. 2020)<br> 
 ▪  'Scientific Risk and Scientific Uncertainty' Technology and Society Forum, Seoul National University (Sept 24, 2020)<br>
 ▪  'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?', Korea Internet Governance Forum (Aug. 2020) <br> 
 ▪  'South Korea's Tracing for COVID-19 Contacts: A Balance between Public Health and Privacy', <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slides </a>, <a href="https://youtu.be/4UZlkRLKGes"> Video </a> (Aug. 2020) <br> 
