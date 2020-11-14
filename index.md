@@ -48,6 +48,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 <br>    
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul 2020, </a> COEX Mall, <a href="https://www.digitalmarketingkorea.co.kr"> DMK </a>, Seoul (Dec.2020)<br> 
+▪  'The Ethics of Data Harvesting : Mobile Phones Apps' The Korea Academy of Business Ethics Conference (Nov.2020) <br> 
 ▪  'Blockchain in Media Value Chain and Copyrights Management', Cybercommunication Academic Society, Seoul (Nov.2020)<br> 
 ▪  <a href="https://www.intgovforum.org/multilingual/content/igf-2020-main-session-nris-role-of-the-internet-in-emergency-situations">'The Role of the Internet in Emergency Situations'</a>,The United Nations Internet Governance Forum, <a href="https://youtu.be/HzBV6YABr-I?t=4601"> Video </a>(Nov.2020) <br>  
 ▪  'Blockchain for Humanity and Development Agenda', 46th Development Cooperation Forum of<a href="http://www.koica.go.kr/sites/koica_en/index.do"> KOICA </a>, <a href="https://youtu.be/BunQy8hsnVQ?t=5742"> Video </a> (Oct. 2020)<br> 
