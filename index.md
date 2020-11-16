@@ -53,10 +53,10 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪  <a href="https://www.intgovforum.org/multilingual/content/igf-2020-main-session-nris-role-of-the-internet-in-emergency-situations">'The Role of the Internet in Emergency Situations'</a>,The United Nations Internet Governance Forum, <a href="https://youtu.be/HzBV6YABr-I?t=4601"> Video </a>(Nov.2020) <br>  
 ▪  'Blockchain for Humanity and Development Agenda', 46th Development Cooperation Forum of<a href="http://www.koica.go.kr/sites/koica_en/index.do"> KOICA </a>, <a href="https://youtu.be/BunQy8hsnVQ?t=5742"> Video </a> (Oct. 2020)<br> 
 ▪  'Scientific Risk and Scientific Uncertainty' Technology and Society Forum, Seoul National University (Sept. 2020)<br>
-▪  'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?', Korea Internet Governance Forum (Aug. 2020) <br> 
+▪  <a href="https://igf.or.kr/2554">'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?'</a>, Korea Internet Governance Forum (Aug. 2020) <br> 
 ▪  'South Korea's Tracing for COVID-19 Contacts: A Balance between Public Health and Privacy', <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slides </a>, <a href="https://youtu.be/4UZlkRLKGes"> Video </a> (Aug. 2020) <br> 
-▪  'Business Ethics for Ethical AI: The Function of AI Ethics Board' The Korea Academy of Business Ethics Conference (Aug.2020) <br> 
-▪  'Medical Misinformation and Scientific Uncertainty: COVID19, Ebola, and HIV/AIDS', The Korea Society of Internet Ethics Conference <br>
+▪  'Business Ethics for Ethical AI: The Function of AI Ethics Board'Korea Academy of Business Ethics Conference (Aug.2020) <br> 
+▪  'Medical Misinformation and Scientific Uncertainty: COVID19, Ebola and HIV/AIDS', Korea Society of Internet Ethics Conference <br>
 ▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercials and Copyright'</a> Cybercommunication Academic Society, Seoul (2020)<br>
 ▪  'How Unscientific Myths Obstruct Health Care during Pandemics in History', Graduate School of Public Health, Yonsei Univ (2020)<br>
 ▪  'The Risk Perception of AI', AI Policy Forum, Korean Associaton for Artificial Intelligence & Law (Oct. 2019) <br>
@@ -71,9 +71,10 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪   'AI Governance'in <a href="https://kpc4ir.kaist.ac.kr/index.php?mid=kpc4ir_events&document_srl=684"> TECH & TALK Conference</a>,<a href="https://kpc4ir.kaist.ac.kr/"> Korea Policy Center for 4th Industrial Revolution, KAIST,</a> Seoul (May. 2019)<br>
 ▪   <a href="https://youtu.be/92cmsMv6xhQ?t=451">'AI Application and Ethics & Governance: Multistakeholder Approach'</a>, 2019 <a href="http://krigf.kr/"> Korea Internet Governance Forum</a>, Seoul, South Korea <br>
 ▪   'AI Ethics, Policies & Governance: A Global Overview' The Korea Society of Internet Ethics Conference (Nov.2018) <br>
-▪   <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News Workshop'</a>, <a href="https://igf2018.fr/"> 2018 UN Internet Governance Forum </a> at UNESCO, Paris, France (Nov. 2018) <br>
+▪   <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News Workshop'</a>, <a href="https://igf2018.fr/"> The UN Internet Governance Forum </a> at UNESCO, Paris, France (Nov.2018) <br>
 ▪   'Artificial Intelligence Applications for Global Public Health' National Medical Center(NMC), Seoul, South Korea (Oct. 2018)<br>
 ▪  " Would you trust Artificial Intelligence?" AI Lecture Series, Institution for Digital Human Rights, Seoul (Dec.2017)<br>   
+▪ <a href=https://cis.snu.ac.kr/sub2/2_2_6_3.php?mode=view&number=223&page=1&b_name=meet1_3">'Cybersecurity in the age of Internet of Things'</a> Seoul National University (Jan. 2017)
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> OpenNet Korea, Seoul (2015) <br>
   <br>
  <strong> IN THE NEWS </strong> <br>   
