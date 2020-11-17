@@ -55,9 +55,9 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪  <a href="https://www.intgovforum.org/multilingual/content/igf-2020-main-session-nris-role-of-the-internet-in-emergency-situations">'The Role of the Internet in Emergency Situations'</a>,The United Nations Internet Governance Forum, <a href="https://youtu.be/HzBV6YABr-I?t=4601"> Video </a>(Nov.2020) <br>  
 ▪  'Blockchain for Humanity and Development Agenda', 46th Development Cooperation Forum of<a href="http://www.koica.go.kr/sites/koica_en/index.do"> KOICA </a>, <a href="https://youtu.be/BunQy8hsnVQ?t=5742"> Video </a> (Oct. 2020)<br> 
 ▪  'Scientific Risk and Scientific Uncertainty' Technology and Society Forum, Seoul National University (Sept. 2020)<br>
-▪  <a href="https://igf.or.kr/2554">'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?'</a>, Korea Internet Governance Forum (Aug. 2020) <br> 
+▪  <a href="http://www.igf.or.kr/2554">'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?'</a>, Korea Internet Governance Forum (Aug. 2020) <br> 
 ▪  'South Korea's Tracing for COVID-19 Contacts: A Balance between Public Health and Privacy', <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slides </a>, <a href="https://youtu.be/4UZlkRLKGes"> Video </a> (Aug. 2020) <br> 
-▪  'Business Ethics for Ethical AI: The Function of AI Ethics Board'Korea Academy of Business Ethics Conference (Aug.2020) <br> 
+▪  'Business Ethics for Ethical AI: The Function of AI Ethics Board' Korea Academy of Business Ethics Conference (Aug.2020) <br> 
 ▪  'Medical Misinformation and Scientific Uncertainty: COVID19, Ebola and HIV/AIDS', Korea Society of Internet Ethics Conference <br>
 ▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercials and Copyright'</a> Cybercommunication Academic Society, Seoul (2020)<br>
 ▪  'How Unscientific Myths Obstruct Health Care during Pandemics in History', Graduate School of Public Health, Yonsei Univ (2020)<br>
