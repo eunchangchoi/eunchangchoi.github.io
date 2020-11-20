@@ -81,8 +81,8 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> OpenNet Korea, Seoul (2015) <br>
   <br>
  <strong> IN THE NEWS, INTERVIEWS</strong> <br>   
-▪ <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52"> 'S.Korea's Data based COVID 19 Contact Tracing, Question of Legality, Cultural Norms, and Privacy Risk Perception'</a> Interview with Students, Sciences Po (The Paris Institute of Political Studies) Le Havre (Nov.2020) <br>  
-▪ 'Autonomous Systems, Robustness, Inherent Limits and Data' Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
+▪ <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52"> 'S.Korea's Data based COVID 19 Contact Tracing, Question of Legality, Cultural Norms, and Privacy Risk Perception'</a> <br>  Interview with Students, Sciences Po (The Paris Institute of Political Studies) Le Havre (Nov.2020) <br>  
+▪ 'Autonomous Systems, Robustness, Limits and Data' Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
 ▪ <a href="http://www.aitimes.com/news/articleView.html?idxno=133368"> 'AI Policy report released by AI Governance Forum at National Assembly of Korea'</a>, AI Times (Nov.7.2020)<br>  
 ▪ <a href="https://www.mk.co.kr/news/economy/view/2020/10/1097127/">'Blockchain for Anti-Corruption and Financial Inclusion for the Unbanked'</a> Maekyung Business News (Oct. 2020)<br>  
 ▪ <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=192351"> 'COVID-19 Contact Tracing and Data Retention'</a> MediaUs (Sept.2020) <br>  
