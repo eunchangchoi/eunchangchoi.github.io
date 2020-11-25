@@ -76,7 +76,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪   'Artificial Intelligence Applications for Global Public Health' National Medical Center(NMC), Seoul, South Korea (Oct. 2018)<br>
 ▪  <a href="http://idr.jinbo.net/232"> 'Will You Trust Artificial Intelligence's Decision?'</a> AI Lecture Series, Institution for Digital Human Rights, Seoul (Dec.2017)<br> 
 ▪  <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=236&page=1&b_name=meet1_2"> 'Analysis on Stanford AI 100 Report'</a> Institute of International Studies, Seoul National University (Nov. 2016) <br>
-▪  <a href="https://blog.naver.com/gp3project/221112176044">'Can Blockchain Technology Help the Unbanked aound the World?'</a> Povertyinfo.org's blog (Oct.2017)<br>
+▪  <a href="https://blog.naver.com/gp3project/221112176044">'Can Blockchain Technology Help the Unbanked around the World?: Financial Inclusion'</a> Povertyinfo.org's blog (Oct.2017)<br>
 ▪ <a href= "https://www.cis.snu.ac.kr/sub2/2_2_6_3.php?mode=view&number=223&page=1&b_name=meet1_3"> 'Cybersecurity in The Age of Internet of Things'</a> Seoul National University (Jan. 2017)<br> 
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> OpenNet Korea, Seoul (2015) <br>
   <br>
