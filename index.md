@@ -60,7 +60,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪  'Medical Misinformation and Scientific Uncertainty: COVID19, Ebola and HIV/AIDS', Korea Society of Internet Ethics Conference <br>
 ▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercials and Copyright'</a> Cybercommunication Academic Society, Seoul (2020)<br>
 ▪  'How Unscientific Myths Obstruct Health Care during Pandemics in History', Graduate School of Public Health, Yonsei Univ (2020)<br>
-▪  'The Risk Perception of AI', AI Policy Forum, Korean Associaton for Artificial Intelligence & Law (Oct. 2019) <br>
+▪  'The Risk Perception of AI', AI Policy Forum, Microsoft Korea (Oct. 2019) <br>
 ▪  <a href="https://www.diplomacy.edu/blog/will-algorithms-make-safe-decisions-foreign-affairs">'Will Algorithms Make Safe Decisions in Foreign Affairs?' </a> AI Lab, DiploFoundation, Geneva, Switzerland <br>
 ▪   <a href="https://clawar.org/wp-content/uploads/2019/11/ICRES2019_p64_paper_4.pdf">"The Making of South Korea's Robot Ethics Charter"</a>, <a href="https://www.icres2019.org/"> International Conference on Robot Ethics and Standards</a>, London, UK (2019)<br>
 ▪   <a href= "https://www.intgovforum.org/multilingual/content/igf-2019-ws-182-data-governance-for-smarter-city-mobility">'Data Governance for Smarter City Mobility'</a>  <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html"> The United Nations Internet Governance Forum</a>, Berlin, Germany (2019)<br> 
