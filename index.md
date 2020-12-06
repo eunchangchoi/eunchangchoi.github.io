@@ -100,12 +100,12 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
    AI: Ethical and Legal Challenges (Governing AI), Accountability for Algorithm <br>   
    AI for Business Organizations and Global Public Good <br>
    Business Ethics for Ethical AI (AI Ethics Board) <br>  
-   Blockchain Regulation and Law <br>
    The Power of Digital Platform, Platform Liability <br>  
    Automated Content Moderation, Algorithmic Fair Use (Copyright) <br>   
    Big Data Governance, Data Privacy, Data Ownership <br>
    Data Ethics in relation to Automated Decision-making, Predictive Analytics <br> 
    Digital Public Sphere for Democracy, Algorithmic Activism <br>  
+   Patenting Nature; Gene Patents; Commodification of Bio-Information <br>  
    Pharmaceutical Patents and Global Health Inequality: Access to Medicines <br>  
    The Cultural History of Intellectual Property Law and Science<br>    
    
