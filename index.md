@@ -98,11 +98,11 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
   <strong> ACADEMIC INTERESTS </strong> <br>   
    Law and Policy for Emerging Technologies and Digital Media <br>   
    AI: Ethical and Legal Challenges (Governing AI), Accountability for Algorithm <br>   
-   AI for Business Organizations and Business Ethics <br>  
-   The Power of Digital Platform, Platform Liability,Algorithmic Activism <br>  
-   Automated Content Moderation, Algorithmic Fair Use (Copyright) <br>   
    Big Data Governance, Data Privacy, Data Ownership <br> 
+   AI for Business Organizations and Business Ethics <br>  
+   The Power of Digital Platform, Platform Liability, Algorithmic Activism <br>  
+   Automated Content Moderation, Algorithmic Fair Use (Copyright) <br>   
    Patenting Nature; Gene Patents; Commodification of Bio-Information <br>  
    Pharmaceutical Patents and Global Health Inequality: Access to Medicines <br>  
-   The Cultural History of Intellectual Property Law<br>    
+   The Economic History of Intellectual Property and Technology <br>    
    
