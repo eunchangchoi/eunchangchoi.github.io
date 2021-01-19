@@ -50,7 +50,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 <br>    
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul 2020, </a> COEX Mall, <a href="https://www.digitalmarketingkorea.co.kr"> DMK </a>, Seoul (Dec.2020)<br> 
-▪ 'Blockchain in Media Value Chain and Copyrights Management'</a>, <a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134"> Cybercommunication Academic Society</a>, Seoul (Nov.2020)<br> 
+▪ 'Blockchain in Media Value Chain and Copyrights Management',<a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134"> Cybercommunication Academic Society</a>, Seoul (Nov.2020)<br> 
 ▪  <a href="https://www.intgovforum.org/multilingual/content/igf-2020-main-session-nris-role-of-the-internet-in-emergency-situations">'The Role of the Internet in Emergency Situations'</a>, The United Nations Internet Governance Forum, (Nov.2020) <br>  
 ▪  <a href="http://www.koica.go.kr/koica_kr/985/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa29pY2Ffa3IlMkYyOTMlMkYzNjM4NTklMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2"> 'Blockchain for Humanity and Development Agenda'</a>, The 46th Development Cooperation Forum of<a href="http://www.koica.go.kr/sites/koica_en/index.do"> KOICA </a>, <a href="https://youtu.be/BunQy8hsnVQ?t=5742"> Video </a> (Oct. 2020)<br> 
 ▪  'Scientific Risk and Scientific Uncertainty' Technology and Society Forum, Seoul National University (Sept. 2020)<br>
@@ -98,8 +98,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
   <strong> ACADEMIC INTERESTS </strong> <br>   
    Law and Policy for Emerging Technologies and Digital Media <br>   
    AI: Ethical and Legal Challenges (Governing AI), Accountability for Algorithm <br>   
-   AI for Business Organizations and Global Public Good <br>
-   Business Ethics for Ethical AI (AI Ethics Board) <br>  
+   AI for Business Organizations and Business Ethics <br>  
    The Power of Digital Platform, Platform Liability <br>  
    Automated Content Moderation, Algorithmic Fair Use (Copyright) <br>   
    Big Data Governance, Data Privacy, Data Ownership <br>
