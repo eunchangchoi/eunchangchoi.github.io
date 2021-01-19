@@ -82,7 +82,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
   <br>
  <strong> IN THE NEWS, INTERVIEWS</strong> <br>   
 ▪ Contributed article <a href="https://zdnet.co.kr/view/?no=20201201123601"> "Personal Data Class Actions in Europe"</a>, ZDNet Korea (Dec.1, 2020) <br>
-▪ <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52"> 'S.Korea's Data based COVID 19 Contact Tracing, Question of Legality, Cultural Norms, and Privacy Risk Perception'</a> <br> Interview with students at Sciences Po (The Paris Institute of Political Studies) Le Havre, France (Nov.2020) <br>  
+▪ <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52"> 'S.Korea's COVID 19 Contact Tracing, Legality, and Privacy Perception'</a> <br> Interview with Sciences Po Le Havre, France (Nov.2020) <br>  
 ▪ 'Autonomous Systems, Robustness, Limits and Data' Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
 ▪ <a href="http://www.aitimes.com/news/articleView.html?idxno=133368"> 'AI Policy report released by AI Governance Forum at National Assembly of Korea'</a>, AI Times (Nov.7.2020)<br>  
 ▪ <a href="https://www.mk.co.kr/news/economy/view/2020/10/1097127/">'Blockchain for Anti-Corruption and Financial Inclusion for the Unbanked'</a> Maekyung Business News (Oct. 2020)<br>  
