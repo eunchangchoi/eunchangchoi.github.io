@@ -15,10 +15,10 @@ title: "Eun Chang Choi"
  <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791130435473"><img style="vertical-align:top;height:202px;width:162px;" src="images/book2.jpg"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="><img style="vertical-align:top;height:202px;width:164px;" src="images/book3.jpg"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791130437002&orderClick=357"><img style="vertical-align:top;height:202px;width:162px;" src="images/book4.jpg"></a> <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788964361436&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:162px;" src="images/book5.jpg"> </a>
-  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=17090303&barcode=9788962623222"><img style="vertical-align:top;height:200px;width:159px;" src="images/book6.png"></a>
-  <a href="http://view.copyright.or.kr:8080/SynapDocViewServer/viewer/doc.html?key=000000006ba186290172c9470e3d36b4&contextPath=/SynapDocViewServer"><img style="vertical-align:top;height:202px;width:159px;" src="images/book7.png"></a>
+  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=17090303&barcode=9788962623222"><img style="vertical-align:top;height:200px;width:160px;" src="images/book6.png"></a>
+  <a href="http://view.copyright.or.kr:8080/SynapDocViewServer/viewer/doc.html?key=000000006ba186290172c9470e3d36b4&contextPath=/SynapDocViewServer"><img style="vertical-align:top;height:202px;width:162px;" src="images/book7.png"></a>
   <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=263153213#"><img style="vertical-align:top;height:202px;width:159px;" src="images/book8.jpg"></a>
-  <img style="vertical-align:top;height:203px;width:298px;" src="images/book9.jpg">
+  <img style="vertical-align:top;height:200px;width:320px;" src="images/book9.jpg">
  <br>
  <br>
 <p style="font-size:1.1em">I,<a href="https://igf2019.sched.com/eunchangchoi"> 최은창 崔恩彰</a>,
