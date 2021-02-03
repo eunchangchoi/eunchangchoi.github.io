@@ -16,9 +16,9 @@ title: "Eun Chang Choi"
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="><img style="vertical-align:top;height:202px;width:164px;" src="images/book3.jpg"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791130437002&orderClick=357"><img style="vertical-align:top;height:202px;width:162px;" src="images/book4.jpg"></a> <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788964361436&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:162px;" src="images/book5.jpg"> </a>
   <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=17090303&barcode=9788962623222"><img style="vertical-align:top;height:200px;width:162px;" src="images/book6.png"></a>
-  <a href="http://view.copyright.or.kr:8080/SynapDocViewServer/viewer/doc.html?key=000000006ba186290172c9470e3d36b4&contextPath=/SynapDocViewServer"><img style="vertical-align:top;height:202px;width:166px;" src="images/book7.png"></a>
-  <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=263153213#"><img style="vertical-align:top;height:202px;width:159px;" src="images/book8.jpg"></a>
-  <img style="vertical-align:top;height:200px;width:326px;" src="images/book9.jpg">
+  <a href="http://view.copyright.or.kr:8080/SynapDocViewServer/viewer/doc.html?key=000000006ba186290172c9470e3d36b4&contextPath=/SynapDocViewServer"><img style="vertical-align:top;height:202px;width:165px;" src="images/book7.png"></a>
+  <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=263153213#"><img style="vertical-align:top;height:202px;width:161px;" src="images/book8.jpg"></a>
+  <img style="vertical-align:top;height:200px;width:327px;" src="images/book9.jpg">
  <br>
  <br>
 <p style="font-size:1.1em">I,<a href="https://igf2019.sched.com/eunchangchoi"> 최은창 崔恩彰</a>,
