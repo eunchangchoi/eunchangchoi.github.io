@@ -83,7 +83,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> OpenNet Korea, Seoul (2015) <br>
   <br>
  <strong> IN THE NEWS, INTERVIEWS</strong> <br>   
-▪ "Why Chatbots Fail?: Lesson from Lee Luda's Discriminatory Remarks", MIT Technology Review Korea (March, 2021)
+▪ "Why Chatbots Fail?:The Ethics of Lee Luda's Discriminatory Remarks", MIT Technology Review Korea (March, 2021)
 ▪ Contributed article <a href="https://zdnet.co.kr/view/?no=20201201123601"> "Personal Data Class Actions in Europe"</a>, ZDNet Korea (Dec.1, 2020) <br>
 ▪ <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">'S.Korea's COVID 19 Contact Tracing, Legality, and Privacy Risk'</a> Interview with Sciences Po, France (Nov.2020) <br>  
 ▪ 'Autonomous Systems, Robustness, and Data' Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
