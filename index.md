@@ -50,8 +50,8 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪   <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks: How Social Production Transforms Markets and Freedom</i> </a> (Book Excerpts in Korean) <br>
 <br>    
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
-▪  <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=209083"> Author Talk "Media Literacy Tackling Disinformation" in Factcheck Week Events,</a> <a href="https://edu.kcmf.or.kr/main/index.jsp"> Korea Community Media Foundation</a> (April 8, 2021) <br>
-▪  Experts Session, Asian Pacific Table-top Exercise on the Human Element in AWS, UNIDIR (25 Feb. 2021)<br>
+▪  <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=209083"> Author Talk "Media Literacy Tackling Disinformation"</a> in Factcheck Week Events, <a href="https://edu.kcmf.or.kr/main/index.jsp"> Korea Community Media Foundation</a> (April 8, 2021) <br>
+▪  Experts Session, Asian Pacific Table-top Exercise on the Human Element in AWS, <a href="http://unidir.org"> The United Nations Institute for Disarmament Research </a> (25 Feb. 2021)<br>
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit 2020, </a> Seoul COEX Mall, <a href="https://www.digitalmarketingkorea.co.kr"> DMK </a>, Seoul (Dec.2020)<br> 
 ▪ 'Blockchain in Media Value Chain and Copyrights Management',<a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134"> Cybercommunication Academic Society</a>, Seoul (Nov.2020)<br> 
 ▪  <a href="https://www.intgovforum.org/multilingual/content/igf-2020-main-session-nris-role-of-the-internet-in-emergency-situations">'The Role of the Internet in Emergency Situations'</a>, The United Nations Internet Governance Forum, (Nov.2020) <br>  
