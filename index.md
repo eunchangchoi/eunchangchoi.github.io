@@ -64,7 +64,6 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercials and Copyright'</a> Cybercommunication Academic Society, Seoul (2020)<br>
 ▪  'How Unscientific Myths Obstruct Health Care during Pandemics in History', Graduate School of Public Health, Yonsei Univ (2020)<br>
 ▪  'The Risk Perception of AI', AI Policy Forum, Microsoft Korea (Oct. 2019) <br>
-▪  <a href="https://www.diplomacy.edu/blog/will-algorithms-make-safe-decisions-foreign-affairs">'Will Algorithms Make Safe Decisions in Foreign Affairs?' </a> AI Lab, DiploFoundation, Geneva, Switzerland <br>
 ▪   <a href="https://clawar.org/wp-content/uploads/2019/11/ICRES2019_p64_paper_4.pdf">"The Making of South Korea's Robot Ethics Charter"</a>, <a href="https://www.icres2019.org/"> International Conference on Robot Ethics and Standards</a>, London, UK (2019)<br>
 ▪   <a href= "https://www.intgovforum.org/multilingual/content/igf-2019-ws-182-data-governance-for-smarter-city-mobility">'Data Governance for Smarter City Mobility'</a>  <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html"> The United Nations Internet Governance Forum</a>, Berlin, Germany (2019)<br> 
 ▪   <a href="https://www.youtube.com/watch?v=nsZJaB3fx0E&feature=youtu.be&t=1689">'National Collaborative Session on Cybersecurity'</a>, <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html">The United Nations Internet Governance Forum,</a> Berlin, Germany (2019) <br> 
@@ -92,6 +91,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪ <a href="https://www.mk.co.kr/news/economy/view/2020/10/1097127/">'Blockchain for Anti-Corruption and Financial Inclusion for the Unbanked'</a> Maekyung Business News (Oct. 2020)<br>  
 ▪ <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=192351"> 'COVID-19 Contact Tracing and Data Retention'</a> MediaUs (Sept.2020) <br>  
 ▪ <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=208888">'South Korea's Scope of Contact Tracing for COVID-19 and Social Stigma'</a> MediaToday (Aug.2020)  <br>  
+▪  <a href="https://www.diplomacy.edu/blog/will-algorithms-make-safe-decisions-foreign-affairs">'Will Algorithms Make Safe Decisions in Foreign Affairs?' </a> AI Lab, DiploFoundation, Geneva, Switzerland (Dec 17, 2019)<br>
 ▪   <a href="https://dig.watch/sessions/session-fakenews">'Fake News Session'</a>, 2018 Internet Governance Forum report, Geneva Internet Platform (Nov.2018) <br>
 ▪ <a href="https://www.donga.com/news/article/all/20170225/83056178/1">'AI becomes smarter…Is it a simple machine or artificial person?'</a>, Dong-a Ilbo (Feb.2017)<br>
 ▪ <a href="https://www.boannews.com/media/view.asp?idx=57022&kind=3">'Blockchain Platform, Hacking, and Security' </a> Boan Cybersecurity News (Sept.2017)<br>
