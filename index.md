@@ -101,7 +101,8 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
   
  <br>   
   <strong> ACADEMIC INTERESTS </strong> <br>   
-   Law and Policy for Emerging Technologies and Digital Media <br>   
+   Law, Science and Technology, Law in Context of Science Technology and Society(STS) <br>
+   Blockchain Law & Policy (Digital Assets; Digital Media) <br>   
    AI: Ethical and Legal Challenges (Governing AI), Accountability for Algorithm <br>   
    Big Data Governance, Data Privacy, Data Ownership <br> 
    AI for Business Organizations and Business Ethics <br>  
@@ -111,3 +112,5 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
    Pharmaceutical Patents and Global Health Inequality: Access to Medicines <br>  
    The Economic History of Intellectual Property and Technology <br>    
    
+   <strong> CONTACT </strong> <br>   
+   eunchang.choi <at>aya.yale.edu ; eunchang.choi <at> technologyreview.kr
