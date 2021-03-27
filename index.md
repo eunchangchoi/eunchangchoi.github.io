@@ -18,7 +18,7 @@ title: "Eun Chang Choi"
   <a href="http://www.yes24.com/Product/Goods/87629913"><img style="vertical-align:top;height:200px;width:162px;" src="images/book6.png"></a>
   <a href="http://view.copyright.or.kr:8080/SynapDocViewServer/viewer/doc.html?key=000000006ba186290172c9470e3d36b4&contextPath=/SynapDocViewServer"><img style="vertical-align:top;height:202px;width:163px;" src="images/book7.png"></a>
   <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791130337722&orderClick=LA6"><img style="vertical-align:top;height:202px;width:163px;" src="images/book8.jpg"></a>
-  <img style="vertical-align:top;height:200px;width:327px;" src="images/book9.jpg">
+  <img style="vertical-align:top;height:200px;width:327px;" src="images/book9.png">
  <br>
  <br>
 <p style="font-size:1.1em">I,<a href="https://igf2019.sched.com/eunchangchoi"> 최은창 崔恩彰</a>,
