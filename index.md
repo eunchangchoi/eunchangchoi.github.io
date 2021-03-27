@@ -33,8 +33,8 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 <br>
 <br>
  <strong> PUBLICATIONS (BOOKS, CHAPTERS) </strong> <br> 
-▪  Book Chapter, "Technology Risk" <i> The Key Concepts of Science Technology and Society </i> Publisher 社會評論(forthcoming, 2021) <br>
-▪  Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i> Publisher Hanul MPlus (forthcoming, 2021) <br>
+▪  Book Chapter, "Technology Risk" <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(forthcoming, 2021) <br>
+▪  Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming, 2021) <br>
 ▪  "The Difference of AI Risk Perception and Governance Modes" in <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791130337722&orderClick=LA6"><i> Ethics and Governance of AI </i>,</a> Publisher Pakyoungsa(博英社)(2021) <br>
 ▪  Book Translation <a href="https://mitpress.mit.edu/books/memes-digital-culture"> <i> Memes in Digital Culture,</i>,</a> Publisher MIT Press, Hanul MPlus (2021) <br> 
 ▪    "Gig Workers in the Shade of Platform Economy", Book Review: <a href="https://global.oup.com/academic/product/humans-as-a-service-9780198797012?cc=kr&lang=en&"> <i> Humans as a Service </i>,</a> by Jeremias Prassl (Oxford Univ Press)<br> 
