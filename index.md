@@ -33,8 +33,8 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 <br>
 <br>
  <strong> PUBLICATIONS (BOOKS, CHAPTERS) </strong> <br> 
-▪  Book Chapter <i> The Key Concepts of Science Technology and Society </i> (forthcoming, 2021) <br>
-▪  Book <i> The Automated Algorithms as a New Institution: A Socio-Legal Perspective on AI</i> (forthcoming, 2021) <br>
+▪  Book Chapter, "Technology Risk" <i> The Key Concepts of Science Technology and Society </i> Publisher 社會評論(forthcoming, 2021) <br>
+▪  Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i> Publisher Hanul MPlus (forthcoming, 2021) <br>
 ▪    "The Difference of AI Risk Perception and Governance Modes" in <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791130337722&orderClick=LA6"><i> Ethics and Governance of AI </i>,</a> Publisher Pakyoungsa(博英社)(2021) <br>
 ▪    "Gig Workers in the Shade of Platform Economy", Book Review: <a href="https://global.oup.com/academic/product/humans-as-a-service-9780198797012?cc=kr&lang=en&"> <i> Humans as a Service </i>,</a> by Jeremias Prassl (Oxford Univ Press)<br> 
 ▪    <a href="http://www.yes24.com/Product/Goods/87629913?scode=032&OzSrank=1"> <i> The Archaeology of Disinformation: How Fake News/Propaganda Manipulated Public Opinion from Ancient Rome to Social Media </i>,</a> Publisher 東亞細亞(2020). (Acclaims :<a href="https://www.pdjournal.com/news/articleView.html?idxno=71119"> PD Journal </a>, <a href="http://radio.sbs.co.kr/gorealra/player/?podId=P0000000874&vodId=V0000328499"> SBS Radio</a>, <a href="https://bit.ly/3aVFA4z"> Magazine Chaeg(冊)</a>, <a href="http://www.dt.co.kr/contents.html?article_no=2020030302103869061001"> Digital Times</a>, <a href="https://www.mk.co.kr/news/culture/view/2020/02/155878"> Maeil Business News</a>, <a href="https://www.asiae.co.kr/article/2020022811050161321&mobile=Y"> Asia Economy</a>, <a href="http://www.donga.com/news/article/all/20200216/99724450/1"> Dong-a Ilbo</a>, <a href="https://www.seoul.co.kr/news/newsView.php?id=20200313020005&wlog_tag3=naver"> Seoul Shinmun</a>,<a href="https://www.jnilbo.com/2020/02/20/2020022015101829561/"> Joennam Ilbo</a>, <a href="https://www.jjan.kr/news/articleView.html?idxno=2080584"> Jeonbuk Ilbo</a>, <a href="http://www.segye.com/newsView/20200214510584?OutUrl=naver"> Segya Ilbo</a>, <a href="https://www.kyosu.net/news/articleView.html?idxno=48054"> Kyosu Shinmun </a>, <a href="http://www.knnews.co.kr/news/articleView.php?idxno=1320910"> Kyoungnam News</a>,<a href="https://www.sedaily.com/NewsVIew/1YYX4ZYYI0"> Seoul Economic Daily</a>, <a href="https://www.ujeil.com/news/articleView.html?idxno=260732"> Ulsan Jeil</a>, <a href="https://www.hankookilbo.com/News/Read/202003161003380783"> Hankook Ilbo 1 </a>, <a href="https://www.hankookilbo.com/News/Read/202002131753026467?did=PA&dtype=3&dtypecode=4201">Hankook Ilbo 2 </a>,<a href="https://www.kwangju.co.kr/article.php?aid=1582191840689788026"> Kwangju Ilbo</a>, <a href="https://www.unipress.co.kr/news/articleView.html?idxno=771"> Uni Press </a>, <a href="https://www.fnnews.com/news/202002131701022957"> Financial News</a>, <a href="https://www.news1.kr/articles/?3842792"> News 1</a>,<a href="https://www.naeil.com/news_view/?id_art=341418"> Naeil News</a>, <a href="https://www.youtube.com/watch?v=MpeoOBXadZ8&feature=youtu.be&t=241"> Hellmouth </a>) <br> 
@@ -51,7 +51,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
 ▪   <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks: How Social Production Transforms Markets and Freedom</i> </a> (Book Excerpts in Korean) <br>
 <br>    
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
-▪  <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=209083"> Author Talk "Media Literacy Tackling Disinformation"</a> in Factcheck Week Events, <a href="https://edu.kcmf.or.kr/main/index.jsp"> Korea Community Media Foundation</a> (April 8, 2021) <br>
+▪  <a href="http://www.mhns.co.kr/news/articleView.html?idxno=502943"> Author Talk "Media Literacy Tackling Disinformation"</a> in Factcheck Week Event, organized by <a href="https://eng.kcc.go.kr/user/ehpMain.do KCC"></a>, <a href="https://edu.kcmf.or.kr/main/index.jsp"> Korea Community Media Foundation</a> (April 8, 2021) <br>
 ▪  Experts Session, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (25 Feb. 2021)<br>
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit 2020, </a> Seoul COEX Mall, <a href="https://www.digitalmarketingkorea.co.kr"> DMK </a>, Seoul (Dec.2020)<br> 
 ▪ 'Blockchain in Media Value Chain and Copyrights Management',<a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134"> Cybercommunication Academic Society</a>, Seoul (Nov.2020)<br> 
@@ -110,7 +110,8 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
    Automated Content Moderation, Algorithmic Fair Use (Copyright) <br>   
    Patenting Nature; Gene Patents; Commodification of Bio-Information <br>  
    Pharmaceutical Patents and Global Health Inequality: Access to Medicines <br>  
-   The Economic History of Intellectual Property and Technology <br>    
-   
+   The Economic History of Intellectual Property and Technology <br>   
+  
+  <br>
    <strong> CONTACT </strong> <br>   
-   eunchang.choi <at>aya.yale.edu ; eunchang.choi <at> technologyreview.kr
+   eunchang.choi < at > aya.yale.edu ; eunchang.choi < at > technologyreview.kr
