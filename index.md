@@ -101,7 +101,7 @@ From 2017, I have been working for <a href= "https://sites.google.com/a/kiga.or.
   
  <br>   
   <strong> ACADEMIC INTERESTS </strong> <br>   
-   Law, Science and Technology, Law in Context of Science Technology and Society(STS) <br>
+   Law, Science and Technology ; Law in Context of Science Technology and Society(STS) <br>
    Blockchain Law & Policy (Digital Assets; Digital Media) <br>   
    AI: Ethical and Legal Challenges (Governing AI), Accountability for Algorithm <br>   
    Big Data Governance, Data Privacy, Data Ownership <br> 
