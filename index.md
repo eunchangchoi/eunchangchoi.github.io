@@ -33,6 +33,7 @@ From 2017, I've been working for <a href= "https://sites.google.com/a/kiga.or.kr
 <br>
 <br>
  <strong> PUBLICATIONS (BOOKS, CHAPTERS) </strong> <br> 
+▪  "The History of Chatbots and Policy: Rethinking Eliza, GPT-3, Luda" "AI Outlook Vol.4 <a href="https://www.kisdi.re.kr/"> KISDI </a> (April 2021)<br>
 ▪  Book Chapter, "Technology Risk" <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(forthcoming, 2021) <br>
 ▪  Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming, 2021) <br>
 ▪  "The Difference of AI Risk Perception and Governance Modes" in <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791130337722&orderClick=LA6"><i> Ethics and Governance of AI </i>,</a> Publisher Pakyoungsa(博英社)(2021) <br>
