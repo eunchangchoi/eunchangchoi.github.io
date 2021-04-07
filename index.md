@@ -33,7 +33,7 @@ From 2017, I've been working for <a href= "https://sites.google.com/a/kiga.or.kr
 <br>
 <br>
  <strong> PUBLICATIONS (BOOKS, CHAPTERS) </strong> <br> 
-▪  "The History of Chatbots and Policy: Rethinking Eliza, GPT-3, Luda" <i> AI Outlook</i> Vol.4 <a href="https://www.kisdi.re.kr/eng/index.do"> KISDI </a> (April 2021)<br>
+▪  <a href="https://www.kisdi.re.kr/kisdi/fp/kr/publication/listResearch.do?cmd=fpListResearch&sControlNoSer=45&sMenuType=3&curPage=1&sSDate=&sEDate=&searchKey=TITLE&searchValue=&ordTxt=M001001"> "The History of Chatbots and Policy: Rethinking Eliza, GPT-3, Luda"</a> <i> AI Outlook</i> Vol.4 <a href="https://www.kisdi.re.kr/eng/index.do"> KISDI </a> (April 2021)<br>
 ▪  Book Chapter, "Technology Risk" <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(forthcoming, 2021) <br>
 ▪  Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming, 2021) <br>
 ▪  "The Difference of AI Risk Perception and Governance Modes" in <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791130337722&orderClick=LA6"><i> Ethics and Governance of AI </i>,</a> Publisher Pakyoungsa(博英社)(2021) <br>
@@ -53,7 +53,7 @@ From 2017, I've been working for <a href= "https://sites.google.com/a/kiga.or.kr
 ▪   <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks: How Social Production Transforms Markets and Freedom</i> </a> (Book Excerpts in Korean) <br>
 <br>    
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
-▪ Author Talk <a href="http://factcheckweek.com/html/02/01.php">"Media Literacy Tackling Disinformation" </a> Factcheck Conference, <a href="https://eng.kcc.go.kr/user/ehpMain.do KCC"> by KCC </a>, <a href="https://kcmf.or.kr/cms/"> Community Media Foundation</a> (April, 2021) <br>
+▪ Author Talk <a href="http://factcheckweek.com/html/02/01.php">"Media Literacy Tackling Disinformation" </a> Factcheck Conference, organized <a href="https://eng.kcc.go.kr/user/ehpMain.do KCC"> KCC </a> and <a href="https://kcmf.or.kr/cms/"> Community Media Foundation</a> (April, 2021) <br>
 ▪  Experts Session, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (25 Feb. 2021)<br>
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit 2020, </a> Seoul COEX Mall, <a href="https://www.digitalmarketingkorea.co.kr"> DMK </a>, Seoul (Dec.2020)<br> 
 ▪ 'Blockchain in Media Value Chain and Copyrights Management',<a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134"> Cybercommunication Academic Society</a>, Seoul (Nov.2020)<br> 
