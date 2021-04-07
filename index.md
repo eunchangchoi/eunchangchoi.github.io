@@ -53,7 +53,7 @@ From 2017, I've been working for <a href= "https://sites.google.com/a/kiga.or.kr
 ▪   <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks: How Social Production Transforms Markets and Freedom</i> </a> (Book Excerpts in Korean) <br>
 <br>    
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
-▪ Author Talk <a href="http://factcheckweek.com/html/02/01.php">"Media Literacy Tackling Disinformation" </a> Factcheck Conference by <a href="https://eng.kcc.go.kr/user/ehpMain.do KCC"> KCC </a>,<a href="https://kcmf.or.kr/cms/"> Community Media Foundation</a> (April 2021) <br>
+▪ Author Talk <a href="http://factcheckweek.com/html/02/01.php">"Media Literacy Tackling Disinformation" </a> at 'Factcheck Week' by <a href="https://kcc.go.kr/user/ehpMain.do"> KCC </a>,<a href="https://kcmf.or.kr/cms/"> Community Media Foundation</a> (April 2021) <br>
 ▪  Experts Session, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (25 Feb. 2021)<br>
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit 2020, </a> Seoul COEX Mall, <a href="https://www.digitalmarketingkorea.co.kr"> DMK </a>, Seoul (Dec.2020)<br> 
 ▪ 'Blockchain in Media Value Chain and Copyrights Management',<a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134"> Cybercommunication Academic Society</a>, Seoul (Nov.2020)<br> 
