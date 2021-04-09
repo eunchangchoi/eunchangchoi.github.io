@@ -80,13 +80,13 @@ From 2017, I've been working for <a href= "https://sites.google.com/a/kiga.or.kr
 ▪   <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News Workshop'</a>, <a href="https://igf2018.fr/"> The UN Internet Governance Forum </a> at UNESCO, Paris, France (Nov.2018) <br>
 ▪   'Artificial Intelligence Applications for Global Public Health' National Medical Center(NMC), Seoul, South Korea (Oct. 2018)<br>
 ▪  <a href="http://idr.jinbo.net/232"> 'Will You Trust Artificial Intelligence's Decision?'</a> AI Lecture Series, Institution for Digital Human Rights, Seoul (Dec.2017)<br> 
-▪  <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=236&page=1&b_name=meet1_2"> 'Analysis on Stanford AI 100 Report'</a> Institute of International Studies, Seoul National University (Nov. 2016) <br>
 ▪  <a href="https://blog.naver.com/gp3project/221112176044">'Can Blockchain Technology Help the Unbanked around the World?: Financial Inclusion'</a> Povertyinfo.org's blog (Oct.2017)<br>
 ▪ <a href= "https://www.cis.snu.ac.kr/sub2/2_2_6_3.php?mode=view&number=223&page=1&b_name=meet1_3"> 'Cybersecurity in The Age of Internet of Things'</a> Seoul National University (Jan. 2017)<br> 
-▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem : OTT Service and Zero-rating'</a> OpenNet Korea, Seoul (2015) <br>
+▪  <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=236&page=1&b_name=meet1_2"> 'Analysis on Stanford AI 100 Report'</a> Institute of International Studies, Seoul National University (Nov. 2016) <br>
+▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem :Zero-rating'</a> OpenNet Korea, Seoul (2015) <br>
   <br>
  <strong> COLUMNS, IN THE NEWS, INTERVIEWS</strong> <br>   
-▪ <a href="http://www.danbinews.com/news/articleView.html?idxno=14304"> "The Age of Disinformation and Misinformation" Danbi News </a> (April,2021)
+▪ <a href="http://www.danbinews.com/news/articleView.html?idxno=14304"> "The Age of Disinformation and Misinformation"</a> Danbi News (April, 2021)<br>
 ▪ "Why AI Chatbots Fail ?:The Ethics of Lee Luda's Discriminatory Remarks", <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-1/"> I</a>, <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-2/"> II,</a> MIT Technology Review Korea (March, 2021)<br>
 ▪ Contributed article <a href="https://zdnet.co.kr/view/?no=20201201123601"> "Personal Data Class Actions in Europe"</a>, ZDNet Korea (Dec.1, 2020) <br>
 ▪ <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">'S.Korea's COVID 19 Contact Tracing, Legality, and Privacy Risk'</a> Interview with Sciences Po, France (Nov.2020) <br>  
