@@ -33,7 +33,9 @@ From 2017, I've been working for <a href= "https://sites.google.com/a/kiga.or.kr
 <br>
 <br>
  <strong> PUBLICATIONS (BOOKS, CHAPTERS) </strong> <br> 
-▪  <a href="https://www.kisdi.re.kr/kisdi/fp/kr/publication/selectResearch.do?cmd=fpSelectResearch&sMenuType=3&controlNo=14928&langdiv=1"> "The History of Chatbots and Policy: Rethinking Eliza, GPT-3, Luda Lee"</a> <i> AI Outlook</i> Vol.4 <a href="https://www.kisdi.re.kr/eng/index.do"> KISDI </a> (April 2021)<br>
+▪ "Why AI Chatbots Fail ?:The Ethics of Lee Luda's Discriminatory Remarks", <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-1/"> I</a>, <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-2/"> II,</a> MIT Technology Review Korea (March, 2021)<br>
+▪ Contributed article <a href="https://zdnet.co.kr/view/?no=20201201123601"> "Personal Data Class Actions in Europe"</a>, ZDNet Korea (Dec.1, 2020) <br>
+▪  <a href="https://www.kisdi.re.kr/kisdi/fp/kr/publication/selectResearch.do?cmd=fpSelectResearch&sMenuType=3&controlNo=14928&langdiv=1"> "The History of Chatbots and Policy: Rethinking Eliza, GPT-3, & Luda Lee"</a> <i> AI Outlook </i> Vol.4 <a href="https://www.kisdi.re.kr/eng/index.do"> KISDI </a> (April 2021)<br>
 ▪  Book Chapter, "Technology Risk" <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(forthcoming, 2021) <br>
 ▪  Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming, 2021) <br>
 ▪  "The Difference of AI Risk Perception and Governance Modes" in <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791130337722&orderClick=LA6"><i> Ethics and Governance of AI </i>,</a> Publisher Pakyoungsa(博英社)(2021) <br>
@@ -85,10 +87,8 @@ From 2017, I've been working for <a href= "https://sites.google.com/a/kiga.or.kr
 ▪  <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=236&page=1&b_name=meet1_2"> 'Analysis on Stanford AI 100 Report'</a> Institute of International Studies, Seoul National University (Nov. 2016) <br>
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem :Zero-rating'</a> OpenNet Korea, Seoul (2015) <br>
   <br>
- <strong> COLUMNS, IN THE NEWS, INTERVIEWS</strong> <br>   
+ <strong> IN THE NEWS & INTERVIEWS</strong> <br>   
 ▪ <a href="http://www.danbinews.com/news/articleView.html?idxno=14304"> "The Age of Disinformation and Misinformation"</a> Danbi News (April, 2021)<br>
-▪ "Why AI Chatbots Fail ?:The Ethics of Lee Luda's Discriminatory Remarks", <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-1/"> I</a>, <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-2/"> II,</a> MIT Technology Review Korea (March, 2021)<br>
-▪ Contributed article <a href="https://zdnet.co.kr/view/?no=20201201123601"> "Personal Data Class Actions in Europe"</a>, ZDNet Korea (Dec.1, 2020) <br>
 ▪ <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">'S.Korea's COVID 19 Contact Tracing, Legality, and Privacy Risk'</a> Interview with Sciences Po, France (Nov.2020) <br>  
 ▪ 'Autonomous Systems, Robustness, and Data' Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
 ▪ <a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Policy report released by AI Governance Forum at National Assembly of Korea'</a>, AI Times (Nov.7.2020)<br>  
