@@ -33,9 +33,9 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 <br>
 <br>
  <strong> PUBLICATIONS (BOOKS, CHAPTERS) </strong> <br> 
-▪ <a href="https://www.technologyreview.kr/why-data-ethics-is-important-in-ai-business/"> "Why Data Ethics Matters to AI Business ?" </a>, MIT Technology Review Korea (April, 2021)<br>
-▪ "Will the CDA Section 230 Reform Reduce Dis/Misinformation in Digital Platforms? ", MIT Technology Review Korea (April, 2021)<br>
-▪ "Why AI Chatbots Fail ? :The Ethics of Lee Luda's Discriminatory Remarks", <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-1/">I</a>, <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-2/"> II,</a> MIT Technology Review Korea (March, 2021)<br>
+▪ <a href="https://www.technologyreview.kr/why-data-ethics-is-important-in-ai-business/"> "Why Data Ethics Matters to AI Business ?" </a> MIT Technology Review Korea (April, 2021)<br>
+▪ "Will the CDA Section 230 Reform Reduce Dis/Misinformation in Digital Platforms?" MIT Technology Review Korea (April, 2021)<br>
+▪ "Why AI Chatbots Fail ? :The Ethics of Lee Luda's Discriminatory Remarks", <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-1/">I</a>, <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-2/"> II</a> MIT Technology Review Korea (March, 2021)<br>
 ▪ Contributed article <a href="https://zdnet.co.kr/view/?no=20201201123601"> "Personal Data Class Actions in Europe"</a>, ZDNet Korea (Dec.1, 2020) <br>
 ▪  <a href="https://www.kisdi.re.kr/kisdi/fp/kr/publication/selectResearch.do?cmd=fpSelectResearch&sMenuType=3&controlNo=14928&langdiv=1"> "The History of Chatbots and Policy: Rethinking Eliza, GPT-3, & Lee Luda"</a> <i> AI Outlook </i> Vol.4 <a href="https://www.kisdi.re.kr/eng/index.do"> KISDI </a> (April 2021)<br>
 ▪  Book Chapter, "Technology Risk" <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(forthcoming, 2021) <br>
@@ -57,7 +57,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪   <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks: How Social Production Transforms Markets and Freedom</i> </a> (Book Excerpts in Korean) <br>
 <br>    
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
-▪ Author Talk <a href="https://youtu.be/mRsfLzJmdj8?t=15"> "How False Information Spreads?"</a> at <a href="http://factcheckweek.com/html/02/01.php">'Factcheck Week'</a> by <a href="https://kcc.go.kr/user/ehpMain.do"> KCC </a> and <a href="https://kcmf.or.kr/cms/"> Community Media Foundation</a>(April 2021) <br>
+▪  Author Talk <a href="https://youtu.be/mRsfLzJmdj8?t=15"> "How False Information Spreads?"</a> at <a href="http://factcheckweek.com/html/02/01.php">'Factcheck Week'</a> by <a href="https://kcc.go.kr/user/ehpMain.do"> KCC </a> and <a href="https://kcmf.or.kr/cms/"> Community Media Foundation</a>(April 2021) <br>
 ▪  Experts Session, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (25 Feb. 2021)<br>
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit 2020, </a> Seoul COEX Mall, <a href="https://www.digitalmarketingkorea.co.kr"> DMK </a>, Seoul (Dec.2020)<br> 
 ▪ 'Blockchain in Media Value Chain and Copyrights Management',<a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134"> Cybercommunication Academic Society</a>, Seoul (Nov.2020)<br> 
