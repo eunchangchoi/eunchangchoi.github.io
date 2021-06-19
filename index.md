@@ -58,7 +58,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪   <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks: How Social Production Transforms Markets and Freedom</i> </a> (Book Excerpts in Korean) <br>
 <br>    
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
-▪  'The Politicization of Science, Science Uncertainty, Myths in Epidemiology", Graduate School of Public Health, Yonsei Univ (June.2021)<br>
+▪  'The Politicization of Science, Scientific Uncertainty, Myths in Epidemiology", Graduate School of Public Health, Yonsei Univ (June.2021)<br>
 ▪  'The Role of Experts Witness in Toxic Tort Ligitation" The Korean Society for Research on Nicotine (May.2021)<br>
 ▪   Author Talk <a href="https://youtu.be/mRsfLzJmdj8?t=15"> "How False Information Spreads?"</a> at <a href="http://factcheckweek.com/html/02/01.php">'Factcheck Week'</a> by <a href="https://kcc.go.kr/user/ehpMain.do"> KCC </a> and <a href="https://kcmf.or.kr/cms/"> Community Media Foundation</a>(April 2021) <br>
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit 2020, </a> Seoul COEX Mall, <a href="https://www.digitalmarketingkorea.co.kr"> DMK </a>, Seoul (Dec.2020)<br> 
@@ -96,7 +96,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪ Chief Data Ethics Officer, <a href="https://labbit.kr/"> LABBIT, a Growth Hacking Agency <br>
 ▪ <a href="https://www.dataq.or.kr/www/sub/a_06.do"> Advanced Data Analytics Semi-Professional (ADsP) </a>, National Certified Professional by <a href="https://global.kdata.or.kr/en/kdata/"> The Korea Data Agency </a> <br>
 ▪ Experts Session, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (25 Feb. 2021)<br>
-▪ Advised on Building an Ethical Framework for Designing Home Healthcare AI Robotics, Seoul National University of Education (April, 2021)<br>
+▪ Building an Ethical Framework for Designing Home Healthcare AI Robotics, Seoul National University of Education (April, 2021)<br>
 ▪ Consultation on Infodemic Scenarios of Disasters, The National Disaster Management Research Institute (May, 2020)<br>
 ▪ The Editorial Board of <a href="https://aipolicyexchange.org/"> AI Policy Exchange </a><br>
 ▪ The Expert Council of Robot Ethics at <a href="https://kiria.org/eng"> Korea Institute for Robot Industry Advancement</a> <br>
