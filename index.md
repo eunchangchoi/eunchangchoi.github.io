@@ -93,9 +93,8 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
   <br>
     
  <strong> CONSULTING & ADVICES</strong> <br>   
-▪ Chief Data Ethics Officer, <a href="https://labbit.kr/"> LABBIT, a Growth Hacking Agency <br>
-▪ <a href="https://www.dataq.or.kr/www/sub/a_06.do"> Advanced Data Analytics Semi-Professional (ADsP) </a>, National Certified Professional by <a href="https://global.kdata.or.kr/en/kdata/"> The Korea Data Agency </a> <br>
-▪ Experts Session, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (25 Feb. 2021)<br>
+▪ Chief Data Ethics Officer, <a href="https://www.dataq.or.kr/www/sub/a_06.do"> a qualified Advanced Data Analytics Semi-Professional (ADsP)</a>,<a href="https://labbit.kr/"> LABBIT,</a> a growth hacking company<br>
+▪ Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (25 Feb. 2021)<br>
 ▪ Building an Ethical Framework for Designing Home Healthcare AI Robotics, Seoul National University of Education (April, 2021)<br>
 ▪ Consultation on Infodemic Scenarios of Disasters, The National Disaster Management Research Institute (May, 2020)<br>
 ▪ The Editorial Board of <a href="https://aipolicyexchange.org/"> AI Policy Exchange </a><br>
