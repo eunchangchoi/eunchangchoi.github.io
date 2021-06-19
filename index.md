@@ -58,7 +58,8 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪   <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks: How Social Production Transforms Markets and Freedom</i> </a> (Book Excerpts in Korean) <br>
 <br>    
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
-▪  'The Politicization of Disease, Myths, Misinformation : Epidemiological Challenges', Graduate School of Public Health, Yonsei Univ (June.2021)<br>
+▪  'The Politicization of Science, Science Uncertainty, Misinformation in Epidemiology", Graduate School of Public Health, Yonsei Univ (June.2021)<br>
+▪  'The Role of Experts Witness in Toxic Tort Ligitation" The Korean Society for Research on Nicotine (May.2021)<br>
 ▪   Author Talk <a href="https://youtu.be/mRsfLzJmdj8?t=15"> "How False Information Spreads?"</a> at <a href="http://factcheckweek.com/html/02/01.php">'Factcheck Week'</a> by <a href="https://kcc.go.kr/user/ehpMain.do"> KCC </a> and <a href="https://kcmf.or.kr/cms/"> Community Media Foundation</a>(April 2021) <br>
 ▪  Experts Session, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (25 Feb. 2021)<br>
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit 2020, </a> Seoul COEX Mall, <a href="https://www.digitalmarketingkorea.co.kr"> DMK </a>, Seoul (Dec.2020)<br> 
@@ -71,7 +72,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪  <a href="https://www.kaobe.or.kr/home/board/view.php?pid=notice&act=view&num=100">'Business Ethics for Ethical AI: The Function of AI Ethics Board'</a> Korea Academy of Business Ethics Conference (Aug.2020) <br> 
 ▪  'Medical Misinformation and Scientific Uncertainty: COVID19, Ebola and HIV/AIDS', Korea Society of Internet Ethics Conference <br>
 ▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercials and Copyrights'</a> Cybercommunication Academic Society, Seoul (2020)<br>
-▪  'How Unscientific Myths Obstruct Health Care during Pandemics in the 20th Century History', Graduate School of Public Health, Yonsei Univ (2020)<br>
+▪  'How Misinformation and Myths Obstruct Public Health Measures in Pandemic", Graduate School of Public Health, Yonsei Univ (2020)<br>
 ▪  'The Risk Perception of AI', AI Policy Forum, Microsoft Korea (Oct. 2019) <br>
 ▪   <a href="https://clawar.org/wp-content/uploads/2019/11/ICRES2019_p64_paper_4.pdf">"The Making of South Korea's Robot Ethics Charter"</a>, <a href="https://www.icres2019.org/"> International Conference on Robot Ethics and Standards</a>, London, UK (2019)<br>
 ▪   <a href= "https://www.intgovforum.org/multilingual/content/igf-2019-ws-182-data-governance-for-smarter-city-mobility">'Data Governance for Smarter City Mobility'</a>  <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html"> The United Nations Internet Governance Forum</a>, Berlin, Germany (2019)<br> 
