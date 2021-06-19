@@ -58,7 +58,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪   <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks: How Social Production Transforms Markets and Freedom</i> </a> (Book Excerpts in Korean) <br>
 <br>    
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
-▪  'The Politicization of Science, Science Uncertainty, Misinformation in Epidemiology", Graduate School of Public Health, Yonsei Univ (June.2021)<br>
+▪  'The Politicization of Science, Science Uncertainty, Myths in Epidemiology", Graduate School of Public Health, Yonsei Univ (June.2021)<br>
 ▪  'The Role of Experts Witness in Toxic Tort Ligitation" The Korean Society for Research on Nicotine (May.2021)<br>
 ▪   Author Talk <a href="https://youtu.be/mRsfLzJmdj8?t=15"> "How False Information Spreads?"</a> at <a href="http://factcheckweek.com/html/02/01.php">'Factcheck Week'</a> by <a href="https://kcc.go.kr/user/ehpMain.do"> KCC </a> and <a href="https://kcmf.or.kr/cms/"> Community Media Foundation</a>(April 2021) <br>
 ▪  Experts Session, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (25 Feb. 2021)<br>
