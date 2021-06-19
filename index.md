@@ -97,6 +97,8 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪ Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (25 Feb. 2021)<br>
 ▪ Building an Ethical Framework for Designing Home Healthcare AI Robotics, Seoul National University of Education (April, 2021)<br>
 ▪ Consultation on Infodemic Scenarios of Disasters, The National Disaster Management Research Institute (May, 2020)<br>
+▪ <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">'S.Korea's COVID 19 Contact Tracing, Legality, and Privacy Risk'</a> Interview with Sciences Po, France(Nov.2020) <br>  
+▪ 'Autonomous Systems, Robustness, and Data' Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
 ▪ The Editorial Board of <a href="https://aipolicyexchange.org/"> AI Policy Exchange </a><br>
 ▪ The Expert Council of Robot Ethics at <a href="https://kiria.org/eng"> Korea Institute for Robot Industry Advancement</a> <br>
 ▪ The Technical Committee on <a href="https://www.ieee-ras.org"> Robot Ethics in IEEE Robotcs & Automation Society </a><br>  
@@ -104,8 +106,6 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>    
 ▪ <a href="http://www.danbinews.com/news/articleView.html?idxno=14304"> "The Age of Disinformation and Misinformation"</a> Danbi News (April, 2021)<br>
-▪ <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">'S.Korea's COVID 19 Contact Tracing, Legality, and Privacy Risk'</a> Interview with Sciences Po, France (Nov.2020) <br>  
-▪ 'Autonomous Systems, Robustness, and Data' Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
 ▪ <a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Policy report released by AI Governance Forum at National Assembly of Korea'</a>, AI Times (Nov.7.2020)<br>  
 ▪ <a href="https://www.mk.co.kr/news/economy/view/2020/10/1097127/">'Blockchain for Anti-Corruption and Financial Inclusion for the Unbanked'</a> Maekyung Business News (Oct. 2020)<br>  
 ▪ <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=192351"> 'COVID-19 Contact Tracing and Data Retention'</a> MediaUs (Sept.2020) <br>  
