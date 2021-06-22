@@ -97,7 +97,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪ Chief Data Ethics Officer, a qualified <a href="https://www.dataq.or.kr/www/sub/a_06.do"> Advanced Data Analytics Semi-Professional</a>, in <a href="https://labbit.kr/"> LABBIT,</a> a growth hacking company<br>
 ▪ Mentoring for 2021 APrIGF Fellows,<a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
 ▪ Panelist, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (Feb. 2021)<br>
-▪ Consultated about Building an Ethical Framework for Designing Home Healthcare AI Robotics, Seoul National University of Education (April, 2021)<br>
+▪ Advised for the Ethical Framework for Designing Home Healthcare AI Robotics, Seoul National University of Education (April, 2021)<br>
 ▪ Consultated about Infodemic Scenarios of Disasters for The National Disaster Management Research Institute (May, 2020)<br>
 ▪ <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">'S.Korea's COVID 19 Contact Tracing, Legality, and Privacy Risk'</a> Interview with Sciences Po, France(Nov.2020) <br>  
 ▪ Panelist, 'Autonomous Systems, Robustness, and Data' Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
