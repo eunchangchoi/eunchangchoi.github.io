@@ -50,7 +50,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪ Policy Report <a href= "http://https://bit.ly/3qgZ63S">"The Ethical Considerations of AI and Policy Response in the Age of Fourth Industrial Revolution"</a> submitted to <a href="https://www.4th-ir.go.kr/home/en/">The Presidential Committee on the Fourth Industrial Revolution of Korea (Oct. 2018)</a> <br> 
 ▪ <a href="https://stepi.re.kr/app/publish/view.jsp?mode=new&cmsCd=CM0012&div=&categCd=A0505&ntNo=33&sdt=&edt=&src=&srcTemp=&opt=N&currtPg=5"> "Algorithm Governance"</a> Future Horizon, Science and Technology Policy Institute (2017) <br> 
 ▪ Book Translation <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="> <i> The Internet of Things,</i> </a> Publisher MIT Press (2015), Hanul MPlus (2017)<br> 
-▪ Book Chapter "How to Hold AI Robots Accountable?" in <a href="https://bit.ly/3cT4dSs"> <i> Can We Build a Better Future :AI, the Fourth Industrial Revolution and the Future of Humanity </i> </a> Science and Technology Policy Institute (2016) <br> 
+▪ Book Chapter "How to Hold AI Robots Accountable?" in <a href="https://bit.ly/3cT4dSs"> <i> Building a Better Future :AI, the Fourth Industrial Revolution and the Future of Humanity </i> </a> Science and Technology Policy Institute (2016) <br> 
 ▪  Co-authored Book <a href= "http://view.copyright.or.kr:8080/SynapDocViewServer/viewer/doc.html?key=000000006ba186290172c9470e3d36b4&contextPath=/SynapDocViewServer"> <i> Digital Copyright and Technology Terminology </i> </a>, <a href="https://www.copyright.or.kr/eng/main.do"> Korea Copyright Commission </a>(2016) <br>
 ▪ "The Legal and Ethical Controversies of AI" <a href="https://www.stepi.re.kr/app/publish/view.jsp?mode=topic&cmsCd=CM0160&ntNo=28&categCd=A0505&drctr=A030403&sdt=&edt=&src=&srcTemp=&sort=PUBDATE&currtPg=1"> <i> Future Horizon </i> </a>, Science and Technology Policy Institute, Spring 2016<br> 
 ▪ Book Published <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791130437002&orderClick=357"> <i> The Layered Model of Internet Regulation, </i></a> Publisher Communication Books (2015) <br> 
@@ -58,7 +58,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪   <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks: How Social Production Transforms Markets and Freedom</i> </a> (Book Excerpts in Korean) <br>
 <br>    
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br> 
-▪  'The Politicization of Science, Scientific Uncertainty in Epidemiology", Graduate School of Public Health, Yonsei Univ (June.2021)<br>
+▪  'The Politicization of Science, Scientific Uncertainty abnd Myths in Epidemiology", Graduate School of Public Health, Yonsei Univ (June.2021)<br>
 ▪  'The Role of Experts Witness in Toxic Tort Ligitation" The Korean Society for Research on Nicotine (May.2021)<br>
 ▪   Author Talk <a href="https://youtu.be/mRsfLzJmdj8?t=15"> "How False Information Spreads?"</a> at <a href="http://factcheckweek.com/html/02/01.php">'Factcheck Week'</a> by <a href="https://kcc.go.kr/user/ehpMain.do"> KCC </a> and <a href="https://kcmf.or.kr/cms/"> Community Media Foundation</a> (April 2021) <br>
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit 2020, </a> Seoul COEX Mall, <a href="https://www.digitalmarketingkorea.co.kr"> DMK </a>, Seoul (Dec.2020)<br> 
@@ -95,15 +95,17 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
     
  <strong> CONSULTING & ADVICES</strong> <br>   
 ▪ Chief Data Ethics Officer, a qualified <a href="https://www.dataq.or.kr/www/sub/a_06.do"> Advanced Data Analytics Semi-Professional</a>, in <a href="https://labbit.kr/"> LABBIT,</a> a growth hacking company<br>
-▪ Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (Feb. 2021)<br>
-▪ Building an Ethical Framework for Designing Home Healthcare AI Robotics, Seoul National University of Education (April, 2021)<br>
-▪ Consultation on Infodemic Scenarios of Disasters, The National Disaster Management Research Institute (May, 2020)<br>
+▪ Mentoring for 2021 APrIGF Fellows,<a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
+▪ Panelist, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (Feb. 2021)<br>
+▪ Consultated about Building an Ethical Framework for Designing Home Healthcare AI Robotics, Seoul National University of Education (April, 2021)<br>
+▪ Consultated about Infodemic Scenarios of Disasters for The National Disaster Management Research Institute (May, 2020)<br>
 ▪ <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">'S.Korea's COVID 19 Contact Tracing, Legality, and Privacy Risk'</a> Interview with Sciences Po, France(Nov.2020) <br>  
-▪ 'Autonomous Systems, Robustness, and Data' Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
-▪ Consulted about Deepfake on behalf of the Korea Communications Commission (Nov. 2019)<br>
-▪ The Editorial Board of <a href="https://aipolicyexchange.org/"> AI Policy Exchange </a><br>
-▪ The Expert Council of Robot Ethics at <a href="https://kiria.org/eng"> Korea Institute for Robot Industry Advancement</a> <br>
-▪ The Technical Committee on <a href="https://www.ieee-ras.org"> Robot Ethics in IEEE Robotcs & Automation Society </a><br>  
+▪ Panelist, 'Autonomous Systems, Robustness, and Data' Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
+▪ Consulted about Deepfake for <a href="https://https://www.kcc.go.kr/user/ehpMain.do"> the Korea Communications Commission </a>(Nov. 2019)<br>
+▪ Consulted about Global Perspective on AI Ethics <a href="https://www.kisdi.re.kr/"> Korea Information Society Development Institute </a>(Sept. 2019)<br>
+▪ Served for the Editorial Board of <a href="https://aipolicyexchange.org/"> AI Policy Exchange </a><br>
+▪ Member, the Expert Council of Robot Ethics at <a href="https://kiria.org/eng"> Korea Institute for Robot Industry Advancement</a> <br>
+▪ Member, The Technical Committee on <a href="https://www.ieee-ras.org"> Robot Ethics in IEEE Robotcs & Automation Society </a><br>  
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>    
