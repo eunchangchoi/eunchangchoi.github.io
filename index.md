@@ -33,7 +33,8 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 <br>
 <br>
  <strong> PUBLICATIONS (BOOKS, CHAPTERS) </strong> <br> 
-▪ <a href="https://www.technologyreview.kr/communicatioins-decency-act-misinformation/"> "Will the CDA Section 230 Reform Reduce Dis/Misinformation in Digital Platforms?" </a> MIT Technology Review Korea (May 2021)<br>
+▪ "CRISPR-Cas9 Patent Dispute and the Implication for Microbiology Research" Webzine BIOWAVE by Biological Research Information Center, POSTECH (July, 2021)<br>
+▪ <a href="https://www.technologyreview.kr/communicatioins-decency-act-misinformation/"> "Will the CDA Section 230 Reform Reduce Dis/Misinformation in Digital Platforms?" </a> MIT Technology Review Korea (May 2021) <br>
 ▪ <a href="https://www.technologyreview.kr/why-data-ethics-is-important-in-ai-business/"> "Why Data Ethics Matters to AI Business ?" </a> MIT Technology Review Korea (April, 2021)<br>
 ▪ <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-1/"> "Why AI Chatbots Fail ?:The Ethics of Lee Luda's Discriminatory Remarks" I</a>, <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-2/"> II</a> MIT Technology Review Korea (March, 2021)<br>
 ▪ Contributed article <a href="https://zdnet.co.kr/view/?no=20201201123601"> "Personal Data Class Actions in Europe"</a>, ZDNet Korea (Dec.1, 2020) <br>
@@ -73,7 +74,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪  'Medical Misinformation and Scientific Uncertainty: COVID19, Ebola and HIV/AIDS', Korea Society of Internet Ethics Conference <br>
 ▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercials and Copyrights'</a> Cybercommunication Academic Society, Seoul (2020)<br>
 ▪  'How Misinformation and Myths Obstruct Public Health Measures in Pandemic", Graduate School of Public Health, Yonsei Univ (2020)<br>
-▪  'The Risk Perception of AI', AI Policy Forum, Microsoft Korea (Oct. 2019) <br>
+▪  'The Risk Perception of AI:', Korean Association for AI and Law (KAAIL) AI Policy Forum + Microsoft(Oct. 2019) <br>
 ▪   <a href="https://clawar.org/wp-content/uploads/2019/11/ICRES2019_p64_paper_4.pdf">"The Making of South Korea's Robot Ethics Charter"</a>, <a href="https://www.icres2019.org/"> International Conference on Robot Ethics and Standards</a>, London, UK (2019)<br>
 ▪   <a href= "https://www.intgovforum.org/multilingual/content/igf-2019-ws-182-data-governance-for-smarter-city-mobility">'Data Governance for Smarter City Mobility'</a>  <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html"> The United Nations Internet Governance Forum</a>, Berlin, Germany (2019)<br> 
 ▪   <a href="https://www.youtube.com/watch?v=nsZJaB3fx0E&feature=youtu.be&t=1689">'National Collaborative Session on Cybersecurity'</a>, <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html">The United Nations Internet Governance Forum,</a> Berlin, Germany (2019) <br> 
