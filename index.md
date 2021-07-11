@@ -33,8 +33,8 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 <br>
 <br>
  <strong> PUBLICATIONS (BOOKS, CHAPTERS) </strong> <br> 
-▪ "A Patent Waiver of COVID 19 Vaccine for Global Public Health" Biological Research Information Center,POSTECH(Aug,2021)<br>
-▪ "The Battle over CRISPR/Cas9 Patents and Implication for Microbiology" Biological Research Information Center,POSTECH(July,2021)<br>
+▪ " A Patent Waiver of COVID 19 Vaccine for Global Public Health" Biological Research Information Center, POSTECH(Aug,2021)<br>
+▪ " Battle over CRISPR/Cas9 Patents and Implication for Microbiology" Biological Research Information Center, POSTECH(July,2021)<br>
 ▪ <a href="https://www.technologyreview.kr/communicatioins-decency-act-misinformation/"> "Will the CDA Section 230 Reform Reduce Dis/Misinformation in Digital Platforms?" </a> MIT Technology Review Korea (May 2021) <br>
 ▪ <a href="https://www.technologyreview.kr/why-data-ethics-is-important-in-ai-business/"> "Why Data Ethics Matters to AI Business ?" </a> MIT Technology Review Korea (April, 2021)<br>
 ▪ <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-1/"> "Why AI Chatbots Fail ?:The Ethics of Lee Luda's Discriminatory Remarks" I</a>, <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-2/"> II</a> MIT Technology Review Korea (March, 2021)<br>
@@ -112,9 +112,10 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>    
-▪ <a href="http://www.danbinews.com/news/articleView.html?idxno=14304"> "The Age of Disinformation and Misinformation"</a> Danbi News (April, 2021)<br>
+▪ <a href="http://www.danbinews.com/news/articleView.html?idxno=14304">'The Age of Disinformation and Misinformation'</a> Danbi News (April, 2021)<br>
 ▪ <a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Policy report released by AI Governance Forum at National Assembly of Korea'</a>, AI Times (Nov.7.2020)<br>  
-▪ <a href="https://www.mk.co.kr/news/economy/view/2020/10/1097127/">'Blockchain for Anti-Corruption and Financial Inclusion for the Unbanked'</a> Maekyung Business News (Oct. 2020)<br>  
+▪<a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Governance Forum pose to discuess AI policy suggestion'</a>, AI Times (Nov.3, 2020)<br>  
+▪<a href="https://www.mk.co.kr/news/economy/view/2020/10/1097127/">'Blockchain for Anti-Corruption and Financial Inclusion for the Unbanked'</a> Maekyung Business News (Oct. 2020)<br>  
 ▪ <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=192351"> 'COVID-19 Contact Tracing and Data Retention'</a> MediaUs (Sept.2020) <br>  
 ▪ <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=208888">'South Korea's Scope of Contact Tracing for COVID-19 and Social Stigma'</a> MediaToday (Aug.2020)  <br>  
     
