@@ -33,8 +33,8 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 <br>
 <br>
  <strong> PUBLICATIONS (BOOKS, CHAPTERS) </strong> <br> 
-▪ " A Patent Waiver of COVID 19 Vaccine for Global Public Health" Biological Research Information Center, POSTECH(Aug,2021)<br>
-▪ " Battle over CRISPR/Cas9 Patents and Implication for Microbiology" Biological Research Information Center, POSTECH(July,2021)<br>
+▪ " A Patent Waiver of COVID 19 Vaccine for Global Public Health" Biological Research Information Center, POSTECH (Aug,2021)<br>
+▪ " CRISPR-Cas9 Patent War and Implication for Microbial Sciences" Biological Research Information Center, POSTECH (July,2021)<br>
 ▪ <a href="https://www.technologyreview.kr/communicatioins-decency-act-misinformation/"> "Will the CDA Section 230 Reform Reduce Dis/Misinformation in Digital Platforms?" </a> MIT Technology Review Korea (May 2021) <br>
 ▪ <a href="https://www.technologyreview.kr/why-data-ethics-is-important-in-ai-business/"> "Why Data Ethics Matters to AI Business ?" </a> MIT Technology Review Korea (April, 2021)<br>
 ▪ <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-1/"> "Why AI Chatbots Fail ?:The Ethics of Lee Luda's Discriminatory Remarks" I</a>, <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-2/"> II</a> MIT Technology Review Korea (March, 2021)<br>
