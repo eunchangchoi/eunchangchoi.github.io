@@ -33,15 +33,15 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 <br>
 <br>
  <strong> PUBLICATIONS (BOOKS, CHAPTERS, POLICY PAPERS) </strong> <br> 
-▪  Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming, 2021) <br>
-▪ " A Patent Waiver of COVID 19 Vaccine for Global Public Health" Biological Research Information Center, POSTECH (Aug,2021)<br>
-▪ " CRISPR-Cas9 Patent War and Implication for Microbial Sciences" Biological Research Information Center, POSTECH (July,2021)<br>
+▪  Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming,2022) <br>
+▪  Book Chapter, "Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Sept.2021) <br>
+▪ " A Patent Waiver of COVID 19 Vaccine for Global Public Health" Biological Research Information Center, POSTECH (Aug.2021)<br>
+▪ " CRISPR-Cas9 Patent War and Implication for Microbial Sciences" Biological Research Information Center, POSTECH (July, 2021)<br>
 ▪ <a href="https://www.technologyreview.kr/communicatioins-decency-act-misinformation/"> "Will the CDA Section 230 Reform Reduce Dis/Misinformation in Digital Platforms?" </a> MIT Technology Review Korea (May 2021) <br>
 ▪ <a href="https://www.technologyreview.kr/why-data-ethics-is-important-in-ai-business/"> "Why Data Ethics Matters to AI Business ?" </a> MIT Technology Review Korea (April, 2021)<br>
 ▪ <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-1/"> "Why AI Chatbots Fail ?:The Ethics of Lee Luda's Discriminatory Remarks" I</a>, <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-2/"> II</a> MIT Technology Review Korea (March, 2021)<br>
 ▪ Contributed article <a href="https://zdnet.co.kr/view/?no=20201201123601"> "Personal Data Class Actions in Europe"</a>, ZDNet Korea (Dec.1, 2020) <br>
 ▪  <a href="https://www.kisdi.re.kr/kisdi/fp/kr/publication/selectResearch.do?cmd=fpSelectResearch&sMenuType=3&controlNo=14928&langdiv=1"> "The History of Chatbots and Policy: Rethinking Eliza, GPT-3, & Lee Luda"</a> <i> AI Outlook </i> Vol.4 <a href="https://www.kisdi.re.kr/eng/index.do"> KISDI </a> (April 2021)<br>
-▪  Book Chapter, "Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Sept, 2021) <br>
 ▪  "The Difference of AI Risk Perception and Governance Modes" in <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791130337722&orderClick=LA6"><i> Ethics and Governance of AI </i>,</a> Publisher Pakyoungsa(博英社)(2021) <br>
 ▪  Book Translation <a href="https://mitpress.mit.edu/books/memes-digital-culture"> <i> Memes in Digital Culture</i>,</a> Publisher MIT Press, Hanul MPlus (2021) <br> 
 ▪  "Gig Workers in the Shade of Platform Economy", Book Review: <a href="https://global.oup.com/academic/product/humans-as-a-service-9780198797012?cc=kr&lang=en&"> <i> Humans as a Service </i>,</a> by Jeremias Prassl (Oxford Univ Press)<br> 
