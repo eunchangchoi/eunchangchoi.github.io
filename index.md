@@ -33,8 +33,9 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 <br>
 <br>
  <strong> PUBLICATIONS (BOOKS, CHAPTERS, POLICY PAPERS) </strong> <br> 
-▪  Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming 2022) <br>
-▪  Book Chapter, "Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Sept.2021) <br>
+▪ Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming 2022) <br>
+▪ Book Chapter, "Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Sept.2021) <br>
+▪ Policy Report, "AI Governance: Issues, Principles, and Practices " AI Governance Forum Korea (Aug.2021) <br>
 ▪ " A Patent Waiver of COVID 19 Vaccine for Global Public Health" BioWave Vol.23, No.9, <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> BRIC</a> (Sept.2021)<br>
 ▪ " CRISPR-Cas9 Patent War and Implication for Microbial Sciences" BioWave Vol.23, No.8, <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> BRIC</a> (Aug 2021)<br>
 ▪ <a href="https://www.technologyreview.kr/communicatioins-decency-act-misinformation/"> "Will the CDA Section 230 Reform Reduce Dis/Misinformation in Digital Platforms?" </a> MIT Technology Review Korea (May 2021) <br>
