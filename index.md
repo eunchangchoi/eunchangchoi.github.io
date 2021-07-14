@@ -50,7 +50,8 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪  <a href="https://github.com/eunchangchoi/Presentations/blob/master/The_Truth_that_the_History_of%20Fake_News_Says_to_Us_EunChangChoi2020.pdf">"The Truth that the History of Fake News Suggests Today"</a> Biweekly 企劃會議 Vol 518 (Aug. 2020) <br>  
 ▪  Book Chapter "Solving the AI Accountability Gap" in Co-authored <a href="https://www.yes24.com/Product/Goods/62006191?scode=032&OzSrank=2"> <i> Artificial Intelligence and Power Shift,</i> </a> Publisher Samin(三仁) (2018) <br> 
 ▪  <a href="https://nosmk.khealth.or.kr/nsk/user/extra/ntcc/nosmokeFile/fileView/jsp/Page.do?siteMenuIdx=81&dataNo=31&dataGr=4&fileNo=522&postIdx=562&level1Idx=8&level2Idx=31&datalv=1"> "California's Regulation on Flavored Tobacco Products : Menthol"</a>, Korea Health Promotion Institute (2018) <br>  
-▪ Policy Paper <a href= "http://https://bit.ly/3qgZ63S">"The Ethical Considerations of AI and Policy Response in the Age of Fourth Industrial Revolution"</a> submitted to <a href="https://www.4th-ir.go.kr/home/en/">The Presidential Committee on the Fourth Industrial Revolution of Korea (Oct. 2018)</a> <br> 
+▪ Policy Report <a href= "http://https://bit.ly/3qgZ63S">"The Ethical Considerations of AI and Policy Response in the Age of Fourth Industrial Revolution"</a> submitted to <a href="https://www.4th-ir.go.kr/home/en/">The Presidential Committee on the Fourth Industrial Revolution of Korea (Oct. 2018)</a> <br> 
+▪ Policy Report "The WTO’s Decision on Australia’s Plain Packaging Tobacco Measures" in Plain Packing Research, Ministry of Health and Welfare (2018)<br>
 ▪ <a href="https://stepi.re.kr/app/publish/view.jsp?mode=new&cmsCd=CM0012&div=&categCd=A0505&ntNo=33&sdt=&edt=&src=&srcTemp=&opt=N&currtPg=5"> "Algorithm Governance"</a> Future Horizon, Science and Technology Policy Institute (2017) <br> 
 ▪ Book Translation <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="> <i> The Internet of Things,</i> </a> Publisher MIT Press (2015), Hanul MPlus (2017)<br> 
 ▪ <a href="http://www.jksrnt.org/journal/view.html?doi=10.25055/JKSRNT.2016.7.2.74"> Factors Associated with Use of Menthol Cigarettes among Current Smokers in Korean university students and Male workers"</a> Journal of the Korean Society for Research on Nicotine and Tobacco (July 2016)<br> 
@@ -110,7 +111,6 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪ Panelist, 'Autonomous Systems, Robustness, and Data' Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
 ▪ Consulted about Deepfake for <a href="https://https://www.kcc.go.kr/user/ehpMain.do"> the Korea Communications Commission </a>(Nov. 2019)<br>
 ▪ Consulted about Global Perspective on AI Ethics for <a href="https://www.kisdi.re.kr/"> Korea Information Society Development Institute </a>(Sept. 2019)<br>
-▪ Provided analytical report on 'The WTO’s Decision on Australia’s Plain Packaging Tobacco Measures' for Yonsei University 2018)<br>
 ▪ Served for the Editorial Board of <a href="https://aipolicyexchange.org/"> AI Policy Exchange </a><br>
 ▪ Member, the Expert Council of Robot Ethics at <a href="https://kiria.org/eng"> Korea Institute for Robot Industry Advancement</a> <br>
 ▪ Member, The Technical Committee on <a href="https://www.ieee-ras.org"> Robot Ethics in IEEE Robotcs & Automation Society </a><br>  
