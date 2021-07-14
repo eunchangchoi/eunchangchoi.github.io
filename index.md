@@ -109,8 +109,8 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪ <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">'S.Korea's COVID 19 Contact Tracing, Legality, and Privacy Risk'</a> Interview with Sciences Po, France(Nov.2020) <br>  
 ▪ Panelist, 'Autonomous Systems, Robustness, and Data' Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
 ▪ Consulted about Deepfake for <a href="https://https://www.kcc.go.kr/user/ehpMain.do"> the Korea Communications Commission </a>(Nov. 2019)<br>
-▪ Consulted about Global Perspective on AI Ethics <a href="https://www.kisdi.re.kr/"> Korea Information Society Development Institute </a>(Sept. 2019)<br>
-▪ Provided analytical report on 'The WTO’s Decision on Australia’s Plain Packaging Tobacco Measures, Yonsei University 2018)<br>
+▪ Consulted about Global Perspective on AI Ethics for <a href="https://www.kisdi.re.kr/"> Korea Information Society Development Institute </a>(Sept. 2019)<br>
+▪ Provided analytical report on 'The WTO’s Decision on Australia’s Plain Packaging Tobacco Measures' for Yonsei University 2018)<br>
 ▪ Served for the Editorial Board of <a href="https://aipolicyexchange.org/"> AI Policy Exchange </a><br>
 ▪ Member, the Expert Council of Robot Ethics at <a href="https://kiria.org/eng"> Korea Institute for Robot Industry Advancement</a> <br>
 ▪ Member, The Technical Committee on <a href="https://www.ieee-ras.org"> Robot Ethics in IEEE Robotcs & Automation Society </a><br>  
