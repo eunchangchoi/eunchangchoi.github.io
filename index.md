@@ -144,5 +144,5 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
    The Economic History of Intellectual Property and Technology <br>   
   
   <br>
-   <strong> CONTACT </strong> <br>   
-   eunchang.choi < at > aya.yale.edu ; eunchang.choi < at > technologyreview.kr
+   <strong> CONTACT</strong> <br>   
+   eunchang.choi<at>aya.yale.edu ; eunchang.choi<at>technologyreview.kr 
