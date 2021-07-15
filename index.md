@@ -146,4 +146,4 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
   
   <br>
    <strong> CONTACT</strong> <br>   
-   eunchang.choi<at>aya.yale.edu ; eunchang.choi<at>technologyreview.kr 
+   eunchang.choi@aya.yale.edu ; eunchang.choi@technologyreview.kr 
