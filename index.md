@@ -51,7 +51,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪  Book Chapter "Solving the AI Accountability Gap" in Co-authored <a href="https://www.yes24.com/Product/Goods/62006191?scode=032&OzSrank=2"> <i> Artificial Intelligence and Power Shift,</i> </a> Publisher Samin(三仁) (2018) <br> 
 ▪  <a href="https://nosmk.khealth.or.kr/nsk/user/extra/ntcc/nosmokeFile/fileView/jsp/Page.do?siteMenuIdx=81&dataNo=31&dataGr=4&fileNo=522&postIdx=562&level1Idx=8&level2Idx=31&datalv=1"> "California's Regulation on Flavored Tobacco Products : Menthol"</a>, Korea Health Promotion Institute (2018) <br>  
 ▪ Policy Report <a href= "http://https://bit.ly/3qgZ63S">"The Ethical Considerations of AI and Policy Response in the Age of Fourth Industrial Revolution"</a> submitted to <a href="https://www.4th-ir.go.kr/home/en/">The Presidential Committee on the Fourth Industrial Revolution of Korea (Oct. 2018)</a> <br> 
-▪ Policy Report "The WTO’s Decision on Australia’s Plain Packaging Tobacco Measures", commissioned research by the Ministry of Health and Welfare (2018)<br>
+▪ Policy Report "The WTO’s Decision on Australia’s Plain Packaging Tobacco Measures", commissioned by Ministry of Health and Welfare (2018)<br>
 ▪ <a href="https://stepi.re.kr/app/publish/view.jsp?mode=new&cmsCd=CM0012&div=&categCd=A0505&ntNo=33&sdt=&edt=&src=&srcTemp=&opt=N&currtPg=5"> "Algorithm Governance"</a> Future Horizon, Science and Technology Policy Institute (2017) <br> 
 ▪ Book Translation <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="> <i> The Internet of Things,</i> </a> Publisher MIT Press (2015), Hanul MPlus (2017)<br> 
 ▪ <a href="http://www.jksrnt.org/journal/view.html?doi=10.25055/JKSRNT.2016.7.2.74"> Factors Associated with Use of Menthol Cigarettes among Current Smokers in Korean university students and Male workers"</a> Journal of the Korean Society for Research on Nicotine and Tobacco (July 2016)<br> 
@@ -102,7 +102,8 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
   <br>
     
  <strong> CONSULTING & ADVICES</strong> <br>   
-▪ Chief Data Ethics Officer (a qualified <a href="https://www.dataq.or.kr/www/sub/a_06.do"> Advanced Data Analytics Professional)</a> in <a href="https://labbit.kr/"> LABBIT,</a> a growth hacking company <br>
+▪ Chief Data Ethics Officer (a qualified <a href="https://www.dataq.or.kr/www/sub/a_06.do"> Advanced Data Analytics Professional)</a> in <a href="https://labbit.kr/"> LABBIT,</a> a growth hacking company <br> 
+▪ Panelist, 'Myanmar's Military Coup, Internet Suppression and Democracy' Korea Internet Governance Forum (Aug.2021)<br>  
 ▪ Mentoring for 2021 APrIGF Fellows,<a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
 ▪ Panelist, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (Feb. 2021)<br>
 ▪ Advised for the Ethical Framework for Designing Home Healthcare AI Robotics, Seoul National University of Education (April, 2021)<br>
@@ -111,7 +112,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪ Panelist, 'Autonomous Systems, Robustness, and Data' Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
 ▪ Consulted about Deepfake for <a href="https://https://www.kcc.go.kr/user/ehpMain.do"> the Korea Communications Commission </a>(Nov. 2019)<br>
 ▪ Consulted about Global Perspective on AI Ethics for <a href="https://www.kisdi.re.kr/"> Korea Information Society Development Institute </a>(Sept. 2019)<br>
-▪ Paid Field Trips to U.S. FDA and UCSF Tobacco Research Center with officials of the Ministry of Health and Welfare (2018) <br>
+▪ Paid Field Trips to U.S. FDA and UCSF Tobacco Research Center with officials of Ministry of Health and Welfare (2018) <br>
 ▪ Served for the Editorial Board of <a href="https://aipolicyexchange.org/"> AI Policy Exchange </a><br>
 ▪ Member, the Expert Council of Robot Ethics at <a href="https://kiria.org/eng"> Korea Institute for Robot Industry Advancement</a> <br>
 ▪ Member, The Technical Committee on <a href="https://www.ieee-ras.org"> Robot Ethics in IEEE Robotcs & Automation Society </a><br>  
