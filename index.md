@@ -37,7 +37,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪ Book Chapter, "Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Sept.2021) <br>
 ▪ Policy Report, "AI Governance: Issues, Principles, and Practices " AI Governance Forum Korea (Aug.2021) <br>
 ▪ "The Shade of Gig Economy: Strikes Agaisnt Algorithms in China and Spain" MIT Technology Review Korea (Aug. 2021)<br> 
-▪ "A Patent Waiver of COVID 19 Vaccine for Global Public Health" BioWave Vol.23, No.9, <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> BRIC</a> (Sept.2021)<br>
+▪ "A Patent Waiver of COVID 19 Vaccine for Global Public Health" BioWave Vol.23, No.9, <a href="https://www.ibric.org/myboard/read.php?Board=report&id=3843"> BRIC</a> (Sept.2021)<br>
 ▪ "The Rise of CRISPR-Cas9 Patent War and the Implication for Microbial Sciences" BioWave Vol.23, No.8, <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> BRIC</a> (Aug 2021)<br>
 ▪ <a href="https://www.technologyreview.kr/communicatioins-decency-act-misinformation/"> "Will the CDA Section 230 Reform Reduce Dis/Misinformation in Digital Platforms?" </a> MIT Technology Review Korea (May 2021) <br>
 ▪ <a href="https://www.technologyreview.kr/why-data-ethics-is-important-in-ai-business/"> "Why Data Ethics Matters to AI Business ?" </a> MIT Technology Review Korea (April, 2021)<br>
