@@ -33,9 +33,11 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 <br>
 <br>
  <strong> PUBLICATIONS (BOOKS, CHAPTERS, POLICY PAPERS) </strong> <br> 
+▪"WHo Own the BabyShark Song?:the Copyright Dispute of Falk Song and Meme" Harvard Journal of Law and Technology </i>,(2021)
+▪ Book Chapter, "Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Oct.2021) <br>
+▪'Leviathan Rises From the Deep:Battle of Tech Giants'<a href="https://www.orfonline.org/events/"> CyFy Journal</a>(Published in India)(Oct. 2021) <br> 
 ▪ Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming 2022) <br>
-▪ Book Chapter, "Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Sept.2021) <br>
-▪ Policy Report, "AI Governance: Issues, Principles, and Practices " AI Governance Forum Korea (Aug.2021) <br>
+▪ Policy Report, "AI Governance: Issues, Principles, and Practices" AI Governance Forum Korea (Aug.2021) <br>
 ▪ "The Shade of Gig Economy: Strikes Agaisnt Algorithms in China and Spain" MIT Technology Review Korea (Aug. 2021)<br> 
 ▪ "Patent Waiver of COVID 19 Vaccine for Global Public Health"BioWave Vol.23,No.9,<a href="https://www.ibric.org/biowave/bio_webzine_index.php"> BRIC</a>(Sept.2021)<br>
 ▪ <a href="https://www.ibric.org/myboard/read.php?Board=report&id=3843">"CRISPR-Cas9 Patent War and the Implication for Microbial Sciences"</a>BioWave Vol.23, No.8,BRIC(Aug 2021)<br>
@@ -66,7 +68,6 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute, </a>STEPI Fellowship Research Paper Series(2014)<br>
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>   
-▪ 'Leviathan Rises From the Deep:Battle of Tech Giants'<a href="https://www.orfonline.org/events/"> 11th CyFy </a>(India Conference on Tech, Innovation & Society)(2021) <br> 
 ▪ 'Disinformation in the Cultural History of Epidemics'<a href="https://sll.seoul.go.kr/lms/simin_course/courseRequest/doSiminUnivMain.dunet?mnid=201510753401"> Continuing Studies, Seoul Metropolitan Government</a> (Aug.2021) <br> 
 ▪ 'Data Sharing and Data Privacy:The Limit of Differential Privacy' Tutorial, Korea Internet Governance Forum(Aug.2021) <br>  
 ▪ 'Risk Constructivism and Cultural Cognition', <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=1509&b_name=meet1_2">The Evolution of Technology & Society Conference </a>, SNU + KISA (June.2021)<br>
