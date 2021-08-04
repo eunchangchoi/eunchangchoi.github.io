@@ -33,9 +33,9 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 <br>
 <br>
  <strong> PUBLICATIONS (BOOKS, CHAPTERS, POLICY PAPERS) </strong> <br> 
-▪"Who Owns'Baby Shark Dance'?: The Copyright Dispute over Public Domain Folk Song" Harvard J of Law and Tech Vol.35 (Fall 2021) <br>
+▪"Who Owns'Baby Shark Dance'?:Copyright Dispute over Meme Phenomenon in Korea" Harvard J of Law and Technology(Fall 2021) <br>
 ▪ Book Chapter, "Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Oct.2021) <br>
-▪'Leviathan Rises From the Deep:Battle of Tech Giants'<a href="https://www.orfonline.org/events/"> CyFy Journal</a>(Published in India)(Oct. 2021) <br> 
+▪'Leviathan Rises From the Deep:Battle of Tech Giants'<a href="https://www.orfonline.org/series/the-cyfy-edit/"> CyFy Edit</a>(Indian Journal)(Oct. 2021) <br> 
 ▪ Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming 2022) <br>
 ▪ Policy Report, "AI Governance: Issues, Principles, and Practices" AI Governance Forum Korea (Aug.2021) <br>
 ▪ "The Shade of Gig Economy: Strikes Agaisnt Algorithms in China and Spain" MIT Technology Review Korea (Aug. 2021)<br> 
