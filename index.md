@@ -35,10 +35,10 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
  <strong> PUBLICATIONS (BOOKS, CHAPTERS, POLICY PAPERS) </strong> <br> 
 ▪"Who Owns'Baby Shark Dance'?:Copyright Dispute over Meme Phenomenon" Harvard J of Law and Technology (Fall 2021) <br>
 ▪ Book Chapter, "Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Oct.2021) <br>
-▪'Leviathan Rises From the Deep:Battle of Tech Giants'<a href="https://www.orfonline.org/series/the-cyfy-edit/"> CyFy Edit</a>(Indian journal on technology)(Oct. 2021) <br> 
+▪ "The Leviathan Rises From the Deep:Battle of Tech Giants"<a href="https://www.orfonline.org/series/the-cyfy-edit/"> CyFy Edit</a>(Indian journal on technology)(Oct. 2021) <br> 
 ▪ Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming 2022) <br>
 ▪ Policy Report, "AI Governance: Issues, Principles, and Practices" AI Governance Forum Korea (Aug.2021) <br>
-▪ "The Shade of Gig Economy: Strikes Agaisnt Algorithms in China and Spain" MIT Technology Review Korea (Aug. 2021)<br> 
+▪ "The Shade of Gig Economy: On-demand Food Delivery Platforms and Strikes Against Algorithms" MIT Technology Review Korea (Aug. 2021)<br> 
 ▪ "Patent Waiver of COVID 19 Vaccine for Global Public Health"BioWave Vol.23,No.9,<a href="https://www.ibric.org/biowave/bio_webzine_index.php"> BRIC</a>(Sept.2021)<br>
 ▪ <a href="https://www.ibric.org/myboard/read.php?Board=report&id=3843">"CRISPR-Cas9 Patent War and the Implication for Microbial Sciences"</a>BioWave Vol.23, No.8,BRIC(Aug 2021)<br>
 ▪ <a href="https://www.technologyreview.kr/communicatioins-decency-act-misinformation/">"Will the CDA Section 230 Reform Reduce Dis/Misinformation in Digital Platforms?" </a> MIT Technology Review Korea (May 2021) <br>
