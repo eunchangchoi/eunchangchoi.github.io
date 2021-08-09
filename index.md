@@ -39,11 +39,11 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪ Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming 2022) <br>
 ▪ Policy Report,"AI Governance: Issues, Principles, and Practices" AI Governance Forum Korea (Aug.2021) <br>
 ▪ "The Shade of Gig Economy: On-demand Food Delivery Platforms and Strikes Against Algorithms" MIT Tech Review Korea (Aug.2021)<br> 
-▪ "Patent Waiver of COVID 19 Vaccine for Global Public Health" BioWave Vol.23, No.9 <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH </a>(Sept.2021)<br>
-▪ <a href="https://www.ibric.org/myboard/read.php?Board=report&id=3843">"CRISPR-Cas9 Patent War and Implication for Microbial Sciences"</a> BioWave Vol.23, No.8, POSTECH (Aug.2021)<br>
+▪ "Patent Waiver of COVID 19 Vaccine for Global Public Health" BioWave Vol.23, No.10<a href="https://www.ibric.org/biowave/bio_webzine_index.php">POSTECH </a>(2021)<br>
+▪ <a href="https://www.ibric.org/myboard/read.php?Board=report&id=3843">"CRISPR-Cas9 Patent War and the Implication for Microbial Sciences"</a> BioWave Vol.23,No.9,POSTECH (2021)<br>
 ▪ <a href="https://www.technologyreview.kr/communicatioins-decency-act-misinformation/">"Will the CDA Section 230 Reform Reduce Dis/Misinformation in Digital Platforms?" </a> MIT Tech Review Korea (May 2021) <br>
 ▪ <a href="https://www.technologyreview.kr/why-data-ethics-is-important-in-ai-business/">"Why Data Ethics Matters to AI Business?"</a> MIT Tech Review Korea (April, 2021)<br>
-▪ <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-1/"> "Why AI Chatbots Fail ?:The Ethics of Lee Luda's Discriminatory Remarks" I</a>, <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-2/"> II</a> MIT Tech Review Korea (March, 2021)<br>
+▪ <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-1/"> "Why AI Chatbots Fail?:The Ethics of Lee Luda's Discriminatory Remarks" I</a>, <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-2/"> II</a> MIT Tech Review Korea (March, 2021)<br>
 ▪ <a href="https://www.kisdi.re.kr/report/view.do?key=m2101113025377&arrMasterId=4333446&masterId=4333446&artId=555875"> "The History of Chatbots and Policy: Rethinking Eliza, GPT-3, & Lee Luda"</a> <i> AI Outlook </i> Vol.4 <a href="https://www.kisdi.re.kr/eng/index.do"> KISDI </a> (April 2021)<br>
 ▪ "The Difference of AI Risk Perception and Governance Modes" in <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791130337722&orderClick=LA6"><i> Ethics and Governance of AI </i>,</a> Publisher 博英社(Jan. 2021) <br>
 ▪ Book Translation <a href="https://mitpress.mit.edu/books/memes-digital-culture"> <i> Memes in Digital Culture</i>,</a> Publisher MIT Press, Hanul MPlus(Aug.2021) <br> 
