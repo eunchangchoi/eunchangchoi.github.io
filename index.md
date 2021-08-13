@@ -38,7 +38,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪ "The Leviathan Rises from the Deep: Battle of Tech Giants"<a href="https://www.orfonline.org/series/the-cyfy-edit/"> CyFy Edit</a> (Indian journal on technology)(Oct. 2021) <br> 
 ▪ Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming 2022) <br>
 ▪ Policy Report,"AI Governance: Issues, Principles, and Practices" AI Governance Forum Korea (Aug.2021) <br>
-▪ "The Shade of Gig Economy: On-demand Food Delivery Platforms and Strikes Against Algorithms" MIT Tech Review Korea (Aug.2021)<br> 
+▪ "Food-Delivery Regulations in Spain and Algorithmic Antagonisms of Gig Workers" MIT Tech Review Korea (Aug.2021)<br> 
 ▪ "Patent Waiver of COVID 19 Vaccine for Global Public Health" BRIC BioWave Vol.23, No.10 <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH</a>(Oct. 2021)<br>
 ▪ <a href="https://www.ibric.org/myboard/read.php?Board=report&id=3843">"CRISPR-Cas9 Patent War and the Implication for Microbial Sciences"</a> BRIC BioWave Vol.23, No.9,  <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH</a>(Sept.2021)<br>
 ▪ <a href="https://www.technologyreview.kr/communicatioins-decency-act-misinformation/">"Will the CDA Section 230 Reform Reduce Dis/Misinformation in Digital Platforms?" </a> MIT Tech Review Korea (May 2021) <br>
