@@ -35,9 +35,9 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
  <strong> PUBLICATIONS (BOOKS, CHAPTERS, POLICY PAPERS) </strong> <br> 
 ▪ "Who Owns'Baby Shark Dance'?:Copyright Dispute over the Global Meme Phenomenon" Harvard J of Law and Technology (Fall 2021) <br>
 ▪ Book Chapter, "Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Oct.2021) <br>
-▪ "The Leviathan Rises from the Deep: Battle of Tech Giants"<a href="https://www.orfonline.org/series/the-cyfy-edit/"> CyFy Edit</a> (Indian journal on technology)(Oct. 2021) <br> 
+▪ "Leviathan Rises from the Deep: Battle of Tech Giants"<a href="https://www.orfonline.org/series/the-cyfy-edit/"> CyFy Edit</a> (Indian journal on technology)(Oct. 2021) <br> 
 ▪ Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming 2022) <br>
-▪ "What Hyperscale AI Platforms Want?" SK Planet (Sept.2021) <br>
+▪ "What Hyperscale AI Platforms Want?" <a href="https://www.skplanet.com/business/ictIot"> SK Planet </a>(Sept.2021) <br>
 ▪ Policy Report,"AI Governance: Issues, Principles, and Practices" AI Governance Forum Korea (Aug.2021) <br>
 ▪ "Food-Delivery Regulations in Spain and Algorithmic Antagonisms of Gig Workers" MIT Tech Review Korea (Aug.2021)<br> 
 ▪ "Patent Waiver of COVID 19 Vaccine for Global Public Health" BRIC BioWave Vol.23, No.10 <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH</a>(Oct. 2021)<br>
