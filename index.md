@@ -69,7 +69,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute, </a>STEPI Fellowship Research Paper Series(2014)<br>
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>   
-▪ 'Disinformation in the Cultural History of Epidemics'<a href="https://sll.seoul.go.kr/lms/simin_course/courseRequest/doSiminUnivMain.dunet?mnid=201510753401"> Continuing Studies, Seoul Metropolitan Government</a> (Aug.2021) <br> 
+▪ 'Disinformation and Fear in the Cultural History of Epidemics'<a href="https://www.asiae.co.kr/article/2021081610112312900">, Citizen University, Seoul Metropolitan Government </a> (Aug.2021) <br> 
 ▪ 'Data Sharing and Data Privacy:The Limit of Differential Privacy' Tutorial, Korea Internet Governance Forum(Aug.2021) <br>  
 ▪ 'Risk Constructivism and Cultural Cognition', <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=1509&b_name=meet1_2">The Evolution of Technology & Society Conference </a>, SNU + KISA (June.2021)<br>
 ▪ 'The Politicizing Science and Scientific Uncertainty in Epidemiology", Graduate School of Public Health, Yonsei Univ (June.2021)<br>
@@ -116,8 +116,8 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪ Consultated about Infodemic Scenarios of Disasters for The National Disaster Management Research Institute (May, 2020)<br>
 ▪ <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">'S.Korea's COVID 19 Contact Tracing, Legality, and Privacy Risk'</a> Interview with Sciences Po, France(Nov.2020) <br>  
 ▪ Panelist, 'Autonomous Systems, Robustness, and Data' Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
-▪ Consulted about Deepfake for <a href="https://https://www.kcc.go.kr/user/ehpMain.do"> the Korea Communications Commission </a>(Nov. 2019)<br>
-▪ Consulted about Global Perspective on AI Ethics for <a href="https://www.kisdi.re.kr/"> Korea Information Society Development Institute </a>(Sept. 2019)<br>
+▪ Consulted about Deepfake for <a href="https://https://www.kcc.go.kr/user/ehpMain.do"> Korea Communications Commission,</a>(Nov.2019)<br>
+▪ Consulted about Global Perspective on AI Ethics for <a href="https://www.kisdi.re.kr/"> Korea Information Society Development Institute </a>(Sept.2019)<br>
 ▪ Paid Field Trips to U.S. FDA and UCSF Tobacco Research Center with officials of Ministry of Health and Welfare (2018) <br>
 ▪ Served for the Editorial Board of <a href="https://aipolicyexchange.org/"> AI Policy Exchange </a><br>
 ▪ Member, the Expert Council of Robot Ethics at <a href="https://kiria.org/eng"> Korea Institute for Robot Industry Advancement</a> <br>
