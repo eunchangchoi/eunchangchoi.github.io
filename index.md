@@ -96,7 +96,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪   <a href="https://www.ftp.asia/index.php/s/HGkuD3YVUBssKrP">'Coping with Misinformation in an Deluge of Information'</a>, <a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
 ▪   'AI Governance'in <a href="https://kpc4ir.kaist.ac.kr/index.php?mid=kpc4ir_events&document_srl=684"> TECH & TALK Conference</a>,<a href="https://kpc4ir.kaist.ac.kr/"> Korea Policy Center for 4th Industrial Revolution, KAIST,</a> Seoul (May. 2019)<br>
 ▪   <a href="https://youtu.be/92cmsMv6xhQ?t=451">'AI Ethics & Governance: Multistakeholder Approach'</a>, 2019 <a href="http://krigf.kr/"> Korea Internet Governance Forum</a>, Seoul, South Korea <br>
-▪   'Global AI Ethics Governance' Korea Information Society Development Institute, South Korea (Sept. 2018) <br> 
+▪   'Global AI Ethics Governance' Korea Information Society Development Institute, South Korea (Sept.2018) <br> 
 ▪   'AI Ethics, Policies & Governance: A Global Overview' The Korea Society of Internet Ethics Conference (Nov.2018) <br>
 ▪   <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News Workshop'</a>, <a href="https://igf2018.fr/"> The UN Internet Governance Forum </a> at UNESCO, Paris, France (Nov.2018) <br>
 ▪   'Artificial Intelligence Applications for Global Public Health' National Medical Center(NMC), Seoul, South Korea (Oct. 2018)<br>
@@ -108,7 +108,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
   <br>
     
  <strong> CONSULTING & ADVICES</strong> <br>   
-▪ Chief Data Ethics Officer (a qualified <a href="https://www.dataq.or.kr/www/sub/a_06.do"> Advanced Data Analytics Professional)</a> in <a href="https://labbit.kr/"> LABBIT,</a> a growth hacking company in Seoul<br> 
+▪ Chief Data Ethics Officer,a qualified <a href="https://www.dataq.or.kr/www/sub/a_06.do"> Advanced Data Analytics Professional,</a> in <a href="https://labbit.kr/"> LABBIT,</a> a growth hacking company in Seoul<br> 
 ▪ Panelist,'Myanmar's Internet Suppression and Democracy after Military Coup' Korea Internet Governance Forum (Aug.2021) <br>  
 ▪ <a href="https://ap.rigf.asia/fellowship/2021/introducing-the-mentors-of-2021-fellowship-program/?fbclid=IwAR2pn3lY-fE0daHxOW4vCcvk0HX-zwFHd8uJxaPnT266Hn7BOkA52UudjMw"> Mentoring </a> for 2021 APrIGF Fellows,<a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
 ▪ Panelist, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (Feb. 2021)<br>
