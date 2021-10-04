@@ -37,7 +37,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪ Book Chapter,"Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Oct.2021) <br>
 ▪ "The Leviathan Rises from the Deep: Battle of Tech Giants"<a href="https://www.orfonline.org/cyfy/"> CyFy Edit</a> (Indian journal on technology)(Oct. 2021) <br> 
 ▪ Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming 2022) <br>
-▪ "Hyperscale AI language model and AI sovereignty" <a href="https://www.skplanet.com/business/ictIot"> Monthly Magazine SK Planet </a>(Sept.2021) <br>
+▪ "The Race for Hyperscale AI Language Models" <a href="https://www.skplanet.com/business/ictIot"> Monthly Magazine SK Planet </a>(Sept.2021) <br>
 ▪ Policy Report,"AI Governance: Issues, Principles, and Practices" AI Governance Forum Korea (Aug.2021) <br>
 ▪ <a href="https://www.technologyreview.kr/%ec%a3%bc%eb%ac%b8%ed%98%95-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ea%b7%9c%ec%a0%9c%ec%99%80-%ea%b8%b1-%ec%9d%b4%ec%bd%94%eb%85%b8%eb%af%b8%ec%9d%98-%eb%af%b8%eb%9e%98/?fbclid=IwAR1sfDzfWXv-sdOnKCrOSIlD0PSPpXuAuzSBjD4gz-2Qjuc6NhNq2A100Iw">" Algorithmic Antagonisms of Gig Workers and Regulations on Food-Delivery Platforms"</a> MIT Tech Review Korea (Aug.2021)<br> 
 ▪ "COVID 19 Vaccines Patent Waiver for Global Public Health" BRIC BioWave Vol.23,No.10<a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH</a>(Oct.2021)<br>
