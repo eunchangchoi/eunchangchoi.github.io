@@ -82,10 +82,10 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪  'Technology Risks and Scientific Uncertainty' Technology and Society Forum, Seoul National University (Sept.2020)<br>
 ▪  <a href="http://www.igf.or.kr/2554">'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?'</a>, Korea Internet Governance Forum (Aug. 2020) <br> 
 ▪  'South Korea's Contacts Tracing for COVID-19: Balancing between Public Health and Privacy', <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slides </a>, <a href="https://youtu.be/4UZlkRLKGes"> Video </a>(Aug.2020) <br> 
-▪  <a href="https://www.kaobe.or.kr/home/board/view.php?pid=notice&act=view&num=100">'Business Ethics for Ethical AI: The Function of AI Ethics Board'</a> Korea Academy of Business Ethics Conference(Aug.2020) <br> 
+▪  <a href="http://kaobe.or.kr/home/page/?pid=conference22">'Business Ethics for Ethical AI: The Function of AI Ethics Board'</a> Korea Academy of Business Ethics Conference(Aug.2020) <br> 
 ▪  'Medical Misinformation and Scientific Uncertainty:COVID19,Ebola & HIV/AIDS',Korea Society of Internet Ethics Conference <br>
 ▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercials and Copyrights'</a> Cybercommunication Academic Society, Seoul (2020)<br>
-▪  'How Misinformation and Myths Obstruct Public Health Measures in Pandemic", Graduate School of Public Health, Yonsei Univ (2020)<br>
+▪  'How Misinformation and Myths Obstruct Public Health Measures in Pandemic",Graduate School of Public Health, Yonsei Univ(2020)<br>
 ▪ <a href="https://bit.ly/36qHFoj">'The Risk Perception of AI'</a>, Korean Association for AI and Law (KAAIL) AI Policy Forum + Microsoft(Oct. 2019) <br>
 ▪ <a href="https://clawar.org/wp-content/uploads/2019/11/ICRES2019_p64_paper_4.pdf">"The Making of South Korea's Robot Ethics Charter"</a>, <a href="https://www.icres2019.org/"> International Conference on Robot Ethics and Standards</a>, London, UK (2019)<br>
 ▪   <a href= "https://www.intgovforum.org/multilingual/content/igf-2019-ws-182-data-governance-for-smarter-city-mobility">'Data Governance for Smarter City Mobility'</a>  <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html"> The United Nations Internet Governance Forum</a>, Berlin, Germany (2019)<br> 
