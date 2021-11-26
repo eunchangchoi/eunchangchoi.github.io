@@ -33,6 +33,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 <br>
 <br>  
  <strong> PUBLICATIONS (BOOKS, CHAPTERS, POLICY PAPERS) </strong> <br> 
+▪ <a href="https://www.technologyreview.kr/누가-메타버스-플랫폼을-구축하고-있고-메타버스-세/">"Who's building the metaverse platforms and how the metaverse world to be governed? "</a> MIT Tech Review Korea (Nov.2021)<br>
 ▪ "Who Owns Baby Shark Dance?:Copyright Dispute over the Global Meme Phenomenon" (forthcoming) <br>
 ▪ Book Chapter,"Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Oct.2021) <br>
 ▪ "The Leviathan Rises from the Deep: Battle of Tech Giants"<a href="https://www.orfonline.org/cyfy/"> CyFy Edit</a> (Indian journal on technology)(Oct. 2021) <br> 
