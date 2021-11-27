@@ -34,7 +34,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 <br>  
  <strong> PUBLICATIONS (BOOKS, CHAPTERS, POLICY PAPERS) </strong> <br>
 ▪ "The Flip Side of NFT Craze: Does it Help Digital Artists?" MIT Tech Review Korea (Nov.2021)<br>
-▪'NFts, Digital Art Trading and Copyrights' Cybercommunication Academic Society, Conference(Nov.2021) <br>
+▪' NFTs, Digital Art Trading and Copyrights' Cybercommunication Academic Society, Conference(Nov.2021) <br>
 ▪ <a href="https://www.technologyreview.kr/누가-메타버스-플랫폼을-구축하고-있고-메타버스-세/">"Who's Building Metaverse Platforms and How Metaverse World to be Governed? "</a> MIT Tech Review Korea (Nov.2021)<br>
 ▪ "Who Owns Baby Shark Dance?:Copyright Dispute over the Global Meme Phenomenon" (forthcoming) <br>
 ▪ Book Chapter,"Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Oct.2021) <br>
