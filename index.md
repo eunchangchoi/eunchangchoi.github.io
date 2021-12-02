@@ -33,10 +33,10 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 <br>
 <br>  
  <strong> PUBLICATIONS (BOOKS, CHAPTERS, POLICY PAPERS) </strong> <br>
-▪ " NFTifying Digital Items : Promise and Pitfalls" MIT Tech Review Korea (Nov.2021)<br>
-▪ ' NFTs, Digital Art Trading and Copyrights' Cybercommunication Academic Society, Conference (Nov.2021) <br>
+▪ " NFT craze : How dazzling is it and also risky?" MIT Tech Review Korea (Dec.2021)<br>
+▪ ' NFTying Memes, Digital Art Trading and Copyrights' Cybercommunication Academic Society, Fall Conference (Nov.2021) <br>
 ▪ <a href="https://www.technologyreview.kr/누가-메타버스-플랫폼을-구축하고-있고-메타버스-세/">"Who's Building Metaverse Platforms and How Metaverse World to be Governed? "</a> MIT Tech Review Korea (Nov.2021)<br>
-▪ "Who Owns Baby Shark Dance?:Copyright Dispute over the Global Meme Phenomenon" (forthcoming) <br>
+▪ " Who Owns Baby Shark Dance?:Copyright Dispute over the Global Meme Phenomenon" (forthcoming) <br>
 ▪ Book Chapter,"Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Oct.2021) <br>
 ▪ "The Leviathan Rises from the Deep: Battle of Tech Giants"<a href="https://www.orfonline.org/cyfy/"> CyFy Edit</a> (Indian journal on technology)(Oct. 2021) <br> 
 ▪ Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming 2022) <br>
