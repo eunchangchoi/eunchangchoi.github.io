@@ -36,7 +36,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪ <a href="https://www.technologyreview.kr/nft-%ec%97%b4%ed%92%8d-%ec%96%bc%eb%a7%88%eb%82%98-%eb%a9%8b%ec%a7%80%ea%b3%a0-%ec%96%bc%eb%a7%88%eb%82%98-%ec%9c%84%ed%97%98%ed%95%a0%ea%b9%8c/"> "NFT craze : How dazzling is it and also risky?"</a> MIT Tech Review Korea (Dec.2021)<br>
 ▪ ' NFTying Memes, Digital Art Trading and Copyrights' Cybercommunication Academic Society, Fall Conference (Nov.2021) <br>
 ▪ <a href="https://www.technologyreview.kr/누가-메타버스-플랫폼을-구축하고-있고-메타버스-세/">"Who's Building Metaverse Platforms and How Metaverse World to be Governed? "</a> MIT Tech Review Korea (Nov.2021)<br>
-▪ " Who Owns Baby Shark Dance?:Copyright Dispute over the Global Meme Phenomenon" (forthcoming) <br>
+▪ " Who Owns the Baby Shark Dance?: Copyright Dispute over the Global Meme Phenomenon" (forthcoming) <br>
 ▪ Book Chapter,"Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Oct.2021) <br>
 ▪ "The Leviathan Rises from the Deep: Battle of Tech Giants"<a href="https://www.orfonline.org/cyfy/"> CyFy Edit</a> (Indian journal on technology)(Oct. 2021) <br> 
 ▪ Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming 2022) <br>
@@ -72,8 +72,8 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute, </a>STEPI Fellowship Research Paper Series(2014)<br>
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>   
-▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who AI-generated Content and Invention?'</a> AI Summit Seoul 2021, COEX Mall, Seoul (Dec.2021) <br>
-▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Algorithmic Governance', Youth Internet Governance Forum, India 2021 </a> <br> 
+▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who Holds Ownership of AI-generated Content and Invention?',</a> AI Summit Seoul 2021, COEX Mall, Seoul (Dec.2021) <br>
+▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Algorithmic Governance',</a> Youth Internet Governance Forum, India 2021 <br> 
 ▪ <a href="https://www.asiae.co.kr/article/2021081610112312900">'Fear and Misinformation in the Cultural History of Epidemics'</a>, <a href="https://opengov.seoul.go.kr/mediahub/20417385"> Citizen University of Seoul Metropolitan Government </a>(Aug.2021) <br> 
 ▪ 'Data Sharing and Data Privacy:The Limit of Differential Privacy' Tutorial, Korea Internet Governance Forum(Aug.2021) <br>  
 ▪ 'Risk Constructivism and Cultural Cognition', <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=1509&b_name=meet1_2">The Evolution of Technology & Society Conference </a>, SNU + KISA (June.2021)<br>
