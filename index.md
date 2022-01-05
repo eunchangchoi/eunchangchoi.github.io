@@ -72,10 +72,10 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute, </a>STEPI Fellowship Research Paper Series(2014)<br>
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>   
-▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who Holds Ownership of AI-generated Content and Invention?',</a> AI Summit Seoul 2021, COEX Mall(Dec.2021)<br>
-▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Why AI Literacy is Critical for Algorithmic Governance',</a> Youth Internet Governance Forum of India (Dec.2021)<br> 
-▪ <a href="https://www.asiae.co.kr/article/2021081610112312900">'Fear and Misinformation in the Cultural History of Epidemics'</a>, <a href="https://opengov.seoul.go.kr/mediahub/20417385"> Citizen University of Seoul Metropolitan Government </a>(Aug.2021) <br> 
-▪ 'Data Sharing and Data Privacy:The Limit of Differential Privacy' Tutorial, Korea Internet Governance Forum(Aug.2021) <br>  
+▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who Holds Ownership of AI-generated Content and Invention?',</a> AI Summit Seoul 2021, Seoul (Dec.2021)<br>
+▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Why AI Literacy is Critical for Algorithmic Governance',</a> Youth Internet Governance Forum, India (Dec.2021)<br> 
+▪ <a href="https://www.asiae.co.kr/article/2021081610112312900">'Fear and Misinformation in the Cultural History of Epidemics'</a>, <a href="https://opengov.seoul.go.kr/mediahub/20417385"> Citizen University, Seoul Metropolitan Government </a> (Aug.2021) <br> 
+▪ 'Data Sharing and Data Privacy:The Limit of Differential Privacy' Tutorial, Korea Internet Governance Forum (Aug.2021) <br>  
 ▪ 'Risk Constructivism and Cultural Cognition', <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=1509&b_name=meet1_2">The Evolution of Technology & Society Conference </a>, SNU + KISA (June.2021)<br>
 ▪ 'The Politicizing Science and Scientific Uncertainty in Epidemiology", Graduate School of Public Health, Yonsei Univ (June.2021)<br>
 ▪ 'The Role of Experts Witness in Toxic Tort Ligitation" Korean Society for Research on Nicotine (May.2021)<br>
