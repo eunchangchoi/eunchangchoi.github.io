@@ -33,18 +33,17 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 <br>
 <br>  
  <strong> PUBLICATIONS (BOOKS, CHAPTERS, POLICY PAPERS) </strong> <br>
+▪ Book Chapter,"Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(March.2022) <br>
 ▪ <a href="https://www.technologyreview.kr/nft-%ec%97%b4%ed%92%8d-%ec%96%bc%eb%a7%88%eb%82%98-%eb%a9%8b%ec%a7%80%ea%b3%a0-%ec%96%bc%eb%a7%88%eb%82%98-%ec%9c%84%ed%97%98%ed%95%a0%ea%b9%8c/"> "NFT Craze : How Dazzling Is It and also Risky?"</a> MIT Tech Review Korea (Dec.2021)<br>
+▪ "The Waiver of COVID-19 Vaccines Patents for the Global South" BRIC BioWave <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH</a>(Jan.2022)<br>
 ▪ 'NFTying Memes, Digital Art Trading and Copyrights' Cybercommunication Academic Society, Fall Conference (Nov.2021) <br>
 ▪ <a href="https://www.technologyreview.kr/누가-메타버스-플랫폼을-구축하고-있고-메타버스-세/">"Who's Building Metaverse Platforms and How Metaverse World to be Governed? "</a> MIT Tech Review Korea (Nov.2021)<br>
-▪ " Who Owns the Baby Shark Dance?: Copyright Dispute over the Global Meme Phenomenon" (forthcoming) <br>
-▪ Book Chapter,"Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Oct.2021) <br>
+▪ " Who Owns the Baby Shark Dance?: Copyright Dispute over the Global Meme Phenomenon" Yal Journal of Law & Technology 2020 (forthcoming) <br> 
 ▪ "The Leviathan Rises from the Deep: Battle of Tech Giants"<a href="https://www.orfonline.org/cyfy/"> CyFy Edit</a> (Indian journal on technology)(Oct. 2021) <br> 
-▪ Book <i> Automated Algorithms as a New Institution: Socio-Legal Perspective on AI</i>, Publisher Hanul MPlus (forthcoming 2022) <br>
+▪ <a href="https://www.ibric.org/myboard/read.php?Board=report&id=3843">"CRISPR-Cas9 Patent War and the Implication for Microbial Sciences"</a> BRIC BioWave Vol.23, No.9, <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH</a>(Sept.2021)<br>
 ▪ "The Race for Hyperscale AI Language Models" <a href="https://www.skplanet.com/business/ictIot"> Monthly Magazine SK Planet </a>(Sept.2021) <br>
 ▪ Policy Report,"AI Governance: Issues, Principles, and Practices" AI Governance Forum Korea (Aug.2021) <br>
-▪ <a href="https://www.technologyreview.kr/%ec%a3%bc%eb%ac%b8%ed%98%95-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ea%b7%9c%ec%a0%9c%ec%99%80-%ea%b8%b1-%ec%9d%b4%ec%bd%94%eb%85%b8%eb%af%b8%ec%9d%98-%eb%af%b8%eb%9e%98/?fbclid=IwAR1sfDzfWXv-sdOnKCrOSIlD0PSPpXuAuzSBjD4gz-2Qjuc6NhNq2A100Iw">" Algorithmic Antagonisms of Gig Workers and Regulations on Food-Delivery Platforms"</a> MIT Tech Review Korea (Aug.2021)<br> 
-▪ "COVID 19 Vaccines Patent Waiver for Global Public Health" BRIC BioWave Vol.23,No.10<a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH</a>(Oct.2021)<br>
-▪ <a href="https://www.ibric.org/myboard/read.php?Board=report&id=3843">"CRISPR-Cas9 Patent War and the Implication for Microbial Sciences"</a> BRIC BioWave Vol.23, No.9, <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH</a>(Sept.2021)<br>
+▪ <a href="https://www.technologyreview.kr/%ec%a3%bc%eb%ac%b8%ed%98%95-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ea%b7%9c%ec%a0%9c%ec%99%80-%ea%b8%b1-%ec%9d%b4%ec%bd%94%eb%85%b8%eb%af%b8%ec%9d%98-%eb%af%b8%eb%9e%98/?fbclid=IwAR1sfDzfWXv-sdOnKCrOSIlD0PSPpXuAuzSBjD4gz-2Qjuc6NhNq2A100Iw">" Algorithmic Antagonisms of Gig Workers and Regulations on Food-Delivery Platforms"</a> MIT Technology Review (Aug.2021)<br> 
 ▪ <a href="https://www.technologyreview.kr/communicatioins-decency-act-misinformation/"> "Will the CDA Section 230 Reform Reduce Dis/Misinformation in Digital Platforms?" </a> MIT Tech Review Korea (May 2021) <br>
 ▪ <a href="https://www.technologyreview.kr/why-data-ethics-is-important-in-ai-business/">"Why Data Ethics Matters to AI Business?"</a> MIT Tech Review Korea (April, 2021)<br>
 ▪ <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-1/"> "Why AI Chatbots Fail?:The Ethics of Lee Luda's Discriminatory Remarks" I</a>, <a href="https://www.technologyreview.kr/why-ai-chatbots-fail-lee-luda-part-2/"> II</a> MIT Tech Review Korea (March, 2021)<br>
