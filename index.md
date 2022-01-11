@@ -33,7 +33,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 <br>
 <br>  
  <strong> PUBLICATIONS (BOOKS, CHAPTERS, POLICY PAPERS) </strong> <br>
-▪ "Governing Artificial Intelligence: Issues, Principles, and Practices in South Korea" The AI Governance Forum Korea (Jan.2022) 
+▪ "Governing Artificial Intelligence: Issues, Principles, and Practices" The AI Governance Forum Korea (Jan.2022)<br>
 ▪ "Who Owns the Baby Shark Dance?: A Copyright Dispute over the Global Meme" Harvard Journal of Law & Tech (forthcoming) <br> 
 ▪ Book Chapter,"Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(March.2022) <br>
 ▪ <a href="https://www.technologyreview.kr/nft-%ec%97%b4%ed%92%8d-%ec%96%bc%eb%a7%88%eb%82%98-%eb%a9%8b%ec%a7%80%ea%b3%a0-%ec%96%bc%eb%a7%88%eb%82%98-%ec%9c%84%ed%97%98%ed%95%a0%ea%b9%8c/"> "NFT Craze : How Dazzling Is It and also Risky?"</a> MIT Tech Review Korea (Dec.2021)<br>
