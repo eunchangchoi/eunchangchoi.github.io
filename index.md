@@ -71,7 +71,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute, </a>STEPI Fellowship Research Paper Series(2014)<br>
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>   
-▪ <a href="https://www.inews24.com/view/1442354">"Will AI-Generated Deepfake Weaken Democracy?"</a>Media and ICT Ad hoc Committee,The National Assembly of Korea
+▪ <a href="https://www.inews24.com/view/1442354">"Will AI-Generated Deepfake Weaken Democracy?"</a>Media & ICT Ad hoc Committee, National Assembly of Korea(Jan.2022)<br>
 ▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who Holds Ownership of AI-generated Content and Invention?',</a> AI Summit Seoul 2021, Seoul (Dec.2021)<br>
 ▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Why AI Literacy is Critical for Algorithmic Governance',</a> Youth Internet Governance Forum, India (Dec.2021)<br> 
 ▪ 'NFTying Memes, Digital Art Trading and Copyrights' Cybercommunication Academic Society Conference(Nov.2021) <br>
@@ -89,7 +89,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪  <a href="http://www.igf.or.kr/2554">'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?'</a>,Korea Internet Governance Forum (Aug. 2020) <br> 
 ▪  'South Korea's Contacts Tracing for COVID-19: Balancing between Public Health and Privacy', <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slides </a>, <a href="https://youtu.be/4UZlkRLKGes"> Video </a>(Aug.2020) <br> 
 ▪  <a href="http://kaobe.or.kr/home/page/?pid=conference22">'Business Ethics for Ethical AI: The Function of AI Ethics Board'</a> Korea Academy of Business Ethics Conference(Aug.2020) <br> 
-▪  'Medical Misinformation and Scientific Uncertainty:COVID19,Ebola & HIV/AIDS',Korea Society of Internet Ethics Conference <br>
+▪  'Medical Misinformation and Scientific Uncertainty:COVID19,Ebola & HIV/AIDS',Korea Society of Internet Ethics Conference<br>
 ▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercials and Copyrights'</a> Cybercommunication Academic Society, Seoul (2020)<br>
 ▪  'How Misinformation and Myths Obstruct Public Health Measures in Pandemic",Graduate School of Public Health, Yonsei Univ(2020)<br>
 ▪ <a href="https://bit.ly/36qHFoj">'The Risk Perception of AI'</a>, Korean Association for AI and Law (KAAIL) AI Policy Forum + Microsoft(Oct. 2019) <br>
