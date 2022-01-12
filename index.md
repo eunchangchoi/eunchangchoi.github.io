@@ -71,7 +71,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute, </a>STEPI Fellowship Research Paper Series(2014)<br>
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>   
-▪ <a href="https://www.inews24.com/view/1442354">'Will AI-Generated Deepfake Media Weaken Democracy?'</a> Media & ICT Ad hoc Committee, National Assembly of Korea (Jan.2022)<br>
+▪ <a href="https://www.inews24.com/view/1442354">'AI-generated Deepfake Media and Democracy'</a> Media & ICT Ad Hoc Committee, National Assembly of Korea (Jan.2022)<br>
 ▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who Holds Ownership of AI-generated Content and Invention?',</a> AI Summit Seoul 2021, Seoul (Dec.2021)<br>
 ▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Why AI Literacy is Critical for Algorithmic Governance',</a> Youth Internet Governance Forum, India (Dec.2021)<br> 
 ▪ 'NFTying Memes, Digital Art Trading and Copyrights' Cybercommunication Academic Society Conference(Nov.2021) <br>
@@ -137,7 +137,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪<a href="https://www.mk.co.kr/news/economy/view/2020/10/1097127/">'Blockchain for Anti-Corruption and Financial Inclusion for the Unbanked'</a> Maekyung Business News (Oct. 2020)<br>  
 ▪ <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=192351"> 'COVID-19 Contact Tracing and Data Retention'</a> MediaUs (Sept.2020) <br>  
 ▪ <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=208888">'South Korea's Scope of Contact Tracing for COVID-19 and Social Stigma'</a> MediaToday (Aug.2020)  <br>    
-▪ <a href="https://www.diplomacy.edu/blog/will-algorithms-make-safe-decisions-foreign-affairs">'Will Algorithms Make Safe Decisions in Foreign Affairs?' </a> AI Lab, DiploFoundation, Geneva, Switzerland (Dec 17, 2019)<br>
+▪ <a href="https://www.diplomacy.edu/blog/will-algorithms-make-safe-decisions-foreign-affairs">'Will Algorithms Make Safe Decisions in Foreign Affairs?' </a> AI Lab, DiploFoundation, Geneva, Switzerland (Dec 17, 2019) <br>
 ▪ <a href="https://dig.watch/sessions/session-fakenews">'Fake News Session'</a>, 2018 Internet Governance Forum report, Geneva Internet Platform (Nov.2018) <br>
 ▪ <a href="https://www.donga.com/news/article/all/20170225/83056178/1">'AI becomes smarter…Is it a simple machine or artificial person?'</a>, Dong-a Ilbo (Feb.2017)<br>
 ▪ <a href="https://www.boannews.com/media/view.asp?idx=57022&kind=3">'Blockchain Platform, Hacking, and Security' </a> Boan Cybersecurity News (Sept.2017)<br>
