@@ -33,7 +33,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 <br>
 <br>  
  <strong> PUBLICATIONS (BOOKS, CHAPTERS, POLICY PAPERS) </strong> <br>
-▪ "Governing Artificial Intelligence: Issues, Principles, and Practices" The AI Governance Forum Korea (Jan.2022)<br>
+▪ "Governing Artificial Intelligence: Issues, Principles, and Practices" in English,The AI Governance Forum Korea(Jan.2022)<br>
 ▪ "Who Owns the Baby Shark Dance?: A Copyright Dispute over the Global Meme" Harvard Journal of Law & Tech (forthcoming) <br> 
 ▪ Book Chapter,"Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(March.2022) <br>
 ▪ <a href="https://www.technologyreview.kr/nft-%ec%97%b4%ed%92%8d-%ec%96%bc%eb%a7%88%eb%82%98-%eb%a9%8b%ec%a7%80%ea%b3%a0-%ec%96%bc%eb%a7%88%eb%82%98-%ec%9c%84%ed%97%98%ed%95%a0%ea%b9%8c/"> "NFT Craze : How Dazzling Is It and also Risky?"</a> MIT Tech Review Korea (Dec.2021)<br>
@@ -42,7 +42,7 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪ "The Leviathan Rises from the Deep: Battle of Tech Giants"<a href="https://www.orfonline.org/cyfy/"> CyFy Edit</a> (Indian journal on technology)(Oct. 2021) <br> 
 ▪ <a href="https://www.ibric.org/myboard/read.php?Board=report&id=3843">"CRISPR-Cas9 Patent War and the Implication for Microbial Sciences"</a> BRIC BioWave Vol.23, No.9, <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH</a>(Sept.2021)<br>
 ▪ "The Race for Hyperscale AI Language Models" <a href="https://www.skplanet.com/business/ictIot"> Monthly Magazine SK Planet </a>(Sept.2021) <br>
-▪ Policy Report,"AI Governance: Issues, Principles, and Practices" AI Governance Forum Korea (Aug.2021) <br>
+▪ "AI Governance: Issues, Principles, and Practices" Policy Report in Korean, The AI Governance Forum Korea (Aug.2021) <br>
 ▪ <a href="https://www.technologyreview.kr/%ec%a3%bc%eb%ac%b8%ed%98%95-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ea%b7%9c%ec%a0%9c%ec%99%80-%ea%b8%b1-%ec%9d%b4%ec%bd%94%eb%85%b8%eb%af%b8%ec%9d%98-%eb%af%b8%eb%9e%98/?fbclid=IwAR1sfDzfWXv-sdOnKCrOSIlD0PSPpXuAuzSBjD4gz-2Qjuc6NhNq2A100Iw">" Algorithmic Antagonisms of Gig Workers and Regulations on Food-Delivery Platforms"</a> MIT Tech Review Korea (Aug.2021)<br> 
 ▪ <a href="https://www.technologyreview.kr/communicatioins-decency-act-misinformation/"> "Will the CDA Section 230 Reform Reduce Dis/Misinformation in Digital Platforms?" </a> MIT Tech Review Korea (May 2021) <br>
 ▪ <a href="https://www.technologyreview.kr/why-data-ethics-is-important-in-ai-business/">"Why Data Ethics Matters to AI Business?"</a> MIT Tech Review Korea (April, 2021)<br>
@@ -71,21 +71,22 @@ am a Korean legal scholar focused on the interplay of emerging technologies, dat
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute, </a>STEPI Fellowship Research Paper Series(2014)<br>
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>   
+▪ "Will AI-Generated Deepfake Media Threat to Democracy?" Media and ICT ad hoc Committee, The National Assembly of Korea
 ▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who Holds Ownership of AI-generated Content and Invention?',</a> AI Summit Seoul 2021, Seoul (Dec.2021)<br>
 ▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Why AI Literacy is Critical for Algorithmic Governance',</a> Youth Internet Governance Forum, India (Dec.2021)<br> 
-▪ 'NFTying Memes, Digital Art Trading and Copyrights' Cybercommunication Academic Society Conference (Nov.2021) <br>
+▪ 'NFTying Memes, Digital Art Trading and Copyrights' Cybercommunication Academic Society Conference(Nov.2021) <br>
 ▪ <a href="https://www.asiae.co.kr/article/2021081610112312900">'Fear and Misinformation in the Cultural History of Epidemics'</a>, <a href="https://opengov.seoul.go.kr/mediahub/20417385"> Citizen University, Seoul Metropolitan Government </a> (Aug.2021) <br> 
 ▪ 'Data Sharing and Data Privacy:The Limit of Differential Privacy' Tutorial, Korea Internet Governance Forum (Aug.2021) <br>  
 ▪ 'Risk Constructivism and Cultural Cognition', <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=1509&b_name=meet1_2">The Evolution of Technology & Society Conference </a>, SNU + KISA (June.2021)<br>
-▪ 'The Politicizing Science and Scientific Uncertainty in Epidemiology", Graduate School of Public Health, Yonsei Univ (June.2021)<br>
+▪ 'The Politicizing Science and Scientific Uncertainty in Epidemiology", Graduate School of Public Health, Yonsei Univ(June.2021)<br>
 ▪ 'The Role of Experts Witness in Toxic Tort Ligitation" Korean Society for Research on Nicotine (May.2021)<br>
-▪  Author Talk <a href="https://youtu.be/mRsfLzJmdj8?t=15"> "How False Information Spreads?"</a> at <a href="http://factcheckweek.com/html/02/01.php">'Factcheck Week'</a> by <a href="https://kcc.go.kr/user/ehpMain.do"> KCC </a> and <a href="https://kcmf.or.kr/cms/"> Community Media Foundation </a> (April 2021) <br>
+▪  Author Talk <a href="https://youtu.be/mRsfLzJmdj8?t=15"> "How False Information Spreads?"</a> at <a href="http://factcheckweek.com/html/02/01.php">'Factcheck Week'</a> by <a href="https://kcc.go.kr/user/ehpMain.do"> KCC </a> and <a href="https://kcmf.or.kr/cms/"> Community Media Foundation</a>(April 2021) <br>
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul 2020, </a> COEX Mall, <a href="https://www.digitalmarketingkorea.co.kr"> DMK </a>, Seoul (Dec.2020)<br> 
 ▪ 'Blockchain in Media Value Chain and Copyrights Management',<a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134"> Cybercommunication Academic Society</a>, Seoul (Nov.2020)<br> 
-▪  <a href="https://www.intgovforum.org/multilingual/content/igf-2020-main-session-nris-role-of-the-internet-in-emergency-situations">'The Role of the Internet in Emergency Situations'</a>, The United Nations Internet Governance Forum, (Nov.2020) <br>  
+▪  <a href="https://www.intgovforum.org/multilingual/content/igf-2020-main-session-nris-role-of-the-internet-in-emergency-situations">'The Role of the Internet in Emergency Situations'</a>, The United Nations Internet Governance Forum (Nov.2020) <br>  
 ▪  <a href="http://www.koica.go.kr/koica_kr/985/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa29pY2Ffa3IlMkYyOTMlMkYzNjM4NTklMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2"> 'Blockchain for Humanity and Development Agenda'</a>,Development Cooperation Forum of<a href="http://www.koica.go.kr/sites/koica_en/index.do"> KOICA </a>, <a href="https://youtu.be/BunQy8hsnVQ?t=5742"> Video </a> (Oct.2020)<br> 
 ▪  'Technology Risks and Scientific Uncertainty' Technology and Society Forum, Seoul National University (Sept.2020)<br>
-▪  <a href="http://www.igf.or.kr/2554">'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?'</a>, Korea Internet Governance Forum (Aug. 2020) <br> 
+▪  <a href="http://www.igf.or.kr/2554">'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?'</a>,Korea Internet Governance Forum (Aug. 2020) <br> 
 ▪  'South Korea's Contacts Tracing for COVID-19: Balancing between Public Health and Privacy', <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slides </a>, <a href="https://youtu.be/4UZlkRLKGes"> Video </a>(Aug.2020) <br> 
 ▪  <a href="http://kaobe.or.kr/home/page/?pid=conference22">'Business Ethics for Ethical AI: The Function of AI Ethics Board'</a> Korea Academy of Business Ethics Conference(Aug.2020) <br> 
 ▪  'Medical Misinformation and Scientific Uncertainty:COVID19,Ebola & HIV/AIDS',Korea Society of Internet Ethics Conference <br>
