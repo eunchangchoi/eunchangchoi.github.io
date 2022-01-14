@@ -71,7 +71,7 @@ am a Korean legal scholar whose research focuses on the interplay of emerging te
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute, </a>STEPI Fellowship Research Paper Series(2014)<br>
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>   
-▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'Political Deepfakes, Disinformation and Democracy'</a> Media & ICT Ad Hoc Committee, The National Assembly of South Korea (Jan.2022)<a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> 1</a>, <a href="https://www.news1.kr/articles/?4553816/">2</a>,<a href="http://www.ftoday.co.kr/news/articleView.html?idxno=230638/"> 3</a>,<a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/"> 4</a>.<br>
+▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'Will Political Deepfakes and Fake NFTs Affect Democracy'</a> Media & ICT Ad Hoc Committee, The National Assembly of South Korea (Jan.2022)<a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> Media Today </a>, <a href="https://www.news1.kr/articles/?4553816/">New 1</a>,<a href="https://www.breaknews.com/864283/">Break News </a>,<a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/"> Edaily News</a>.<br>
 ▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who Holds Ownership of AI-generated Content and Invention?',</a> AI Summit Seoul 2021, Seoul (Dec.2021)<br>
 ▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Why AI Literacy is Critical for Algorithmic Governance',</a> Youth Internet Governance Forum, India (Dec.2021)<br> 
 ▪ 'NFTying Memes, Digital Art Trading and Copyrights' Cybercommunication Academic Society Conference(Nov.2021) <br>
@@ -114,7 +114,7 @@ am a Korean legal scholar whose research focuses on the interplay of emerging te
   <br>
     
  <strong> CONSULTING & ADVICES</strong> <br>   
-▪ Chief Data Ethics Officer,a qualified <a href="https://www.dataq.or.kr/www/sub/a_06.do"> Advanced Data Analytics Professional,</a> in <a href="https://labbit.kr/"> LABBIT,</a> a growth hacking company in Seoul<br> 
+▪ Chief Data Ethics Officer, a qualified <a href="https://www.dataq.or.kr/www/sub/a_06.do"> Advanced Data Analytics Professional,</a> in <a href="https://labbit.kr/"> LABBIT,</a> a growth hacking company in Seoul<br> 
 ▪ Panelist,'Myanmar's Internet Suppression and Democracy after Military Coup' Korea Internet Governance Forum (Aug.2021) <br>  
 ▪ <a href="https://ap.rigf.asia/fellowship/2021/introducing-the-mentors-of-2021-fellowship-program/?fbclid=IwAR2pn3lY-fE0daHxOW4vCcvk0HX-zwFHd8uJxaPnT266Hn7BOkA52UudjMw"> Mentoring </a> for 2021 APrIGF Fellows,<a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
 ▪ Panelist, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (Feb. 2021)<br>
