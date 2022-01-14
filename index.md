@@ -78,9 +78,9 @@ am a Korean legal scholar whose research focuses on the interplay of emerging te
 ▪ <a href="https://www.asiae.co.kr/article/2021081610112312900">'Fear and Misinformation in the Cultural History of Epidemics'</a>, <a href="https://opengov.seoul.go.kr/mediahub/20417385"> Citizen University, Seoul Metropolitan Government </a> (Aug.2021) <br> 
 ▪ 'Data Sharing and Data Privacy:The Limit of Differential Privacy' Tutorial, Korea Internet Governance Forum (Aug.2021) <br>  
 ▪ 'Risk Constructivism and Cultural Cognition', <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=1509&b_name=meet1_2">The Evolution of Technology & Society Conference </a>, SNU + KISA (June.2021)<br>
-▪ 'The Politicizing Science and Scientific Uncertainty in Epidemiology", Graduate School of Public Health, Yonsei Univ(June.2021)<br>
+▪ 'The Politicizing Science and Scientific Uncertainty in Epidemiology', Graduate School of Public Health, Yonsei Univ(June.2021)<br>
 ▪ 'The Role of Experts Witness in Toxic Tort Ligitation" Korean Society for Research on Nicotine (May.2021)<br>
-▪  Author Talk <a href="https://youtu.be/mRsfLzJmdj8?t=15"> "How False Information Spreads?"</a> at <a href="http://factcheckweek.com/html/02/01.php">'Factcheck Week'</a> by <a href="https://kcc.go.kr/user/ehpMain.do"> KCC </a> and <a href="https://kcmf.or.kr/cms/"> Community Media Foundation</a>(April 2021) <br>
+▪  Author Talk <a href="https://youtu.be/mRsfLzJmdj8?t=15">'How False Information Spreads on Social Media?'</a> at <a href="http://factcheckweek.com/html/02/01.php">'Factcheck Week'</a> by <a href="https://kcc.go.kr/user/ehpMain.do"> KCC </a> and <a href="https://kcmf.or.kr/cms/"> Community Media Foundation</a>(April 2021) <br>
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul 2020, </a> COEX Mall, <a href="https://www.digitalmarketingkorea.co.kr"> DMK </a>, Seoul (Dec.2020)<br> 
 ▪ 'Blockchain in Media Value Chain and Copyrights Management',<a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134"> Cybercommunication Academic Society</a>, Seoul (Nov.2020)<br> 
 ▪  <a href="https://www.intgovforum.org/multilingual/content/igf-2020-main-session-nris-role-of-the-internet-in-emergency-situations">'The Role of the Internet in Emergency Situations'</a>, The United Nations Internet Governance Forum (Nov.2020) <br>  
@@ -89,9 +89,9 @@ am a Korean legal scholar whose research focuses on the interplay of emerging te
 ▪  <a href="http://www.igf.or.kr/2554">'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?'</a>,Korea Internet Governance Forum (Aug. 2020) <br> 
 ▪  'South Korea's Contacts Tracing for COVID-19: Balancing between Public Health and Privacy', <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slides </a>, <a href="https://youtu.be/4UZlkRLKGes"> Video </a>(Aug.2020) <br> 
 ▪  <a href="http://kaobe.or.kr/home/page/?pid=conference22">'Business Ethics for Ethical AI: The Function of AI Ethics Board'</a> Korea Academy of Business Ethics Conference(Aug.2020) <br> 
-▪  'Medical Misinformation and Scientific Uncertainty:COVID19,Ebola & HIV/AIDS',Korea Society of Internet Ethics Conference<br>
-▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercials and Copyrights'</a> Cybercommunication Academic Society, Seoul (2020)<br>
-▪  'How Misinformation and Myths Obstruct Public Health Measures in Pandemic",Graduate School of Public Health, Yonsei Univ(2020)<br>
+▪  'Medical Misinformation and Scientific Uncertainty: COVID-19, Ebola & HIV/AIDS', Korea Society of Internet Ethics Conference<br>
+▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Propaganda, Commercials and Copyrights'</a> Cybercommunication Academic Society, Seoul (June 2020)<br>
+▪  'How Misinformation & Myths Obstruct Public Health Measures during Influenza Pandemics', School of Public Health, Yonsei Univ (March. 2020)<br>
 ▪ <a href="https://bit.ly/36qHFoj">'The Risk Perception of AI'</a>, Korean Association for AI and Law (KAAIL) AI Policy Forum + Microsoft(Oct. 2019) <br>
 ▪ <a href="https://clawar.org/wp-content/uploads/2019/11/ICRES2019_p64_paper_4.pdf">"The Making of South Korea's Robot Ethics Charter"</a>, <a href="https://www.icres2019.org/"> International Conference on Robot Ethics and Standards</a>, London, UK (2019)<br>
 ▪   <a href= "https://www.intgovforum.org/multilingual/content/igf-2019-ws-182-data-governance-for-smarter-city-mobility">'Data Governance for Smarter City Mobility'</a>  <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html"> The United Nations Internet Governance Forum</a>, Berlin, Germany (2019)<br> 
