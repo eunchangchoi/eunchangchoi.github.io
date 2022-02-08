@@ -146,10 +146,10 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
   
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>   
-   Intersection of Law, Science (Data, Bio) and Technology Policy <br>
+   Intersection of Law, Technology Policy and Science (Data, Bio) <br>
    AI: Ethical and Legal Challenges (Governing AI), Accountability for Algorithms <br>   
-   Big Data Governance, Data Sharing, Data Privacy, Data Ownership <br>  
-   AI for Business Organizations and Business Ethics <br>  
+   Data Governance, Data Sharing, Data Privacy, Data Ownership <br>  
+   Responsible AI, AI for Business Organizations and Business Ethics <br>  
    Blockchain-based Governance, Metaverse, Non-fungible tokens (NFT)  <br>  
    Disinformation, The Power of Digital Platform, Platform Liability, Algorithmic Activism <br>  
    Automated Content Moderation, Algorithmic Fair Use (Copyright) <br>   
