@@ -35,7 +35,6 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
  <strong> PUBLISHED ARTICLES, BOOKS & CHAPTERS </strong> <br>
 ▪ "Does Facebook’ Free Basics Help Internet Connectivity in Low-income Countries?" MIT Tech Review Korea (Feb.2022)<br>
 ▪ "Will Computer Algorithms Learn about the Ethics of Warfare on the Battlefield?" MIT Tech Review Korea (Jan.2022)<br>
-▪ "Governing Artificial Intelligence: Issues, Principles, and Practices" The AI Governance Forum Korea (Jan.2022)<br>
 ▪ "Who Owns the Baby Shark Dance?: A Copyright Dispute over the Global Meme" Harvard Technology Review (forthcoming) <br> 
 ▪ Book Chapter,"Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(March.2022) <br>
 ▪ <a href="https://www.technologyreview.kr/nft-%ec%97%b4%ed%92%8d-%ec%96%bc%eb%a7%88%eb%82%98-%eb%a9%8b%ec%a7%80%ea%b3%a0-%ec%96%bc%eb%a7%88%eb%82%98-%ec%9c%84%ed%97%98%ed%95%a0%ea%b9%8c/"> "NFT Craze : How Dazzling Is It and also Risky?"</a> MIT Tech Review Korea (Dec.2021)<br>
@@ -110,6 +109,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪ "Metaverse, the Public Sphere of Politics and Democracy" Korean Society for AI Ethics,The National Assembly of Korea (March. 2022)<br>
 ▪ "Social Interactions in Virtual Metaverse and Human Rights", The National Human Rights Commission of Korea (Feb. 2022)<br>
 ▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Fake NFTs(non-fungible tokens) and the Threat to Democracy'</a> Media & ICT Ad Hoc Committee, The National Assembly of South Korea (Jan.2022)<a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> Media Today </a>, <a href="https://www.news1.kr/articles/?4553816/"> New1</a>, <a href="https://www.breaknews.com/864283">Break News</a>, <a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/"> Edaily News</a>.<br>
+▪ Co-authored "Governing Artificial Intelligence: Issues, Principles, and Practices" The AI Governance Forum Korea (Jan.2022)<br>
 ▪ Panelist,'Myanmar's Internet Suppression and Democracy after Military Coup' Korea Internet Governance Forum (Aug.2021) <br>  
 ▪ <a href="https://ap.rigf.asia/fellowship/2021/introducing-the-mentors-of-2021-fellowship-program/?fbclid=IwAR2pn3lY-fE0daHxOW4vCcvk0HX-zwFHd8uJxaPnT266Hn7BOkA52UudjMw"> Mentoring </a> for 2021 APrIGF Fellows,<a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
 ▪  Author Talk <a href="https://youtu.be/mRsfLzJmdj8?t=15">'Disnformation, Lies, Political Propaganda on Social Media'</a> at <a href="https://factchecker.or.kr/notices/225">'Factcheck Week'</a> by <a href="https://kcc.go.kr/user/ehpMain.do"> KCC </a>.(April 2021) <br>
