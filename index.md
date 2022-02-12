@@ -123,6 +123,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪ Panelist, 'Autonomous Systems, Robustness, and Data' Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
 ▪ Consulted about Deepfake for <a href="https://https://www.kcc.go.kr/user/ehpMain.do"> Korea Communications Commission,</a>(Nov.2019)<br>
 ▪ Consulted about Global Perspective on AI Ethics for <a href="https://www.kisdi.re.kr/"> Korea Information Society Development Institute </a>(Sept.2019)<br>
+▪ Plenary session panel, 2019 Asia-Pacific Internet Governance Forum, Vladivostok, Russia (2019)<br>
 ▪ Policy Report <a href="https://bit.ly/3qgZ63S">"The Ethical Considerations of AI and Policy Response in the Age of Fourth Industrial Revolution"</a> KISDI, Commissioned Report submitted to <a href="https://www.4th-ir.go.kr/home/en/">The Presidential Committee on the Fourth Industrial Revolution of Korea</a>(Oct. 2018) <br> 
 ▪ <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News Workshop'</a>, <a href="https://igf2018.fr/"> The UN Internet Governance Forum </a> at UNESCO, Paris, France (Nov.2018) <br>
 ▪ Field Trips to U.S. FDA and UCSF Tobacco Research Center with officials of Ministry of Health and Welfare (2018) <br> 
