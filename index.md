@@ -104,15 +104,15 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪  <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=236&page=1&b_name=meet1_2"> 'Analysis on Stanford AI 100 Report'</a> Institute of International Studies, Seoul National University (Nov. 2016) <br>
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem :Zero-rating'</a> OpenNet Korea, Seoul (2015) <br>
   <br>
-    
+     
  <strong> PUBLIC POLICY ENGAGEMENT & POLICY PAPERS</strong> <br>   
 ▪ "Metaverse, the Public Sphere of Politics and Democracy" Korean Society for AI Ethics,The National Assembly of Korea (March. 2022)<br>
-▪ "Social Interactions in Virtual Metaverse and Human Rights", The National Human Rights Commission of Korea (Feb. 2022)<br>
+▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> The National Human Rights Commission of Korea</a> (Feb. 2022)<br>
 ▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Fake NFTs(non-fungible tokens) and the Threat to Democracy'</a> Media & ICT Ad Hoc Committee, The National Assembly of South Korea (Jan.2022)<a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> Media Today </a>, <a href="https://www.news1.kr/articles/?4553816/"> New1</a>, <a href="https://www.breaknews.com/864283">Break News</a>, <a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/"> Edaily News</a>.<br>
 ▪ Co-authored "Governing Artificial Intelligence: Issues, Principles, and Practices" The AI Governance Forum Korea (Jan.2022)<br>
 ▪ Panelist,'Myanmar's Internet Suppression and Democracy after Military Coup' Korea Internet Governance Forum(Aug.2021) <br>  
 ▪ <a href="https://ap.rigf.asia/fellowship/2021/introducing-the-mentors-of-2021-fellowship-program/?fbclid=IwAR2pn3lY-fE0daHxOW4vCcvk0HX-zwFHd8uJxaPnT266Hn7BOkA52UudjMw"> Mentoring </a> for 2021 APrIGF Fellows,<a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
-▪  Author Talk <a href="https://youtu.be/mRsfLzJmdj8?t=15">'Disnformation, Lies, Political Propaganda on Social Media'</a> at <a href="https://factchecker.or.kr/notices/225"> in'The Factcheck Week' event</a> by <a href="https://kcc.go.kr/user/ehpMain.do"> supported by Korea Communications Commission </a>(April 2021) <br>
+▪ Author Talk <a href="https://youtu.be/mRsfLzJmdj8?t=15">'Disinformation, Lies & Propaganda on Social Media'</a> at <a href="https://factchecker.or.kr/notices/225"> in'The Factcheck Week'</a>by <a href="https://edu.kcmf.or.kr/main/index.jsp"> Community Media Foundation </a>(April 2021) <br>
 ▪ Panelist, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (Feb. 2021)<br>
 ▪ Advised for the Ethical Framework for Designing Home Healthcare AI Robotics, Seoul National University of Education (April, 2021)<br>
 ▪ <a href="https://www.intgovforum.org/multilingual/content/igf-2020-main-session-nris-role-of-the-internet-in-emergency-situations">'The Role of the Internet in Emergency Situations'</a>, The United Nations Internet Governance Forum (Nov.2020) <br>  
