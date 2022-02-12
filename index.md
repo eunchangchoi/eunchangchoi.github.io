@@ -33,7 +33,9 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 <br>
 <br>  
  <strong> PUBLICATIONS (BOOKS, CHAPTERS, POLICY PAPERS) </strong> <br>
-▪ "Governing Artificial Intelligence: Issues, Principles, and Practices" in English,The AI Governance Forum Korea(Jan.2022)<br>
+▪ "Does Facebook’ Free Basics Help Internet Connectivity in Low-income Countries?"</a> MIT Tech Review Korea (Feb.2022)<br>
+▪ "Will Computer Algorithms Learn about the Ethics of Warfare on the Battlefield?"</a> MIT Tech Review Korea (Jan.2022)<br>
+▪ "Governing Artificial Intelligence: Issues, Principles, and Practices" The AI Governance Forum Korea(Jan.2022)<br>
 ▪ "Who Owns the Baby Shark Dance?: A Copyright Dispute over the Global Meme" Harvard Journal of Law & Tech (forthcoming) <br> 
 ▪ Book Chapter,"Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(March.2022) <br>
 ▪ <a href="https://www.technologyreview.kr/nft-%ec%97%b4%ed%92%8d-%ec%96%bc%eb%a7%88%eb%82%98-%eb%a9%8b%ec%a7%80%ea%b3%a0-%ec%96%bc%eb%a7%88%eb%82%98-%ec%9c%84%ed%97%98%ed%95%a0%ea%b9%8c/"> "NFT Craze : How Dazzling Is It and also Risky?"</a> MIT Tech Review Korea (Dec.2021)<br>
@@ -41,8 +43,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪ <a href="https://www.technologyreview.kr/누가-메타버스-플랫폼을-구축하고-있고-메타버스-세/">"Who's Building Metaverse Platforms and How Metaverse World to be Governed? "</a> MIT Tech Review Korea (Nov.2021)<br>
 ▪ "The Leviathan Rises from the Deep: Battle of Tech Giants"<a href="https://www.orfonline.org/cyfy/"> CyFy Edit</a> (Indian journal on technology)(Oct. 2021) <br> 
 ▪ <a href="https://www.ibric.org/myboard/read.php?Board=report&id=3843">"CRISPR-Cas9 Patent War and the Implication for Microbial Sciences"</a> BRIC BioWave Vol.23, No.9, <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH</a>(Sept.2021)<br>
-▪ "The Race for Hyperscale AI Language Models" <a href="https://www.skplanet.com/business/ictIot"> Monthly Magazine SK Planet </a>(Sept.2021) <br>
-▪ "AI Governance: Issues, Principles, and Practices" Policy Report in Korean, The AI Governance Forum Korea (Aug.2021) <br>
+▪ "The Race for Hyperscale AI Language Models" <a href="https://www.skplanet.com/business/ictIot"> Monthly Magazine SK Planet </a>(Sept.2021) <br> 
 ▪ <a href="https://www.technologyreview.kr/%ec%a3%bc%eb%ac%b8%ed%98%95-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ea%b7%9c%ec%a0%9c%ec%99%80-%ea%b8%b1-%ec%9d%b4%ec%bd%94%eb%85%b8%eb%af%b8%ec%9d%98-%eb%af%b8%eb%9e%98/?fbclid=IwAR1sfDzfWXv-sdOnKCrOSIlD0PSPpXuAuzSBjD4gz-2Qjuc6NhNq2A100Iw">" Algorithmic Antagonisms of Gig Workers and Regulations on Food-Delivery Platforms"</a> MIT Tech Review Korea (Aug.2021)<br> 
 ▪ <a href="https://www.technologyreview.kr/communicatioins-decency-act-misinformation/"> "Will the CDA Section 230 Reform Reduce Dis/Misinformation in Digital Platforms?" </a> MIT Tech Review Korea (May 2021) <br>
 ▪ <a href="https://www.technologyreview.kr/why-data-ethics-is-important-in-ai-business/">"Why Data Ethics Matters to AI Business?"</a> MIT Tech Review Korea (April, 2021)<br>
@@ -68,7 +69,6 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute, </a>STEPI Fellowship Research Paper Series(2014)<br>
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>   
-▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Fake NFTs(non-fungible tokens) and the Threat to Democracy'</a> Media & ICT Ad Hoc Committee, The National Assembly of South Korea (Jan.2022)<a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> Media Today </a>, <a href="https://www.news1.kr/articles/?4553816/"> New1</a>, <a href="https://www.breaknews.com/864283">Break News</a>, <a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/"> Edaily News</a>.<br>
 ▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who Holds Ownership of AI-generated Content and Invention?',</a> AI Summit Seoul 2021, Seoul (Dec.2021)<br>
 ▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Why AI Literacy is Critical for Algorithmic Governance',</a> Youth Internet Governance Forum, India (Dec.2021)<br> 
 ▪ 'NFTying Memes, Digital Art Trading and Copyrights' Cybercommunication Academic Society(Nov.2021) <br>
@@ -109,13 +109,15 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
   <br>
     
  <strong> PUBLIC POLICY ENGAGEMENT</strong> <br>   
+▪ "Metaverse, the Public Sphere of Politics and Democracy" Korean Society for AI Ethics,The National Assembly of Korea (March. 2022)
+▪ "Social Interactions in Virtual Metaverse and Human Rights", The National Human Rights Commission of Korea (Feb. 2022)
+▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Fake NFTs(non-fungible tokens) and the Threat to Democracy'</a> Media & ICT Ad Hoc Committee, The National Assembly of South Korea (Jan.2022)<a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> Media Today </a>, <a href="https://www.news1.kr/articles/?4553816/"> New1</a>, <a href="https://www.breaknews.com/864283">Break News</a>, <a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/"> Edaily News</a>.<br>
 ▪ Panelist,'Myanmar's Internet Suppression and Democracy after Military Coup' Korea Internet Governance Forum (Aug.2021) <br>  
 ▪ <a href="https://ap.rigf.asia/fellowship/2021/introducing-the-mentors-of-2021-fellowship-program/?fbclid=IwAR2pn3lY-fE0daHxOW4vCcvk0HX-zwFHd8uJxaPnT266Hn7BOkA52UudjMw"> Mentoring </a> for 2021 APrIGF Fellows,<a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
 ▪ Panelist, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (Feb. 2021)<br>
-▪ Co-authored a policy report <a href="http://kisdi.asia/kisdi/fp/kr/publication/selectResearch.do?cmd=fpSelectResearch&sMenuType=3&controlNoSer=4&controlNo=14218&langdiv=1"> "ICT-based Solutions to Social Problems in Intelligent Information Society"
 ▪ Advised for the Ethical Framework for Designing Home Healthcare AI Robotics, Seoul National University of Education (April, 2021)<br>
-▪  <a href="https://www.intgovforum.org/multilingual/content/igf-2020-main-session-nris-role-of-the-internet-in-emergency-situations">'The Role of the Internet in Emergency Situations'</a>, The United Nations Internet Governance Forum (Nov.2020) <br>  
-▪  <a href="http://www.koica.go.kr/koica_kr/985/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa29pY2Ffa3IlMkYyOTMlMkYzNjM4NTklMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2"> 'Blockchain for Humanity and Development Agenda'</a>,Development Cooperation Forum of<a href="http://www.koica.go.kr/sites/koica_en/index.do"> KOICA </a>, <a href="https://youtu.be/BunQy8hsnVQ?t=5742"> Video </a> (Oct.2020)<br> 
+▪ <a href="https://www.intgovforum.org/multilingual/content/igf-2020-main-session-nris-role-of-the-internet-in-emergency-situations">'The Role of the Internet in Emergency Situations'</a>, The United Nations Internet Governance Forum (Nov.2020) <br>  
+▪ <a href="http://www.koica.go.kr/koica_kr/985/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa29pY2Ffa3IlMkYyOTMlMkYzNjM4NTklMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2"> 'Blockchain for Humanity and Development Agenda'</a>,Development Cooperation Forum of<a href="http://www.koica.go.kr/sites/koica_en/index.do"> KOICA </a>, <a href="https://youtu.be/BunQy8hsnVQ?t=5742"> Video </a> (Oct.2020)<br> 
 ▪ Consultated about Infodemic Scenarios of Disasters for The National Disaster Management Research Institute (May, 2020)<br>
 ▪ Advised <a href="https://eng.kcc.go.kr/user/ehpMain.do"> Korea Communications Commission(KCC) </a> with regards to regulation of deepfakes
 ▪ <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">'S.Korea's COVID 19 Contact Tracing, Legality, and Privacy Risk'</a> Interview with Sciences Po, France(Nov.2020) <br>  
@@ -124,7 +126,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪ Consulted about Global Perspective on AI Ethics for <a href="https://www.kisdi.re.kr/"> Korea Information Society Development Institute </a>(Sept.2019)<br>
 ▪ Policy Report <a href="https://bit.ly/3qgZ63S">"The Ethical Considerations of AI and Policy Response in the Age of Fourth Industrial Revolution"</a> KISDI, Commissioned Report submitted to <a href="https://www.4th-ir.go.kr/home/en/">The Presidential Committee on the Fourth Industrial Revolution of Korea</a>(Oct. 2018) <br> 
 ▪ Policy Report "The WTO’s Decision on Australia’s Plain Packaging Tobacco Measures for Public Health: Trademark Restrictions", commissioned research by the Ministry of Health and Welfare, South Korea (2018)<br>
-▪ Policy Report <a href="https://www.kisdi.re.kr/report/view.do?key=m2101113024770&arrMasterId=3934580&masterId=3934580&artId=520556">"ICT-based Solutions to Social Problems in Intelligent Information Society"</a> <a href= "https://www.kisdi.re.kr/eng/index.do%20%20%20%20KISDI"> KISDI </a>(2017) <br> 
+▪ Co-authored a Policy Report <a href="https://www.kisdi.re.kr/report/view.do?key=m2101113024770&arrMasterId=3934580&masterId=3934580&artId=520556">"ICT-based Solutions to Social Problems in Intelligent Information Society"</a> <a href= "https://www.kisdi.re.kr/eng/index.do%20%20%20%20KISDI"> KISDI </a>(2017) <br> 
 ▪ Paid Field Trips to U.S. FDA and UCSF Tobacco Research Center with officials of Ministry of Health and Welfare (2018) <br>
 ▪ Served for the Editorial Board of <a href="https://aipolicyexchange.org/"> AI Policy Exchange </a><br>
 ▪ Member, the Expert Council of Robot Ethics at <a href="https://kiria.org/eng"> Korea Institute for Robot Industry Advancement</a> <br>
