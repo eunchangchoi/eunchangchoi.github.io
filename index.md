@@ -117,9 +117,8 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪ <a href="https://www.intgovforum.org/multilingual/content/igf-2020-main-session-nris-role-of-the-internet-in-emergency-situations">'The Role of the Internet in Emergency Situations'</a>, The United Nations Internet Governance Forum (Nov.2020) <br>  
 ▪ <a href="http://www.koica.go.kr/koica_kr/985/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa29pY2Ffa3IlMkYyOTMlMkYzNjM4NTklMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2"> 'Blockchain for Humanity and Development Agenda'</a>,Development Cooperation Forum of<a href="http://www.koica.go.kr/sites/koica_en/index.do"> KOICA </a>, <a href="https://youtu.be/BunQy8hsnVQ?t=5742"> Video </a> (Oct.2020)<br> 
 ▪ Consultated about Infodemic Scenarios of Disasters for the National Disaster Management Research Institute (May, 2020)<br>
-▪ Advised <a href="https://eng.kcc.go.kr/user/ehpMain.do"> Korea Communications Commission(KCC) </a> with regards to regulation of deepfakes
-▪ <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52"> (Nov.2019) <br> 
-▪ Panelist, 'Autonomous Systems, Robustness, and Data' Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
+▪ Advised <a href="https://eng.kcc.go.kr/user/ehpMain.do"> Korea Communications Commission(KCC) </a> about regulation of deepfakes(Nov.2019) <br> 
+▪ <a href="https://unidir.org/press-release/unidir-releases-major-new-report-data-risk-and-autonomous-systems">'Autonomous Systems, Robustness, and Data'</a> Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
 ▪ Consulted about Global Perspective on AI Ethics for <a href="https://www.kisdi.re.kr/"> Korea Information Society Development Institute </a> (Sept.2019)<br>
 ▪ <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx">'AI: Ethics, Security, Personal Data and Governance'</a> ITU Academy, Centres of Excellence, Bangkok, Thailand (Sept. 2019)<br>  
 ▪ AI – Country Case : Republic of Korea, ITU Academy, Centres of Excellence, Bangkok, Thailand (Sept. 2019)<br>   
