@@ -69,8 +69,8 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>   
 ▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who Holds Ownership of AI-generated Content and Invention?',</a> AI Summit Seoul 2021, Seoul (Dec.2021)<br>
-▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Why AI Literacy is Critical for Algorithmic Governance',</a> Youth Internet Governance Forum, India (Dec.2021)<br> 
-▪ 'NFTying Memes, Digital Art Trading and Copyrights' Cybercommunication Academic Society(Nov.2021) <br>
+▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Why AI Literacy is Critical for Algorithmic Governance?',</a> Indian Youth Internet Governance Forum(Dec.2021)<br> 
+▪ 'NFTying Memes, Digital Arts Trading and Copyright Theft' Cybercommunication Academic Society (Nov.2021) <br>
 ▪ 'Data Sharing and Data Privacy:The Limit of Differential Privacy' Tutorial, Korea Internet Governance Forum (Aug.2021) <br>  
 ▪ 'Risk Constructivism and Cultural Cognition', <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=1509&b_name=meet1_2">The Evolution of Technology & Society Conference </a>, SNU + KISA (June.2021)<br>
 ▪ 'The Politicizing Science and Scientific Uncertainty in Epidemiology', Graduate School of Public Health, Yonsei Univ(June.2021)<br>
@@ -87,8 +87,8 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪  'How Misinformation Obstruct Public Health Measures during Pandemics', School of Public Health, Yonsei Univ (March. 2020)<br>
 ▪ <a href="https://bit.ly/36qHFoj">'The Risk Perception of AI'</a>, Korean Association for AI and Law (KAAIL) AI Policy Forum + Microsoft(Oct. 2019) <br>
 ▪ <a href="https://clawar.org/wp-content/uploads/2019/11/ICRES2019_p64_paper_4.pdf">"The Making of South Korea's Robot Ethics Charter"</a>, <a href="https://www.icres2019.org/"> International Conference on Robot Ethics and Standards</a>, London, UK (2019)<br>
-▪   <a href= "https://www.intgovforum.org/multilingual/content/igf-2019-ws-182-data-governance-for-smarter-city-mobility">'Data Governance for Smarter City Mobility'</a>  <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html"> The United Nations Internet Governance Forum</a>, Berlin, Germany (2019)<br> 
-▪   <a href="https://www.youtube.com/watch?v=nsZJaB3fx0E&feature=youtu.be&t=1689">'National Collaborative Session on Cybersecurity'</a>, <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html">The United Nations Internet Governance Forum,</a> Berlin, Germany (2019) <br> 
+▪  <a href= "https://www.intgovforum.org/multilingual/content/igf-2019-ws-182-data-governance-for-smarter-city-mobility">'Data Governance for Smarter City Mobility'</a>  <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html"> The United Nations Internet Governance Forum</a>, Berlin, Germany (2019)<br> 
+▪  <a href="https://www.youtube.com/watch?v=nsZJaB3fx0E&feature=youtu.be&t=1689">'National Collaborative Session on Cybersecurity'</a>, <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html">The United Nations Internet Governance Forum,</a> Berlin, Germany (2019) <br> 
 ▪   <a href="https://www.ftp.asia/index.php/s/tLZWIWMG1Qp7oA0">'Build Concept on AI Society for Good: Quest for Inclusion'</a>,<a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
 ▪   <a href="https://www.ftp.asia/index.php/s/HGkuD3YVUBssKrP">'Coping with Misinformation in an Deluge of Information'</a>, <a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
 ▪   'AI Governance'in <a href="https://kpc4ir.kaist.ac.kr/index.php?mid=kpc4ir_events&document_srl=684"> TECH & TALK Conference</a>,<a href="https://kpc4ir.kaist.ac.kr/"> Korea Policy Center for 4th Industrial Revolution, KAIST,</a> Seoul (May. 2019)<br>
