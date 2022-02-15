@@ -22,7 +22,7 @@ title: "Eun Chang Choi"
  <br>
  <br>
 <p style="font-size:1.1em">I,<a href="https://igf2019.sched.com/eunchangchoi"> 최은창 崔恩彰</a>,
-am a Korean legal scholar whose research focuses on the interplay of public policy for emerging technologies, data, and intellectual property law. My recent works examined the legal, policy issues associated with a governance framework for AI systems, ethical design of algorithms, data, ownership of AI-generated contents, and machine learning. I have contributed a chapter covering bias and accountability of algorithms in a report <a href="http://kisdi.asia/kisdi/fp/kr/publication/selectResearch.do?cmd=fpSelectResearch&sMenuType=3&controlNoSer=4&controlNo=14218&langdiv=1"> "ICT-based Solutions to Social Problems in Intelligent Information Society"</a>. I am a member of 'AI Policy Forum' of<a href="http://kaail.or.kr"> the Korean Associaton for AI Law (KAAIL)</a>. Recently, I have carried out consultancy work for <a href="https://eng.kcc.go.kr/user/ehpMain.do"> Korea Communications Commission(KCC) </a>,<a href="https://www.kisdi.re.kr/"> Korea Information Society Development Institute(KISDI)</a>, and <a href="https://www.stepi.re.kr/site/stepien/main.do"> Science and Technology Policy Institute(STEPI)</a>. 
+am a Korean legal scholar whose research focuses on the interplay of public policy for emerging technologies, data, and intellectual property law. My recent works examined the legal, policy issues associated with a governance framework for AI systems, ethical design of algorithms, ownership of AI-generated contents, and machine learning. I have contributed a chapter covering bias and accountability of algorithms in a report <a href="http://kisdi.asia/kisdi/fp/kr/publication/selectResearch.do?cmd=fpSelectResearch&sMenuType=3&controlNoSer=4&controlNo=14218&langdiv=1"> "ICT-based Solutions to Social Problems in Intelligent Information Society"</a>. I am a member of 'AI Policy Forum' of<a href="http://kaail.or.kr"> the Korean Associaton for AI Law (KAAIL)</a>. Recently, I have carried out consultancy work for <a href="https://eng.kcc.go.kr/user/ehpMain.do"> Korea Communications Commission(KCC) </a>,<a href="https://www.kisdi.re.kr/"> Korea Information Society Development Institute(KISDI)</a>, and <a href="https://www.stepi.re.kr/site/stepien/main.do"> Science and Technology Policy Institute(STEPI)</a>. 
   
   <p style="font-size:1.1em"> I sit on the editorial board of <a href="https://www.technologyreview.kr/"> MIT Technology Review Korea </a>. Previously, I was a Fellow of <a href="https://law.yale.edu/isp"> Information Society Project, Yale Law School</a> for which I served as a coordinator of Harvard-Yale-MIT Cyberscholar Working Group, and worked as a Non-Resident Fellow of <a href="https://thefreeinternetproject.org/"> the Free Internet Project </a> at <a href="https://web.iit.edu/"> Illinois Institute of Technology</a>. I also have held an appointment as a Visiting Scholar of <a href="https://pcmlp.socleg.ox.ac.uk/about-us/"> Programme in Comparative Media Law and Policy</a>, housed in <a href="https://www.law.ox.ac.uk/centres-institutes/centre-socio-legal-studies/research-centre-socio-legal-studies"> the Centre for Socio-Legal Studies,</a> University of Oxford Law Faculty. I was an Invited Expert of <a href="https://www.w3.org/2011/07/privacy-ig-charter"> W3C Privacy Interest Group</a> and a Fellow of <a href="https://www.stepi.re.kr/site/stepien/main.do"> STEPI</a>, a global think tank in the area of science and technology where I conducted research on regulatory science for public health. From 2018, I have been participating in Law Committee of <a href="https://ethicsinaction.ieee.org/">IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems</a>, and IEEE working groups <a href="https://sagroups.ieee.org/7003/">'Algorithmic Bias Considerations'(P7003)'</a>,and <a href="https://sagroups.ieee.org/7002">'Data Privacy Process'(P7002)</a>.I am a founder of 'Cogent AI' and a Chief Data Ethics Officer holding a qualified <a href="https://www.dataq.or.kr/www/sub/a_06.do"> Advanced Data Analytics Professional.</a>
    <br> 
@@ -149,14 +149,14 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
   
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>   
-   Intersection of Law, Technology Policy and Science (Data, Bio) <br>
+   Intersection of Law, Tech Policy & Science(Data, Bio); Law & Political Economy<br>
    AI: Ethical and Legal Challenges (Governing AI), Accountability for Algorithms <br>   
    Data Governance, Data Sharing, Data Privacy, Data Ownership <br>  
-   Responsible AI, AI for Business Organizations and Business Ethics <br>  
+   Responsible AI, AI for Business Organization, Business Ethics <br>  
    Blockchain-based Governance, Metaverse, Non-fungible tokens (NFT)  <br>  
-   Disinformation, The Power of Digital Platform, Platform Liability, Algorithmic Activism <br>  
+   Media, Disinformation, The Power of Digital Platform, Algorithmic Activism <br>  
    Automated Content Moderation, Algorithmic Fair Use (Copyright) <br>   
-   Patenting Nature; CRISPR Patents;  Genomic Commons; Commodification of Bio-Information <br>  
+   Patenting Nature; CRISPR Patents; Genomic Commons; Commodification of Bio-Information <br>  
    Pharmaceutical Patents and Global Health Inequality: Access to Medicines <br>  
    The Economic History of Intellectual Property and Technology <br>   
   
