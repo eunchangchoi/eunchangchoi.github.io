@@ -33,8 +33,8 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 <br>
 <br>  
  <strong> PUBLISHED ARTICLES, BOOKS & CHAPTERS </strong> <br>
-▪ "Disinformation war in Ukraine-Russia crisis" MIT Tech Review Korea (March.2022)<br>
-▪ "Ukraine war accelerated Splinternet isolating Russia" MIT Tech Review Korea (March.2022)<br>
+▪ "Disinformation War in Ukraine-Russia Crisis" MIT Tech Review Korea (March.2022)<br>
+▪ "Ukraine War Accelerated the Splinternet Isolating Russia" MIT Tech Review Korea (March.2022)<br>
 ▪ <a href="https://www.technologyreview.kr/%ed%8e%98%ec%9d%b4%ec%8a%a4%eb%b6%81%ec%9d%80-%ec%a0%80%ec%86%8c%eb%93%9d-%ea%b5%ad%ea%b0%80%eb%93%a4%ec%9d%98-%ec%9d%b8%ed%84%b0%eb%84%b7-%ec%a0%91%ec%86%8d%ec%9d%84-%eb%8f%95%ea%b3%a0-%ec%9e%88/">"Does Facebook’ Free Basics Help Internet Connectivity in Low-income Countries?" </a> MIT Tech Review Korea (Feb.2022)<br> 
 ▪ <a href="https://www.technologyreview.kr/%ec%bb%b4%ed%93%a8%ed%84%b0-%ec%95%8c%ea%b3%a0%eb%a6%ac%eb%93%ac%ec%9d%80-%ec%9c%a4%eb%a6%ac%ec%a0%81-%ec%a0%84%ed%88%ac%eb%b0%a9%eb%b2%95%ec%9d%84-%eb%b0%b0%ec%9a%b8-%ec%88%98-%ec%9e%88%ec%9d%84/"> "Can Computer Algorithms Learn about the Ethics of Warfare?" </a> MIT Tech Review Korea (Feb.2022)<br>
 ▪ "Who Owns the Baby Shark Dance?: A Copyright Dispute over the Global Meme" Harvard Technology Review (forthcoming) <br> 
