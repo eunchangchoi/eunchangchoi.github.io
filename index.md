@@ -33,7 +33,6 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 <br>
 <br>  
  <strong> ARTICLES, BOOKS & CHAPTERS </strong> <br>
-▪ "The Race to Build Metaverse Platforms, Metamobility and its Ethics" Hyundai Motors (April 2022)<br>
 ▪ <a href="https://www.technologyreview.kr/%ec%9a%b0%ed%81%ac%eb%9d%bc%ec%9d%b4%eb%82%98-%ec%a0%84%ec%9f%81%ec%9d%b4-%eb%b6%88%eb%9f%ac%ec%98%a8-%ec%8a%a4%ed%94%8c%eb%a6%b0%ed%84%b0%eb%84%b7/">"Russia-Ukraine War Accelerates Internet Fragmentation"</a> MIT Tech Review Korea (March.2022)<br>
 ▪ <a href="https://www.key4biz.it/splinternet-la-guerra-in-ucraina-divide-linternet/396648/"> "Splinternet: la guerra in Ucraina divide l’internet "</a> Democrazia Futura, Rome, Italy (March.2022)<br>
 ▪  <a href="https://www.technologyreview.kr/%ec%9a%b0%ed%81%ac%eb%9d%bc%ec%9d%b4%eb%82%98-%ec%a0%84%ec%9f%81%ec%9d%98-%ec%9d%b4%eb%a9%b4-%ec%84%9c%eb%b0%a9%ea%b3%bc-%eb%9f%ac%ec%8b%9c%ec%95%84%ec%9d%98-%ed%97%88%ec%9c%84-%ec%a0%95%eb%b3%b4/">"Disinformation War in Ukraine-Russia Crisis"</a>MIT Tech Review Korea (March.2022)<br>
@@ -138,7 +137,8 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>    
-▪ <a href="https://www.key4biz.it/democrazia-futura-dalla-cortina-di-ferro-alle-cortine-di-silicio-sara-linternet-globale-la-principale-vittima-del-conflitto-russo-ucraino/398412/"> Dalla "Cortina di ferro" alle "Cortine di silicio"</a> Democrazia Futura, Italy(April, 2022)<br>
+▪ <a href="https://www.key4biz.it/democrazia-futura-dalla-cortina-di-ferro-alle-cortine-di-silicio-sara-linternet-globale-la-principale-vittima-del-conflitto-russo-ucraino/398412/"> Dalla "Cortina di ferro" alle "Cortine di silicio"</a> Democrazia Futura, Italy(April, 2022)<br>   
+▪ "The Race to Build Metaverse Platforms, Metamobility and its Ethics" Moters Line, Hyundai Motor Company(April, 2022)<br>
 ▪ <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> "The Threats of Political Deepfakes and NFTs" Media Today </a>, <a href="https://www.news1.kr/articles/?4553816/"> New1</a>, <a href="https://www.breaknews.com/864283"> Break News</a>, <a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/"> Edaily News (Jan.2022)</a>.
 ▪ <a href="http://www.danbinews.com/news/articleView.html?idxno=14304">'The Age of Disinformation and Misinformation'</a> Danbi News (April, 2021)<br>
 ▪ <a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Policy report released by AI Governance Forum at National Assembly of Korea'</a>, AI Times (Nov.7.2020)<br>  
