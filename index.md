@@ -110,7 +110,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
  <strong> PUBLIC POLICY ENGAGEMENT & PAPERS</strong> <br>   
 ▪ "Metaverse, the Public Sphere of Politics and Democracy" Korean Society for AI Ethics,The National Assembly of Korea (April,2022)<br>
 ▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission</a> (Feb. 2022)<br>
-▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Fake NFTs(non-fungible tokens) and the Threat to Democracy'</a> Media & ICT Ad Hoc Committee, The National Assembly of South Korea (Jan.2022)<a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> Media Today </a>, <a href="https://www.news1.kr/articles/?4553816/"> New1</a>, <a href="https://www.breaknews.com/864283">Break News</a>, <a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/"> Edaily News</a>.<br>
+▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Democracy'</a> Media & ICT Committee, National Assembly of Korea (Jan.2022) <br>
 ▪ Co-authored "Governing Artificial Intelligence: Issues, Principles, and Practices" The AI Governance Forum Korea (Jan.2022)<br>
 ▪ Panelist,'Myanmar's Internet Suppression and Democracy after Military Coup' Korea Internet Governance Forum (Aug.2021) <br>  
 ▪ <a href="https://ap.rigf.asia/fellowship/2021/introducing-the-mentors-of-2021-fellowship-program/?fbclid=IwAR2pn3lY-fE0daHxOW4vCcvk0HX-zwFHd8uJxaPnT266Hn7BOkA52UudjMw"> Mentoring </a> for 2021 APrIGF Fellows,<a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)(Nov.2021)</a> <br>  
@@ -138,6 +138,8 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>    
+▪ <a href="https://www.key4biz.it/democrazia-futura-dalla-cortina-di-ferro-alle-cortine-di-silicio-sara-linternet-globale-la-principale-vittima-del-conflitto-russo-ucraino/398412/"> Dalla "Cortina di ferro" alle "Cortine di silicio"</a> Democrazia Futura, Italy(April, 2022)<br>
+▪ <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> "The Threats of Political Deepfakes and NFTs" Media Today </a>, <a href="https://www.news1.kr/articles/?4553816/"> New1</a>, <a href="https://www.breaknews.com/864283"> Break News</a>, <a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/"> Edaily News (Jan.2022)</a>.
 ▪ <a href="http://www.danbinews.com/news/articleView.html?idxno=14304">'The Age of Disinformation and Misinformation'</a> Danbi News (April, 2021)<br>
 ▪ <a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Policy report released by AI Governance Forum at National Assembly of Korea'</a>, AI Times (Nov.7.2020)<br>  
 ▪<a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Governance Forum pose to discuess AI policy suggestion'</a>, AI Times (Nov.3, 2020)<br>  
