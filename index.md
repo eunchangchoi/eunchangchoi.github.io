@@ -85,7 +85,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪  <a href="http://www.igf.or.kr/2554">'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?'</a>,Korea Internet Governance Forum (Aug.2020) <br> 
 ▪  'South Korea's Contacts Tracing for COVID-19: Balancing between Public Health and Privacy', <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slides </a>, <a href="https://youtu.be/4UZlkRLKGes"> Video </a>(Aug.2020) <br> 
 ▪ <a href="http://kaobe.or.kr/home/page/?pid=conference22">'Business Ethics for Ethical AI: The Function of AI Ethics Board'</a> Korea Academy of Business Ethics Conference(Aug.2020) <br> 
-▪ 'Medical Misinformation and Scientific Uncertainty: COVID-19, Ebola & HIV/AIDS', Korea Society of Internet Ethics Conference<br>
+▪ 'Medical Misinformation and Scientific Uncertainty: COVID-19, Ebola & HIV/AIDS',Korea Society of Internet Ethics Conference<br>
 ▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Campaign, Commercials and Copyrights'</a> Cybercommunication Academic Society(June 2020)<br>
 ▪ 'How Misinformation Obstruct Public Health Measures during Pandemics', School of Public Health, Yonsei Univ (March. 2020)<br>
 ▪ <a href="https://bit.ly/36qHFoj">'The Risk Perception of AI'</a>, Korean Association for AI and Law (KAAIL) AI Policy Forum + Microsoft(Oct. 2019) <br>
@@ -138,8 +138,9 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>    
 ▪ <a href="https://www.key4biz.it/democrazia-futura-dalla-cortina-di-ferro-alle-cortine-di-silicio-sara-linternet-globale-la-principale-vittima-del-conflitto-russo-ucraino/398412/"> Dalla "Cortina di ferro" alle "Cortine di silicio"</a> Democrazia Futura, Italian (April, 2022)<br>   
-▪ "The Race to Build Metaverse Platforms, Metamobility and its Ethics" Moters Line, Hyundai Motor Company (April, 2022)<br>
-▪ "The Threats of Political Deepfakes and NFTs" <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> Media Today </a>, <a href="https://www.news1.kr/articles/?4553816/"> New1 </a>, <a href="https://www.breaknews.com/864283"> Break News</a>, <a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/"> Edaily News (Jan.2022)</a> <br> 
+▪ "The Race to Build Metaverse Platforms, Metamobility and its Ethics" Moters Line, Hyundai Motors Company (April, 2022)<br>
+▪ "The Threats of Political Deepfakes and NFTs" <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> Media Today </a>, <a href="https://www.news1.kr/articles/?4553816/"> New1 </a> (Jan.2022)<br> 
+▪ <a href="https://www.breaknews.com/864283"> "How to build an NFT Ecosystem ?"</a> Break News</a>, <a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/"> "Political manipulation and Deepfakes with NFTs" </a> Edaily News (Jan.2022)<br> 
 ▪ <a href="http://www.danbinews.com/news/articleView.html?idxno=14304">'The Age of Disinformation and Misinformation'</a> Danbi News (April, 2021)<br>
 ▪ <a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Policy report released by AI Governance Forum at National Assembly of Korea'</a>, AI Times (Nov.7.2020)<br>  
 ▪<a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Governance Forum pose to discuess AI policy suggestion'</a>, AI Times (Nov.3, 2020)<br>  
