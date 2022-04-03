@@ -107,7 +107,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT & PAPERS</strong> <br>   
-▪ "Metaverse, the Public Sphere of Politics and Democracy" Korean Society for AI Ethics,The National Assembly of Korea (April,2022)<br>
+▪ "Metaverse as Public Sphere of Politics and Democracy" Korean Society for AI Ethics, National Assembly of Korea (April,2022)<br>
 ▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission</a> (Feb. 2022)<br>
 ▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Democracy'</a> Media & ICT Committee, National Assembly of Korea (Jan.2022) <br>
 ▪ Co-authored "Governing Artificial Intelligence: Issues, Principles, and Practices" The AI Governance Forum Korea (Jan.2022)<br>
@@ -138,9 +138,9 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>    
 ▪  <a href="https://www.key4biz.it/democrazia-futura-dalla-cortina-di-ferro-alle-cortine-di-silicio-sara-linternet-globale-la-principale-vittima-del-conflitto-russo-ucraino/398412/"> Dalla "Cortina di ferro" alle "Cortine di silicio"</a> Democrazia Futura, Italian (April, 2022)<br>   
-▪ "The Future of Metaverse Platforms, Metamobility and its Ethics" Motersline, Hyundai Motors(April, 2022)<br>
-▪ "The Threats of Political Deepfakes and NFTs" <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> Media Today </a>, <a href="https://www.news1.kr/articles/?4553816/"> New1 </a> (Jan.2022)<br> 
-▪ <a href="https://www.breaknews.com/864283"> "How to build an NFT Ecosystem ?"</a> Break News, <a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/"> "Political manipulation and Deepfakes with NFTs" </a> Edaily News (Jan.2022)<br> 
+▪ <a href="https://www.hyundaimotorgroup.com/about-us/publications"> "The Future of Metaverse, Metamobility and Ethics" Motersline Magazine(April, 2022)<br>
+▪  <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> "Political Manipulation and Deepfakes with NFTs"</a> Media Today, <a href="https://www.news1.kr/articles/?4553816/"> New1 </a> <a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/">  Edaily News </a>(Jan.2022)<br> 
+▪ <a href="https://www.breaknews.com/864283"> "How to build an NFT Ecosystem ?"</a> Break News (Jan.2022)<br> 
 ▪ <a href="http://www.danbinews.com/news/articleView.html?idxno=14304">'The Age of Disinformation and Misinformation'</a> Danbi News (April, 2021)<br>
 ▪ <a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Policy report released by AI Governance Forum at National Assembly of Korea'</a>, AI Times (Nov.7.2020)<br>  
 ▪<a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Governance Forum pose to discuess AI policy suggestion'</a>, AI Times (Nov.3, 2020)<br>  
