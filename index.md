@@ -137,10 +137,10 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>    
-▪ <a href="https://www.key4biz.it/democrazia-futura-dalla-cortina-di-ferro-alle-cortine-di-silicio-sara-linternet-globale-la-principale-vittima-del-conflitto-russo-ucraino/398412/"> Dalla "Cortina di ferro" alle "Cortine di silicio"</a> Democrazia Futura, Italian (April, 2022)<br>   
-▪ "The Race to Build Metaverse Platforms, Metamobility and its Ethics" Moters Line, Hyundai Motors Company (April, 2022)<br>
+▪  <a href="https://www.key4biz.it/democrazia-futura-dalla-cortina-di-ferro-alle-cortine-di-silicio-sara-linternet-globale-la-principale-vittima-del-conflitto-russo-ucraino/398412/"> Dalla "Cortina di ferro" alle "Cortine di silicio"</a> Democrazia Futura, Italian (April, 2022)<br>   
+▪ "The Future of Metaverse Platforms, Metamobility and its Ethics" Motersline, Hyundai Motors(April, 2022)<br>
 ▪ "The Threats of Political Deepfakes and NFTs" <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> Media Today </a>, <a href="https://www.news1.kr/articles/?4553816/"> New1 </a> (Jan.2022)<br> 
-▪ <a href="https://www.breaknews.com/864283"> "How to build an NFT Ecosystem ?"</a> Break News</a>, <a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/"> "Political manipulation and Deepfakes with NFTs" </a> Edaily News (Jan.2022)<br> 
+▪ <a href="https://www.breaknews.com/864283"> "How to build an NFT Ecosystem ?"</a> Break News, <a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/"> "Political manipulation and Deepfakes with NFTs" </a> Edaily News (Jan.2022)<br> 
 ▪ <a href="http://www.danbinews.com/news/articleView.html?idxno=14304">'The Age of Disinformation and Misinformation'</a> Danbi News (April, 2021)<br>
 ▪ <a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Policy report released by AI Governance Forum at National Assembly of Korea'</a>, AI Times (Nov.7.2020)<br>  
 ▪<a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Governance Forum pose to discuess AI policy suggestion'</a>, AI Times (Nov.3, 2020)<br>  
