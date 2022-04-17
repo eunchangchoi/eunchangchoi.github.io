@@ -160,14 +160,13 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>   
    Intersection of Law, Technology Policy & Science(Data, Bio); Law & Political Economy<br>
-   Responsible AI, Ethical and Legal Challenges (Governing AI), Accountability for Algorithms <br>   
+   Responsible AI, Business Ethics and Ethical AI, Governing AI, Accountability for Algorithms <br>   
    Mass Collaboration, Open Data, Data Sharing, Data Ownership <br>  
-   Blockchain-based Governance, Metaverse, Non-fungible tokens (NFT)  <br>  
    Disinformation, The Power of Digital Platform, Meme, Hashtag Activism <br>   
    Patenting Nature; CRISPR Patents; Genomic Data Commons <br>  
    Pharmaceutical Patents and Global Health Inequality: Vaccine Equity <br>  
-   The Economic History of Intellectual Property and Technology <br>   
-  
+   The Economic History of Intellectual Property and Technology <br>  
+   Blockchain-based Governance, Metaverse, Non-Fungible Tokens(NFT)  <br>  
   <br>
    <strong> CONTACT</strong> <br>   
    eunchang.choi@aya.yale.edu ; eunchang.choi@technologyreview.kr 
