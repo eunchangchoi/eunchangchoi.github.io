@@ -16,7 +16,7 @@ title: "Eun Chang Choi"
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="><img style="vertical-align:top;height:202px;width:164px;" src="images/book3.jpg"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791130437002&orderClick=357"><img style="vertical-align:top;height:202px;width:162px;" src="images/book4.jpg"></a> <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788964361436&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:162px;" src="images/book5.jpg"> </a>
   <a href="http://www.yes24.com/Product/Goods/87629913"><img style="vertical-align:top;height:200px;width:162px;" src="images/book6.png"></a>
-  <a href="https://copyright.or.kr/information-materials/publication/research-report/view.do?brdctsno=40222&pageIndex=1&brdctsstatecode=&brdclasscode=&searchTarget=SUBJECT&nationcode=&brdno=34&noticeYn=&etc1=&searchText=%EA%B8%B0%EC%88%A0%EC%9A%A9%EC%96%B4&portalcode=04&servicecode=06&searchkeyword=&portalcode04=#"><img style="vertical-align:top;height:202px;width:163px;" src="images/book7.png"></a>
+  <a href="https://bit.ly/3McMWTm"><img style="vertical-align:top;height:202px;width:163px;" src="images/book7.png"></a>
   <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791130337722&orderClick=LA6"><img style="vertical-align:top;height:202px;width:163px;" src="images/book8.jpg"></a>
   <img style="vertical-align:top;height:200px;width:327px;" src="images/book9.png">
  <br>
