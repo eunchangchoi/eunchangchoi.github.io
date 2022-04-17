@@ -33,6 +33,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 <br>
 <br>  
  <strong> ARTICLES, BOOKS & CHAPTERS </strong> <br>
+▪ "Vaccine Equity and Waiving Patents of COVID-19 Vaccines" BRIC BioWave <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH</a>(April.2022)<br>
 ▪ <a href="https://alook.so/posts/54t3ZMx"> "Fragmented Media, Delusive AI, and Hacktivism in Ukraine"</a> Alookso Magazine (April.2022) <br>
 ▪ <a href="https://www.technologyreview.kr/%ec%9a%b0%ed%81%ac%eb%9d%bc%ec%9d%b4%eb%82%98-%ec%a0%84%ec%9f%81%ec%9d%b4-%eb%b6%88%eb%9f%ac%ec%98%a8-%ec%8a%a4%ed%94%8c%eb%a6%b0%ed%84%b0%eb%84%b7/">"Russia-Ukraine War Accelerates Internet Fragmentation"</a> MIT Tech Review Korea (March.2022)<br>
 ▪ <a href="https://www.key4biz.it/splinternet-la-guerra-in-ucraina-divide-linternet/396648/"> "Splinternet: la guerra in Ucraina divide l’internet "</a> Democrazia Futura, Rome, Italy (March.2022)<br>
@@ -42,7 +43,6 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪ "Who Owns the Baby Shark Dance?: A Copyright Dispute over the Global Meme" Harvard Technology Review (forthcoming) <br> 
 ▪ Book Chapter,"Technology Risk" in <i> The Key Concepts of Science Technology and Society </i>, Publisher 社會評論(Aug. 2022) <br>
 ▪ <a href="https://www.technologyreview.kr/nft-%ec%97%b4%ed%92%8d-%ec%96%bc%eb%a7%88%eb%82%98-%eb%a9%8b%ec%a7%80%ea%b3%a0-%ec%96%bc%eb%a7%88%eb%82%98-%ec%9c%84%ed%97%98%ed%95%a0%ea%b9%8c/"> "NFT Craze:How Dazzling is it and also Risky?"</a> MIT Tech Review Korea (Dec.2021)<br>
-▪ "The Waiver of COVID-19 Vaccines Patents for the Global South" BRIC BioWave <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH</a>(Jan.2022)<br>
 ▪ <a href="https://www.technologyreview.kr/누가-메타버스-플랫폼을-구축하고-있고-메타버스-세/">"Who's Building Metaverse Platforms and How Metaverse World to be Governed? "</a> MIT Tech Review Korea (Nov.2021)<br>
 ▪ "The Leviathan Rises from the Deep: Battle of Tech Giants"<a href="https://www.orfonline.org/cyfy/"> CyFy Edit</a> (Indian Journal on Technology)(Oct. 2021) <br> 
 ▪ <a href="https://www.ibric.org/myboard/read.php?Board=report&id=3843">"CRISPR-Cas9 Patent War and the Implication for Microbial Sciences"</a> BRIC BioWave Vol.23, No.9, <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH</a>(Sept.2021)<br>
@@ -108,7 +108,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT & PAPERS</strong> <br>   
-▪ "Policy Analysis: the U.S. FCC's Rules on Wireless Carriers' Enhanced Indoor Location Accuracy of Emergency Call", National Police Agency (May-Dec. 2022)<br>
+▪ "Policy Analysis: the U.S. FCC's Rules on Wireless Carriers' Enhanced Indoor Location Accuracy of Emergency Call" (May-Dec. 2022)<br>
 ▪ "Metaverse as Public Sphere of Politics and Democracy" Korean Society for AI Ethics, National Assembly of Korea (April,2022)<br>
 ▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission</a> (Feb. 2022)<br>
 ▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Democracy'</a> Media & ICT Committee, National Assembly of Korea (Jan.2022) <br>
