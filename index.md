@@ -33,7 +33,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 <br>
 <br>  
  <strong> ARTICLES, BOOKS & CHAPTERS </strong> <br>
-▪ "Who Owns the Baby Shark Dance?: A Copyright Dispute over the Global Meme" Harvard Technology Review (forthcoming) <br> 
+▪ "Who Owns the Baby Shark Dance?: A Copyright Dispute" Harvard Technology Review (forthcoming) <br> 
 ▪ "Vaccine Equity and Waiving Patents of COVID-19 Vaccines" BRIC BioWave <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH</a>(April.2022)<br>
 ▪ <a href="https://alook.so/posts/54t3ZMx"> "Fragmented Media, Delusive AI, and Hacktivism in Ukraine"</a> Alookso Magazine (April.2022) <br>
 ▪ <a href="https://www.technologyreview.kr/%ec%9a%b0%ed%81%ac%eb%9d%bc%ec%9d%b4%eb%82%98-%ec%a0%84%ec%9f%81%ec%9d%b4-%eb%b6%88%eb%9f%ac%ec%98%a8-%ec%8a%a4%ed%94%8c%eb%a6%b0%ed%84%b0%eb%84%b7/">"Russia-Ukraine War Accelerates Internet Fragmentation"</a> MIT Tech Review Korea (March.2022)<br>
@@ -108,7 +108,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT & PAPERS</strong> <br>   
-▪ "Policy Analysis: the U.S. FCC's Rules on Wireless Carriers' Enhanced Indoor Location Accuracy of Emergency Call" (May-Dec. 2022)<br>
+▪ "Policy Analysis: The FCC's Rules on Wireless Carriers' Enhanced Indoor Location Accuracy of Emergency Calls" (May-Dec. 2022)<br>
 ▪ "Metaverse as Public Sphere of Politics and Democracy" Korean Society for AI Ethics, National Assembly of Korea (April,2022)<br>
 ▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission</a> (Feb. 2022)<br>
 ▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Democracy'</a> Media & ICT Committee, National Assembly of Korea (Jan.2022) <br>
