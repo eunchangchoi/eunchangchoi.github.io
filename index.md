@@ -34,8 +34,8 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 <br>  
  <strong> ARTICLES, BOOKS & CHAPTERS </strong> <br>
 ▪ "Who Owns the Baby Shark Dance?: A Copyright Dispute" Harvard Technology Review (forthcoming) <br> 
-▪ <a href="https://www.ibric.org/myboard/read.php?id=4087&Page=1&Board=REPORT&TodayReview=1/"> "Global COVID-19 Vaccine Equity, Differential Pricing and the Waiver of Patents""</a> BRIC BioWave <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH </a>(April,2022)<br>
-▪ <a href="https://alook.so/posts/54t3ZMx"> "Fragmented Media, Delusive AI, and Hacktivism in Ukraine"</a> Alookso Magazine (April.2022) <br>
+▪ <a href="https://www.ibric.org/myboard/read.php?id=4087&Page=1&Board=REPORT&TodayReview=1/"> "Global COVID-19 Vaccine Equity, Differential Pricing and the Waiver of Patents"</a> BRIC BioWave <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH </a>(April,2022)<br>
+▪ <a href="https://alook.so/posts/54t3ZMx"> "Fragmented Media, Delusive Deepfakes, and Hacktivism in Russia-Ukraine War"</a> Alookso Magazine (April.2022) <br>
 ▪ <a href="https://www.technologyreview.kr/%ec%9a%b0%ed%81%ac%eb%9d%bc%ec%9d%b4%eb%82%98-%ec%a0%84%ec%9f%81%ec%9d%b4-%eb%b6%88%eb%9f%ac%ec%98%a8-%ec%8a%a4%ed%94%8c%eb%a6%b0%ed%84%b0%eb%84%b7/">"Russia-Ukraine War Accelerates Internet Fragmentation"</a> MIT Tech Review Korea (March.2022)<br>
 ▪ <a href="https://www.key4biz.it/splinternet-la-guerra-in-ucraina-divide-linternet/396648/"> "Splinternet: la guerra in Ucraina divide l’internet"</a> Democrazia Futura, Rome, Italian(March.2022)<br>
 ▪ <a href="https://www.technologyreview.kr/%ec%9a%b0%ed%81%ac%eb%9d%bc%ec%9d%b4%eb%82%98-%ec%a0%84%ec%9f%81%ec%9d%98-%ec%9d%b4%eb%a9%b4-%ec%84%9c%eb%b0%a9%ea%b3%bc-%eb%9f%ac%ec%8b%9c%ec%95%84%ec%9d%98-%ed%97%88%ec%9c%84-%ec%a0%95%eb%b3%b4/">"Disinformation War in Ukraine-Russia Crisis"</a>MIT Tech Review Korea (March.2022)<br>
