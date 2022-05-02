@@ -79,8 +79,8 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪ 'Risk Constructivism and Cultural Cognition', <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=1509&b_name=meet1_2">The Evolution of Technology & Society Conference </a>, SNU + KISA (June.2021)<br>
 ▪ 'The Politicizing Science and Scientific Uncertainty in Epidemiology', Graduate School of Public Health, Yonsei Univ(June.2021)<br>
 ▪ 'The Role of Experts Witness in Toxic Tort Ligitation" Korean Society for Research on Nicotine (May.2021)<br>
-▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul 2020, </a> COEX Mall, <a href="https://www.digitalmarketingkorea.co.kr"> DMK </a>, Seoul (Dec.2020)<br> 
-▪ 'Blockchain in Media Value Chain and Copyrights Management',<a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134"> Cybercommunication Academic Society</a>(Nov.2020)<br>           
+▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul 2020, </a> <a href="https://www.digitalmarketingkorea.co.kr"> DMK </a>, S. Korea (Dec.2020)<br> 
+▪ 'Blockchain in Media Value Chain and Copyrights Management',<a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134"> Korea Cybercommunication Academic Society</a>(Nov.2020)<br>           
 ▪  <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">'S.Korea's COVID 19 Contact Tracing, Legality, and Privacy Risk'</a>, Interview with Sciences Po, France(Nov.2020) <br>  
 ▪  'Technology Risks and Scientific Uncertainty' at <a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php"> Technology and Society Forum </a>, Seoul National University (Sept.2020)<br>
 ▪  <a href="http://www.igf.or.kr/2554">'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?'</a>,Korea Internet Governance Forum (Aug.2020) <br> 
