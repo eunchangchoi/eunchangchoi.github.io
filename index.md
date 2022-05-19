@@ -72,7 +72,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>  
 ▪ "The Ethics of AI-Powered Voice Chatbots and Virtual Reality for Digital Afterlives" <a href="https://www.clawar.org/icres2022/?fbclid=IwAR2g5W3CtTNLC9MOT9du0qogMQyR0FimGJciXYzIZqo4KXNuQ2RaXZNJEsg/"> International Conference on Robot Ethics and Standards </a>(ICRES 2022), S.Korea (July 18.2022)<br> 
-▪ " Metaverse Space as Public Sphere and Its Role in Democracy" <a href="https://ksaie.or.kr/"> <a href="http://www.politics21.or.kr/"> The 21 Century Political Science Ass</a>, Busan, S.Korea (May.2022)<br> 
+▪ " Metaverse Space as Public Sphere and Its Role in Democracy" <a href="https://ksaie.or.kr"> Korean Society for AI Ethics</a>, Busan, S.Korea (May.2022)<br> 
 ▪ "AI for VR+VR in Metaverse and its Ethics" <a href="http://www.kiiss.or.kr/journal/sub02.html/"> Korea Inteligent Information System Conference </a> S.Korea (May.2022)<br>
 ▪ "Social Interactions in Virtual Metaverse and Human Rights",The National Human Rights Commission, S.Korea(Feb. 2022)<br> 
 ▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who Holds Ownership of AI-generated Content and Invention?',</a> AI Summit Seoul 2021, Seoul (Dec.2021)<br>
