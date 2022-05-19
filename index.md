@@ -71,6 +71,8 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches",<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute, </a>STEPI Fellowship Research Paper Series(2014)<br>
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>  
+▪ "The Ethics of AI-Powered Voice Chatbots & Virtual Reality for Digital Afterlives" <a href="https://www.clawar.org/icres2022/?fbclid=IwAR2g5W3CtTNLC9MOT9du0qogMQyR0FimGJciXYzIZqo4KXNuQ2RaXZNJEsg/"> International Conference on Robot Ethics & Standards(ICRES)</a> Seoul, S.Korea (July.2022)<br> 
+▪ "Public Policy for the Metaverse as Public Sphere and Its Role in Democracy"</a> Korea AI Ethics Society + 21th Politics, Busan, S.Korea (May.2022)<br> 
 ▪ "AI for VR and AR in the Metaverse and its Ethics" <a href="http://www.kiiss.or.kr/journal/sub02.html/"> Korea Inteligent Information System Society Conference </a> (May.2022)<br>
 ▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who Holds Ownership of AI-generated Content and Invention?',</a> AI Summit Seoul 2021, Seoul (Dec.2021)<br>
 ▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Why AI Literacy is Critical for Algorithmic Governance?',</a> Indian Youth Internet Governance Forum(Dec.2021)<br> 
