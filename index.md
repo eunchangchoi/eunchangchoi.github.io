@@ -161,8 +161,8 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
   
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>   
-   Intersection of Law, Technology Policy & Science(Data, Bio); Law & Political Economy<br>
-   Social Media, Disinformation, The Power of Digital Platform, Meme, Hashtag Activism <br> 
+   Intersection of Law, Technology & Science(Data, Bio); Law and Political Economy<br>
+   Social Media, Disinformation, The Power of Digital Platform, Internet Memes, Hashtag Activism <br> 
    Responsible AI, Business Ethics and Ethical AI, Governing AI, Accountability for Algorithms <br>   
    Mass Collaboration, Open Data, Data Sharing, Data Ownership <br>  
    Patenting Nature; CRISPR Patents; Genomic Data Commons <br>  
