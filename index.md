@@ -85,13 +85,12 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪ 'The Role of Experts Witness in Toxic Tort Ligitation" Korean Society for Research on Nicotine (May.2021)<br>
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul 2020, </a> <a href="https://www.digitalmarketingkorea.co.kr"> DMK </a>, S. Korea (Dec.2020)<br> 
 ▪ 'Blockchain in Media Value Chain and Copyrights Management',<a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134"> Korean Cybercomm Academic Society</a>(Nov.2020)<br>           
-▪  <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">'COVID 19 Contact Tracing, Legality, and Privacy Risk in S.Korea'</a>, Interviewed with Sciences Po,  Le Havre, France(Nov.2020) <br>  
 ▪  'Technology Risks and Scientific Uncertainty' at <a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php"> Technology and Society Forum </a>, Seoul National University (Sept.2020)<br>
 ▪  <a href="http://www.igf.or.kr/2554">'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?'</a>,Korea Internet Governance Forum (Aug.2020) <br> 
 ▪  'South Korea's Contacts Tracing for COVID-19: Balancing between Public Health and Privacy', <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slides </a>, <a href="https://youtu.be/4UZlkRLKGes"> Video </a>(Aug.2020) <br> 
 ▪ <a href="http://kaobe.or.kr/home/page/?pid=conference22">'Business Ethics for Ethical AI: The Function of AI Ethics Board'</a> Korea Academy of Business Ethics Conference(Aug.2020) <br> 
 ▪ 'Medical Misinformation and Scientific Uncertainty: COVID-19, Ebola & HIV/AIDS',Korea Society of Internet Ethics Conference<br>
-▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Campaign, Commercials and Copyrights'</a> Korean Cybercomm Academic Society(June 2020)<br>
+▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Campaign, Commercials and Copyrights'</a> Korean Cybercomm Academic Society (June 2020)<br>
 ▪ 'How Misinformation Obstruct Public Health Measures during Pandemics', School of Public Health, Yonsei Univ (March. 2020)<br>
 ▪ <a href="https://bit.ly/36qHFoj">'The Risk Perception of AI'</a>, Korean Association for AI and Law (KAAIL) AI Policy Forum + Microsoft(Oct. 2019) <br>
 ▪ <a href="https://clawar.org/wp-content/uploads/2019/11/ICRES2019_p64_paper_4.pdf">"The Making of South Korea's Robot Ethics Charter"</a>, <a href="https://clawar.org/conference-proceedings/icres-conference/icres-2019-proceedings/"> International Conference on Robot Ethics and Standards</a>, London, UK (2019)<br>
@@ -149,6 +148,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪ <a href="https://www.breaknews.com/864283"> "How to build an NFT Ecosystem ?"</a> Break News (Jan.2022)<br> 
 ▪ <a href="http://www.danbinews.com/news/articleView.html?idxno=14304">'The Age of Disinformation and Misinformation'</a> Danbi News (April, 2021)<br>
 ▪ <a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Policy report released by AI Governance Forum at National Assembly of Korea'</a>, AI Times (Nov.7.2020)<br>  
+▪  <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">'COVID 19 Contact Tracing, Legality, and Privacy Risk in S.Korea'</a>, Interviewed with Sciences Po,  Le Havre, France(Nov.2020) <br>  
 ▪<a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Governance Forum pose to discuess AI policy suggestion'</a>, AI Times (Nov.3, 2020)<br>  
 ▪<a href="https://www.mk.co.kr/news/economy/view/2020/10/1097127/">'Blockchain for Anti-Corruption and Financial Inclusion for the Unbanked'</a> Maekyung Business News (Oct. 2020)<br>  
 ▪ <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=192351"> 'COVID-19 Contact Tracing and Data Retention'</a> MediaUs (Sept.2020) <br>  
