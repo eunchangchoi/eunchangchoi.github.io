@@ -112,7 +112,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
      
  <strong> PUBLIC POLICY ENGAGEMENT & PAPERS</strong> <br>   
 ▪ "Analysis on U.S. FCC Order: Indoor Location Accuracy of Wireless 911 Calls" The Korea National Police Agency (May.2022)<br> 
-▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission</a> (Feb. 2022)<br>
+▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea</a> (Feb. 2022)<br>
 ▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Democracy'</a> Media & ICT Committee, National Assembly of Korea (Jan.2022) <br>
 ▪ Co-authored "Governing Artificial Intelligence: Issues, Principles, and Practices" The AI Governance Forum Korea (Jan.2022)<br>
 ▪ Panelist,'Myanmar's Internet Suppression and Democracy after Military Coup' Korea Internet Governance Forum (Aug.2021) <br>  
