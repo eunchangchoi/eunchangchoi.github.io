@@ -111,7 +111,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT & PAPERS</strong> <br>   
-▪ "Analysis on U.S. FCC Order: Indoor Location Accuracy of Wireless 911 Calls" The Korea National Police Agency (May.2022)<br> 
+▪ "Analysis on the FCC Order: Indoor Location Accuracy of Wireless 911 Calls in the U.S." The Korea National Police Agency (May.2022)<br> 
 ▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea</a> (Feb. 2022)<br>
 ▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Democracy'</a> Media & ICT Committee, National Assembly of Korea (Jan.2022) <br>
 ▪ Co-authored "Governing Artificial Intelligence: Issues, Principles, and Practices" The AI Governance Forum Korea (Jan.2022)<br>
@@ -141,7 +141,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>    
-▪ <a href="https://www.youtube.com/watch?v=eAewHoNQgiI">'Emerging Markets and Technologies of Service Robots'</a> Tech Live Event, MIT Tech Review Korea (May. 2022)<br>
+▪ <a href="https://www.technologyreview.kr/special/event/202204/">'Emerging Markets and Technologies of Service Robots'</a> Tech Live Event, MIT Tech Review Korea (May. 2022)<br>
 ▪ <a href="https://www.key4biz.it/democrazia-futura-dalla-cortina-di-ferro-alle-cortine-di-silicio-sara-linternet-globale-la-principale-vittima-del-conflitto-russo-ucraino/398412/"> Dalla 'Cortina di ferro' alle 'Cortine di silicio'</a> Democrazia Futura, Italian (April, 2022)<br>   
 ▪ <a href="https://www.hyundaimotorgroup.com/about-us/publications">'The Future of Metaverse, Metamobility and Ethics'</a> Motersline, Hyundai Motors(April, 2022)<br>
 ▪  <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> 'Political Manipulation and Deepfakes with NFTs'</a> Media Today, <a href="https://www.news1.kr/articles/?4553816/"> New1 </a>, <a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/">  Edaily News </a>(Jan.2022)<br> 
