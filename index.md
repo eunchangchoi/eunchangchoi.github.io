@@ -72,8 +72,8 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches",STEPI Fellowship Research Paper Series,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute of Korea</a> (2014)<br>
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>  
-▪ "The Ethics of AI-Powered Voice Chatbots and Virtual Reality for Digital Afterlives"
- <a href="https://www.clawar.org/icres2022/?fbclid=IwAR2g5W3CtTNLC9MOT9du0qogMQyR0FimGJciXYzIZqo4KXNuQ2RaXZNJEsg/"> International Conference on Robot Ethics and Standards </a>(ICRES) COEX, Seoul, S.Korea (July.2022)<br> 
+▪ "The Ethics of AI-Powered Voice Chatbots and Virtual Reality for Digital Afterlives" and "The Global Treands and Issues of Robot Ethics"
+ <a href="https://www.clawar.org/icres2022/technical-program"> International Conference on Robot Ethics and Standards </a>(ICRES) COEX, Seoul, S.Korea (July.2022)<br> 
 ▪ "Metaverse as the Public Sphere and Its Role in Democracy: Platform Architecture, Web3, Data Privacy,and  Abuse" <a href="https://ksaie.or.kr"> The Korean Society for Artificial Intelligence Ethics </a> & <a href="http://www.politics21.or.kr/"> The 21 Century Political Science Association </a>, Busan, S.Korea (May.2022)<br> 
 ▪ "AI-Generated Virtual Reality in the Metaverse and Sexual Abuse" <a href="http://www.kiiss.or.kr/journal/sub02.html/"> Intelligent Information System Conference </a> S.Korea (May.2022)<br>
 ▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002">The National Human Rights Commission </a>, S.Korea (Feb.2022)<br> 
