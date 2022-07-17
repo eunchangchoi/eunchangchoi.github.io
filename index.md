@@ -11,7 +11,7 @@ title: "Eun Chang Choi"
 </div><!-- /.tiles -->
 <div style="width:98%">
 <div> 
- <a href="https://mitpress.mit.edu/books/memes-digital-culture"><img style="vertical-align:top;height:202px;width:162px;" src="images/book1.png"></a>
+ <a href="http://www.yes24.com/Product/Goods/110725374"><img style="vertical-align:top;height:202px;width:162px;" src="images/book1.png"></a>
  <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791130435473"><img style="vertical-align:top;height:202px;width:162px;" src="images/book2.jpg"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="><img style="vertical-align:top;height:202px;width:164px;" src="images/book3.jpg"></a>
  <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791130437002&orderClick=357"><img style="vertical-align:top;height:202px;width:162px;" src="images/book4.jpg"></a> <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788964361436&orderClick=LAH&Kc="><img style="vertical-align:top;height:200px;width:162px;" src="images/book5.jpg"> </a>
