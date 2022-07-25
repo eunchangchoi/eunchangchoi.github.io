@@ -75,7 +75,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪ "Sustainable Development Goals and Open Data" <a href="https://www.handong.edu/eng/Inter_cooperation/unitwin/"> UNESCO UNITWIN Project </a>, Handong Global Univsity, S.Korea (Aug.2022) <br>
 ▪ "The Ethics of AI-Powered Voice Chatbots and Virtual Reality for Digital Afterlives" and "The Global Treands and Issues of Robot Ethics"
  <a href="https://www.clawar.org/icres2022/technical-program"> International Conference on Robot Ethics and Standards</a>(ICRES) COEX, Seoul, S.Korea (July.2022)<br> 
-▪ "Metaverse as the Public Sphere and Its Role in Democracy: Platform Architecture, Web3, Data Privacy,and  Abuse" <a href="https://ksaie.or.kr"> The Korean Society for Artificial Intelligence Ethics </a> & <a href="http://www.politics21.or.kr/"> The 21 Century Political Science Association </a>, Busan, S.Korea (May.2022)<br> 
+▪ "Metaverse as the Public Sphere and Its Role in Democracy: Platform Architecture, Data Privacy and Abuse" <a href="https://ksaie.or.kr"> The Korean Society for Artificial Intelligence Ethics </a> & <a href="http://www.politics21.or.kr/"> The 21 Century Political Science Association </a>, Busan, S.Korea (May.2022)<br> 
 ▪ "AI-Generated Virtual Reality in the Metaverse and Sexual Abuse" <a href="http://www.kiiss.or.kr/journal/sub02.html/"> Intelligent Information System Conference </a> S.Korea (May.2022)<br>
 ▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002">The National Human Rights Commission </a>, S.Korea (Feb.2022)<br> 
 ▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who Holds Ownership of AI-generated Content and Invention?',</a> AI Summit Seoul 2021, Seoul (Dec.2021)<br>
