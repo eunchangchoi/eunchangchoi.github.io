@@ -33,7 +33,7 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 <br>
 <br>  
  <strong> ARTICLES, BOOKS & CHAPTERS </strong> <br>
-▪ "Who Owns the Baby Shark Dance?: A Copyright Dispute" Harvard Technology Review (forthcoming) <br> 
+▪ "Who Owns the Baby Shark Dance?: A Copyright Dispute in South Korea" Harvard Technology Review (forthcoming) <br> 
 ▪ Book Translation <a href="http://www.yes24.com/Product/Goods/110725374"><i> Memes in Digital Culture</i>,</a> Publisher MIT Press, Hanul MPlus(July.2022) <br>
 ▪ <a href="https://alook.so/posts/M9t4PDq"> "The Ethics of Metaverse and Law: From Sexual Exploitation to Fraud in the Virtual Space"</a> Alookso (July 2022)<br>
 ▪ <a href="https://www.ibric.org/myboard/read.php?id=4087&Page=1&Board=REPORT&TodayReview=1/"> "Global COVID-19 Vaccine Equity, Differential Pricing and the Waiver of Patents"</a> BRIC BioWave <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH </a>(April,2022)<br>
