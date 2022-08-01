@@ -142,7 +142,8 @@ am a Korean legal scholar whose research focuses on the interplay of public poli
 ▪ Member, The Technical Committee on <a href="https://www.ieee-ras.org"> Robot Ethics in IEEE Robotcs & Automation Society </a> <br>  
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
- <strong> IN THE NEWS & INTERVIEWS</strong> <br>    
+ <strong> IN THE NEWS & INTERVIEWS</strong> <br>   
+▪ <a href="https://alook.so/posts/latO5RY"> Invited Talk "Machine Consciousness in Large-scale Language Models and Ethical Design"</a> Alookso (Aug 2022)<br>
 ▪ <a href="https://www.technologyreview.kr/special/event/202204](https://www.youtube.com/watch?v=eAewHoNQgiI&feature=emb_logo">'Emerging Markets and Technologies of Service Robots'</a> Tech Live Talk, MIT Technology Review (May. 2022)<br>
 ▪ <a href="https://www.key4biz.it/democrazia-futura-dalla-cortina-di-ferro-alle-cortine-di-silicio-sara-linternet-globale-la-principale-vittima-del-conflitto-russo-ucraino/398412/"> Dalla 'Cortina di ferro' alle 'Cortine di silicio'</a> Democrazia Futura, Italian (April, 2022)<br>   
 ▪ <a href="https://www.hyundaimotorgroup.com/about-us/publications">'The Future of Metaverse, Metamobility and Ethics'</a> Motersline, Hyundai Motors(April, 2022)<br>
