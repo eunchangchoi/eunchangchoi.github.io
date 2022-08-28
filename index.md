@@ -72,7 +72,7 @@ am a Korean legal scholar and AI policy advisor whose research focuses on the in
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches",STEPI Fellowship Research Paper Series,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute of Korea</a> (2014)<br>
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>  
-▪ "Sustainable Development Goals and Open Data" <a href="https://www.handong.edu/eng/Inter_cooperation/unitwin/"> UNESCO UNITWIN Project </a>, Handong Global Univsity, S.Korea (Aug.2022) <br>
+▪ "AI for Public Good and Socio-economic Impacts", "Why is Open Data essential for Sustainable Development Goals" at NGET(Next Generation Entrepreneurship Training), <a href="https://www.handong.edu/eng/Inter_cooperation/unitwin/"> UNESCO UNITWIN Program</a>, Handong Global Univsity, S.Korea (Aug.2022) <br>
 ▪ "The Ethics of AI-Powered Voice Chatbots and Virtual Reality for Digital Afterlives" and "The Global Treands and Issues of Robot Ethics"
  <a href="https://www.clawar.org/icres2022/technical-program"> International Conference on Robot Ethics and Standards</a>(ICRES) COEX, Seoul, S.Korea (July.2022)<br> 
 ▪ "Metaverse as the Public Sphere and Its Role in Democracy: Platform Architecture, Data Privacy and Abuse" <a href="https://ksaie.or.kr"> The Korean Society for Artificial Intelligence Ethics </a> & <a href="http://www.politics21.or.kr/"> The 21 Century Political Science Association </a>, Busan, S.Korea (May.2022)<br> 
