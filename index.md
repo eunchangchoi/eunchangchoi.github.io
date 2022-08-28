@@ -35,7 +35,7 @@ am a Korean legal scholar and AI policy advisor whose research focuses on the in
  <strong> ARTICLES, BOOKS & CHAPTERS </strong> <br>
 ▪ "Who Owns the Baby Shark Dance?: A Copyright Dispute in South Korea" Harvard Technology Review (forthcoming) <br> 
 ▪ Book Translation <a href="http://www.yes24.com/Product/Goods/110725374"><i> Memes in Digital Culture</i>,</a> Publisher MIT Press, Hanul MPlus (July.2022) <br>
-▪ <a href="https://alook.so/posts/M9t4PDq"> "The Ethics of Metaverse and Law: From Sexual Exploitation to Fraud in the Virtual Space"</a> Alookso (July 2022)<br>
+▪ <a href="https://alook.so/posts/M9t4PDq"> "The Ethics of Metaverse and Law: From Sexual Exploitation to Fraud in Virtual Space"</a> Alookso Magazine (July 2022)<br>
 ▪ <a href="https://www.ibric.org/myboard/read.php?id=4087&Page=1&Board=REPORT&TodayReview=1/"> "Global COVID-19 Vaccine Equity, Differential Pricing and the Waiver of Patents"</a> BRIC BioWave <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH </a>(April,2022)<br>
 ▪ <a href="https://alook.so/posts/54t3ZMx"> "Fragmented Media, Delusive Deepfakes, and Hacktivism in Russia-Ukraine War"</a> Alookso Magazine (April.2022) <br>
 ▪ <a href="https://www.technologyreview.kr/%ec%9a%b0%ed%81%ac%eb%9d%bc%ec%9d%b4%eb%82%98-%ec%a0%84%ec%9f%81%ec%9d%b4-%eb%b6%88%eb%9f%ac%ec%98%a8-%ec%8a%a4%ed%94%8c%eb%a6%b0%ed%84%b0%eb%84%b7/">"How Russia-Ukraine War Accelerates Internet Fragmentation?"</a> MIT Tech Review Korea (March.2022)<br>
