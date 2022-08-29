@@ -144,9 +144,10 @@ am a Korean legal scholar and AI policy advisor whose research focuses on the in
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>   
+▪ Interview <https://www.edaily.co.kr/news/read?newsId=03722806632430600&mediaCodeNo=257"> "Life-saving technology for accurate tracking wireless 911 call" E-Daily (Aug 2022)<br> 
 ▪ Invited discussion <a href="https://alook.so/posts/latO5RY"> "Machine Consciousness in Large-scale Language Models and Ethics"</a> Alookso (Aug 2022)<br>
 ▪ <a href="https://www.technologyreview.kr/special/event/202204](https://www.youtube.com/watch?v=eAewHoNQgiI&feature=emb_logo">'Emerging Markets and Technologies of Service Robots'</a> Tech Live Talk, MIT Technology Review (May. 2022)<br>
-▪ <a href="https://www.key4biz.it/democrazia-futura-dalla-cortina-di-ferro-alle-cortine-di-silicio-sara-linternet-globale-la-principale-vittima-del-conflitto-russo-ucraino/398412/"> Dalla 'Cortina di ferro' alle 'Cortine di silicio'</a> Democrazia Futura, Italian (April, 2022)<br>   
+▪ <a href="https://www.key4biz.it/democrazia-futura-dalla-cortina-di-ferro-alle-cortine-di-silicio-sara-linternet-globale-la-principale-vittima-del-conflitto-russo-ucraino/398412/"> Dalla 'Cortina di ferro' alle 'Cortine di silicio' </a>  <i> Democrazia Futura </i>, Italian (April, 2022)<br>   
 ▪ <a href="https://www.hyundaimotorgroup.com/about-us/publications">'The Future of Metaverse, Metamobility and Ethics'</a> Motersline, Hyundai Motors(April, 2022)<br>
 ▪  <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> 'Political Manipulation and Deepfakes with NFTs'</a> Media Today, <a href="https://www.news1.kr/articles/?4553816/"> New1 </a>, <a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/">  Edaily News </a>(Jan.2022)<br> 
 ▪ <a href="https://www.breaknews.com/864283"> "How to build an NFT Ecosystem ?"</a> Break News (Jan.2022)<br> 
