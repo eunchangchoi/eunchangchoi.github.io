@@ -72,8 +72,8 @@ am a Korean legal scholar and AI policy advisor whose research focuses on the in
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches",STEPI Fellowship Research Paper Series,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute of Korea</a> (2014)<br>
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>  
-▪ Discussant,<a href="https://www.un.org/techenvoy/global-digital-compact">The Global Digital Compact</a>, organized by United Nations IGF + APrIGF, Singapore (Sept.2022)
-▪ "AI for Public Good and Socio-economic Impacts", "Why is Open Data essential for Sustainable Development Goals" at NGET(Next Generation Entrepreneurship Training), <a href="https://unitwin.handong.edu/en/business/business01.php?PHPSESSID=69c02cb1186389da4b0fabb228f124c0"> UNESCO UNI-TWIN Program</a>, Handong Global University, S.Korea (Aug.2022) <br>
+▪ Discussant,<a href="https://www.un.org/techenvoy/global-digital-compact">The Global Digital Compact</a>, organized by United Nations IGF + APrIGF, Singapore (Sept.2022)<br> 
+▪ "AI for Public Good and Socio-economic Impacts", "Why is Open Data Vital for UN Sustainable Development Goals" at Next Generation Entrepreneurship Training, <a href="https://unitwin.handong.edu/en/business/business01.php?PHPSESSID=69c02cb1186389da4b0fabb228f124c0"> UNESCO UNI-TWIN Program</a>,Handong Global University, S.Korea (Aug.2022) <br>
 ▪ "The Ethics of AI-Powered Voice Chatbots and Virtual Reality for Digital Afterlives" and "The Global Treands and Issues of Robot Ethics"
  <a href="https://www.clawar.org/icres2022/technical-program"> International Conference on Robot Ethics and Standards</a>(ICRES) COEX, Seoul, S.Korea (July.2022)<br> 
 ▪ "Metaverse as the Public Sphere and Its Role in Democracy: Platform Architecture, Data Privacy and Abuse" <a href="https://ksaie.or.kr"> The Korean Society for Artificial Intelligence Ethics </a> & <a href="http://www.politics21.or.kr/"> The 21th Century Political Science Association </a>, Busan, S.Korea (May.2022)<br> 
