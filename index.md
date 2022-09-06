@@ -73,27 +73,27 @@ am a Korean legal scholar and AI policy advisor whose research focuses on the in
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>  
 ▪ Discussant, <a href="https://www.un.org/techenvoy/global-digital-compact"> Global Digital Compact for Corporate Sustainability</a>, organized by UN IGF + APrIGF, Singapore (Sept.2022)<br> 
-▪ "AI for Public Good and Socio-economic Impacts", "Why is Open Data Vital for UN Sustainable Development Goals" at Next Generation Entrepreneurship Training, <a href="https://unitwin.handong.edu/en/business/business01.php?PHPSESSID=69c02cb1186389da4b0fabb228f124c0"> UNESCO UNI-TWIN Program</a>,Handong Global University, S.Korea (Aug.2022) <br>
+▪ "AI for Public Good and Socio-economic Impacts", "Why is Open Data Vital for UN Sustainable Development Goals" at Next Generation Entrepreneurship Training, <a href="https://unitwin.handong.edu/en/business/business01.php?PHPSESSID=69c02cb1186389da4b0fabb228f124c0"> UNESCO UNI-TWIN Program</a>with Handong Global University, Gyeongju, S.Korea (Aug.2022) <br>
 ▪ "The Ethics of AI-Powered Voice Chatbots and Virtual Reality for Digital Afterlives" and "The Global Treands and Issues of Robot Ethics"
  <a href="https://www.clawar.org/icres2022/technical-program"> International Conference on Robot Ethics and Standards</a>(ICRES) COEX, Seoul, S.Korea (July.2022)<br> 
 ▪ "Metaverse as the Public Sphere and Its Role in Democracy: Platform Architecture, Data Privacy and Abuse" <a href="https://ksaie.or.kr"> The Korean Society for Artificial Intelligence Ethics </a> & <a href="http://www.politics21.or.kr/"> The 21th Century Political Science Association </a>, Busan, S.Korea (May.2022)<br> 
 ▪ "AI-Generated Virtual Reality in the Metaverse and Sexual Abuse" <a href="http://www.kiiss.or.kr/journal/sub02.html/"> Intelligent Information System Conference </a> S.Korea (May.2022)<br>
-▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002">The National Human Rights Commission </a>, S.Korea (Feb.2022)<br> 
-▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who Holds Ownership of AI-generated Content and Invention?',</a> AI Summit Seoul 2021, Seoul (Dec.2021)<br>
+▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea </a>, S.Korea (Feb.2022)<br> 
+▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who Holds Ownership of AI-generated Content and Invention?',</a> AI Summit Seoul, S.Korea (Dec.2021)<br>
 ▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Why AI Literacy is Critical for Algorithmic Governance?',</a> Indian Youth Internet Governance Forum(Dec.2021)<br> 
 ▪ 'NFTying Memes, Digital Arts Trading and Copyright Theft' Korean Cybercomm Academic Society (Nov.2021) <br>
-▪ 'Data Sharing and Data Privacy:The Limit of Differential Privacy' Tutorial, Korea Internet Governance Forum (Aug.2021) <br>  
+▪ 'Data Sharing and Data Privacy:The Limit of Differential Privacy' Tutorial, Korea Internet Governance Forum (KrIGF)(Aug.2021) <br>  
 ▪ 'Risk Constructivism and Cultural Cognition', <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=1509&b_name=meet1_2">The Evolution of Technology & Society Conference </a>, SNU + <a href="https://www.kisa.or.kr"> KISA</a> (June.2021)<br>
 ▪ 'The Politicizing Science and Scientific Uncertainty in Epidemiology', Graduate School of Public Health, Yonsei Univ(June.2021)<br>
 ▪ 'The Role of Experts Witness in Toxic Tort Ligitation" Korean Society for Research on Nicotine (May.2021)<br>
-▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul 2020, S. Korea (Dec.2020)<br> 
+▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul</a>, S. Korea (Dec.2020)<br> 
 ▪ 'Blockchain in Media Value Chain and Copyrights Management',<a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134"> Korean Cybercomm Academic Society</a>(Nov.2020)<br>           
-▪  'Technology Risks and Scientific Uncertainty' at <a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php"> Technology and Society Forum </a>, Seoul National University (Sept.2020)<br>
-▪  <a href="http://www.igf.or.kr/2554">'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?'</a>,Korea Internet Governance Forum (Aug.2020) <br> 
+▪  'Technology Risks and Scientific Uncertainty' at <a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php"> Technology & Society Forum </a>, Seoul National University (Sept.2020)<br>
+▪  <a href="http://www.igf.or.kr/2554">'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?'</a>, Korea Internet Governance Forum (Aug.2020) <br> 
 ▪  'South Korea's Contacts Tracing for COVID-19: Balancing between Public Health and Privacy', <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slides </a>, <a href="https://youtu.be/4UZlkRLKGes"> Video </a>(Aug.2020) <br> 
-▪ <a href="http://kaobe.or.kr/home/page/?pid=conference22">'Business Ethics for Ethical AI: The Function of AI Ethics Board'</a> Korea Academy of Business Ethics Conference(Aug.2020) <br> 
+▪ <a href="http://kaobe.or.kr/home/page/?pid=conference22">'Business Ethics for Ethical AI: The Function of AI Ethics Board'</a>  Korea Academy of Business Ethics Conference (Aug.2020) <br> 
 ▪ 'Medical Misinformation and Scientific Uncertainty: COVID-19, Ebola & HIV/AIDS',Korea Society of Internet Ethics Conference<br>
-▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Campaign, Commercials and Copyrights'</a> Korean Cybercomm Academic Society (June 2020)<br>
+▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Campaign, Commercials and Copyrights'</a>  Korean Cybercomm Academic Society (June 2020)<br>
 ▪ 'How Misinformation Obstruct Public Health Measures during Pandemics', School of Public Health, Yonsei Univ (March. 2020)<br>
 ▪ <a href="https://bit.ly/36qHFoj">'The Risk Perception of AI'</a>, Korean Association for AI and Law (KAAIL) AI Policy Forum + Microsoft(Oct. 2019) <br>
 ▪ <a href="https://clawar.org/wp-content/uploads/2019/11/ICRES2019_p64_paper_4.pdf">"The Making of South Korea's Robot Ethics Charter"</a>, <a href="https://clawar.org/conference-proceedings/icres-conference/icres-2019-proceedings/"> International Conference on Robot Ethics and Standards</a>, London, UK (2019)<br>
@@ -101,7 +101,7 @@ am a Korean legal scholar and AI policy advisor whose research focuses on the in
 ▪ <a href="https://www.youtube.com/watch?v=nsZJaB3fx0E&feature=youtu.be&t=1689">'National Collaborative Session on Cybersecurity'</a>, <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html">The United Nations Internet Governance Forum,</a> Berlin, Germany (2019) <br> 
 ▪ <a href="https://www.ftp.asia/index.php/s/tLZWIWMG1Qp7oA0">'Build Concept on AI Society for Good: Quest for Inclusion'</a>,<a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
 ▪ <a href="https://www.ftp.asia/index.php/s/HGkuD3YVUBssKrP">'Coping with Misinformation in an Deluge of Information'</a>, <a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
-▪ 'AI Governance'in <a href="https://kpc4ir.kaist.ac.kr/index.php?mid=kpc4ir_events&document_srl=684"> TECH & TALK Conference</a>,<a href="https://kpc4ir.kaist.ac.kr/"> Korea Policy Center for 4th Industrial Revolution, KAIST,</a> Seoul (May. 2019)<br>
+▪ 'AI Governance'in <a href="https://kpc4ir.kaist.ac.kr/index.php?mid=kpc4ir_events&document_srl=684"> TECH & TALK Conference</a>,<a href="https://kpc4ir.kaist.ac.kr/"> Korea Policy Center for 4th Industrial Revolution (KPC4IR), KAIST, </a> Seoul (May. 2019)<br>
 ▪ <a href="https://youtu.be/92cmsMv6xhQ?t=451">'AI Ethics & Governance: Multistakeholder Approach'</a>, 2019 <a href="http://krigf.kr/"> Korea Internet Governance Forum</a>, Seoul, South Korea <br>
 ▪ 'Global Perspective on AI Ethics Governance' Korea Information Society Development Institute (KISDI), South Korea (Sept.2018) <br> 
 ▪ 'AI Ethics, Policies & Governance: A Global Overview' The Korea Society of Internet Ethics Conference (Nov.2018) <br>
