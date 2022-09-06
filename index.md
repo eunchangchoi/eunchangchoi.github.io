@@ -144,7 +144,7 @@ am a Korean legal scholar and AI policy advisor whose research focuses on the in
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>   
-▪ Interview <a href="https://www.edaily.co.kr/news/read?newsId=03722806632430600&mediaCodeNo=257"> "How FCC regulates technology for accurate location tracking of wireless 911 callers"</a> E-Daily (Aug 2022)<br> 
+▪ Interview <a href="https://www.edaily.co.kr/news/read?newsId=03722806632430600&mediaCodeNo=257"> "FCC regulations for accurate location tracking of wireless 911 callers"</a> E-Daily (Aug 2022)<br> 
 ▪ Invited discussion <a href="https://alook.so/posts/latO5RY"> "Machine Consciousness in Large-scale Language Models and Ethics"</a> Alookso Magazine(Aug 2022)<br>
 ▪ <a href="https://www.technologyreview.kr/special/event/202204](https://www.youtube.com/watch?v=eAewHoNQgiI&feature=emb_logo">'Emerging Markets and Technologies of Service Robots'</a> Tech Live Talk, MIT Technology Review (May. 2022)<br>
 ▪ <a href="https://www.key4biz.it/democrazia-futura-dalla-cortina-di-ferro-alle-cortine-di-silicio-sara-linternet-globale-la-principale-vittima-del-conflitto-russo-ucraino/398412/"> Dalla 'Cortina di ferro' alle 'Cortine di silicio' </a>  <i> Democrazia Futura </i>, Italian (April, 2022)<br>   
