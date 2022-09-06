@@ -81,13 +81,13 @@ am a Korean legal scholar and AI policy advisor whose research focuses on the in
 ▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea </a>, S.Korea (Feb.2022)<br> 
 ▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who Holds Ownership of AI-generated Content and Invention?',</a> AI Summit Seoul, S.Korea (Dec.2021)<br>
 ▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Why AI Literacy is Critical for Algorithmic Governance?',</a> Indian Youth Internet Governance Forum(Dec.2021)<br> 
-▪ 'NFTying Memes, Digital Arts Trading and Copyright Theft' Korean Cybercomm Academic Society (Nov.2021) <br>
+▪ <a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&where=subject%7Ctag&keyword=2021+%EA%B0%80%EC%9D%84&uid=1217/">'NFTying Memes, Digital Arts Trading and Copyright Theft'</a> Korean Cybercomm Academic Society (Nov.2021) <br>
 ▪ 'Data Sharing and Data Privacy:The Limit of Differential Privacy' Tutorial, Korea Internet Governance Forum (KrIGF)(Aug.2021) <br>  
 ▪ 'Risk Constructivism and Cultural Cognition', <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=1509&b_name=meet1_2">The Evolution of Technology & Society Conference </a>, SNU + <a href="https://www.kisa.or.kr"> KISA</a> (June.2021)<br>
 ▪ 'The Politicizing Science and Scientific Uncertainty in Epidemiology', Graduate School of Public Health, Yonsei Univ(June.2021)<br>
 ▪ 'The Role of Experts Witness in Toxic Tort Ligitation" Korean Society for Research on Nicotine (May.2021)<br>
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul</a>, S. Korea (Dec.2020)<br> 
-▪ 'Blockchain in Media Value Chain and Copyrights Management',<a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134"> Korean Cybercomm Academic Society</a>(Nov.2020)<br>           
+▪ <a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134">'Blockchain in Media Value Chain and Copyrights Management'</a>, Korean Cybercomm Academic Society</a>(Nov.2020)<br>           
 ▪  'Technology Risks and Scientific Uncertainty' at <a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php"> Technology & Society Forum </a>, Seoul National University (Sept.2020)<br>
 ▪  <a href="http://www.igf.or.kr/2554">'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?'</a>, Korea Internet Governance Forum (Aug.2020) <br> 
 ▪  'South Korea's Contacts Tracing for COVID-19: Balancing between Public Health and Privacy', <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slides </a>, <a href="https://youtu.be/4UZlkRLKGes"> Video </a>(Aug.2020) <br> 
