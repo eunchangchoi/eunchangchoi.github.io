@@ -169,7 +169,8 @@ am a Korean legal scholar and AI policy advisor whose research focuses on the in
    Intersection of Law, Technology & Science; Law and Political Economy<br>
    AI & Copyright Law, Disinformation, The Power of Platform, Internet Memes, Hashtag Activism <br> 
    Law for Algorithms, Business Ethics of AI, Governing AI, Accountability for Algorithms <br>   
-   Mass Collaboration, Open Data, Data Sharing, Data Ownership <br>  
+   Technology Policy for Public Purpose; Mass Collaboration
+   Open Data, Data Sharing, Data Ownership <br>  
    Patenting Nature; CRISPR Patents; Genomic Data Commons <br>  
    Pharmaceutical Patents and Global Health Inequality: Vaccine Equity <br>  
    The Economic History of Intellectual Property and Technology <br>  
