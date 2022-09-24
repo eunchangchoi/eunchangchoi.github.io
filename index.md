@@ -88,15 +88,15 @@ title: "Eun Chang Choi"
 ▪ 'The Politicizing Science and Scientific Uncertainty in Epidemiology', Graduate School of Public Health, Yonsei Univ(June.2021)<br>
 ▪ 'The Role of Experts Witness in Toxic Tort Ligitation" Korean Society for Research on Nicotine (May.2021)<br>
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul</a>, S. Korea (Dec.2020)<br> 
-▪ <a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134">'Blockchain in Media Value Chain and Copyrights Management'</a>, Korean Cybercomm Academic Society</a>(Nov.2020)<br>           
+▪ <a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134">'Blockchain in Media Value Chain and Copyrights Management'</a>, Korean Cybercomm Academic Society (Nov.2020)<br>           
 ▪  'Technology Risks and Scientific Uncertainty' at <a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php"> Technology & Society Forum </a>, Seoul National University (Sept.2020)<br>
 ▪  <a href="http://www.igf.or.kr/2554">'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?'</a>, Korea Internet Governance Forum (Aug.2020) <br> 
 ▪  'South Korea's Contacts Tracing for COVID-19: Balancing between Public Health and Privacy', <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slides </a>, <a href="https://youtu.be/4UZlkRLKGes"> Video </a>(Aug.2020) <br> 
 ▪ <a href="http://kaobe.or.kr/home/page/?pid=conference22">'Business Ethics for Ethical AI: The Function of AI Ethics Board'</a> Korea Academy of Business Ethics Conference (Aug.2020) <br> 
 ▪ 'Medical Misinformation and Scientific Uncertainty: COVID-19, Ebola & HIV/AIDS',Korea Society of Internet Ethics Conference<br>
-▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Campaign, Commercials and Copyrights'</a>  Korean Cybercomm Academic Society (June 2020)<br>
+▪  <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> 'Internet Memes Warfare: Political Campaign, Commercials and Copyrights'</a>Korean Cybercomm Academic Society (June 2020)<br>
 ▪ 'How Misinformation Obstruct Public Health Measures during Pandemics', School of Public Health, Yonsei Univ (March. 2020)<br>
-▪ <a href="https://bit.ly/36qHFoj">'The Risk Perception of AI'</a>, Korean Association for AI and Law (KAAIL) AI Policy Forum + Microsoft(Oct. 2019) <br>
+▪ <a href="https://bit.ly/36qHFoj">'The Risk Perception of AI'</a>, Korean Association for AI & Law (KAAIL) AI Policy Forum + Microsoft Korea (Oct.2019) <br>
 ▪ <a href="https://clawar.org/wp-content/uploads/2019/11/ICRES2019_p64_paper_4.pdf">"The Making of South Korea's Robot Ethics Charter"</a>, <a href="https://clawar.org/conference-proceedings/icres-conference/icres-2019-proceedings/"> International Conference on Robot Ethics and Standards</a>, London, UK (2019)<br>
 ▪ <a href= "https://www.intgovforum.org/multilingual/content/igf-2019-ws-182-data-governance-for-smarter-city-mobility">'Data Governance for Smarter City Mobility'</a> <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html"> The United Nations Internet Governance Forum</a>, Berlin, Germany (2019)<br> 
 ▪ <a href="https://www.youtube.com/watch?v=nsZJaB3fx0E&feature=youtu.be&t=1689">'National Collaborative Session on Cybersecurity'</a>, <a href= "https://www.igf2019.berlin/IGF/Navigation/EN/Home/home.html">The United Nations Internet Governance Forum,</a> Berlin, Germany (2019) <br> 
