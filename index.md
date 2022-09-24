@@ -18,7 +18,7 @@ title: "Eun Chang Choi"
   <a href="http://www.yes24.com/Product/Goods/87629913"><img style="vertical-align:top;height:200px;width:162px;" src="images/book6.png"></a>
   <a href="https://www.copyright.or.kr/information-materials/publication/research-report/view.do?brdctsno=40222&list.do?pageIndex=5&brdclasscode=&nationcode=&searchText=&servicecode=06&searchTarget=ALL&brdctsstatecode="><img style="vertical-align:top;height:202px;width:163px;" src="images/book7.png"></a>
   <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791130337722&orderClick=LA6"><img style="vertical-align:top;height:202px;width:163px;" src="images/book8.jpg"></a>
-  <img style="vertical-align:top;height:200px;width:163px;" src="images/book9.png">
+  <a href="https://sapyoung.com/bbs/board.php?bo_table=booklist2&wr_id=431"> <img style="vertical-align:top;height:200px;width:163px;" src="images/book9.png"></a>
   <img style="vertical-align:top;height:200px;width:163px;" src="images/book10.png">
  <br>
  <br>
