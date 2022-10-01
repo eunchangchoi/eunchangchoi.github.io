@@ -120,7 +120,7 @@ title: "Eun Chang Choi"
 ▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Democracy'</a> Media & ICT Committee, National Assembly of Korea (Jan.2022) <br>
 ▪ Co-authored "Governing Artificial Intelligence: Issues, Principles, and Practices" The AI Governance Forum Korea (Jan.2022)<br>
 ▪ Panelist,'Myanmar's Internet Suppression and Democracy after Military Coup' Korea Internet Governance Forum (Aug.2021) <br>  
-▪ <a href="https://ap.rigf.asia/fellowship/2021/introducing-the-mentors-of-2021-fellowship-program/?fbclid=IwAR2pn3lY-fE0daHxOW4vCcvk0HX-zwFHd8uJxaPnT266Hn7BOkA52UudjMw"> Mentoring</a> 2022, 2021 Fellows of<a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br> 
+▪ <a href="https://ap.rigf.asia/fellowship/2021/introducing-the-mentors-of-2021-fellowship-program/?fbclid=IwAR2pn3lY-fE0daHxOW4vCcvk0HX-zwFHd8uJxaPnT266Hn7BOkA52UudjMw"> Mentoring</a>for 2022, 2021 Fellows,<a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br> 
 ▪ <a href="https://www.asiae.co.kr/article/2021081610112312900">'Fear and Misinformation in the Cultural History of Epidemics'</a>, <a href="https://opengov.seoul.go.kr/mediahub/20417385"> Citizen University, Seoul Metropolitan Government </a> (Aug.2021) <br> 
 ▪ Invited Author Talk <a href="https://youtu.be/mRsfLzJmdj8?t=15">'Disinformation, Lies and Political Propaganda on Social Media'</a> at <a href="https://factchecker.or.kr/notices/225"> the Factcheck Week,</a> organized by <a href="https://edu.kcmf.or.kr/main/index.jsp"> Community Media Foundation </a> and the Korea Communications Commission (KCC)(April. 2021) <br>
 ▪ Panelist, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (Feb.2021)<br>
@@ -145,7 +145,7 @@ title: "Eun Chang Choi"
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>   
-  ▪ Interview "Privacy paradox and the Right of Publicity in Social Media"<i> This Morning </i>, TBS eFM, Seoul Media Foundation(Oct.2022)<br> 
+▪ Interview "Privacy Paradox and the Right of Publicity in Social Media"<i>This Morning </i>,TBS eFM, Seoul Media Foundation(Oct.2022)<br> 
 ▪ Interview <a href="https://www.edaily.co.kr/news/read?newsId=03722806632430600&mediaCodeNo=257"> "FCC regulations for accurate location tracking of wireless 911 callers"</a> E-Daily (Aug 2022)<br> 
 ▪ Invited discussion <a href="https://alook.so/posts/latO5RY"> "Machine Consciousness in Large-scale Language Models and Ethics"</a> Alookso Magazine(Aug 2022)<br>
 ▪ <a href="https://www.technologyreview.kr/special/event/202204](https://www.youtube.com/watch?v=eAewHoNQgiI&feature=emb_logo">'Emerging Markets and Technologies of Service Robots'</a> Tech Live Talk, MIT Technology Review (May. 2022)<br>
