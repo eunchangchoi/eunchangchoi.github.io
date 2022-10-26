@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Eun Chang Choi"
+title: "Choi,Eun Chang최은창"
 ---
 <body bottommargin="0">
 <div class="tiles">
