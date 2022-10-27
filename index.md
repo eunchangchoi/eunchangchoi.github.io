@@ -148,7 +148,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>   
-▪ "The Role of Journalism in a Global Pandemic"</a> <a href="https://www.yna.co.kr/view/AKR20221012124400371"> Yonhap News </a>, <a href="https://www.mk.co.kr/news/politics/view/2022/10/901792/"> MK Daily News </a> (Oct.2022) <br>
+▪ "The Role of Journalism in a Global Pandemic" <a href="https://www.yna.co.kr/view/AKR20221012124400371"> Yonhap News </a>, <a href="https://www.mk.co.kr/news/politics/view/2022/10/901792/"> MK Business News </a> (Oct.2022) <br>
 ▪ Interview "Privacy and the Right of Publicity in Social Media" <a href="https://podcasts.apple.com/af/podcast/tbs-efm-this-morning/id1038822609"> TBS eFM</a>, Seoul Media Foundation (Oct.2022)<br> 
 ▪ Interview <a href="https://www.edaily.co.kr/news/read?newsId=03722806632430600&mediaCodeNo=257"> "FCC regulations for accurate location tracking of wireless 911 callers"</a> E-Daily (Aug.2022)<br> 
 ▪ Invited discussion <a href="https://alook.so/posts/latO5RY"> "Machine Consciousness in Large-scale Language Models and Ethics"</a> Alookso Magazine(Aug 2022)<br>
@@ -157,11 +157,11 @@ title: "Choi, Eun Chang 최은창"
 ▪ <a href="https://www.hyundaimotorgroup.com/about-us/publications">'The Future of Metaverse, Metamobility and Ethics'</a> Motersline, Hyundai Motors(April 2022)<br>
 ▪  <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=301748"> 'Political Manipulation and Deepfakes with NFTs'</a> Media Today, <a href="https://www.news1.kr/articles/?4553816/"> New1 </a>, <a href="https://www.edaily.co.kr/news/read?newsId=02768326632197392&mediaCodeNo=257&OutLnkChk=Y/"> E-Daily News </a>, <a href="https://www.breaknews.com/864283"> Break News</a>(Jan.2022)<br>  
 ▪ <a href="https://view.asiae.co.kr/article/2021081610112312900"> The History of Fake News and Epidemic</a> Asia Business Daily (Aug.2021)<br>
-▪ <a href="http://www.danbinews.com/news/articleView.html?idxno=14304">'The Age of Disinformation and Misinformation'</a> Danbi News, <a href="https://www.kcc.go.kr/user.do;jsessionid=M42mWRJ2WjcjzvKwAN_zBJfE8mlLWPxtYTgVh73d.servlet-aihgcldhome20?mode=view&page=A05030000&dc=&boardId=1113&cp=4&boardSeq=50904"> KCC</a> <a href="https://www.epnc.co.kr/news/articleView.html?idxno=204465"> Tech News World </a>(April 2021) <br>
+▪ <a href="http://www.danbinews.com/news/articleView.html?idxno=14304">'The Age of Disinformation and Misinformation'</a> Danbi News, <a href="https://www.kcc.go.kr/user.do;jsessionid=M42mWRJ2WjcjzvKwAN_zBJfE8mlLWPxtYTgVh73d.servlet-aihgcldhome20?mode=view&page=A05030000&dc=&boardId=1113&cp=4&boardSeq=50904"> KCC</a> <a href="https://www.epnc.co.kr/news/articleView.html?idxno=204465"> Tech News World</a>(April 2021) <br>
 ▪ <a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Policy report released by AI Governance Forum at National Assembly of Korea'</a>, AI Times (Nov.2020)<br>  
 ▪  <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">'COVID 19 Contact Tracing, Legality, and Privacy Risk in S.Korea'</a>, Interviewed with Sciences Po, Le Havre, France(Nov.2020) <br>  
 ▪<a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Governance Forum pose to discuess AI policy suggestion'</a>, AI Times (Nov. 2020)<br>  
-▪<a href="https://www.mk.co.kr/news/economy/view/2020/10/1097127/">'Blockchain for Anti-Corruption and Financial Inclusion for the Unbanked'</a> Maekyung Business News (Oct. 2020)<br>  
+▪<a href="https://www.mk.co.kr/news/economy/view/2020/10/1097127/">'Blockchain for Anti-Corruption and Financial Inclusion for the Unbanked'</a> MK Business News (Oct. 2020)<br>  
 ▪ <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=192351"> 'COVID-19 Contact Tracing and Data Retention'</a> MediaUs (Sept.2020) <br>  
 ▪ <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=208888">'South Korea's Scope of Contact Tracing for COVID-19 and Social Stigma'</a> Media Today (Aug.2020)  <br>    
 ▪ <a href="https://www.diplomacy.edu/blog/will-algorithms-make-safe-decisions-foreign-affairs">'Will Algorithms Make Safe Decisions in Foreign Affairs?' </a> AI Lab, DiploFoundation, Geneva, Switzerland (Dec.2019) <br>
