@@ -139,7 +139,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ AI –Country Case:Republic of Korea, ITU Academy, Centres of Excellence, Bangkok, Thailand (Sept.2019)<br>   
 ▪  <a href="https://youtu.be/uRsC_ypHGCg?t=1348">'IP Address and Cross-border Cooperation for Resolving the Cyber Attribution Challenges'</a>, <a href="https://conference.apnic.net/48/program/schedule/#/day/6/cooperation-sig">APNIC 48</a>,Chiang Mai,Thailand (2019) <br>
 ▪ Plenary session panel, Asia-Pacific Internet Governance Forum, Vladivostok, Russia (July, 2019)<br>
-▪ Policy Report <a href="https://bit.ly/3qgZ63S">"The Ethical Considerations of AI and Policy Response in the Age of Fourth Industrial Revolution"</a> KISDI, Commissioned Report submitted to <a href="https://www.4th-ir.go.kr/home/en/">The Presidential Committee on the Fourth Industrial Revolution of Korea</a> (Oct.2018) <br> 
+▪ Policy Report <a href="https://bit.ly/3qgZ63S">"The Ethical Considerations of AI and Policy Response in the Age of Fourth Industrial Revolution"</a> KISDI, Commissioned Report submitted to <a href="https://policy.nl.go.kr/cmmn/FileDown.do?atchFileId=221994&fileSn=63436">The Presidential Committee on the Fourth Industrial Revolution of Korea</a> (Oct.2018) <br> 
 ▪ <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News Workshop'</a>, <a href="https://igf2018.fr/"> The UN Internet Governance Forum </a> at UNESCO, Paris, France (Nov.2018) <br>
 ▪ Field Trips to U.S. FDA and UCSF Tobacco Research Center with officials of Ministry of Health and Welfare (2018) <br> 
 ▪ Policy Report "The WTO’s Decision on Australia’s Plain Packaging Tobacco Measures for Public Health: Trademark Restrictions", commissioned research by the Ministry of Health and Welfare, South Korea (2018)<br>
