@@ -148,7 +148,7 @@ title: "Choi,Eun Chang최은창"
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>   
-▪ <a href="https://www.hankyung.com/politics/article/202210122806Y">"The Role of Journalism in a Global Pandemic"</a> The Korea Economic Daily (Oct.2022) <br>
+▪ "The Role of Journalism in a Global Pandemic"</a> <a href="https://m.yna.co.kr/view/AKR20221012124400371"> YNA </a>, <a href="https://www.mk.co.kr/news/politics/view/2022/10/901792/"> MK Daily </a> (Oct.2022) <br>
 ▪ Interview "Privacy and the Right of Publicity in Social Media" <a href="https://podcasts.apple.com/af/podcast/tbs-efm-this-morning/id1038822609"> TBS eFM</a>, Seoul Media Foundation(Oct.2022)<br> 
 ▪ Interview <a href="https://www.edaily.co.kr/news/read?newsId=03722806632430600&mediaCodeNo=257"> "FCC regulations for accurate location tracking of wireless 911 callers"</a> E-Daily (Aug 2022)<br> 
 ▪ Invited discussion <a href="https://alook.so/posts/latO5RY"> "Machine Consciousness in Large-scale Language Models and Ethics"</a> Alookso Magazine(Aug 2022)<br>
