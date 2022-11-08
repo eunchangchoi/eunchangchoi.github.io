@@ -111,15 +111,15 @@ title: "Choi, Eun Chang 최은창"
 ▪ 'Global Perspective on AI Ethics Governance' Korea Information Society Development Institute (KISDI), South Korea (Sept.2018) <br> 
 ▪ 'AI Ethics, Policies & Governance: A Global Overview' The Korea Society of Internet Ethics Conference (Nov.2018) <br>
 ▪ 'Artificial Intelligence Applications for Global Public Health' National Medical Center(NMC), Seoul, South Korea (Oct. 2018)<br>
-▪ <a href="http://idr.jinbo.net/232"> 'Will You Trust Artificial Intelligence's Decision?'</a> AI Lecture Series, Institution for Digital Human Rights, Seoul (Dec.2017)<br> 
+▪ <a href="http://idr.jinbo.net/232"> 'Will You Trust Artificial Intelligence's Decision?'</a> AI Lecture Series, <a href="https://idr.jinbo.net/">Institution for Digital Human Rights</a>, Seoul. S.Korea (Dec.2017)<br>  
 ▪ <a href="https://blog.naver.com/gp3project/221112176044">'Can Blockchain Technology Help the Unbanked around the World?: Financial Inclusion'</a> Povertyinfo.org's blog (Oct.2017)<br>
 ▪ <a href= "https://www.cis.snu.ac.kr/sub2/2_2_6_3.php?mode=view&number=223&page=1&b_name=meet1_3"> 'Cybersecurity in The Age of Internet of Things'</a> Seoul National University (Jan.2017)<br> 
-▪  <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=236&page=1&b_name=meet1_2"> 'Analysis on Stanford AI 100 Report'</a> Institute of International Studies, Seoul National University (Nov. 2016) <br>
+▪  <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=236&page=1&b_name=meet1_2">'Analysis on the Stanford AI 100 Report'</a> Institute of International Studies, Seoul National University (Nov. 2016) <br>
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem :Zero-rating'</a> OpenNet Korea, Seoul (2015) <br>
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT & PAPERS</strong> <br>   
-▪ "Analysis on the FCC Order: Indoor Location Accuracy of Wireless 911 Calls in the U.S." The Korea National Police Agency(May.2022)<br> 
+▪ "Analysis on the FCC Order: Indoor Location Accuracy of Wireless 911 Calls in the U.S." Korea National Police Agency(May.2022)<br> 
 ▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea</a> (Feb. 2022)<br>
 ▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Democracy'</a> Media & ICT Committee, National Assembly of Korea (Jan.2022) <br>
 ▪ Co-authored "Governing Artificial Intelligence: Issues, Principles, and Practices" The AI Governance Forum Korea (Jan.2022)<br>
