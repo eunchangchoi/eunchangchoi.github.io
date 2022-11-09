@@ -34,7 +34,7 @@ title: "Choi, Eun Chang 최은창"
 <br>  
  <strong> ARTICLES, BOOKS & CHAPTERS </strong> <br>
 ▪ "Who Owns the Baby Shark Dance?: A Copyright Dispute in South Korea" Harvard Technology Review (forthcoming) <br> 
-▪ "The Political Economy of Algorithms, Democratic Control and the Power of AI" <a href="http://cdss.yonsei.ac.kr/index.php/issue-brief/"> Center for Digital Social Science,</a> Yonsei Univ, Issue Brief (Nov.2022) <br>  
+▪ "Democratic Control and Contesting of AI" <a href="http://cdss.yonsei.ac.kr/index.php/issue-brief/"> Center for Digital Social Science,</a> Yonsei Univ, Issue Brief (Nov.2022) <br>  
 ▪ "Developing Hyperscale AI Models and the Quest for Democratizing AI" MIT Tech Review Korea (Nov.2022) <br>  
 ▪ <a href="https://www.technologyreview.kr/%ed%95%a9%ec%84%b1-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%9d%98-%ec%8b%9c%eb%8c%80%ea%b0%80-%ec%98%a4%ea%b3%a0-%ec%9e%88%eb%8b%a4/"> "The Promise and Pitfall of Synthetic Data in Training AI System"</a> MIT Tech Review Korea (Oct.2022)<br>
 ▪ <a href="https://www.technologyreview.kr/%ed%85%8d%ec%8a%a4%ed%8a%b8%eb%a5%bc-%ec%9d%b4%eb%af%b8%ec%a7%80%eb%a1%9c-%eb%b0%94%ea%bf%94%ec%a3%bc%eb%8a%94-ai%eb%a5%bc-%eb%91%98%eb%9f%ac%ec%8b%bc-%ec%a0%80%ec%9e%91%ea%b6%8c-%eb%85%bc%ec%9f%81/"> "Controversy Arises Over Copyright of AI-generated Images from Text"</a> MIT Tech Review Korea (Sept.2022)<br>
