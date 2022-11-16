@@ -150,7 +150,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>   
-▪ Interview "Who Owns The Internet?" <a href="https://dl.dongascience.com/magazine/index/S#S202211SEL"> <i> Science Donga Magazine</i></a> (Dec.2022)<br>
+▪ Expert Interview "Who  The Internet?" <a href="https://dl.dongascience.com/magazine/index/S#S202211SEL"> <i> Science Donga Magazine</i></a> (Dec.2022)<br>
 ▪ "The Role of Journalism in Tackling Coronavirus Disinformation"<a href="https://www.yna.co.kr/view/AKR20221012124400371"> Yonhap News </a>, <a href="https://mijunews.com/2022/10/13/%ec%98%81%ec%83%81%ec%b5%9c%ec%9d%80%ec%b0%bd-%ea%b5%90%ec%88%98-%ea%b0%80%ec%a7%9c%eb%89%b4%ec%8a%a4%ec%9d%98-%ea%b3%a0%ea%b3%a0%ed%95%99%ed%8c%ac%eb%8d%b0%eb%af%b9-%ec%96%b8%eb%a1%a0%ec%9d%98/"> Miju News</a>, <a href="https://atlantak.com/%ec%84%b8%ea%b3%84%ed%95%9c%ec%9d%b8%ec%96%b8%eb%a1%a0%ec%9d%b8%ed%98%91-%ea%b5%ad%ec%a0%9c%ec%8b%ac%ed%8f%ac%ec%a7%80%ec%97%84-%ec%95%a0%ed%8b%80%eb%9e%9c%ed%83%80-k-%ec%82%ac%eb%a1%80/"> Atlanta-K News </a> (Oct.2022) <br>
 ▪ <a href="https://www.mk.co.kr/news/it/10493518"> 'Rounding up Korean candidates for Innovators under 35 by MIT Technology Review',</a> Maeil Business News (Oct.2022)<br> 
 ▪ Interview <a href="https://podcasts.apple.com/af/podcast/tbs-efm-this-morning/id1038822609"> "Privacy and the Right of Publicity in Social Media"</a>, TBS eFM Seoul Media Foundation (Oct.2022)<br> 
