@@ -88,6 +88,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ <a href="https://aisummit.co.kr/agenda_2021-2/">'Who Holds Ownership of AI-generated Content and Invention?',</a> AI Summit Seoul, S.Korea (Dec.2021)<br>
 ▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Why AI Literacy is Critical for Algorithmic Governance?',</a> Indian Youth Internet Governance Forum(Dec.2021)<br> 
 ▪ <a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&where=subject%7Ctag&keyword=2021+%EA%B0%80%EC%9D%84&uid=1217/">'NFTying Memes, Digital Arts Trading and Copyright Theft'</a> Korean Cybercomm Academic Society (Nov.2021) <br>
+▪ 'Business Insight: The Risk and Ethics of Artificial Intelligence'<a href="https://www.kma.or.kr/main.do"> Korea Management Association </a>(Nov.2021) <br>
 ▪ 'Data Sharing and Data Privacy:The Limit of Differential Privacy' Tutorial, Korea Internet Governance Forum (KrIGF)(Aug.2021) <br>  
 ▪ 'Risk Constructivism and Cultural Cognition', <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=1509&b_name=meet1_2">The Evolution of Technology & Society Conference </a>, SNU + <a href="https://www.kisa.or.kr"> KISA</a> (June.2021)<br>
 ▪ 'The Politicizing Science and Scientific Uncertainty in Epidemiology', Graduate School of Public Health, Yonsei Univ(June.2021)<br>
