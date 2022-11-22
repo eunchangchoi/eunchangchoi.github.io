@@ -120,7 +120,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem :Zero-rating'</a> OpenNet Korea, Seoul (2015) <br>
   <br>
      
- <strong> PUBLIC POLICY ENGAGEMENT & PAPERS</strong> <br>   
+ <strong> PUBLIC POLICY ENGAGEMENT & ACTIVITIES</strong> <br>   
 ▪ Panelist, Global Governance and Diplomacy Workshop, KDI School of Public Policy and Management, Hilton Seoul (Nov.2022)<br> 
 ▪ "Analysis on the FCC Order: Indoor Location Accuracy of Wireless 911 Calls in the U.S." Korea National Police Agency(May.2022)<br> 
 ▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea</a> (Feb. 2022)<br>
