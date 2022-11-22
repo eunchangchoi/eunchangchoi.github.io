@@ -91,7 +91,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ 'Business Insight: The Risk and Ethics of Artificial Intelligence'<a href="https://www.kma.or.kr/main.do"> Korea Management Association </a>(Nov.2021) <br>
 ▪ 'Data Sharing and Data Privacy:The Limit of Differential Privacy' Tutorial, Korea Internet Governance Forum (KrIGF)(Aug.2021) <br>  
 ▪ 'Risk Constructivism and Cultural Cognition', <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=1509&b_name=meet1_2">The Evolution of Technology & Society Conference </a>, SNU + <a href="https://www.kisa.or.kr"> KISA</a> (June.2021)<br>
-▪ 'The Politicizing Science and Scientific Uncertainty in Epidemiology', Graduate School of Public Health, Yonsei Univ(June.2021)<br>
+▪ 'The Peril of Politicizing Science and Vaccine Hesitancy', Graduate School of Public Health, Yonsei Univ(June.2021)<br>
 ▪ 'The Role of Experts Witness in Toxic Tort Ligitation" Korean Society for Research on Nicotine (May.2021)<br>
 ▪  <a href="https://aisummit.co.kr/ais2020_eun-chang-choi/?lang=en">'Ethical AI: A New Corporate Social Responsibility'</a>, <a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul</a>, S. Korea (Dec.2020)<br> 
 ▪ <a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134">'Blockchain in Media Value Chain and Copyrights Management'</a>, Korean Cybercomm Academic Society (Nov.2020)<br>           
@@ -144,7 +144,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ Plenary session panel, Asia-Pacific Internet Governance Forum, Vladivostok, Russia (July, 2019)<br>
 ▪ Policy Report <a href="https://bit.ly/3qgZ63S">"The Ethical Considerations of AI and Policy Response in the Age of Fourth Industrial Revolution"</a> KISDI, Commissioned Report submitted to <a href="https://policy.nl.go.kr/cmmn/FileDown.do?atchFileId=221994&fileSn=63436">The Presidential Committee on the Fourth Industrial Revolution of Korea</a> (Oct.2018) <br> 
 ▪ <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News Workshop'</a>, <a href="https://igf2018.fr/"> The UN Internet Governance Forum </a> at UNESCO, Paris, France (Nov.2018) <br>
-▪ Field Trips to U.S. FDA and UCSF Tobacco Research Center with officials of Ministry of Health and Welfare (2018) <br> 
+▪ Business trip to U.S. FDA and UCSF Tobacco Research Center with officials of Ministry of Health and Welfare (Aug. 2018) <br> 
 ▪ Policy Report "The WTO’s Decision on Australia’s Plain Packaging Tobacco Measures for Public Health: Trademark Restrictions", commissioned research by the Ministry of Health and Welfare, South Korea (2018)<br>
 ▪ Co-authored a Policy Report <a href="https://www.kisdi.re.kr/report/view.do?key=m2101113024770&arrMasterId=3934580&masterId=3934580&artId=520556">"ICT-based Solutions to Social Problems in Intelligent Information Society"</a> <a href= "https://www.kisdi.re.kr/eng/index.do%20%20%20%20KISDI"> KISDI </a>(2017) <br> 
 ▪ Member, the Expert Council of Robot Ethics at <a href="https://kiria.org/eng"> Korea Institute for Robot Industry Advancement</a> <br>
