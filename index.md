@@ -115,8 +115,8 @@ title: "Choi, Eun Chang 최은창"
 ▪ 'Artificial Intelligence Applications for Global Public Health' National Medical Center(NMC), Seoul, South Korea (Oct. 2018)<br>
 ▪ <a href="http://idr.jinbo.net/232"> 'Will You Trust Artificial Intelligence's Decision?'</a> AI Lecture Series, <a href="https://idr.jinbo.net/">Institution for Digital Human Rights</a>, Seoul. S.Korea (Dec.2017)<br>  
 ▪ <a href="https://blog.naver.com/gp3project/221112176044">'Can Blockchain Technology Help the Unbanked around the World?: Financial Inclusion'</a> Povertyinfo.org's blog (Oct.2017)<br>
-▪'National Cyber Security in The Age of Internet of Things'<a href="http://www.snuiis.re.kr">Institute of International Studies</a>, Seoul National University (Jan.2017)<br> 
-▪'Analysis on the Stanford AI 100 Report'<a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php">Technology & Society Forum</a>, Seoul National University (Nov. 2016) <br>
+▪'National Cyber Security in The Age of Internet of Things'<a href="http://www.snuiis.re.kr"> Institute of International Studies</a>, Seoul National University (Jan.2017)<br> 
+▪'Analysis on the Stanford AI 100 Report' <a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php"> Technology & Society Forum</a>, Seoul National University (Nov. 2016) <br>
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem :Zero-rating'</a> OpenNet Korea, Seoul (2015) <br>
   <br>
      
