@@ -77,7 +77,7 @@ title: "Choi, Eun Chang 최은창"
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches",STEPI Fellowship Research Paper Series,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute of Korea</a> (2014)<br>
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>  
-▪ "The Role of Data in Implementing Sustainable Development",Symposium, <a href="https://www.kdu.ac.lk/"> John Kotelawala Defence University, </a>Sri Lanka (Jan.2023) <br>
+▪ "The Role of Data in Implementing Sustainable Development", Symposium, <a href="https://www.kdu.ac.lk/"> John Kotelawala Defence University, </a>Sri Lanka (Jan.2023) <br>
 ▪ "Applying Artificial Intelligence for Social Good and Economic Impacts", <a href="https://www.southville.edu.ph/news-ay-2022"> Reshaping the Global Landscape Conference</a>, Southville International School, Manila, Philippines (Oct. 27, 2022) <br>
 ▪"The Incentives of Disinformation in Media Ecosystem" <a href="https://www.okja.org/"> Overseas Korean Journalists Association,</a> Seoul, S.Korea(Oct.2022) <br>
 ▪ Discussant, <a href="https://www.un.org/techenvoy/global-digital-compact"> Global Digital Compact for Corporate Sustainability</a>, organized by <a href="https://ap.rigf.asia/news/2022-program-schedule/"> UN IGF + APrIGF</a>, Singapore (Sept.2022)<br> 
@@ -123,7 +123,7 @@ title: "Choi, Eun Chang 최은창"
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT & ACTIVITIES</strong> <br>   
-▪ Panelist, <a href="https://www.intgovforum.org/en/content/nris-cooperating-to-protecting-data-at-local-levels">'Cooperating to Protect Data at Local Levels' </a>  United Nations IGF, NRIs Session, Addis Ababa, Ethiopia (Dec.2022) <br> 
+▪ Panelist, <a href="https://www.intgovforum.org/en/content/nris-cooperating-to-protecting-data-at-local-levels">'Cooperating to Protect Data at Local Levels' </a>  United Nations IGF, <a href="https://www.intgovforum.org/en?mn=zyjlo3zXcEyFoXe0t8ZjjKlZgTEwFS1Ll2ly.kZktiPIaNySpVaEf"> Addis Ababa, Ethiopia </a>(Dec.2022) <br> 
 ▪ Panelist, Global Governance and Diplomacy Workshop, <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a>, Hilton Seoul (Nov.2022)<br> 
 ▪ "Analysis on the FCC Order: Indoor Location Accuracy of Wireless 911 Calls in the U.S." Korea National Police Agency (May.2022)<br> 
 ▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea</a> (Feb. 2022)<br>
