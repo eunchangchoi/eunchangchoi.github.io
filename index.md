@@ -87,7 +87,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ "Metaverse as the Public Sphere and Its Role in Democracy: Platform Architecture, Data Privacy and Abuse" <a href="https://ksaie.or.kr"> The Korean Society for Artificial Intelligence Ethics </a> & <a href="http://www.politics21.or.kr/"> The 21th Century Political Science Association </a>, Busan, S.Korea (May.2022)<br> 
 ▪ "AI-Generated Virtual Reality in the Metaverse and Sexual Abuse" <a href="http://www.kiiss.or.kr/journal/sub02.html/"> Intelligent Information System Conference </a> S.Korea (May.2022)<br>
 ▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea </a>, S.Korea (Feb.2022)<br> 
-▪ 'Who Holds Ownership of AI-generated Content and Invention?', <a href="https://aisummit.co.kr/">' AI Summit Seoul Conference</a>, Seoul, S.Korea (Dec.2021)<br>
+▪ 'Who Holds Copyright and Patent of AI-generated Content and Invention?', <a href="https://aisummit.co.kr/"> AI Summit Seoul Conference</a>,COEX,S.Korea (Dec.2021)<br>
 ▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Why AI Literacy is Critical for Algorithmic Governance?',</a> Indian Youth Internet Governance Forum(Dec.2021)<br> 
 ▪ <a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&where=subject%7Ctag&keyword=2021+%EA%B0%80%EC%9D%84&uid=1217/">'NFTying Memes, Digital Arts Trading and Copyright Theft'</a> Korean Cybercomm Academic Society (Nov.2021) <br>
 ▪ 'Business Insight: The Risk and Ethics of Artificial Intelligence'<a href="https://www.kma.or.kr/main.do"> Korea Management Association </a>(Nov.2021) <br>
@@ -95,9 +95,9 @@ title: "Choi, Eun Chang 최은창"
 ▪ 'Risk Constructivism and Cultural Cognition', <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=1509&b_name=meet1_2">The Evolution of Technology & Society Conference </a>, SNU + <a href="https://www.kisa.or.kr"> KISA</a> (June.2021)<br>
 ▪ 'The Peril of Politicizing Science and Vaccine Hesitancy', Graduate School of Public Health, Yonsei Univ(June.2021)<br>
 ▪ 'The Role of Experts Witness in Toxic Tort Ligitation" Korean Society for Research on Nicotine (May.2021)<br>
-▪ 'Ethical AI: A New Corporate Social Responsibility', <a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul</a>, S. Korea (Dec.2020)<br> 
+▪ 'Ethical AI: A New Corporate Social Responsibility',<a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul Conference</a>,COEX,S. Korea (Dec.2020)<br> 
 ▪ <a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134">'Blockchain in Media Value Chain and Copyrights Management'</a>, Korean Cybercomm Academic Society (Nov.2020)<br>           
-▪  'Technology Risks and Scientific Uncertainty' at <a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php"> Technology & Society Forum </a>, Seoul National University (Sept.2020)<br>
+▪ 'Technology Risks and Scientific Uncertainty' at <a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php"> Technology & Society Forum </a>, Seoul National University (Sept.2020)<br>
 ▪  <a href="http://www.igf.or.kr/2554">'Global Landscape of AI Ethics Principles: Soft Law or Hard Law?'</a>, Korea Internet Governance Forum (Aug.2020) <br> 
 ▪  'South Korea's Contacts Tracing for COVID-19: Balancing between Public Health and Privacy', <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slides </a>, <a href="https://youtu.be/4UZlkRLKGes"> Video </a>(Aug.2020) <br> 
 ▪ <a href="http://kaobe.or.kr/home/page/?pid=conference22">'Business Ethics for Ethical AI: The Function of AI Ethics Board'</a> Korea Academy of Business Ethics Conference (Aug.2020) <br> 
