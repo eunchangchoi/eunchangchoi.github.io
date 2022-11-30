@@ -123,7 +123,7 @@ title: "Choi, Eun Chang 최은창"
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT & ACTIVITIES</strong> <br>   
-▪ Panelist, <a href="https://www.intgovforum.org/en/content/nris-cooperating-to-protecting-data-at-local-levels">'Cooperating to Protect Data at Local Levels' </a> United Nation IGF 2022, NRIs Session, Addis Ababa, Ethiopia (Dece. 2022) <br> 
+▪ Panelist, <a href="https://www.intgovforum.org/en/content/nris-cooperating-to-protecting-data-at-local-levels">'Cooperating to Protect Data at Local Levels' </a> United Nations IGF 2022, NRIs Session, Addis Ababa, Ethiopia (Dece. 2022) <br> 
 ▪ Panelist, Global Governance and Diplomacy Workshop, <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a>, Hilton Seoul (Nov.2022)<br> 
 ▪ "Analysis on the FCC Order: Indoor Location Accuracy of Wireless 911 Calls in the U.S." Korea National Police Agency (May.2022)<br> 
 ▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea</a> (Feb. 2022)<br>
@@ -140,6 +140,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ Consultated about Infodemic Scenarios of Disasters for the National Disaster Management Research Institute (May.2020)<br>
 ▪ Advised <a href="https://eng.kcc.go.kr/user/ehpMain.do"> Korea Communications Commission(KCC) </a> about regulation of deepfakes(Nov.2019) <br> 
 ▪ <a href="https://unidir.org/press-release/unidir-releases-major-new-report-data-risk-and-autonomous-systems">'Autonomous Systems, Robustness and Data'</a> Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
+▪ Panelist 'Emerging Technologies and Their Interfaces with Inclusion' NRI Main Session, United Nations IGF, Berlin, Germany (Nov. 2019)<br>
 ▪ Consulted about Global Perspective on AI Ethics for <a href="https://www.kisdi.re.kr/"> Korea Information Society Development Institute </a> (Sept.2019)<br>
 ▪ <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx">'AI: Ethics, Security, Personal Data and Governance'</a> ITU Academy, Centres of Excellence, Bangkok, Thailand (Sept.2019)<br>  
 ▪ 'AI –Country Case:Republic of Korea', ITU Academy, Centres of Excellence, Bangkok, Thailand (Sept.2019)<br>   
