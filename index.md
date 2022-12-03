@@ -78,7 +78,7 @@ title: "Choi, Eun Chang 최은창"
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>  
 ▪ "The Role of Data in Implementing Sustainable Development", Symposium, <a href="https://www.kdu.ac.lk/"> John Kotelawala Defence University, </a>Sri Lanka (Jan.2023) <br>
-▪ "Applying Artificial Intelligence for Social Good and Economic Impacts", <a href="https://www.southville.edu.ph/news-ay-2022"> Reshaping the Global Landscape Conference</a>, Southville International School, Manila, Philippines (Oct. 27, 2022) <br>
+▪ "Applying Artificial Intelligence for Social Good and its Economic Impacts", <a href="https://www.southville.edu.ph/news/reshaping-the-global-landscape-through-research-southville-hosts-second-international-research-conference"> Reshaping the Global Landscape,</a>, 2nd International Research Conference, Southville International School and Colleges(SISC), Manila, Philippines (Oct. 27, 2022) <br>
 ▪"The Incentives of Disinformation in Media Ecosystem" <a href="https://www.okja.org/"> Overseas Korean Journalists Association,</a> Seoul, S.Korea(Oct.2022) <br>
 ▪ Discussant, <a href="https://www.un.org/techenvoy/global-digital-compact"> Global Digital Compact for Corporate Sustainability</a>, organized by <a href="https://ap.rigf.asia/news/2022-program-schedule/"> UN IGF + APrIGF</a>, Singapore (Sept.2022)<br> 
 ▪ "AI for Public Good and Socio-economic Impacts", "Why is Open Data Vital for UN Sustainable Development Goals" at Next Generation Entrepreneurship Training, <a href="https://unitwin.handong.edu/en/business/business01.php?PHPSESSID=69c02cb1186389da4b0fabb228f124c0"> UNESCO UNI-TWIN Program</a>+ Handong Global University, S.Korea (Aug.2022) <br>
