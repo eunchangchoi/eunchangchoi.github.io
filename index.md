@@ -106,7 +106,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ 'How Misinformation Obstruct Public Health Measures during Pandemics', School of Public Health, Yonsei Univ (March. 2020)<br>
 ▪ <a href="https://bit.ly/36qHFoj">'The Risk Perception of AI'</a>, Korean Association for AI & Law (KAAIL) AI Policy Forum + Microsoft Korea (Oct.2019) <br>
 ▪ <a href="https://clawar.org/wp-content/uploads/2019/11/ICRES2019_p64_paper_4.pdf">"The Making of South Korea's Robot Ethics Charter"</a>, <a href="https://clawar.org/conference-proceedings/icres-conference/icres-2019-proceedings/"> International Conference on Robot Ethics and Standards</a>, London, UK (2019)<br>
-▪ <a href= "https://www.intgovforum.org/multilingual/content/igf-2019-ws-182-data-governance-for-smarter-city-mobility">'Data Governance for Smarter City Mobility'</a>  <a href="https://digitallibrary.un.org/record/3907309?ln=en">The United Nations Internet Governance Forum, Berlin</a>, Germany (2019)<br> 
+▪ <a href= "https://www.intgovforum.org/multilingual/content/igf-2019-ws-182-data-governance-for-smarter-city-mobility">'Data Governance for Smarter City Mobility'</a>  <a href="https://digitallibrary.un.org/record/3907309?ln=en">, The United Nations Internet Governance Forum, Berlin</a>, Germany (2019)<br> 
 ▪ <a href="https://www.youtube.com/watch?v=nsZJaB3fx0E&feature=youtu.be&t=1689">'National Collaborative Session on Cybersecurity'</a>,The United Nations Internet Governance Forum, Berlin, Germany (2019) <br> 
 ▪ <a href="https://www.ftp.asia/index.php/s/tLZWIWMG1Qp7oA0">'Build Concept on AI Society for Good: Quest for Inclusion'</a>,<a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
 ▪ <a href="https://www.ftp.asia/index.php/s/HGkuD3YVUBssKrP">'Coping with Misinformation in an Deluge of Information'</a>, <a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
@@ -123,7 +123,7 @@ title: "Choi, Eun Chang 최은창"
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT & ACTIVITIES</strong> <br>   
-▪ Panelist,<a href="https://www.intgovforum.org/en/content/nris-cooperating-to-protecting-data-at-local-levels">'Cooperating to Protect Data at Local Levels'</a>The United Nations IGF,<a href="https://www.intgovforum.org/en?mn=zyjlo3zXcEyFoXe0t8ZjjKlZgTEwFS1Ll2ly.kZktiPIaNySpVaEf"> Addis Ababa,Ethiopia </a>(Dec.2022) <br> 
+▪ Panelist,<a href="https://www.intgovforum.org/en/content/nris-cooperating-to-protecting-data-at-local-levels">'Cooperating to Protect Data at Local Levels'</a> The United Nations IGF,<a href="https://www.intgovforum.org/en?mn=zyjlo3zXcEyFoXe0t8ZjjKlZgTEwFS1Ll2ly.kZktiPIaNySpVaEf"> Addis Ababa,Ethiopia </a>(Dec.2022) <br> 
 ▪ Panelist, Global Governance and Diplomacy Workshop, <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a>, Hilton Seoul (Nov.2022)<br> 
 ▪ "Analysis on the FCC Order: Indoor Location Accuracy of Wireless 911 Calls in the U.S." Korea National Police Agency (May.2022)<br> 
 ▪ "Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea</a> (Feb. 2022)<br>
@@ -140,14 +140,15 @@ title: "Choi, Eun Chang 최은창"
 ▪ Consultated about Infodemic Scenarios of Disasters for the National Disaster Management Research Institute (May.2020)<br>
 ▪ Advised <a href="https://eng.kcc.go.kr/user/ehpMain.do"> Korea Communications Commission(KCC) </a> about Regulating Deepfakes in Politics (Nov.2019) <br> 
 ▪ <a href="https://unidir.org/press-release/unidir-releases-major-new-report-data-risk-and-autonomous-systems">'Autonomous Systems, Robustness and Data'</a> Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
-▪ Panelist,<a href="https://www.intgovforum.org/en/content/igf-2019-%E2%80%93-day-3-%E2%80%93-convention-hall-ii-%E2%80%93-emerging-technologies-and-their-interfaces-with">'Emerging Technologies Interfaces with Inclusion, Security and Human Rights'</a> <a href="https://www.intgovforum.org/en/content/berlin-igf-messages"> United Nations IGF, Berlin </a> (Nov.2019)<br> 
+▪ Panelist,<a href="https://www.intgovforum.org/en/content/igf-2019-%E2%80%93-day-3-%E2%80%93-convention-hall-ii-%E2%80%93-emerging-technologies-and-their-interfaces-with">'Emerging Technologies Interfaces with Inclusion, Security and Human Rights'</a> <a href="https://www.intgovforum.org/en/content/berlin-igf-messages"> The 
+    IGF, Berlin </a> (Nov.2019)<br> 
 ▪ Consulted about Global Perspective on AI Ethics for <a href="https://www.kisdi.re.kr/"> Korea Information Society Development Institute </a> (Sept.2019)<br>
 ▪ <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx">'AI: Ethics, Security, Personal Data and Governance'</a> ITU Academy, Centres of Excellence, Bangkok, Thailand (Sept.2019)<br>  
 ▪ 'AI –Country Case:Republic of Korea', ITU Academy, Centres of Excellence, Bangkok, Thailand (Sept.2019)<br>   
 ▪ <a href="https://youtu.be/uRsC_ypHGCg?t=1348">'IP Address and Cross-border Cooperation for Resolving the Cyber Attribution Challenges'</a>, <a href="https://conference.apnic.net/48/program/schedule/#/day/6/cooperation-sig"> APNIC 48</a>, Chiang Mai,Thailand (2019) <br>
 ▪ Plenary Session Panelist, The State of Play and Outlook for IG in the Asia-Pacific, APrIGF, Vladivostok, Russia (July, 2019)<br>
 ▪ Policy Report <a href="https://bit.ly/3qgZ63S">"The Ethical Considerations of AI and Policy Response in the Age of Fourth Industrial Revolution"</a> KISDI, Commissioned Report submitted to <a href="https://policy.nl.go.kr/cmmn/FileDown.do?atchFileId=221994&fileSn=63436">The Presidential Committee on the Fourth Industrial Revolution of Korea</a> (Oct.2018) <br> 
-▪ Moderated <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News: Global Policy Responses'</a>, <a href="https://www.intgovforum.org/en/content/igf-2018-day-2-salle-xii-nri-session-on-fakenews"> 2018 UN Internet Governance Forum </a>, UNESCO, <a href="https://igf2018.fr/"> Paris, France</a>(Nov.2018) <br>
+▪ Moderated <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News: Global Policy Responses'</a>, <a href="https://www.intgovforum.org/en/content/igf-2018-day-2-salle-xii-nri-session-on-fakenews">, The United Nations Internet Governance Forum</a>, UNESCO, <a href="https://igf2018.fr/"> Paris, France</a>(Nov.2018) <br>
 ▪ Co-authored Policy Report "A Study on the Regulation of Tobacco Additives and Disclosure of Tobacco Ingredients:Comparative Approach between Brazil, Australia, EU, and U.S.FDA" Ministry of Health and Welfare of South Korea(Dec.2018) <br>
 ▪ Policy Report "The WTO’s Decision on Australia’s Plain Packaging Tobacco Measures for Public Health: Trademark Restrictions", commissioned research by the Ministry of Health and Welfare, South Korea (Sept.2018)<br>
 ▪ Business trip to U.S. FDA and UCSF Tobacco Research Center with officials of Ministry of Health and Welfare (Aug. 2018) <br> 
