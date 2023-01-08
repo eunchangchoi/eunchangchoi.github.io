@@ -78,7 +78,6 @@ title: "Choi, Eun Chang 최은창"
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>  
 ▪"The Role of Data in Implementing Sustainable Development", Science, Technology and innovations for Sustainable Development, Research Conference of Faculty of Computing <a href="https://www.kdu.ac.lk/"> General John Kotelawala Defence University(KDU),</a>Sri Lanka (Jan.18,2023) <br>
-▪ "Mobile Location Accuracy Requirements in Wireless Indoor Emergency Calls" Public Policy Forum, Hanyang University (Jan.2023)<br>
 ▪" Applying Artificial Intelligence for Social Good and its Economic Impacts", <a href="https://www.southville.edu.ph/news/reshaping-the-global-landscape-through-research-southville-hosts-second-international-research-conference"> Reshaping the Global Landscape</a>, The 2nd International Research Conference, Southville International School and Colleges(SISC), Manila, Philippines (Oct. 27, 2022) <br>
 ▪"The Incentives of Disinformation in Media Ecosystem" <a href="https://www.okja.org/"> Overseas Korean Journalists Association,</a> Seoul, S.Korea(Oct.2022) <br>
 ▪ Discussant, <a href="https://www.un.org/techenvoy/global-digital-compact"> Global Digital Compact for Corporate Sustainability</a>, organized by <a href="https://ap.rigf.asia/news/2022-program-schedule/"> UN IGF + APrIGF</a>, Singapore (Sept.2022)<br> 
@@ -124,6 +123,7 @@ title: "Choi, Eun Chang 최은창"
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT & ACTIVITIES</strong> <br>   
+▪ "Mobile Location Accuracy Requirements in Wireless Indoor Emergency Calls" Public Policy Forum, Hanyang University + National Police Agency(Jan.2023)<br>
 ▪ Panelist,<a href="https://www.intgovforum.org/en/content/nris-cooperating-to-protecting-data-at-local-levels">'Cooperating to Protect Data at Local Levels'</a>  The United Nations IGF,<a href="https://www.intgovforum.org/en?mn=zyjlo3zXcEyFoXe0t8ZjjKlZgTEwFS1Ll2ly.kZktiPIaNySpVaEf"> Addis Ababa,Ethiopia </a>(Dec.2022) <br> 
 ▪ Panelist, Global Governance and Diplomacy Workshop, <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a>, Hilton Seoul (Nov.2022)<br> 
 ▪ "Analysis on the FCC Order: Indoor Location Accuracy of Wireless 911 Calls in the U.S." Korea National Police Agency (May.2022)<br> 
