@@ -78,6 +78,7 @@ title: "Choi, Eun Chang 최은창"
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>  
 ▪ "The Role of Data in Implementing Sustainable Development", Science, Technology and innovations for Sustainable Development, Research Conference of Faculty of Computing <a href="https://www.kdu.ac.lk/"> General John Kotelawala Defence University(KDU), </a>Sri Lanka (Jan. 18, 2023) <br>
+▪ "Wireless Industry's Commitment to Mobile Location Accuracy Data Requirements in Emergency Calls" School of Engineering, Hanyang University (Dec.2022)
 ▪ "Applying Artificial Intelligence for Social Good and its Economic Impacts", <a href="https://www.southville.edu.ph/news/reshaping-the-global-landscape-through-research-southville-hosts-second-international-research-conference"> Reshaping the Global Landscape</a>, The 2nd International Research Conference, Southville International School and Colleges(SISC), Manila, Philippines (Oct. 27, 2022) <br>
 ▪"The Incentives of Disinformation in Media Ecosystem" <a href="https://www.okja.org/"> Overseas Korean Journalists Association,</a> Seoul, S.Korea(Oct.2022) <br>
 ▪ Discussant, <a href="https://www.un.org/techenvoy/global-digital-compact"> Global Digital Compact for Corporate Sustainability</a>, organized by <a href="https://ap.rigf.asia/news/2022-program-schedule/"> UN IGF + APrIGF</a>, Singapore (Sept.2022)<br> 
