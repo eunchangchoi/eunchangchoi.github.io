@@ -116,7 +116,6 @@ title: "Choi, Eun Chang 최은창"
 ▪ 'AI Ethics, Policies & Governance: A Global Overview' The Korea Society of Internet Ethics Conference (Nov.2018) <br>
 ▪ 'Artificial Intelligence Applications for Global Public Health' National Medical Center(NMC), Seoul, South Korea (Oct. 2018)<br>
 ▪ <a href="http://idr.jinbo.net/232"> 'Will You Trust Artificial Intelligence's Decision?'</a> AI Lecture Series, <a href="https://idr.jinbo.net/">Institution for Digital Human Rights</a>, Seoul. S.Korea (Dec.2017)<br>  
-▪ <a href="https://blog.naver.com/gp3project/221112176044">'Can Blockchain Technology Help the Unbanked around the World?: Financial Inclusion'</a> Povertyinfo.org's blog (Oct.2017)<br>
 ▪'National Cyber Security in The Age of Internet of Things'<a href="http://www.snuiis.re.kr"> Institute of International Studies</a>, Seoul National University (Jan.2017)<br> 
 ▪'Analysis on the Stanford AI 100 Report' <a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php"> Technology & Society Forum</a>, Seoul National University (Nov. 2016) <br>
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem :Zero-rating'</a> OpenNet Korea, Seoul (2015) <br>
@@ -161,9 +160,8 @@ title: "Choi, Eun Chang 최은창"
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>   
 ▪ Expert Interview "Who Governs Global Internet?" <a href="https://dl.dongascience.com/magazine/index/S#S202211SEL"> <i> Science Donga Magazine</i></a> Vol.444(Dec.2022)<br>
 ▪ "The Role of Journalism in Tackling Coronavirus Disinformation"<a href="https://www.yna.co.kr/view/AKR20221012124400371"> Yonhap News </a>, <a href="https://mijunews.com/2022/10/13/%ec%98%81%ec%83%81%ec%b5%9c%ec%9d%80%ec%b0%bd-%ea%b5%90%ec%88%98-%ea%b0%80%ec%a7%9c%eb%89%b4%ec%8a%a4%ec%9d%98-%ea%b3%a0%ea%b3%a0%ed%95%99%ed%8c%ac%eb%8d%b0%eb%af%b9-%ec%96%b8%eb%a1%a0%ec%9d%98/"> Miju News</a>, <a href="https://atlantak.com/%ec%84%b8%ea%b3%84%ed%95%9c%ec%9d%b8%ec%96%b8%eb%a1%a0%ec%9d%b8%ed%98%91-%ea%b5%ad%ec%a0%9c%ec%8b%ac%ed%8f%ac%ec%a7%80%ec%97%84-%ec%95%a0%ed%8b%80%eb%9e%9c%ed%83%80-k-%ec%82%ac%eb%a1%80/"> Atlanta-K News </a> (Oct.2022) <br>
-▪ <a href="https://www.mk.co.kr/news/it/10493518"> 'Rounding up Korean candidates for Innovators under 35 by MIT Technology Review',</a> Maeil Business News (Oct.2022)<br> 
 ▪ Interview <a href="https://podcasts.apple.com/af/podcast/tbs-efm-this-morning/id1038822609"> "Privacy and the Right of Publicity in Social Media"</a>, TBS eFM Seoul Media Foundation (Oct.2022)<br> 
-▪ Interview <a href="https://www.edaily.co.kr/news/read?newsId=03722806632430600&mediaCodeNo=257"> "FCC Regulations for Accurate Location Tracking of Wireless 911 Callers in Emergency "</a> E-Daily (Aug.2022)<br> 
+▪ Interview <a href="https://www.edaily.co.kr/news/read?newsId=03722806632430600&mediaCodeNo=257"> "The Need for Accurate Location Tracking of Wireless 911 Callers in Emergency "</a> E-Daily (Aug.2022)<br> 
 ▪ Invited discussion <a href="https://alook.so/posts/latO5RY"> "Machine Consciousness in Large-scale Language Models and Ethics"</a> Alookso Magazine(Aug 2022)<br>
 ▪ <a href="https://www.technologyreview.kr/special/event/202204](https://www.youtube.com/watch?v=eAewHoNQgiI&feature=emb_logo">'Emerging Markets and Technologies of Service Robots'</a> Tech Live, MIT Technology Review (May 2022)<br>
 ▪ <a href="https://www.key4biz.it/democrazia-futura-dalla-cortina-di-ferro-alle-cortine-di-silicio-sara-linternet-globale-la-principale-vittima-del-conflitto-russo-ucraino/398412/"> Dalla 'Cortina di ferro' alle 'Cortine di silicio' </a> <i> Democrazia Futura </i>, Italian (April 2022)<br>   
