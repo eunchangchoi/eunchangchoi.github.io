@@ -171,7 +171,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ <a href="https://view.asiae.co.kr/article/2021081610112312900"> 'The History of Fake News, Rumors and Epidemic'</a> Asia Economy News(Aug.2021)<br>
 ▪ <a href="http://www.danbinews.com/news/articleView.html?idxno=14304">'The Age of Disinformation and Misinformation'</a> Danbi News, <a href="https://www.kcc.go.kr/user.do;jsessionid=M42mWRJ2WjcjzvKwAN_zBJfE8mlLWPxtYTgVh73d.servlet-aihgcldhome20?mode=view&page=A05030000&dc=&boardId=1113&cp=4&boardSeq=50904"> KCC</a>, <a href="https://www.epnc.co.kr/news/articleView.html?idxno=204465"> Tech News World</a>(April 2021) <br>
 ▪ <a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Policy report released by AI Governance Forum at National Assembly of Korea'</a>, AI Times (Nov.2020)<br>  
-▪  <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">'COVID 19 Contact Tracing, Legality, and Privacy Risk in S.Korea'</a>, Interviewed with Sciences Po, Le Havre, France(Nov.2020) <br>  
+▪  <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">'COVID 19 Contact Tracing, Legality, and Privacy Risk in S.Korea'</a>, Interviewed with Sciences Po, France(Nov.2020) <br>  
 ▪<a href="http://www.aitimes.com/news/articleView.html?idxno=133368">'AI Governance Forum pose to discuess AI policy suggestion'</a>, AI Times (Nov. 2020)<br>  
 ▪<a href="https://www.mk.co.kr/news/economy/view/2020/10/1097127/">'Blockchain for Anti-Corruption and Financial Inclusion for the Unbanked'</a> Maeil Business News (Oct. 2020)<br>  
 ▪ <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=192351"> 'COVID-19 Contact Tracing and Data Retention'</a> MediaUs (Sept.2020) <br>  
