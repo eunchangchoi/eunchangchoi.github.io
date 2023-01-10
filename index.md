@@ -152,7 +152,8 @@ title: "Choi, Eun Chang 최은창"
 ▪ Co-authored Policy Report "A Study on the Regulation of Tobacco Additives and Disclosure of Tobacco Ingredients:Comparative Approach between Brazil, Australia, EU, and U.S.FDA" Ministry of Health and Welfare of South Korea(Dec.2018) <br>
 ▪ Policy Report "The WTO’s Decision on Australia’s Plain Packaging Tobacco Measures for Public Health: Trademark Restrictions", commissioned research by the Ministry of Health and Welfare, South Korea (Sept.2018)<br>
 ▪ Business trip to U.S.FDA and UCSF Tobacco Research Center with officials of Ministry of Health and Welfare of Korea (Aug.2018) <br> 
-▪ Co-authored a Policy Report <a href="https://www.kisdi.re.kr/report/view.do?key=m2101113024770&arrMasterId=3934580&masterId=3934580&artId=520556">"ICT-based Solutions to Social Problems in Intelligent Information Society"</a> <a href= "https://www.kisdi.re.kr/eng/index.do%20%20%20%20KISDI"> KISDI </a>(2017) <br> 
+▪ Co-authored a Policy Report <a href="https://www.kisdi.re.kr/report/view.do?key=m2101113024770&arrMasterId=3934580&masterId=3934580&artId=520556">"ICT-based Solutions to Social Problems in Intelligent Information Society"</a> <a href= "https://www.kisdi.re.kr/eng/index.do%20%20%20%20KISDI"> KISDI </a>(2017) <br>  
+▪ <a href="https://blog.naver.com/gp3project/221112176044">'Can Blockchain Technology Help the Unbanked around the World?: Financial Inclusion'</a> Povertyinfo.org's blog (Oct.2017)<br>
 ▪ Member, the Expert Council of Robot Ethics at <a href="https://kiria.org/eng"> Korea Institute for Robot Industry Advancement</a> <br>
 ▪ Member, The Technical Committee on <a href="https://www.ieee-ras.org"> Robot Ethics in IEEE Robotcs & Automation Society </a> <br>  
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
