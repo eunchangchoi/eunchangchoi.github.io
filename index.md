@@ -188,15 +188,14 @@ title: "Choi, Eun Chang 최은창"
   
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>   
-   Law, Technology Policy & Science; Patent and Global Health Law; Law and Political Economy<br>
-   AI & Copyright Law, Disinformation, The Power of Platform, Internet Memes, Hashtag Activism <br> 
-   Law for Algorithms, Business Ethics of AI, Governing AI, Accountability for Algorithms <br>   
-   Technology Policy for Public Purpose; Mass Collaboration
-   Open Data, Data Sharing, Data Ownership <br>  
-   Patenting Nature; CRISPR Patents; Genomic Data Commons <br>  
+   Law, Technology Policy & Science; Global Public Health and Patents; Law and Political Economy<br>
    Pharmaceutical Patents and Global Health Inequality: Vaccine Equity <br>  
-   The Economic History of Intellectual Property and Technology <br>  
-   Blockchain-based Governance, Metaverse, Non-Fungible Tokens(NFT)  <br>  
+   Law for Algorithms, Ethics of AI, Governing AI, Accountability for Algorithms <br>   
+   Technology Policy for Public Purpose; Mass Collaboration<br> 
+   Disinformation, The Power of Platform, Internet Memes, Hashtag Activism <br> 
+   Open Data, Data Sharing, Data Ownership, AI & Copyright Law <br>  
+   Patenting Nature; CRISPR Patents; Genomic Data Commons <br> 
+   The Economic History of Intellectual Property and Technology <br>   
   <br>
    <strong> CONTACT</strong> <br>   
    eunchang.choi@aya.yale.edu ;  head@povertyinfo.org
