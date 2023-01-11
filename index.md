@@ -188,7 +188,7 @@ title: "Choi, Eun Chang 최은창"
   
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>   
-   Intersection of Law, Technology & Science; Law and Political Economy<br>
+   Law, Technology Policy & Science; Patent and Global Health Law; Law and Political Economy<br>
    AI & Copyright Law, Disinformation, The Power of Platform, Internet Memes, Hashtag Activism <br> 
    Law for Algorithms, Business Ethics of AI, Governing AI, Accountability for Algorithms <br>   
    Technology Policy for Public Purpose; Mass Collaboration
