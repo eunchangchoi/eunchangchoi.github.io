@@ -96,7 +96,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ 'Data Sharing and Data Privacy:The Limit of Differential Privacy' Tutorial, Korea Internet Governance Forum (KrIGF)(Aug.2021) <br>  
 ▪ 'Risk Constructivism and Cultural Cognition', <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=1509&b_name=meet1_2">The Evolution of Technology & Society Conference </a>, SNU + <a href="https://www.kisa.or.kr"> KISA</a> (June.2021)<br>
 ▪ 'The Peril of Politicizing Science and Vaccine Hesitancy', Graduate School of Public Health, Yonsei Univ(June.2021)<br>
-▪ 'The Role of Experts Witness in Toxic Tort Ligitation:Proof of Harm in Tobacco Case" Korean Society for Research on Nicotine (May.2021)<br>
+▪ 'The Role of Experts Witness in Toxic Tort Case: Proof of Harm in Tobacco" Korean Society for Research on Nicotine (May.2021)<br>
 ▪ 'Ethical AI: A New Corporate Social Responsibility',<a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul Conference</a>, COEX, S.Korea (Dec.2020)<br> 
 ▪ <a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134">'Blockchain in Media Value Chain and Copyrights Management'</a>, Korean Cybercomm Academic Society (Nov.2020)<br>           
 ▪ 'Technology Risks and Scientific Uncertainty' at <a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php"> Technology & Society Forum </a>, Seoul National University (Sept.2020)<br>
