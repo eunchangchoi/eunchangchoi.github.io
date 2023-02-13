@@ -194,8 +194,8 @@ title: "Choi, Eun Chang 최은창"
    Global Governance of Intellectual Property; Global Vaccine Access and the Patent System <br>  
    Political Origins of Health Inequities; The Politics of Poverty and Globalization <br>  
    Ethics of AI, Governing AI, Accountability for Algorithms; Social and legal Impacts of Machine Learning <br>   
-   Technology Policy for Public Purpose; The Power of Platforms; Mass Collaboration <br> 
-   AI for Good & Sustainable Development; Generative AI & Copyright Law; Open Data; Data Sharing; Data Commons <br> 
+   Technology Policy for Public Purpose; Mass Collaboration; Data Commons; Data and Democracy <br> 
+   AI for Good & Sustainable Development; Generative AI & Copyright Law; Open Data; Data Sharing <br> 
    The Economic History of Intellectual Property and Innovation <br>   
   <br>
    <strong> CONTACT</strong> <br>   
