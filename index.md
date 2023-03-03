@@ -191,12 +191,11 @@ title: "Choi, Eun Chang 최은창"
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>   
    Law, Technology Policy & Science; Science, Technology and Data Policy; The Law and Political Economy <br>
-   Global Governance of Intellectual Property; Global Vaccine Access and the Patent System <br>  
-   Political Origins of Health Inequities; Poverty, Global Inequality and Development <br>  
-   Ethics of AI, Governing AI, Accountability for Algorithms; Social and legal Impacts of Machine Learning <br>   
+   Global Governance of Intellectual Property; Global Vaccine Access and Patent System <br>  
+   Ethics of AI; AI Governance; Accountability for Algorithms; Social and legal Impacts of Machine Learning <br>   
    Technology Policy for Public Purpose; Mass Collaboration; Data Commons; Data and Democracy <br> 
-   AI for Good & Sustainable Development; Generative AI & Copyright Law; Open Data; Data Sharing <br> 
-   The Economic History of Intellectual Property and Innovation <br>   
+   AI for Good; Data for Sustainable Development; Open Data; Data Sharing <br> 
+   Generative AI and Copyright; Genome Editing Patents <br>   
   <br>
    <strong> CONTACT</strong> <br>   
    eunchang.choi@aya.yale.edu ;  head@povertyinfo.org
