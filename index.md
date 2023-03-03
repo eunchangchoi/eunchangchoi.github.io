@@ -190,7 +190,7 @@ title: "Choi, Eun Chang 최은창"
   
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>   
-   Law, Technology Policy & Science; The Law and Political Economy <br>
+   Law, Technology Policy & Science; Science, Technology and Data Policy; The Law and Political Economy <br>
    Global Governance of Intellectual Property; Global Vaccine Access and the Patent System <br>  
    Political Origins of Health Inequities; The Politics of Poverty and Globalization <br>  
    Ethics of AI, Governing AI, Accountability for Algorithms; Social and legal Impacts of Machine Learning <br>   
