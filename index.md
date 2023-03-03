@@ -192,8 +192,8 @@ title: "Choi, Eun Chang 최은창"
  <strong> ACADEMIC INTERESTS </strong> <br>   
    Law, Technology Policy & Science; Science, Technology and Data Policy; Generative AI and Copyright <br>
    Global Governance of Intellectual Property; Global Vaccine Access and Inequality; Genome Editing Patents <br>  
-   Ethics of Conversational AI; AI Governance; Accountability for Algorithms <br>   
-   Technology Policy for Public Purpose; AI for Sustainable Development; Open Data Common <br> 
+   Ethics of Conversational AI; AI Governance and Regulations ; Accountability for Algorithmic Decision-making <br>   
+   Technology Policy for Public Purpose; AI for Sustainable Development; Open Data Commons <br> 
    The U.S.-Chinese Technology War; Disinformation and National Security; AI Arms Race <br>  
   <br>
    <strong> CONTACT</strong> <br>   
