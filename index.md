@@ -193,9 +193,8 @@ title: "Choi, Eun Chang 최은창"
    Law, Governance and Technology ; Technology Policy for Public Purpose ; Science, Technology and Data Policy <br>
    Global Governance of Intellectual Property; Global Vaccine Access and Inequality; Genome Editing Patents <br>  
    Ethics of Conversational AI; AI Governance and Regulations ; Accountability for Algorithmic Decision-making <br>  
-   AI, Government and Policy; AI Arms Race; Internet Governance and Regulation <br>
    AI for Sustainable Development; Open Data Commons; Generative AI and Copyright <br> 
-   The U.S.-Chinese Technology War; Disinformation; Computational propaganda <br>  
+   The U.S.-Chinese Tech War; Disinformation; AI Arms Race; Computational propaganda <br>  
   <br>
    <strong> CONTACT</strong> <br>   
    eunchang.choi@aya.yale.edu ;  head@povertyinfo.org
