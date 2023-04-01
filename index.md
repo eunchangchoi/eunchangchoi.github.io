@@ -190,11 +190,11 @@ title: "Choi, Eun Chang 최은창"
   
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>   
-   Law, Governance and Technology ; Technology Policy for Public Purpose ; Science, Technology and Data Policy <br>
-   Global Governance of Intellectual Property; Global Vaccine Access and Inequality; Genome Editing Patents <br>  
+   Regulation of AI Technology and Risks ; Data Ethics and Public Policy ; Law, Governance and Technology <br>
    Ethics of Conversational AI; AI Governance and Regulations ; Accountability for Algorithmic Decision-making <br>  
-   AI for Sustainable Development; Open Data Commons; Generative AI and Copyright Law <br> 
-   The U.S.-Chinese Tech War; AI Arms Race; Computational Propaganda; Disinformation <br>  
+   AI for Sustainable Development(AI4Good); Generative AI and Copyright Law ; Access to AI; Open-source AI <br> 
+   The U.S.-Chinese Tech War; AI Arms Race; Computational Propaganda; Disinformation by AI Chatbots <br>  
+   Global Governance of Intellectual Property; Global Vaccine Access and Inequality; Genome Editing Patents <br>  
   <br>
    <strong> CONTACT</strong> <br>   
    eunchang.choi@aya.yale.edu ;  head@povertyinfo.org
