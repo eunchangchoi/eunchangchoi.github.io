@@ -191,7 +191,7 @@ title: "Choi, Eun Chang 최은창"
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>   
    Regulating the Risks of AI, Data Ethics; Generative AI and Copyrights; Law, Governance and Technology <br>
-   Misuse of Conversational AI; Trustworthy AI and Explainability; Accountability for Algorithmic Decision-making <br>  
+   Misuse of Conversational AI; The Trustworthy AI Framework; Accountability for Algorithmic Decision-making <br>  
    AI for Sustainable Development(AI4Good); AI for Public Policy; Access to AI; Open-source AI <br> 
    The U.S.-Chinese Tech War; AI Arms Race; Computational Propaganda; Disinformation by AI Chatbots <br>  
    Global Governance of Intellectual Property; Global Vaccine Access and Inequality; Genome Editing Patents <br>  
