@@ -189,9 +189,9 @@ title: "Choi, Eun Chang 최은창"
 ▪ <a href="https://www.inews24.com/view/913922">'The Economics of Zero-rating: Why Free Mobile Data Matters?'</a>, Startup Alliance, Seoul (Aug.2015) <br>
   
  <br>   
- <strong> ACADEMIC INTERESTS </strong> <br>   
-   Regulating the Risks of AI, Data Ethics; Generative AI and Copyrights; Law, Governance and Technology <br>
-   Misuse of Conversational AI; The Trustworthy AI Framework; Accountability for Algorithmic Decision-making <br>  
+ <strong> ACADEMIC INTERESTS </strong> <br>  
+   Law and Governance of Emerging Technologies; Regulating the Risks of AI ; Data Ethics; Generative AI and Copyrights <br>
+   The Trustworthy AI Framework; AI Auditing; Misuse of Conversational AI; Accountability for Algorithmic Decision-making <br>  
    AI for Sustainable Development(AI4Good); AI for Public Policy; Access to AI; Open-source AI <br> 
    The U.S.-Chinese Tech War; AI Arms Race; Computational Propaganda; Disinformation by AI Chatbots <br>  
    Global Governance of Intellectual Property; Global Vaccine Access and Inequality; Genome Editing Patents <br>  
