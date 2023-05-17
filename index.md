@@ -81,7 +81,7 @@ title: "Choi, Eun Chang 최은창"
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches",STEPI Fellowship Research Paper Series,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute of Korea</a> (2014)<br>
      <br>
  <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>  
-▪ "AI-Generated Visual Content, Fair Learning and Authorship in Art" Korean Cybercomm Academic Society Conference (May, 2023) <br>
+▪ "AI-Generated Visuals, Creativity and Authorship in the Arts" Korean Cybercomm Academic Society Conference (May, 2023) <br>
 ▪ "The Role of Data in Implementing Sustainable Development", Science, Technology and innovations for Sustainable Development, Research Conference of Faculty of Computing <a href="https://www.kdu.ac.lk/"> General John Kotelawala Defence University(KDU),</a>Sri Lanka (Jan. 2023) <br>
 ▪ "Applying Artificial Intelligence for Social Good and its Economic Impacts", <a href="https://www.southville.edu.ph/news/reshaping-the-global-landscape-through-research-southville-hosts-second-international-research-conference"> Reshaping the Global Landscape</a>, The 2nd International Research Conference, Southville International School and Colleges(SISC), Manila, Philippines (Oct. 2022) <br>
 ▪ "The Incentives of Disinformation in Media Ecosystem" <a href="https://www.okja.org/"> Overseas Korean Journalists Association,</a> Seoul, S.Korea(Oct.2022) <br>
