@@ -199,4 +199,4 @@ title: "Choi, Eun Chang 최은창"
    Global Governance of Intellectual Property; Global Vaccine Access and Inequality; Genome Editing Patents <br>  
   <br>
    <strong> CONTACT</strong> <br>   
-   eunchang.choi@aya.yale.edu ;  head@povertyinfo.org
+   eunchang.choi (at) aya.yale.edu ;  head (at) povertyinfo.org 
