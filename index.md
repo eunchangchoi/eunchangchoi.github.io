@@ -80,13 +80,13 @@ title: "Choi, Eun Chang 최은창"
 ▪ "The U.S. Supreme Court's Ruling on BRCA1/BRCA2 Gene Patent:Bioethical and Legal Implication"<a href="https://lst.go.kr/eng/index.do"> Korea National Institute for Bioethics Policy </a>(2014). Elected as the author of commissioned research paper through competition <br>  
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches",STEPI Fellowship Research Paper Series,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute of Korea</a> (2014)<br>
      <br>   
- <strong> TAUGHT COURSE & LECTURES</strong> <br>  
-▪ UNESCO's UNITWIN Program NGET at Jakarta International University, Indonesia (2023)  <br>
-▪ UNESCO's UNITWIN Program NGET at University of Rwanda & Rwanda Polytechnic, Kigali, Rwanda (2023)  <br>
+ <strong> TAUGHT COURSES & LECTURES</strong> <br>  
+▪ UNESCO's UNITWIN Program, Next Generation Training, Jakarta International University, Indonesia (2023)  <br>
+▪ UNESCO's UNITWIN Program, Next Generation Training, University of Rwanda & Rwanda Polytechnic, Kigali, Rwanda (2023)  <br>
 ▪ 'AI: Ethics, Security, Data and Governance', ITU Centres of Excellence(CoE) Academy, Thailand (2019) <br>
-▪ 'AI Governance', Asia Pacific Internet Governance Academy(APIGA) organized by ICANN and KISA (2019)  <br>
-▪ 'International Business Transaction' Hanyang University, Department of International Studies (2015) <br>
-▪ 'Media and Global Politics' at Konkuk University (2013) <br>
+▪ 'AI Governance', Asia Pacific Internet Governance Academy(APIGA), organized by Internet Corporation for Assigned Names and Numbers (ICANN)(2019)  <br>
+▪ 'International Business Transaction Law' Hanyang University, Department of International Studies (2015) <br>
+▪ 'Global Politics and Media Sphere', Konkuk University (2013) <br>
 ▪ 'International Intellectual Property Law', Myongji University (2012) <br>
 ▪ 'The Global Information Society and Policy', Korea University Graduate School of International Studies (2011)  <br>
 ▪ 'The Ethics in Information Systems', Ewha Womans University Graduate School of Business (2005) <br>
