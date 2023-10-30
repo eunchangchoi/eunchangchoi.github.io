@@ -82,15 +82,15 @@ title: "Choi, Eun Chang 최은창"
      <br>   
  <strong> TAUGHT COURSES & LECTURES</strong> <br>  
 ▪ UNESCO's UNITWIN Program, Next Generation Training, Jakarta International University, Indonesia (2023)  <br>
-▪'Data and Algorithm Governance:Legal Cases', Graduate School of Applied Big Data, Kyoungheee University (2023)
-▪ UNESCO's UNITWIN Program, Next Generation Training, University of Rwanda & Rwanda Polytechnic, Kigali, Rwanda (2023)  <br>
+▪'Data and Algorithm Governance:Legal Cases', Graduate School of Applied Big Data, Kyoungheee University (2023) <br>
+▪ UNESCO's UNITWIN Program, Next Generation Training, Univ of Rwanda & Rwanda Polytechnic, Kigali, Rwanda (2023) <br>
 ▪ 'AI: Ethics, Security, Data and Governance', ITU Centres of Excellence(CoE) Academy, Thailand (2019) <br>
-▪ 'AI Governance', Asia Pacific Internet Governance Academy(APIGA), organized by ICANN and KISA(2019)  <br>
+▪ 'AI Governance', Asia Pacific Internet Governance Academy(APIGA), organized by ICANN and KISA (2019)  <br>
 ▪ 'International Business Transaction Law' Department of International Studies,Hanyang University (2015) <br>
-▪ 'Global Politics and Media Sphere', Deparment of Politics, Konkuk University (2013) <br>
-▪ 'International Intellectual Property Law', Deparment of Law, Myongji University (2012) <br>
-▪ 'Globalization, Poverty, Development and Law', Graduate School of International Studies,Korea University (2012)  <br>
-▪ 'The Global Information Society and Policy', Graduate School of International Studies, Korea University (2011)  <br>
+▪ 'Global Politics and Media Sphere', Department of Politics, Konkuk University (2013) <br>
+▪ 'International Intellectual Property Law', Department of Law, Myongji University (2012) <br>
+▪ 'Globalization, Poverty, Development and Law', Graduate School of International Studies,Korea University (2012) <br>
+▪ 'The Global Information Society and Policy', Graduate School of International Studies, Korea University (2011) <br>
 ▪ 'The Ethics in Information Systems', Graduate School of Business, Ewha Womans University (2005) <br>
 ▪ 'International Electronic Commerce Law', Graduate School of International Studies,Korea University (2002) <br>
     <br>
