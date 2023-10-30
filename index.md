@@ -79,9 +79,21 @@ title: "Choi, Eun Chang 최은창"
 ▪ <a href="http://wealthofnetworks.kr"> <i>The Wealth of Networks:How Social Production Transforms Markets and Freedom</i> </a> (Book Excerpts in Korean) <br>
 ▪ "The U.S. Supreme Court's Ruling on BRCA1/BRCA2 Gene Patent:Bioethical and Legal Implication"<a href="https://lst.go.kr/eng/index.do"> Korea National Institute for Bioethics Policy </a>(2014). Elected as the author of commissioned research paper through competition <br>  
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches",STEPI Fellowship Research Paper Series,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute of Korea</a> (2014)<br>
-     <br>
- <strong> CONFERENCES, TALKS, PRESENTATIONS </strong> <br>  
-▪ "AI in Asia-Pacific Perspective: Charting a Path for Responsible Innovation"<a href="https://forms.for.asia/proposal/?proposalform=NjQ1N2JkN2I4YmY3Yi8vMjMvLzEyNTQvLzA="> 2023 APrIGF </a> Bisbane, Australia (Aug.2023) <br>
+     <br>   
+ <strong> TAUGHT COURSE & LECTURES</strong> <br>  
+▪ UNESCO's UNITWIN Program NGET at Jakarta International University, Indonesia (2023) 
+▪ UNESCO's UNITWIN Program NGET at University of Rwanda & Rwanda Polytechnic, Kigali, Rwanda (2023) 
+▪ 'AI: Ethics, Security, Data and Governance', ITU Centres of Excellence(CoE) Academy, Thailand (2019)
+▪ 'Media and Global Politics' at Konkuk University (2013) <br>
+▪ The Global Information Society and Policy', Korea University Graduate School of International Studies (2011)
+▪ 'International Intellectual Property Law', Myongji University (2019) <br>
+▪ 'AI Governance', Asia Pacific Internet Governance Academy(APIGA) organized by ICANN and KISA (2019)  <br>
+▪ 'International Business Transaction' Hanyang University, Department of International Studies (2015) <br>
+▪ 'The Ethics in Information Systems', Ewha Womans University Graduate School of Business (2005) <br>
+▪ 'International Electronic Commerce Law', Korea University Graduate School of International Studies (2002) <br>
+    <br>
+ <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
+▪ "AI in Asia-Pacific Perspective: Charting a Path for Responsible Innovation"<a href="https://forms.for.asia/proposal/?proposalform=NjQ1N2JkN2I4YmY3Yi8vMjMvLzEyNTQvLzA="> 2023 APrIGF </a> Brisbane, Australia (Aug.2023) <br>
 ▪ "AI-Generated Visuals, Creativity and Authorship in Art" Korean Cybercomm Academic Society Conference (May, 2023) <br>
 ▪ "The Role of Data in Implementing Sustainable Development", Science, Technology and innovations for Sustainable Development, Research Conference of Faculty of Computing <a href="https://www.kdu.ac.lk/"> General John Kotelawala Defence University(KDU),</a>Sri Lanka (Jan. 2023) <br>
 ▪ "Applying Artificial Intelligence for Social Good and its Economic Impacts", <a href="https://www.southville.edu.ph/news/reshaping-the-global-landscape-through-research-southville-hosts-second-international-research-conference"> Reshaping the Global Landscape</a>, The 2nd International Research Conference, Southville International School and Colleges(SISC), Manila, Philippines (Oct. 2022) <br>
@@ -128,7 +140,7 @@ title: "Choi, Eun Chang 최은창"
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT & ACTIVITIES</strong> <br>   
-▪ "Mobile Location Accuracy Requirements in Wireless Indoor Emergency Calls" Public Policy Forum, Hanyang University (Jan.2023)<br>
+▪ "Mobile Location Accuracy Requirements in Wireless Indoor Emergency Calls", Public Policy Forum, Hanyang Univ College of Engineering (Jan.2023)<br>
 ▪ Panelist,<a href="https://www.intgovforum.org/en/content/nris-cooperating-to-protecting-data-at-local-levels">'Cooperating to Protect Data at Local Levels'</a>  The United Nations IGF,<a href="https://www.intgovforum.org/en?mn=zyjlo3zXcEyFoXe0t8ZjjKlZgTEwFS1Ll2ly.kZktiPIaNySpVaEf"> Addis Ababa,Ethiopia </a>(Dec.2022) <br> 
 ▪ Panelist, Global Governance and Diplomacy Workshop, <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a>, Hilton Seoul (Nov.2022)<br> 
 ▪ "Analysis on the FCC Order: Indoor Location Accuracy of Wireless 911 Calls in the U.S." Korea National Police Agency (May.2022)<br> 
