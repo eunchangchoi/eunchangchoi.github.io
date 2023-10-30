@@ -81,14 +81,14 @@ title: "Choi, Eun Chang 최은창"
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches",STEPI Fellowship Research Paper Series,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute of Korea</a> (2014)<br>
      <br>   
  <strong> TAUGHT COURSE & LECTURES</strong> <br>  
-▪ UNESCO's UNITWIN Program NGET at Jakarta International University, Indonesia (2023) 
-▪ UNESCO's UNITWIN Program NGET at University of Rwanda & Rwanda Polytechnic, Kigali, Rwanda (2023) 
-▪ 'AI: Ethics, Security, Data and Governance', ITU Centres of Excellence(CoE) Academy, Thailand (2019)
-▪ 'Media and Global Politics' at Konkuk University (2013) <br>
-▪ The Global Information Society and Policy', Korea University Graduate School of International Studies (2011)
+▪ UNESCO's UNITWIN Program NGET at Jakarta International University, Indonesia (2023)  <br>
+▪ UNESCO's UNITWIN Program NGET at University of Rwanda & Rwanda Polytechnic, Kigali, Rwanda (2023)  <br>
+▪ 'AI: Ethics, Security, Data and Governance', ITU Centres of Excellence(CoE) Academy, Thailand (2019) <br>
 ▪ 'International Intellectual Property Law', Myongji University (2019) <br>
 ▪ 'AI Governance', Asia Pacific Internet Governance Academy(APIGA) organized by ICANN and KISA (2019)  <br>
 ▪ 'International Business Transaction' Hanyang University, Department of International Studies (2015) <br>
+▪ 'Media and Global Politics' at Konkuk University (2013) <br>
+▪ 'The Global Information Society and Policy', Korea University Graduate School of International Studies (2011)  <br>
 ▪ 'The Ethics in Information Systems', Ewha Womans University Graduate School of Business (2005) <br>
 ▪ 'International Electronic Commerce Law', Korea University Graduate School of International Studies (2002) <br>
     <br>
