@@ -95,6 +95,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ 'International Electronic Commerce Law', Graduate School of International Studies,Korea University (2002) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
+▪ 'AI-generated Disinformation War' Workshop, Overseas Korean Journalists Association, Seoul, S.Korea (Oct.2023) <br>
 ▪ "AI in Asia-Pacific Perspective: Charting a Path for Responsible Innovation"<a href="https://forms.for.asia/proposal/?proposalform=NjQ1N2JkN2I4YmY3Yi8vMjMvLzEyNTQvLzA="> 2023 APrIGF </a> Brisbane, Australia (Aug.2023) <br>
 ▪ "AI-Generated Visuals, Creativity and Authorship in Art" Korean Cybercomm Academic Society Conference (May, 2023) <br>
 ▪ "The Role of Data in Implementing Sustainable Development", Science, Technology and innovations for Sustainable Development, Research Conference of Faculty of Computing <a href="https://www.kdu.ac.lk/"> General John Kotelawala Defence University(KDU),</a>Sri Lanka (Jan. 2023) <br>
@@ -141,7 +142,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">'Net Neuteality in the new ICT Ecosystem :Zero-rating'</a> OpenNet Korea, Seoul (2015) <br>
   <br>
      
- <strong> PUBLIC POLICY ENGAGEMENT & ACTIVITIES</strong> <br>   
+ <strong> PUBLIC POLICY ENGAGEMENT </strong> <br>  
 ▪ "Mobile Location Accuracy Requirements in Wireless Indoor Emergency Calls", Public Policy Forum, Hanyang University (Jan.2023)<br>
 ▪ Panelist,<a href="https://www.intgovforum.org/en/content/nris-cooperating-to-protecting-data-at-local-levels">'Cooperating to Protect Data at Local Levels'</a>  The United Nations IGF,<a href="https://www.intgovforum.org/en?mn=zyjlo3zXcEyFoXe0t8ZjjKlZgTEwFS1Ll2ly.kZktiPIaNySpVaEf"> Addis Ababa,Ethiopia </a>(Dec.2022) <br> 
 ▪ Panelist, Global Governance and Diplomacy Workshop, <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a>, Hilton Seoul (Nov.2022)<br> 
@@ -207,6 +208,7 @@ title: "Choi, Eun Chang 최은창"
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>  
    Law and Governance of Emerging Technologies; Regulating the Risks of AI ; Data Ethics <br>
+   AI-generated Disinformation War and Security Studies <br>
    Generative AI and Copyrights, Legal Implication of Machine Learning ; Misuse of AI <br>
    The Trustworthy AI Framework; AI Auditing; Accountability for Algorithmic Decision-making <br>  
    Data Commons + AI for Sustainable Development(AI4Good); AI for Public Policy; Access to AI; Open-source AI <br> 
