@@ -82,15 +82,17 @@ title: "Choi, Eun Chang 최은창"
      <br>   
  <strong> TAUGHT COURSES & LECTURES</strong> <br>  
 ▪ UNESCO's UNITWIN Program, Next Generation Training, Jakarta International University, Indonesia (2023)  <br>
+▪'Data and Algorithm Governance:Legal Cases', Graduate School of Applied Big Data, Kyoungheee University (2023)
 ▪ UNESCO's UNITWIN Program, Next Generation Training, University of Rwanda & Rwanda Polytechnic, Kigali, Rwanda (2023)  <br>
 ▪ 'AI: Ethics, Security, Data and Governance', ITU Centres of Excellence(CoE) Academy, Thailand (2019) <br>
-▪ 'AI Governance', Asia Pacific Internet Governance Academy(APIGA), organized by Internet Corporation for Assigned Names and Numbers (ICANN)(2019)  <br>
-▪ 'International Business Transaction Law' Hanyang University, Department of International Studies (2015) <br>
-▪ 'Global Politics and Media Sphere', Konkuk University (2013) <br>
-▪ 'International Intellectual Property Law', Myongji University (2012) <br>
-▪ 'The Global Information Society and Policy', Korea University Graduate School of International Studies (2011)  <br>
-▪ 'The Ethics in Information Systems', Ewha Womans University Graduate School of Business (2005) <br>
-▪ 'International Electronic Commerce Law', Korea University Graduate School of International Studies (2002) <br>
+▪ 'AI Governance', Asia Pacific Internet Governance Academy(APIGA), organized by ICANN and KISA(2019)  <br>
+▪ 'International Business Transaction Law' Department of International Studies,Hanyang University (2015) <br>
+▪ 'Global Politics and Media Sphere', Deparment of Politics, Konkuk University (2013) <br>
+▪ 'International Intellectual Property Law', Deparment of Law, Myongji University (2012) <br>
+▪ 'Globalization, Poverty, Development and Law', Graduate School of International Studies,Korea University (2012)  <br>
+▪ 'The Global Information Society and Policy', Graduate School of International Studies, Korea University (2011)  <br>
+▪ 'The Ethics in Information Systems', Graduate School of Business, Ewha Womans University (2005) <br>
+▪ 'International Electronic Commerce Law', Graduate School of International Studies,Korea University (2002) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
 ▪ "AI in Asia-Pacific Perspective: Charting a Path for Responsible Innovation"<a href="https://forms.for.asia/proposal/?proposalform=NjQ1N2JkN2I4YmY3Yi8vMjMvLzEyNTQvLzA="> 2023 APrIGF </a> Brisbane, Australia (Aug.2023) <br>
