@@ -89,9 +89,9 @@ title: "Choi, Eun Chang 최은창"
 ▪ 'International Business Transaction Law' Department of International Studies,Hanyang University (2015) <br>
 ▪ 'Global Politics and Media Sphere', Department of Politics, Konkuk University (2013) <br>
 ▪ 'International Intellectual Property Law', Department of Law, Myongji University (2012) <br>
-▪ 'Globalization, Poverty, Development and Law', Graduate School of International Studies,Korea University (2012) <br>
+▪ 'Globalization, Poverty, Development and Law', Graduate School of International Studies, Korea University (2012) <br>
 ▪ 'The Global Information Society and Policy', Graduate School of International Studies, Korea University (2011) <br>
-▪ 'The Ethics in Information Systems', Graduate School of Business, Ewha Womans University (2005-06) <br>
+▪ 'The Ethics in Information Systems(MIS)', Graduate School of Business, Ewha Womans University (2005-06) <br>
 ▪ 'International Electronic Commerce Law', Graduate School of International Studies,Korea University (2002-04)) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
