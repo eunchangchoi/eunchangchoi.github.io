@@ -91,8 +91,8 @@ title: "Choi, Eun Chang 최은창"
 ▪ 'International Intellectual Property Law', Department of Law, Myongji University (2012) <br>
 ▪ 'Globalization, Poverty, Development and Law', Graduate School of International Studies,Korea University (2012) <br>
 ▪ 'The Global Information Society and Policy', Graduate School of International Studies, Korea University (2011) <br>
-▪ 'The Ethics in Information Systems', Graduate School of Business, Ewha Womans University (2005) <br>
-▪ 'International Electronic Commerce Law', Graduate School of International Studies,Korea University (2002) <br>
+▪ 'The Ethics in Information Systems', Graduate School of Business, Ewha Womans University (2005-06) <br>
+▪ 'International Electronic Commerce Law', Graduate School of International Studies,Korea University (2002-04)) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
 ▪ 'AI-generated Disinformation War' Workshop, Overseas Korean Journalists Association, Seoul, S.Korea (Oct.2023) <br>
