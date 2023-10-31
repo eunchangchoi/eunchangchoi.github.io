@@ -84,7 +84,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ UNESCO UNITWIN Next Generation Training Program, Jakarta International University, Indonesia (2023)  <br>
 ▪'Data and Algorithm Governance:Legal Cases', Graduate School of Applied Big Data, Kyoungheee University (2023) <br>
 ▪ UNESCO UNITWIN Next Generation Training Program, Univ of Rwanda & Rwanda Polytechnic, Kigali, Rwanda (2023) <br>
-▪ 'AI: Ethics, Security, Data and Governance', ITU Centres of Excellence(CoE) Academy, Thailand (2019) <br>
+▪ 'AI: Ethics, Security, Data and Governance', ITU Centres of Excellence(CoE) Academy of Asia-Pacific, Bangkok, Thailand (2019) <br>
 ▪ 'AI Governance', Asia Pacific Internet Governance Academy(APIGA), organized by ICANN and KISA (2019)  <br>
 ▪ 'International Business Transaction Law' Department of International Studies,Hanyang University (2015) <br>
 ▪ 'Global Politics and Media Sphere', Department of Politics, Konkuk University (2013) <br>
