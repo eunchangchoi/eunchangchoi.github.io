@@ -81,9 +81,9 @@ title: "Choi, Eun Chang 최은창"
 ▪"Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration's Approaches",STEPI Fellowship Research Paper Series,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute of Korea</a> (2014)<br>
      <br>   
  <strong> TAUGHT COURSES & LECTURES</strong> <br>  
-▪ UNESCO UNITWIN Next Generation Training Program, Jakarta International University, Indonesia (2023)  <br>
+▪ UNESCO UNITWIN Next Generation Training Program on AI, Jakarta International University, Indonesia (2023)  <br>
 ▪'Data and Algorithm Governance:Legal Cases', Graduate School of Applied Big Data, Kyoung Hee University (2023) <br>
-▪ UNESCO UNITWIN Next Generation Training Program, Univ of Rwanda & Rwanda Polytechnic, Kigali, Rwanda (2023) <br>
+▪ UNESCO UNITWIN Next Generation Training Program on AI, University of Rwanda+ Rwanda Polytechnic, Kigali, Rwanda (2023) <br>
 ▪ 'AI: Ethics, Security, Data and Governance', ITU Centres of Excellence(CoE) Academy of Asia-Pacific, Bangkok, Thailand (2019) <br>
 ▪ 'AI Governance', Asia Pacific Internet Governance Academy(APIGA), organized by ICANN and KISA (2019)  <br>
 ▪ 'International Business Transaction Law', Division of International Studies, Han Yang University (2015) <br>
