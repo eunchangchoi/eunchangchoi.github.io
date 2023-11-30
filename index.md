@@ -95,6 +95,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ 'International Electronic Commerce Law', Graduate School of International Studies,Korea University,Seoul (2002-04)) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
+▪ 'AI Empowered Entrepreneurship', UNESCO-UNITWIN Conference on Global Enterprenership and Social Innovation, Jakarta, Indonesia (Nov.2023) <br>
 ▪ 'AI-generated Disinformation War' Workshop, Overseas Korean Journalists Association, Seoul, S.Korea (Oct.2023) <br>
 ▪ "AI in Asia-Pacific Perspective: Charting a Path for Responsible Innovation"<a href="https://forms.for.asia/proposal/?proposalform=NjQ1N2JkN2I4YmY3Yi8vMjMvLzEyNTQvLzA="> 2023 APrIGF </a> Brisbane, Australia (Aug.2023) <br>
 ▪ "AI-Generated Visuals, Creativity and Authorship in Art" Korean Cybercomm Academic Society Conference (May, 2023) <br>
