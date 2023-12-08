@@ -97,7 +97,7 @@ title: "Choi, Eun Chang 최은창"
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
 ▪ "Global AI Governance Power Race / Fostering AI Literacy of Generative AI in Southeast Asian Countries", Workshop on 'Emerging Policy Approaches to Generative Artificial Intelligence in ASEAN', organized by USAID and the AI Asia Pacific Institute (Dec.2023) <br>
 ▪ "AI Empowered Entrepreneurship and the Deep Learning /Machine Learning Technology Revolution in the Digital Era", UNESCO-UNITWIN Conference on Global Enterprenership and Social Innovation, Pullman Jakarta Central Park, Indonesia (Nov.2023) <br>
-▪ "AI-generated Disinformation War" Workshop of the Overseas Korean Journalists Association, Seoul Metropolitan Hall, S.Korea (Oct.2023) <br>
+▪ "AI-generated Disinformation War" Overseas Korean Journalists Association, Seoul Press Center, S.Korea (Oct.2023) <br>
 ▪ "AI in Asia-Pacific Perspective: Charting a Path for Responsible Innovation"<a href="https://forms.for.asia/proposal/?proposalform=NjQ1N2JkN2I4YmY3Yi8vMjMvLzEyNTQvLzA="> 2023 APrIGF </a> Brisbane, Australia (Aug.2023) <br>
 ▪ "AI-Generated Visuals, Creativity and Authorship in Art" Korean Cybercomm Academic Society Conference (May, 2023) <br>
 ▪ "The Role of Data in Implementing Sustainable Development", Science, Technology and innovations for Sustainable Development, Research Conference of Faculty of Computing <a href="https://www.kdu.ac.lk/"> General John Kotelawala Defence University(KDU),</a>Sri Lanka (Jan. 2023) <br>
