@@ -133,7 +133,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ <a href="https://www.youtube.com/watch?v=nsZJaB3fx0E&feature=youtu.be&t=1689">'National Collaborative Session on Cybersecurity'</a>,The United Nations Internet Governance Forum, Berlin, Germany (2019) <br> 
 ▪ <a href="https://www.ftp.asia/index.php/s/tLZWIWMG1Qp7oA0">'Building a Concept of AI Society for Good: Quest for Inclusion'</a>,<a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
 ▪ <a href="https://www.ftp.asia/index.php/s/HGkuD3YVUBssKrP">'Coping with Misinformation in an Deluge of Information'</a>, <a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
-▪ 'AI Governance'in <a href="https://kpc4ir.kaist.ac.kr/index.php?mid=kpc4ir_events&document_srl=684"> TECH & TALK Conference</a>,<a href="https://kpc4ir.kaist.ac.kr/"> Korea Policy Center for 4th Industrial Revolution(KPC4IR), KAIST, </a> Seoul (May. 2019)<br>
+▪ 'AI Governance', <a href="https://kpc4ir.kaist.ac.kr/index.php?mid=kpc4ir_events&document_srl=684"> TECH & TALK Conference</a>, by <a href="https://kpc4ir.kaist.ac.kr/"> Korea Policy Center for Fourth Industrial Revolution(KPC4IR),</a>  KAIST (May. 2019)<br>
 ▪ <a href="https://youtu.be/92cmsMv6xhQ?t=451">'AI Ethics & Governance: Multistakeholder Approach'</a>, 2019 <a href="http://krigf.kr/"> Korea Internet Governance Forum</a>, Seoul, South Korea <br>
 ▪ 'Global Perspective on AI Ethics Governance' Korea Information Society Development Institute (KISDI), South Korea (Sept.2018) <br> 
 ▪ 'AI Ethics, Policies & Governance: A Global Overview' The Korea Society of Internet Ethics Conference (Nov.2018) <br>
