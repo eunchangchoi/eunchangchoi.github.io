@@ -108,7 +108,7 @@ title: "Choi, Eun Chang 최은창"
  <a href="https://www.clawar.org/icres2022/technical-program"> International Conference on Robot Ethics and Standards</a>(ICRES) COEX, Seoul, S.Korea (July.2022)<br> 
 ▪ 'Metaverse as the Public Sphere and Its Role in Democracy: Platform Architecture, Data Privacy and Abuse' <a href="https://ksaie.or.kr"> The Korean Society for Artificial Intelligence Ethics </a> & <a href="http://www.politics21.or.kr/"> The 21th Century Political Science Association </a>, Busan, S.Korea (May.2022)<br> 
 ▪ 'AI-Generated Virtual Reality in the Metaverse and Sexual Abuse' <a href="http://www.kiiss.or.kr/journal/sub02.html/"> Intelligent Information System Conference </a> S.Korea (May.2022)<br>
-▪ 'Social Interactions in Virtual Reality and Human Rights',<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea </a>, S.Korea (Feb.2022)<br> 
+▪ 'Social Interactions in Virtual Reality and Human Rights',<a href="https://www.humanrights.go.kr/base/main/view"> National Human Rights Commission of Korea </a>, S.Korea (Feb.2022)<br> 
 ▪ 'Who Holds Copyright and Patent of AI-generated Content and Invention?', <a href="https://aisummit.co.kr/"> AI Summit Seoul Conference</a>,COEX,S.Korea (Dec.2021)<br>
 ▪ <a href="https://youthigf.in/2021/12/02/agenda/">'Why AI Literacy is Critical for Algorithmic Governance?',</a> Indian Youth Internet Governance Forum(Dec.2021)<br> 
 ▪ <a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&where=subject%7Ctag&keyword=2021+%EA%B0%80%EC%9D%84&uid=1217/">'NFTying Memes, Digital Arts Trading and Copyright Theft'</a> Korean Cybercomm Academic Society (Nov.2021) <br>
