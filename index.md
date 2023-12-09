@@ -95,7 +95,6 @@ title: "Choi, Eun Chang 최은창"
 ▪ 'International Electronic Commerce Law', Graduate School of International Studies,Korea University, Seoul (2002-04) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
-▪ 'Global AI Governance Power Race / Fostering AI Literacy of Generative AI in Southeast Asian Countries', Workshop on 'Emerging Policy Approaches to Generative Artificial Intelligence in ASEAN', organized by USAID and the AI Asia Pacific Institute (Dec.2023) <br>
 ▪ 'AI Empowered Entrepreneurship and the Deep Learning /Machine Learning Technology Revolution in the Digital Era', UNESCO-UNITWIN Conference on Global Enterprenership and Social Innovation, Pullman Jakarta Central Park, Indonesia (Nov.2023) <br>
 ▪ 'AI-generated Disinformation War' Workshop of Overseas Korean Journalists Association, Seoul Press Center, S.Korea (Oct.2023) <br>
 ▪ 'AI in Asia-Pacific Perspective: Charting a Path for Responsible Innovation' <a href="https://forms.for.asia/proposal/?proposalform=NjQ1N2JkN2I4YmY3Yi8vMjMvLzEyNTQvLzA="> 2023 APrIGF </a> Brisbane, Australia (Aug.2023) <br>
@@ -145,7 +144,8 @@ title: "Choi, Eun Chang 최은창"
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT </strong> <br>  
-▪ "Mobile Location Accuracy Requirements in Wireless Indoor Emergency Calls", Public Policy Forum, Han Yang University (Jan.2023)<br>
+▪ "Global AI Governance Power Race / Fostering AI Literacy of Generative AI in Southeast Asian Countries", Workshop on 'Emerging Policy Approaches to Generative Artificial Intelligence in ASEAN', organized by USAID and the AI Asia Pacific Institute (Dec.2023) <br>
+▪ "Mobile Location Accuracy Requirements in Wireless Indoor Emergency Calls", Tech Policy Forum, Han Yang Univ School of Engineering (Jan.2023)<br>
 ▪ Panelist,<a href="https://www.intgovforum.org/en/content/nris-cooperating-to-protecting-data-at-local-levels">'Cooperating to Protect Data at Local Levels'</a>  The United Nations IGF,<a href="https://www.intgovforum.org/en?mn=zyjlo3zXcEyFoXe0t8ZjjKlZgTEwFS1Ll2ly.kZktiPIaNySpVaEf"> Addis Ababa,Ethiopia </a>(Dec.2022) <br> 
 ▪ Panelist, Global Governance and Diplomacy Workshop, <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a>, Hilton Seoul (Nov.2022)<br> 
 ▪ "Analysis on the FCC Order: Indoor Location Accuracy of Wireless 911 Calls in the U.S." Korea National Police Agency (May.2022)<br> 
