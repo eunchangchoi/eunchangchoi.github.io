@@ -210,7 +210,8 @@ title: "Choi, Eun Chang 최은창"
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>  
    Law and Technology; Governance of Emerging Technologies; Regulating the Risks of AI <br>
-   Data Justice ; AI-generated Disinformation War; Computational Propaganda; AI Safety <br>
+   AI Policy addressing  Bias/Fairness in Machine Learning; Data Justice  <br>
+   AI-generated Disinformation War; Computational Propaganda; AI Safety <br>
    Copyrights of Content by Generative AI; Misuse of AI ; Legal Implication of Machine Learning <br>
    The Trustworthy AI Framework; AI Auditing; Accountability for Algorithmic Decision-making <br>  
    Data Commons + AI for Sustainable Development(AI4Good); Access to Open-source AI Models <br> 
