@@ -149,7 +149,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ Panelist,<a href="https://www.intgovforum.org/en/content/nris-cooperating-to-protecting-data-at-local-levels">'Cooperating to Protect Data at Local Levels'</a>  The United Nations IGF,<a href="https://www.intgovforum.org/en?mn=zyjlo3zXcEyFoXe0t8ZjjKlZgTEwFS1Ll2ly.kZktiPIaNySpVaEf"> Addis Ababa,Ethiopia </a>(Dec.2022) <br> 
 ▪ Panelist, Global Governance and Diplomacy Workshop, <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a>, Hilton Seoul (Nov.2022)<br> 
 ▪ 'Analysis on the FCC Order: Indoor Location Accuracy of Wireless 911 Calls in the U.S.:Z-axis Location Accuracy Metric and Z-axis Deployment Options', a commissioned research project under a contract with the Korea National Police Agency and Han Yang University Research Cooperation Foundation (May.2022)<br> 
-▪ 'Social Interactions in Virtual Metaverse and Human Rights",<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea</a> (Feb. 2022)<br>
+▪ 'Social Interactions in Virtual Metaverse and Human Rights',<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea</a> (Feb. 2022)<br>
 ▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Democracy'</a> Media & ICT Committee, National Assembly of Korea (Jan.2022) <br>
 ▪ Co-authored "Governing Artificial Intelligence: Issues, Principles, and Practices" The AI Governance Forum Korea (Jan.2022)<br>
 ▪ Panelist,'Myanmar's Internet Suppression and Democracy after Military Coup' Korea Internet Governance Forum (Aug.2021) <br>  
