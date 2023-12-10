@@ -135,7 +135,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ <a href="https://www.ftp.asia/index.php/s/HGkuD3YVUBssKrP">'Coping with Misinformation in an Deluge of Information'</a>, <a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
 ▪ 'AI Governance', <a href="https://kpc4ir.kaist.ac.kr/index.php?mid=kpc4ir_events&document_srl=684"> TECH & TALK Conference</a>, by <a href="https://kpc4ir.kaist.ac.kr/"> Korea Policy Center for Fourth Industrial Revolution(KPC4IR),</a>  KAIST (May. 2019)<br>
 ▪ <a href="https://youtu.be/92cmsMv6xhQ?t=451">'AI Ethics & Governance: Multistakeholder Approach'</a>, 2019 <a href="http://krigf.kr/"> Korea Internet Governance Forum</a>, Seoul, S. Korea <br>
-▪  Invited Talk 'Global Perspective on AI Ethics Governance' Korea Information Society Development Institute (KISDI), S.Korea (Sept.2018) <br> 
+▪ 'Global Perspective on AI Ethics Governance' Korea Information Society Development Institute (KISDI), S.Korea (Sept.2018) <br> 
 ▪ 'AI Ethics, Policies & Governance: A Global Overview' The Korea Society of Internet Ethics Conference (Nov.2018) <br>
 ▪ 'Artificial Intelligence Applications for Global Public Health' National Medical Center(NMC), Seoul, S. Korea (Oct. 2018)<br>
 ▪ <a href="http://idr.jinbo.net/232"> 'Will You Trust Artificial Intelligence's Decision?'</a> AI Lecture Series, <a href="https://idr.jinbo.net/">Institution for Digital Human Rights</a>, Seoul. S.Korea (Dec.2017)<br>  
