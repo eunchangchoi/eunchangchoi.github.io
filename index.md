@@ -134,7 +134,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ <a href="https://www.ftp.asia/index.php/s/HGkuD3YVUBssKrP">'Coping with Misinformation in an Deluge of Information'</a>, <a href="https://2019.aprigf.asia/"> 2019 Asia-Pacific Internet Governance Forum</a>, Vladivostok, Russia <br>
 ▪ 'AI Governance', <a href="https://kpc4ir.kaist.ac.kr/index.php?mid=kpc4ir_events&document_srl=684"> TECH & TALK Conference</a>, by <a href="https://kpc4ir.kaist.ac.kr/"> Korea Policy Center for Fourth Industrial Revolution(KPC4IR),</a>  KAIST (May. 2019)<br>
 ▪ <a href="https://youtu.be/92cmsMv6xhQ?t=451">'AI Ethics & Governance: Multistakeholder Approach'</a>, 2019 <a href="http://krigf.kr/"> Korea Internet Governance Forum</a>, Seoul, South Korea <br>
-▪ 'Global Perspective on AI Ethics Governance' Korea Information Society Development Institute (KISDI), South Korea (Sept.2018) <br> 
+▪ Invited Lecture 'Global Perspective on AI Ethics Governance' Korea Information Society Development Institute (KISDI), South Korea (Sept.2018) <br> 
 ▪ 'AI Ethics, Policies & Governance: A Global Overview' The Korea Society of Internet Ethics Conference (Nov.2018) <br>
 ▪ 'Artificial Intelligence Applications for Global Public Health' National Medical Center(NMC), Seoul, South Korea (Oct. 2018)<br>
 ▪ <a href="http://idr.jinbo.net/232"> 'Will You Trust Artificial Intelligence's Decision?'</a> AI Lecture Series, <a href="https://idr.jinbo.net/">Institution for Digital Human Rights</a>, Seoul. S.Korea (Dec.2017)<br>  
@@ -152,7 +152,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ 'Social Interactions in Virtual Metaverse and Human Rights',<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea</a> (Feb. 2022)<br>
 ▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Democracy'</a> Media & ICT Committee, National Assembly of Korea (Jan.2022) <br>
 ▪ Co-authored "Governing Artificial Intelligence: Issues, Principles, and Practices" The AI Governance Forum Korea (Jan.2022)<br>
-▪ Chapter Contribution 'Bias, Risk and Accountability of Algorithms' in government think thank research reports <a href="https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=TRKO202100006631&dbt=TRKO&rn="> "ICT-based Solutions to Social Problems in Intelligent Information Society" KISDI (2021)</a> <br> 
+▪ Chapter Contribution 'Bias, Risk and Accountability of Algorithms' in a government think thank's research reports <a href="https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=TRKO202100006631&dbt=TRKO&rn="> "ICT-based Solutions to Social Problems in Intelligent Information Society" Korea Information Society Development Institute (KISDI) (2021)</a> <br> 
 ▪ Panelist,'Myanmar's Internet Suppression and Democracy after Military Coup' Korea Internet Governance Forum (Aug.2021) <br>  
 ▪ <a href="https://ap.rigf.asia/fellowship/2021/introducing-the-mentors-of-2021-fellowship-program/?fbclid=IwAR2pn3lY-fE0daHxOW4vCcvk0HX-zwFHd8uJxaPnT266Hn7BOkA52UudjMw"> Mentoring</a> for Fellows,<a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum</a> + <a href="https://www.apsig.asia/"> APSIG </a>(2023 Australia; 2022 Singapore; 2021 Nepal)<br> 
 ▪ <a href="https://www.asiae.co.kr/article/2021081610112312900">'Fear and Misinformation in the Cultural History of Epidemics'</a>, <a href="https://opengov.seoul.go.kr/mediahub/20417385"> Citizen University, Seoul Metropolitan Government </a> (Aug.2021) <br> 
