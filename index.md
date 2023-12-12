@@ -149,7 +149,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ 'Mobile Location Accuracy Requirements in Wireless Indoor Emergency Calls: How to Revise the Protection, Utilization, of Location Information Act in Korea Preserving Privacy', Technology Policy Forum, Han Yang Univ School of Engineering (Jan.2023)<br>
 ▪ Panelist,<a href="https://www.intgovforum.org/en/content/nris-cooperating-to-protecting-data-at-local-levels">'Cooperating to Protect Data at Local Levels'</a>  The United Nations IGF,<a href="https://www.intgovforum.org/en?mn=zyjlo3zXcEyFoXe0t8ZjjKlZgTEwFS1Ll2ly.kZktiPIaNySpVaEf"> Addis Ababa,Ethiopia </a>(Dec.2022) <br> 
 ▪ Panelist, Global Governance and Diplomacy Workshop, <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a>, Hilton Seoul (Nov.2022)<br> 
-▪ 'Technology Adoption of the US. FCC Order: Indoor Location Accuracy of Wireless 911 Calls:  Deployment Options of Z-axis Accuracy Metrics' submitted to Korean National Police Agency and Han Yang Univ(May.2022)<br> 
+▪ "Lesson from Public Policy of the US FCC Order: Indoor Location Accuracy of Wireless 911 Calls: Deployment Options of Z-axis Accuracy Metrics" submitted to Korean National Police Agency and Han Yang Univ(May.2022)<br> 
 ▪ 'Social Interactions in Virtual Metaverse and Human Rights',<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea</a> (Feb. 2022)<br>
 ▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Democracy'</a> Media & ICT Committee, National Assembly of Korea (Jan.2022) <br>
 ▪ Co-authored "Governing Artificial Intelligence: Issues, Principles, and Practices" The AI Governance Forum Korea (Jan.2022)<br>
