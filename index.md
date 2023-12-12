@@ -98,7 +98,7 @@ title: "Choi, Eun Chang 최은창"
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
 ▪ 'AI Empowered Entrepreneurship and the Deep Learning /Machine Learning Technology Revolution in the Digital Era', UNESCO-UNITWIN Conference on Global Enterprenership and Social Innovation, Pullman Jakarta Central Park, Indonesia (Nov.2023) <br>
 ▪ 'AI-generated Disinformation War' Workshop of Overseas Korean Journalists Association, Seoul Press Center, S.Korea (Oct.2023) <br>
-▪ 'AI in Asia-Pacific Perspective: Charting a Path for Responsible Innovation' <a href="https://forms.for.asia/proposal/?proposalform=NjQ1N2JkN2I4YmY3Yi8vMjMvLzEyNTQvLzA="> 2023 APrIGF </a> Brisbane, Australia (Aug.2023) <br>
+▪ 'As AI Regulation Looms: Understanding its governance in the Asia-Pacific' <a href="https://forms.for.asia/proposal/?proposalform=NjQ1N2JkN2I4YmY3Yi8vMjMvLzEyNTQvLzA="> 2023 APrIGF </a> Brisbane, Australia (Aug.2023) <br>
 ▪ 'AI-Generated Visuals, Creativity and Authorship in Art'. Korean Cybercomm Academic Society Conference (May, 2023) <br>
 ▪ 'The Role of Data in Implementing Sustainable Development', Science, Technology and innovations for Sustainable Development, Research Conference of Faculty of Computing <a href="https://www.kdu.ac.lk/"> General John Kotelawala Defence University(KDU),</a>Sri Lanka (Jan. 2023) <br>
 ▪ 'Applying Artificial Intelligence for Social Good and its Economic Impacts', <a href="https://www.southville.edu.ph/news/reshaping-the-global-landscape-through-research-southville-hosts-second-international-research-conference"> Reshaping the Global Landscape</a>, The 2nd International Research Conference, Southville International School and Colleges(SISC), Manila, Philippines (Oct. 2022) <br>
