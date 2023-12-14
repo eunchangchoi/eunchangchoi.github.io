@@ -87,7 +87,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ UNESCO UNITWIN Next Generation Training Program on AI, <a href="https://ur.ac.rw/"> University of Rwanda</a>+ Rwanda Polytechnic, Kigali, Rwanda (2023) <br>
 ▪ 'AI: Ethics, Security, Data and Governance', ITU Centres of Excellence(CoE) Academy of Asia-Pacific, Bangkok, Thailand (2019) <br>
 ▪ 'AI Governance', Asia Pacific Internet Governance Academy(APIGA), organized by ICANN and KISA, Seoul (2019)  <br>
-▪ 'International Business Transaction Law', Division of International Studies, Han Yang University, Seoul (2015) <br>
+▪ 'International Business Transaction Law', Division of International Studies, Hanyang University, Seoul (2015) <br>
 ▪ 'Global Politics and Media Sphere', Department of Politics, Konkuk University, Seoul (2013) <br>
 ▪ 'International Intellectual Property Law', Department of Law, Myongji University, Seoul (2012) <br>
 ▪ 'Globalization, Poverty, Development and Law', Graduate School of International Studies, Korea University (2012) <br>
@@ -146,10 +146,10 @@ title: "Choi, Eun Chang 최은창"
      
  <strong> PUBLIC POLICY ENGAGEMENT </strong> <br>  
 ▪ 'Global AI Governance Power Race / Fostering AI Literacy of Generative AI in Southeast Asian Countries', Workshop on 'Emerging Policy Approaches to Generative Artificial Intelligence in ASEAN', organized by USAID and the AI Asia Pacific Institute (Dec.2023) <br>
-▪ 'Mobile Location Accuracy Requirements in Wireless Indoor Emergency Calls: How to Revise the Protection, Utilization, of Location Information Act in Korea Preserving Privacy', Technology Policy Forum, Han Yang Univ School of Engineering (Jan.2023)<br>
+▪ 'Mobile Location Accuracy Requirements in Wireless Indoor Emergency Calls: How to Revise the Protection, Utilization, of Location Information Act in Korea Preserving Privacy', Technology Policy Forum, Hanyang Univ School of Engineering (Jan.2023)<br>
 ▪ Panelist,<a href="https://www.intgovforum.org/en/content/nris-cooperating-to-protecting-data-at-local-levels">'Cooperating to Protect Data at Local Levels'</a>  The United Nations IGF,<a href="https://www.intgovforum.org/en?mn=zyjlo3zXcEyFoXe0t8ZjjKlZgTEwFS1Ll2ly.kZktiPIaNySpVaEf"> Addis Ababa,Ethiopia </a>(Dec.2022) <br> 
 ▪ Panelist, Global Governance and Diplomacy Workshop, <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a>, Hilton Seoul (Nov.2022)<br> 
-▪ "Lesson from Public Policy of the US FCC Order: Indoor Location Accuracy of Wireless 911 Calls: Deployment Options of Z-axis Accuracy Metrics" submitted to Korean National Police Agency and Han Yang Univ(May.2022)<br> 
+▪ "Lesson from Public Policy of the US FCC Order: Indoor Location Accuracy of Wireless 911 Calls: Deployment Options of Z-axis Accuracy Metrics" submitted to Korean National Police Agency and Hanyang Univ(May.2022)<br> 
 ▪ 'Social Interactions in Virtual Metaverse and Human Rights',<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea</a> (Feb. 2022)<br>
 ▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">'The Rise of Political Deepfakes and Democracy'</a> Media & ICT Committee, National Assembly of Korea (Jan.2022) <br>
 ▪ Co-authored "Governing Artificial Intelligence: Issues, Principles, and Practices" The AI Governance Forum Korea (Jan.2022)<br>
