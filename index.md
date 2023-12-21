@@ -115,7 +115,7 @@ title: "Choi, Eun Chang 최은창"
 ▪ <a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&where=subject%7Ctag&keyword=2021+%EA%B0%80%EC%9D%84&uid=1217/">'NFTying Memes, Digital Arts Trading and Copyright Theft'</a> Korean Cybercomm Academic Society (Nov.2021) <br>
 ▪ 'Business Insight: The Risk and Ethics of Artificial Intelligence'<a href="https://www.kma.or.kr/main.do"> Korea Management Association </a>(Nov.2021) <br>
 ▪ 'Data Privacy:Federated Learning and the Limit of Differential Privacy' Korea Internet Governance Forum (Aug.2021) <br>  
-▪ 'Risk Constructivism and Cultural Cognition', <a href="http://cis.snu.ac.kr/sub2/2_2_6_2.php?mode=view&number=1509&b_name=meet1_2">The Evolution of Technology & Society Conference </a>, SNU + <a href="https://www.kisa.or.kr"> KISA</a> (June.2021)<br>
+▪ 'Risk Constructivism and Cultural Cognition', <a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php">The Evolution of Technology in Society Conference </a>, SNU + <a href="https://www.kisa.or.kr"> KISA</a> (June.2021)<br>
 ▪ 'The Peril of Politicizing Science and Vaccine Hesitancy', Graduate School of Public Health, Yonsei Univ(June.2021)<br>
 ▪ 'The Role of Experts Witness in Toxic Tort Claims: Proof of Harm in Tobacco" Korean Society for Research on Nicotine (May.2021)<br>
 ▪ 'Ethical AI: A New Corporate Social Responsibility',<a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul Conference</a>, COEX, S.Korea (Dec.2020)<br> 
