@@ -214,9 +214,8 @@ title: "Choi, Eun Chang 최은창"
   
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>  
-   Provably Beneficial Artificial Intelligence; Effective Leverage of Data Science, and Machine Learning  <br>
+   Provably Beneficial AI System; Policy addressing Bias/Fairness/ Misalignment in Machine Learning <br>
    Law and Technology Policy; Governance of Emerging Technologies; Regulating the Risks of AI <br>
-   AI Policy addressing Bias/Fairness in Machine Learning; Social Responsibility of Computing<br>
    AI-generated Disinformation War; Computational Propaganda; AI Safety; Data Justice  <br>
    Copyrights of Content by Generative AI; Misuse of AI ; Legal Implication of Machine Learning <br>
    The Trustworthy AI Framework; AI Auditing; Accountability for Algorithmic Decision-making <br>  
