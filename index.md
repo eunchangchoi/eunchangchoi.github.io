@@ -177,11 +177,12 @@ title: "Eun Chang Choi 최은창"
 ▪ Moderated <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News: Global Policy Responses'</a>, <a href="https://www.intgovforum.org/en/content/igf-2018-day-2-salle-xii-nri-session-on-fakenews"> NRIs Workshop, The United Nations IGF </a>,UNESCO <a href="https://igf2018.fr/"> Paris </a>(Nov.2018) <br>
 ▪ Co-authored <a href="https://bit.ly/3qgZ63S">"The Ethical Considerations of AI and Policy Response in the Age of Fourth Industrial Revolution"</a> KISDI,  a commissioned report submitted to <a href="https://policy.nl.go.kr/cmmn/FileDown.do?atchFileId=221994&fileSn=63436">the Presidential Committee on the Fourth Industrial Revolution, S.Korea</a> (Oct.2018) <br> 
 ▪ Policy Report "The WTO’s Decision on Australia’s Plain Packaging Tobacco Measures for Public Health: Trademark Restrictions", commissioned research by the Ministry of Health and Welfare, South Korea (Sept.2018)<br>
-▪ Panelist, Workshop'Artificial Intelligence: How to Create a Desired Future Society', Korea Internet Governance Forum, Seoul Startup Hubs (July.2018) <br>
+▪ Panelist, Workshop'Data Governance : Protecting Data Privacy in Social Networks', Seoul Startup Hubs, Korea Internet Governance Forum (2018) <br>
+▪ Panelist, Workshop'Artificial Intelligence: How to Create a Desired Future Society', Korea Internet Governance Forum, Seoul Startup Hubs(July.2018) <br>
 ▪ Business trip to U.S.FDA and UCSF Tobacco Research Center with officials of Ministry of Health and Welfare of Korea (Aug.2018) <br> 
 ▪ Co-authored a Policy Report <a href="https://www.kisdi.re.kr/report/view.do?key=m2101113024770&arrMasterId=3934580&masterId=3934580&artId=520556">"ICT-based Solutions to Social Problems in Intelligent Information Society (I)"</a> <a href= "https://www.kisdi.re.kr/eng/index.do%20%20%20%20KISDI"> KISDI </a>(2017) <br>  
 ▪ <a href="https://blog.naver.com/gp3project/221112176044">'Can Blockchain Technology Help the Unbanked around the World?: Financial Inclusion'</a> Povertyinfo.org's blog (Oct.2017)<br>
-▪ Moderator, Workshop 'IoT Governance-Data Privacy & Security Policy', Korea Internet Governance Forum, Sejong University, Seoul (Sept. 2016)
+▪ Moderator, Workshop 'IoT Governance-Data Privacy & Security Policy', Korea Internet Governance Forum, Sejong University, Seoul (Sept. 2016) <br>
 ▪ Member, The Expert Council of Robot Ethics at <a href="https://kiria.org/eng"> Korea Institute for Robot Industry Advancement</a> <br>
 ▪ Member, The Technical Committee on <a href="https://www.ieee-ras.org"> Robot Ethics in IEEE Robotics & Automation Society </a> <br>  
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
