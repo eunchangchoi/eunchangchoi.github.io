@@ -171,13 +171,14 @@ title: "Eun Chang Choi 최은창"
 ▪ <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx">'AI: Ethics, Security, Personal Data and Governance'</a> ITU Academy, Centres of Excellence, Bangkok, Thailand (Sept.2019)<br>  
 ▪ 'AI –Country Case:Republic of Korea', ITU Academy, Centres of Excellence, Bangkok, Thailand (Sept.2019)<br>   
 ▪ <a href="https://youtu.be/uRsC_ypHGCg?t=1348">'IP Address and Cross-border Cooperation for Resolving the Cyber Attribution Challenges'</a>, <a href="https://conference.apnic.net/48/program/schedule/#/day/6/cooperation-sig"> APNIC 48</a>, Chiang Mai,Thailand (2019) <br>
-▪ Plenary Session Panelist, The State of Play and Outlook for IG in the Asia-Pacific, APrIGF, Vladivostok, Russia (July,2019)<br>
+▪ Plenary Session Panelist, The State of Play and Outlook for IG in the Asia-Pacific, APrIGF Conference, Vladivostok, Russia (July,2019)<br>
+▪ Panelist, Workshop 'AI Cyber-Attacks: The Growing Threat to Cybersecurity'Korea Internet Governance Forum,Sejong University (June,2019) <br>
 ▪ Expert Meeting for World Economic Forum Cooperated Research, KAIST 4th Industrial Revolution Intelligence Center (May,2019) <br>
 ▪ Co-authored Policy Report "A Study on the Regulation of Tobacco Additives and Disclosure of Tobacco Ingredients:Comparative Approach between Brazil, Australia, EU, and U.S.FDA" Ministry of Health and Welfare of South Korea(Dec.2018) <br>
 ▪ Moderated <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News: Global Policy Responses'</a>, <a href="https://www.intgovforum.org/en/content/igf-2018-day-2-salle-xii-nri-session-on-fakenews"> NRIs Workshop, The United Nations IGF </a>,UNESCO <a href="https://igf2018.fr/"> Paris </a>(Nov.2018) <br>
 ▪ Co-authored <a href="https://bit.ly/3qgZ63S">"The Ethical Considerations of AI and Policy Response in the Age of Fourth Industrial Revolution"</a> KISDI,  a commissioned report submitted to <a href="https://policy.nl.go.kr/cmmn/FileDown.do?atchFileId=221994&fileSn=63436">the Presidential Committee on the Fourth Industrial Revolution, S.Korea</a> (Oct.2018) <br> 
 ▪ Policy Report "The WTO’s Decision on Australia’s Plain Packaging Tobacco Measures for Public Health: Trademark Restrictions", commissioned research by the Ministry of Health and Welfare, South Korea (Sept.2018)<br>
-▪ Panelist, Workshop'Data Governance : Protecting Data Privacy in Social Networks', Seoul Startup Hubs, Korea Internet Governance Forum (2018) <br>
+▪ Panelist, Workshop'Data Governance : Protecting Data Privacy in Social Networks', Korea Internet Governance Forum, Seoul Startup Hubs (2018) <br>
 ▪ Panelist, Workshop'Artificial Intelligence: How to Create a Desired Future Society', Korea Internet Governance Forum, Seoul Startup Hubs(July.2018) <br>
 ▪ Business trip to U.S.FDA and UCSF Tobacco Research Center with officials of Ministry of Health and Welfare of Korea (Aug.2018) <br> 
 ▪ Co-authored a Policy Report <a href="https://www.kisdi.re.kr/report/view.do?key=m2101113024770&arrMasterId=3934580&masterId=3934580&artId=520556">"ICT-based Solutions to Social Problems in Intelligent Information Society (I)"</a> <a href= "https://www.kisdi.re.kr/eng/index.do%20%20%20%20KISDI"> KISDI </a>(2017) <br>  
