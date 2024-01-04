@@ -172,8 +172,8 @@ title: "Eun Chang Choi 최은창"
 ▪ 'AI –Country Case:Republic of Korea', ITU Academy, Centres of Excellence, Bangkok, Thailand (Sept.2019)<br>   
 ▪ <a href="https://youtu.be/uRsC_ypHGCg?t=1348">'IP Address and Cross-border Cooperation for Resolving the Cyber Attribution Challenges'</a>, <a href="https://conference.apnic.net/48/program/schedule/#/day/6/cooperation-sig"> APNIC 48</a>, Chiang Mai,Thailand (2019) <br>
 ▪ Panelist, Plenary Session,'The State of Play and Outlook for IG in the Asia-Pacific', APrIGF Conference, Vladivostok, Russia (July,2019)<br>
-▪ Panelist, Workshop 'Emerging Cyber Threats from AI-Powered Attacks,'Korea Internet Governance Forum, Sejong University (June,2019) <br>
-▪ Expert Symposium for World Economic Forum Cooperated Research on AI, KAIST 4th Industrial Revolution Intelligence Center (May,2019) <br>
+▪ Panelist, Workshop 'Emerging Cyber Threats from AI-Powered Attacks,'Korea Internet Governance Forum, Sejong Univ (June,2019) <br>
+▪ Symposium for World Economic Forum Cooperated Research on AI, KAIST 4th Industrial Revolution Intelligence Center (May,2019) <br>
 ▪ Co-authored Policy Report "A Study on the Regulation of Tobacco Additives and Disclosure of Tobacco Ingredients:Comparative Approach between Brazil, Australia, EU, and U.S.FDA" Ministry of Health and Welfare of South Korea(Dec.2018) <br>
 ▪ Moderated <a href="https://www.youtube.com/watch?v=quo1DLyitf8&feature=youtu.be&t=1004">'Fake News: Global Policy Responses'</a>, <a href="https://www.intgovforum.org/en/content/igf-2018-day-2-salle-xii-nri-session-on-fakenews"> NRIs Workshop, The United Nations IGF </a>,UNESCO <a href="https://igf2018.fr/"> Paris </a>(Nov.2018) <br>
 ▪ Co-authored <a href="https://bit.ly/3qgZ63S">"The Ethical Considerations of AI and Policy Response in the Age of Fourth Industrial Revolution"</a> KISDI,  a commissioned report submitted to <a href="https://policy.nl.go.kr/cmmn/FileDown.do?atchFileId=221994&fileSn=63436">the Presidential Committee on the Fourth Industrial Revolution, S.Korea</a> (Oct.2018) <br> 
