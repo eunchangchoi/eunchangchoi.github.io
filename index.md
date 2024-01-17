@@ -222,7 +222,7 @@ As a partner of <i> Impactive AI</i> LLP and a qualified <a href="https://www.da
   
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>  
-   Provably Beneficial AI System; Tech Policy addressing Bias/Fairness/ Misalignment in Machine Learning <br>
+   AI and Legal Reasoning; Tech Policy addressing Bias/Fairness/ Misalignment in AI Systems <br>
    The Law and Political Economy on AI and Data (Data, AI Systems, and Society) <br>
    The Interplay of Law and Technology Policy; Governance of Emerging Technologies <br>
    AI-generated Disinformation War; Computational Propaganda; AI Safety; AI Risk Management Framework <br>
