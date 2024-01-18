@@ -224,10 +224,10 @@ As a partner of <i> Impactive AI</i> LLP and a qualified <a href="https://www.da
  <strong> ACADEMIC INTERESTS </strong> <br>  
    AI and Legal Reasoning; Tech Policy addressing Bias/Fairness/(Mis)alignment in AI Systems <br>
    The Law and Political Economy on AI and Data (Interplay of Data, AI Systems, and Society) <br>
-   The Interplay of Law and Technology Policy; Global Governance of AI and Emerging Technologies <br>
+   The Global Law and Policy of Artificial Intelligences; Responsible AI Practices <br>
    AI Safety Standard and Auditing; AI Risk Management Framework; Accountability for Algorithms<br>
    Copyrights of Content by Generative AI; AI-generated Disinformation War; Computational Propaganda <br>
-   Data Commons + AI for Sustainable Development(AI4Good); Access to Open-source AI Models <br> 
+   Data Commons + AI for Sustainable Development(AI4Good); The Value of Open-source AI Models <br> 
    Global Intellectual Property; Global Vaccine Access and Health Inequality; Genome Editing Patents <br>  
   <br>
    <strong> CONTACT</strong> <br>   
