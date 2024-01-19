@@ -92,7 +92,7 @@ As a partner of <i> Impactive AI</i> LLP and a qualified <a href="https://www.da
 ▪ 'AI: Ethics, Security, Data and Governance', ITU Centres of Excellence(CoE) Academy of Asia-Pacific, Bangkok, Thailand (2019) <br>
 ▪ 'AI Governance', Asia Pacific Internet Governance Academy(APIGA), organized by ICANN and KISA, Seoul (2019)  <br>
 ▪ 'International Business Transaction Law', Division of International Studies, Hanyang University, Seoul (2015) <br>
-▪ 'Global Politics and Media Sphere', Department of Politics, Konkuk University, Seoul (2013) <br>
+▪ 'Media Sphere and International Politics', Department of Political Science, Konkuk University, Seoul (2013) <br>
 ▪ 'International Intellectual Property Law', Department of Law, Myongji University, Seoul (2012) <br>
 ▪ 'Globalization, Poverty, Development and Law', Graduate School of International Studies, Korea University (2012) <br>
 ▪ 'The Global Information Society and its Policy', Graduate School of International Studies, Korea University (2011) <br>
