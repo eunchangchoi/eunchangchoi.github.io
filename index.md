@@ -194,7 +194,7 @@ As a partner of <i> Impactive AI</i> LLP and a qualified <a href="https://www.da
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>   
-▪  <a href="https://www.kyosu.net/news/articleView.html?idxno=112848"> “UNESCO Conference on Global Enterprenership and Social Innovation in Jakarta” </a> Kyoso News (Nov.28,2023)<br>
+▪  <a href="https://www.christiantoday.co.kr/news/358424"> “UNESCO Conference on Global Enterprenership and Social Innovation in Jakarta” </a> Christian Today (Nov.30,2023)<br>
 ▪  <a href="https://it.chosun.com/news/articleView.html?idxno=2023072603892"> "AI-focused Next Generation Entrepreneurship Program by Impactive AI" </a> IT Chosun (July.26,2023) <br>
 ▪  <a href="https://www.etnews.com/20230531000207"> “Data Asset Assessment Workshop” </a> invited by Twiggyfarm, an AI translation company,Patent News(May 30,2023) <br>
 ▪ Expert Interview "Who Governs the Global Internet?" <a href="https://dl.dongascience.com/magazine/index/S#S202211SEL"> <i> Science Donga Magazine</i></a> Vol.444(Dec.2022)<br>
