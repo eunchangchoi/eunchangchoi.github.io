@@ -199,7 +199,7 @@ title: "Eun Chang Choi 최은창"
 ▪ Interview <a href="https://podcasts.apple.com/af/podcast/tbs-efm-this-morning/id1038822609">“Privacy and the Right of Publicity in Social Media”</a>, TBS eFM Seoul Media Foundation (Oct.2022)<br> 
 ▪ Interview <a href="https://www.edaily.co.kr/news/read?newsId=03722806632430600&mediaCodeNo=257"> “The Need for Accurate Location Tracking of Wireless 911 Callers in Emergency”</a> E-Daily (Aug.2022)<br> 
 ▪ Invited discussion <a href="https://alook.so/posts/latO5RY">“Machine Consciousness in Large-scale Language Models and Ethics”</a> Alookso Magazine(Aug 2022)<br>
-▪ <a href="https://www.technologyreview.kr/special/event/202204](https://www.youtube.com/watch?v=eAewHoNQgiI&feature=emb_logo">“Emerging Markets and Technologies of Service Robots” </a> Tech Live, MIT Technology Review (May 2022)<br>
+▪ <a href="https://www.technologyreview.kr/special/event/202204](https://www.youtube.com/watch?v=eAewHoNQgiI&feature=emb_logo">“Emerging Markets of Service Robots and Innovative Technologies” </a> Tech Live, MIT Technology Review (May 2022)<br>
 ▪ <a href="https://www.key4biz.it/democrazia-futura-dalla-cortina-di-ferro-alle-cortine-di-silicio-sara-linternet-globale-la-principale-vittima-del-conflitto-russo-ucraino/398412/"> “Dalla 'Cortina di ferro' alle 'Cortine di silicio'” </a> <i> Democrazia Futura </i>, Italian (April 2022)<br>   
 ▪ <a href="https://m.blog.naver.com/media_trust/222648627826">“Social Responsibility of Old and New Platforms”</a> Korea Community Media Foundation(Feb. 2022)<br>
 ▪ <a href="https://www.hyundaimotorgroup.com/about-us/publications">“The Future of Metaverse, Metamobility and Ethics”</a> Motersline, Hyundai Motors(April 2022)<br>
