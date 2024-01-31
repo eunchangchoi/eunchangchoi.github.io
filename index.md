@@ -229,4 +229,4 @@ title: "Eun Chang Choi 최은창"
    Global Intellectual Property; Global Vaccine Access and Health Inequality; Genome Editing Patents <br>  
   <br>
    <strong> CONTACT</strong> <br>   
-   eunchang.choi (at) aya.yale.edu ;  head (at) povertyinfo.org 
+   eunchang.choi (at) aya.yale.edu ;  head (at) povertyinfo.org ;  eunchang.choi (at) impactive-ai.com
