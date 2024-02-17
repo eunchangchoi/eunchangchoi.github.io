@@ -148,7 +148,7 @@ title: "Eun Chang Choi 최은창"
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT </strong> <br>  
-▪ Panelist,'Seoul Dialogue on AI Ethics, Governance and Innovation' the Embassy of Canada + Korea's Ministry of Foreign Affairs (March 2024)  <br>
+▪ 'Seoul Dialogue on AI Ethics, Governance and Innovation', Embassy of Canada + Korea Ministry of Foreign Affairs(March 2024) <br>
 ▪ 'Global AI Governance Power Race / Fostering AI Literacy of Generative AI in Southeast Asian Countries', Workshop on 'Emerging Policy Approaches to Generative Artificial Intelligence in ASEAN', organized by USAID and the AI Asia Pacific Institute (Dec.2023) <br>
 ▪ 'Mobile Location Accuracy Requirements in Wireless Indoor Emergency Calls: How to Revise the Protection, Utilization, of Location Information Act in Korea Preserving Privacy’, Technology Policy Forum, Hanyang Univ School of Engineering (Jan.2023)<br>
 ▪ Panelist,<a href="https://www.intgovforum.org/en/content/nris-cooperating-to-protecting-data-at-local-levels">'Cooperating to Protect Data at Local Levels’</a> IGF,<a href="https://www.intgovforum.org/en?mn=zyjlo3zXcEyFoXe0t8ZjjKlZgTEwFS1Ll2ly.kZktiPIaNySpVaEf"> Addis Ababa,Ethiopia </a>(Dec.2022) <br> 
