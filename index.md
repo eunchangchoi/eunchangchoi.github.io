@@ -98,7 +98,7 @@ title: "Eun Chang Choi 최은창"
 ▪ 'International Electronic Commerce Law', Graduate School of International Studies,Korea University, Seoul (2002-04) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
-▪ 'The Impact of EU AI Act and Copyrights Lawsuit against OpenAI.',<a href="https://generativeai.kr/program/"> Gen AI Seoul Conference</a>, Seoul (Feb.2024)<br>
+▪ 'The Impact of EU AI Act and Recent Lawsuits over Copyright Infringement against OpenAI.',<a href="https://generativeai.kr/program/"> Gen AI Seoul Conference</a>, Seoul (Feb.2024)<br>
 ▪ 'Deep Learning/Machine Learning Technology Revolution', UNESCO-UNITWIN Conference on Global Enterprenership and Social Innovation, Pullman Jakarta Central Park, Indonesia (Nov.2023) <br>
 ▪ 'AI-generated Disinformation War' Workshop of Overseas Korean Journalists Association, Seoul Press Center, S.Korea (Oct.2023) <br>
 ▪ 'AI in Asia-Pacific: Charting a Path for Responsible Innovation’ <a href="https://forms.for.asia/proposal/?proposalform=NjQ1N2JkN2I4YmY3Yi8vMjMvLzEyNTQvLzA="> 2023 APrIGF </a> Brisbane, Australia (Aug.2023) <br>
