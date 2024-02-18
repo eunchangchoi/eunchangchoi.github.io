@@ -223,7 +223,7 @@ title: "Eun Chang Choi 최은창"
   
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>  
-   AI and Legal Reasoning; Technology Policy addressing Bias/Fairness/(Mis)alignment of AI Algorithms <br>
+   AI and Legal Reasoning; Bias/Fairness/(Mis)alignment of AI Algorithms and Social Choice <br>
    The Law and Political Economy of AI (Control over Data Privacy, Accountability, Security, Human Rights) <br>
    The Global Law and Policy of Artificial Intelligences; AI Risk Management and Safety <br>
    Copyrights of Content by Generative AI; AI-generated Disinformation War; Computational Propaganda <br>
