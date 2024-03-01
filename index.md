@@ -95,8 +95,8 @@ title: "Eun Chang Choi 최은창"
 ▪ ‘International Intellectual Property Law’, Department of Law, Myongji University, Seoul (2012) <br>
 ▪ ‘Globalization, Poverty, Development and Law’, Graduate School of International Studies, Korea University (2012) <br>
 ▪ ‘The Global Information Society and its Policy’, Graduate School of International Studies, Korea University (2011) <br>
-▪ ‘The Ethics In Management Information Systems’, Graduate School of Business, Ewha Womans University,Seoul (2005-06) <br>
-▪ ‘International Electronic Commerce Law’, Graduate School of International Studies,Korea University, Seoul (2002-04) <br>
+▪ ‘The Ethics In Management Information Systems’, Graduate School of Business, Ewha Womans University, Seoul (2005-06) <br>
+▪ ‘International Electronic Commerce Law’, Graduate School of International Studies, Korea University, Seoul (2002-04) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
 ▪ ‘The Impact of EU AI Act and Copyright Lawsuits against OpenAI/Microsoft’,<a href="https://generativeai.kr/program/"> Gen AI Seoul 2024 Conference</a>, Seoul (Feb.2024)<br>
