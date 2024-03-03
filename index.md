@@ -157,7 +157,7 @@ title: "Eun Chang Choi 최은창"
 ▪ Panelist,‘Global Governance and Diplomacy Workshop’, <a href="https://www.kdischool.ac.kr/">, KDI School of Public Policy and Management</a>, Seoul (Nov.2022)<br> 
 ▪ ‘An Analysis on the U.S. FCC Order and Rules: Indoor Location Accuracy of Wireless 911 Calls and Z-axis Accuracy Metrics’ submitted to Korean National Police Agency, under contract with <a href="https://www.iitp.kr/en/main.it">IITP </a> and <a href="https://research.hanyang.ac.kr/"> Hanyang University</a> (May.2022)<br> 
 ▪ ‘Social Interactions in Virtual Metaverse and Human Rights’,<a href="https://www.humanrights.go.kr/site/main/index002"> National Human Rights Commission of Korea</a> (Feb. 2022)<br>
-▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">‘The Rise of Political Deepfakes and Democracy’</a> Media & ICT Committee, National Assembly of Korea (Jan.2022) <br>
+▪ <a href="https://zdnet.co.kr/view/?no=20220112165731">‘The Danger of AI-generated Political Deepfakes and Democracy’</a> Media & ICT Committee, National Assembly of Korea (Jan.2022) <br>
 ▪ Co-authored “Governing Artificial Intelligence: Issues, Principles, and Practices” The AI Governance Forum Korea (Jan.2022)<br>
 ▪ Chapter Contribution “Bias, Risk and Accountability of Algorithms” in a government think thank research report <a href="https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=TRKO202100006631&dbt=TRKO&rn="> ICT-based Solutions to Social Problems in Intelligent Information Society (II) Korea Information Society Development Institute (KISDI) (2021)</a> <br> 
 ▪ Panelist,‘Myanmar's Internet Suppression and Democracy after Military Coup’ Korea Internet Governance Forum (Aug.2021) <br>  
