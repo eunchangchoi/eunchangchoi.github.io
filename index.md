@@ -115,7 +115,7 @@ title: "Eun Chang Choi 최은창"
 ▪ ‘AI-Generated Virtual Reality in the Metaverse and Sexual Abuse’ <a href="http://www.kiiss.or.kr/journal/sub02.html/"> Intelligent Information System Conference </a> S.Korea (May.2022)<br>
 ▪ ‘Social Interactions in Virtual Reality and Human Rights’,<a href="https://www.humanrights.go.kr/base/main/view"> National Human Rights Commission of Korea </a>, S.Korea (Feb.2022)<br> 
 ▪ ‘Who Holds Copyright and Patent of AI-generated Content and Invention?’, <a href="https://aisummit.co.kr/"> AI Summit Seoul Conference</a>,COEX,S.Korea (Dec.2021)<br>
-▪ <a href="https://youthigf.in/2021/12/02/agenda/">‘Why AI Literacy is Critical for Algorithmic Governance?’,</a> Indian Youth Internet Governance Forum(Dec.2021)<br> 
+▪ ‘Why AI Literacy is Critical for Algorithmic Governance?’,<a href="https://youthigf.in"> Indian Youth Internet Governance Forum</a>(Dec.2021)<br> 
 ▪ <a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&where=subject%7Ctag&keyword=2021+%EA%B0%80%EC%9D%84&uid=1217/">‘NFTying Memes, Digital Arts Trading and Copyright Theft'</a> Korean Cybercomm Academic Society (Nov.2021) <br>
 ▪ ‘Business Insight: The Risk and Ethics of Artificial Intelligence’<a href="https://www.kma.or.kr/main.do"> Korea Management Association </a>(Nov.2021) <br>
 ▪ ‘Data Privacy:Federated Learning and the Limit of Differential Privacy’ Korea Internet Governance Forum (Aug.2021) <br>  
