@@ -149,7 +149,7 @@ title: "Eun Chang Choi 최은창"
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT </strong> <br>  
-▪ ‘Global AI Policy Trends and Korean AI Act’ invited by the Korean Policy Platform (April. 2024) <br>
+▪ ‘Global AI Policy Trends and Korea's AI Act on Text-Data-Mining and Deepfake Crimes’ invited by <a href="https://k-pol.org/">the Korean Policy Platform</a> (April. 2024) <br>
 ▪ ‘Seoul Dialogue on AI Ethics, Governance and Innovation’, Embassy of Canada + Korea Ministry of Foreign Affairs (March 2024) <br>
 ▪ ‘The EU AI Act: State of Play, Global Implications and How to Prepare for it’ organized by <a href="https://www.responsible.ai/"> Responsible AI Institute </a> (Feb. 2024) <br>
 ▪ ‘Global AI Governance Power Race / Fostering AI Literacy of Generative AI in Southeast Asian Countries’, Workshop on‘Emerging Policy Approaches to Generative Artificial Intelligence in ASEAN’, organized by USAID and the AI Asia Pacific Institute (Dec.2023) <br>
