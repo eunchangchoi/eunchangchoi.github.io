@@ -1,4 +1,4 @@
-r---
+---
 layout: archive
 permalink: /
 title: "Eun Chang Choi 최은창"
