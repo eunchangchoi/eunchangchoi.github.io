@@ -84,9 +84,10 @@ title: "Eun Chang Choi 최은창"
 ▪“Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration’s Approaches”,STEPI Fellowship Research Paper Series,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute of Korea</a> (2014)<br>
      <br>   
  <strong> TAUGHT COURSES & LECTURES</strong> <br>  
-▪ UNESCO UNITWIN Next Generation Training Program on AI, <a href="https://jiu.ac/"> Jakarta International University</a>, West Java, Indonesia (2023)  <br>
-▪‘Data and Algorithm Governance : Legal Cases’, Graduate School of Applied Big Data, Kyung Hee University, Seoul (2023) <br>
-▪ UNESCO UNITWIN Next Generation Training Program on AI, <a href="https://ur.ac.rw/"> University of Rwanda</a>+ Rwanda Polytechnic, Kigali, Rwanda (2023) <br>
+▪ UNESCO UNITWIN Next Generation Training Program on AI, Universidad Católica de San Pabl, Arequipa, Peru (2024) <br>
+▪ UNESCO UNITWIN Next Generation Training Program on AI, <a href="https://jiu.ac/"> Jakarta International University</a>, Indonesia (2023)  <br>
+▪‘Data and Algorithm Governance : Legal Cases’, Graduate School of Applied Big Data, Kyung Hee University, Seoul (2023, 2024) <br>
+▪ UNESCO UNITWIN Next Generation Training Program on AI, <a href="https://ur.ac.rw/"> University of Rwanda</a> Kigali, Rwanda (2023, 2) <br>
 ▪ <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx">‘AI: Ethics, Security, Personal Data and Governance’</a> ITU Academy of Centres of Excellence(CoE), Bangkok, Thailand (2019) <br>
 ▪ <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx"> ‘Artificial Intelligence: Overview and Applications’</a>, ITU Academy of Centres of Excellence(CoE), Bangkok, Thailand (2019) <br>
 ▪ ‘AI Governance’, Asia Pacific Internet Governance Academy(APIGA), organized by <a href="https://www.icann.org/">ICANN</a> & <a href="https://www.kisa.or.kr/EN"> KISA</a>, Seoul (2019)  <br>
@@ -99,6 +100,7 @@ title: "Eun Chang Choi 최은창"
 ▪ ‘International Electronic Commerce Law’, Graduate School of International Studies, Korea University, Seoul (2002-04) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
+▪ ‘The Futre of AI-generated Disinformation and Media Reality’,<a href="https://www.rwandaadma.com"> African Digital Media Academy</a>, Rwanda (June. 2024)<br>
 ▪ ‘Comparing EU AI Act & the U.S. Approach + Copyright Lawsuits against OpenAI’,<a href="https://generativeai.kr/program/"> Generative AI Seoul Conference</a> (Feb.2024)<br>
 ▪ ‘Deep Learning/Machine Learning Technology Revolution’, UNESCO-UNITWIN Conference on Global Enterprenership and Social Innovation, Pullman Jakarta Central Park, Indonesia (Nov.2023) <br>
 ▪ <a href="https://www.francezone.com/xe/hanweeklynews/2348404"> ‘AI-generated Disinformation War’</a>, Overseas Korean Journalists Association, Seoul Press Center, S.Korea (Oct.2023) <br>
