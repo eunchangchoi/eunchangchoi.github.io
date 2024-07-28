@@ -83,10 +83,10 @@ title: "Eun Chang Choi 최은창"
 ▪ “The U.S. Supreme Court’s Ruling on BRCA1/BRCA2 Gene Patent:Bioethical and Legal Implication”<a href="https://lst.go.kr/eng/index.do"> Korea National Institute for Bioethics Policy </a>(2014).Elected as an author through competition who undertook to write on the commissioned research paper.<br>  
 ▪“Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration’s Approaches”,STEPI Fellowship Research Paper Series,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute of Korea</a> (2014)<br>
      <br>   
- <strong> TAUGHT COURSES & LECTURES</strong> <br>  
+ <strong> COURSES TAUGHT </strong> <br>  
 ▪ UNESCO UNITWIN Next Generation Training Program on AI, Universidad Católica de San Pabl, Arequipa, Peru (2024) <br>
 ▪ UNESCO UNITWIN Next Generation Training Program on AI, <a href="https://jiu.ac/"> Jakarta International University</a>, Indonesia (2023)  <br>
-▪‘Governance on Data and AI Algorithms’, Graduate School of Applied Big Data, Kyung Hee University, Syllabus : https://t.ly/v-0Aq (2023, 2024) <br>
+▪‘Governance on Data and AI Algorithms’,Graduate School of Applied Big Data, Kyung Hee University, Syllabus : https://t.ly/v-0Aq (2023, 2024) <br>
 ▪ UNESCO UNITWIN Next Generation Training Program on AI, <a href="https://ur.ac.rw/"> University of Rwanda</a> Kigali, Rwanda (2023, 2) <br>
 ▪ <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx">‘AI: Ethics, Security, Personal Data and Governance’</a> ITU Academy of Centres of Excellence(CoE), Bangkok, Thailand (2019) <br>
 ▪ <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx"> ‘Artificial Intelligence: Overview and Applications’</a>, ITU Academy of Centres of Excellence(CoE), Bangkok, Thailand (2019) <br>
