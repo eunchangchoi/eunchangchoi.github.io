@@ -86,7 +86,8 @@ title: "Eun Chang Choi 최은창"
 ▪ “Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration’s Approaches”, STEPI Fellowship Research Paper Series,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute of Korea</a> (2014)<br>
      <br>   
  <strong> COURSES TAUGHT </strong> <br>  
-▪‘ Governaning Data and AI Algorithms’, Graduate School of Applied Big Data,<a href="https://www.khu.ac.kr/eng/user/main/view.do"> KyungHee University </a>,<a href="https://t.ly/IyU_W"> Syllabus</a> (2023, 2024) <br>
+▪‘Governaning Data and AI Algorithms’, Graduate School of Applied Big Data,<a href="https://www.khu.ac.kr/eng/user/main/view.do"> KyungHee University </a>,<a href="https://t.ly/IyU_W"> Syllabus</a> (2023, 2024) <br> 
+▪‘Data Privacy’, Graduate School of Applied Big Data,<a href="[https://bigdata21.khu.ac.kr/main/main.html"> KyungHee University </a> (2023, 2025) <br>
 ▪ UNESCO UNITWIN Next Generation Training Program on AI,<a href="https://ucsp.edu.pe/"> Universidad Católica de San Pablo</a>, Arequipa, Peru (2024) <br>
 ▪ UNESCO UNITWIN Next Generation Training Program on AI,<a href="https://jiu.ac/"> Jakarta International University</a>, Indonesia (2023)  <br>
 ▪ UNESCO UNITWIN Next Generation Training Program on AI, <a href="https://ur.ac.rw/"> University of Rwanda,</a> Kigali, Rwanda (2023, 2024) <br>
@@ -94,7 +95,7 @@ title: "Eun Chang Choi 최은창"
 ▪ <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx"> ‘Artificial Intelligence: Overview and Applications’</a>, ITU Academy of Centres of Excellence(CoE), Bangkok, Thailand (2019) <br>
 ▪ ‘AI Governance’, Asia Pacific Internet Governance Academy(APIGA), organized by <a href="https://www.icann.org/">ICANN</a> & <a href="https://www.kisa.or.kr/EN"> KISA</a>, Seoul (2019)  <br>
 ▪ ‘International Business Transaction Law’, Division of International Studies, Hanyang University, Seoul (2015) <br>
-▪ ‘Media Sphere and International Politics’, Department of Political Science, Konkuk University, Seoul (2013) <br>
+▪ ‘Media Sphere and International Politics’, Department of Political Science, Konkuk University, Seoul (2013,2014) <br>
 ▪ ‘International Intellectual Property Law’, Department of Law, Myongji University, Seoul (2012) <br>
 ▪ ‘Globalization, Poverty, Development and Law’, Graduate School of International Studies, Korea University (2012) <br>
 ▪ ‘The Global Information Society and its Policy’, Graduate School of International Studies, Korea University (2011) <br>
