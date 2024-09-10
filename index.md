@@ -102,7 +102,7 @@ title: "Eun Chang Choi 최은창"
 ▪ ‘International Electronic Commerce Law’, Graduate School of International Studies, Korea University, Seoul (2002-04) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
-▪‘ Global AI Governance Frameworks for Safety: What Latin America Needs to Prepares?', <a href="https://www2.ucsm.edu.pe/JINIS2024/"> The 31st International Systems Engineering Symposium </a>, Universidad Católica de Santa María, Arequipa, Peru (Sept. 2024) <br>
+▪‘ Global AI Governance Frameworks for Safety: What Latin America Needs to Prepare?', <a href="https://www2.ucsm.edu.pe/JINIS2024/"> The 31st International Systems Engineering Symposium </a>, Universidad Católica de Santa María, Arequipa, Peru (Sept. 2024) <br>
 ▪ ‘Unlocking AI Innovation: How to Leverage its Potential Addressing Hidden Technical Debt" Universidad de Lima, Peru (Sept. 2024) <br>
 ▪ ‘The Futre of AI-generated Disinformation and Media Reality’,<a href="https://www.rwandaadma.com"> African Digital Media Academy</a>, Rwanda (June. 2024)<br>
 ▪ ‘Comparing EU AI Act & the U.S. Approach + Copyright Lawsuits against OpenAI’,<a href="https://generativeai.kr/program/"> Generative AI Seoul Conference</a> (Feb.2024)<br>
