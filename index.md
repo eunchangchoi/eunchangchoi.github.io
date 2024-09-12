@@ -234,13 +234,13 @@ title: "Eun Chang Choi 최은창"
   
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>  
-   Law and Technology Policies on Emerging Technologies <br>
+   Law and Technology and Governance of Emerging Technological Risk <br> 
    Safety/ Bias/Fairness/(Mis)Alignment of Algorithms; Explainable AI <br>
-   The Global Governance of Artificial Intelligence; Regulating Advanced AI Agents <br>
-   Copyright Ownership of Content by Generative AI; AI-generated Disinformation War <br>
+   The Global Politics on Governaning Artificial Intelligence; Regulating Advanced AI Agents <br>
+   Copyright Law; Ownership of Data by Generative AI; AI-generated Disinformation War <br>
    Computational Law (Artificial Intelligence and Legal Reasoning) <br>
    Data Commons + AI for Sustainable Development(AI4Good); The Value of Open-source AI Models <br> 
-   Global Intellectual Property; Global Vaccine Access and Health Inequality; Genome Editing Patents <br>  
+   Global Intellectual Property Law; Global Vaccine Access and Health Inequality; Genome Editing Patents <br>  
   <br>
    <strong> CONTACT</strong> <br>   
    techlaw (at) khu.ac.kr ; eunchang.choi (at) aya.yale.edu ;  head (at) povertyinfo.org 
