@@ -73,7 +73,7 @@ title: "Eun Chang Choi 최은창"
 ▪ <a href="https://github.com/eunchangchoi/Presentations/blob/master/The_Truth_that_the_History_of%20Fake_News_Says_to_Us_EunChangChoi2020.pdf">“The Truth of the Long History of Fake News and Falsehoods”</a> Biweekly 企劃會議 Vol.518 (Aug.2020) <br>  
 ▪ “Algorithm Accountability in AI Systems” in<a href="https://www.yes24.com/Product/Goods/62006191?scode=032&OzSrank=2"><i> The Rise of AI and Power Shift in Global Politics,</i> </a> Publisher:Samin(三仁)(2018) <br> 
 ▪ <a href="https://nosmk.khealth.or.kr/nsk/user/extra/ntcc/nosmokeFile/fileView/jsp/Page.do?siteMenuIdx=81&dataNo=31&dataGr=4&fileNo=522&postIdx=562&level1Idx=8&level2Idx=31&datalv=1"> “California's Regulation on Flavored Tobacco Products:Menthol” </a>, Korea Health Promotion Institute (2018) <br>  
-▪ <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06673543"> “Algorithm Governance” </a><i> Future Horizon +</i> Vol.33 (2017 Summer), Science and Technology Policy Institute (2017) <br> 
+▪ <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06673543"> “Algorithm Governance” </a><i> The Future Horizon +</i> Vol.33 (2017 Summer), Science and Technology Policy Institute (2017) <br> 
 ▪ Book Translation <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788946062726&orderClick=LAH&Kc="> <i> The Internet of Things,</i> </a> Publisher: MIT Press(2015), Hanul MPlus(2017)<br> 
 ▪ Co-authored <a href="http://www.jksrnt.org/journal/view.html?doi=10.25055/JKSRNT.2016.7.2.74"> “Factors Associated with Use of Menthol Cigarettes of College Students and Male Workers” </a> Journal of the Korean Society for Research on Nicotine and Tobacco (July 2016)<br> 
 ▪ “Can Robots be Held Legally Responsible for Their Actions?”in <a href="https://bit.ly/3cT4dSs"><i> Does Technology Make Better Future: AI, the Fourth Industrial Revolution and Future of Humanity</i></a> by Science & Technology Policy Institute, Publisher:Random House Korea (2016) <br> 
@@ -105,7 +105,7 @@ title: "Eun Chang Choi 최은창"
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
 ▪ ‘Global AI Governance Frameworks for Safety: What Latin America Needs to Prepare?’, <a href="https://www2.ucsm.edu.pe/JINIS2024/"> The 31st International Systems Engineering Symposium </a>, Universidad Católica de Santa María, Arequipa, Peru (Sept. 2024) <br>
 ▪ ‘Unlocking AI Innovation: How to Leverage its Potential Addressing Hidden Technical Debt’ Universidad de Lima, Peru (Sept. 2024) <br>
-▪ ‘The Futre of AI-generated Disinformation and Media Reality’,<a href="https://www.rwandaadma.com"> African Digital Media Academy</a>, Rwanda (June. 2024)<br>
+▪ ‘The Phenomenon AI-generated Disinformation and Media Reality’,<a href="https://www.rwandaadma.com"> African Digital Media Academy</a>, Rwanda (June. 2024)<br>
 ▪ ‘Comparing EU AI Act & the U.S. Approach + Copyright Lawsuits against OpenAI’,<a href="https://generativeai.kr/program/"> Generative AI Seoul Conference</a> (Feb.2024)<br>
 ▪ ‘Deep Learning/Machine Learning Technology Revolution’, UNESCO-UNITWIN Conference on Global Enterprenership and Social Innovation, Pullman Jakarta Central Park, Indonesia (Nov.2023) <br>
 ▪ <a href="https://www.francezone.com/xe/hanweeklynews/2348404"> ‘AI-generated Disinformation War’</a>, Overseas Korean Journalists Association, Seoul Press Center, S.Korea (Oct.2023) <br>
