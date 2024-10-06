@@ -39,9 +39,9 @@ title: "Eun Chang Choi 최은창"
 <br>  
  <strong> ARTICLES, BOOKS & CHAPTERS </strong> <br>
 ▪ Book,<i> Algorithms as Social Instututions: Mitigating Systemic Harms from Flawed Algorithms</i> (forthcoming 2025) <br> 
-▪ “ Who Owns the Baby Shark Dance?: A Copyright Dispute in South Korea” Harvard Technology Review (forthcoming 2025) <br> 
-▪ “ Algorithm-dominant World and its Problem ” in a co-edited book <i> Coexistence of Humans and Machines </i> (forthcoming 2025) <br> 
-▪ <a href="https://alook.so/posts/54t4woG">“What Would Plato Make of ChatGPT that Generates False Content?”  </a> Alookso Magazine (March 2023) <br>
+▪ “Who Owns the Baby Shark Dance?: A Copyright Dispute in South Korea” Harvard Technology Review (forthcoming 2025) <br> 
+▪ Book Chapter,“The Pervasive Influence of Algorithms: Challenges and Implications” in <i> Coexistence of Humans and Machines </i> (forthcoming 2024) <br> 
+▪ <a href="https://alook.so/posts/54t4woG">“What Would Plato Make of ChatGPT that Generates False Content?” </a> Alookso Magazine (March 2023) <br>
 ▪ “Open-sourced mRNA COVID 19 Vaccine Manufacturing in Africa’s WHO Tech Hub” <a href="https://blog.naver.com/gp3project/222993202700"> Povertyinfo Blog</a>(Jan.2023) <br> 
 ▪ “Imbuing Democratic Values into the Democratization of Artificial Intelligence” Alookso Magazine <a href="https://alook.so/posts/q1tpJvM">1</a>, <a href="https://alook.so/posts/mbtE1zy"> 2</a>, <a href="https://alook.so/posts/KmtBEro">3 </a> (Dec.2022) <br> 
 ▪ <a href="https://www.technologyreview.kr/ai-%eb%af%bc%ec%a3%bc%ed%99%94%eb%a5%bc-%ec%9d%b4%eb%81%84%eb%8a%94-%eb%8c%80%ea%b7%9c%eb%aa%a8-%ed%98%91%ec%97%85-ai-%eb%aa%a8%eb%8d%b8/"> “Mass-Collaborative Open-Source Large AI Models Set to Lead AI Democratization” </a> MIT Technology Review (Nov.2022) <br>  
