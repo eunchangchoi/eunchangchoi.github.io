@@ -38,7 +38,7 @@ title: "Eun Chang Choi 최은창"
 
 <br>  
  <strong> ARTICLES, BOOKS & CHAPTERS </strong> <br>
-▪ Book,<i> Algorithms as Social Instututions: Mitigating Systemic Harms from Flawed Algorithms</i> (forthcoming 2025) <br> 
+▪ Book,<i> Algorithms as Social Instututions: Systemic Harms from Flawed Algorithms and Blind Trust</i> (forthcoming 2025) <br> 
 ▪ “Who Owns the Baby Shark Dance?: A Copyright Dispute in South Korea” Harvard Technology Review (forthcoming 2025) <br> 
 ▪ Chapter,“The Algorithm-driven World and its Implications on Equity” in <i> Coexistence of Humans and Machines </i> (forthcoming 2024) <br> 
 ▪ <a href="https://alook.so/posts/54t4woG">“What Would Plato Make of ChatGPT that Generates False Content?” </a> Alookso Magazine (March 2023) <br>
