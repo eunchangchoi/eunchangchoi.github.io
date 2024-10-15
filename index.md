@@ -158,7 +158,7 @@ title: "Eun Chang Choi 최은창"
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT </strong> <br>  
-▪ ‘Policy Discussion on Machine readable Text-Data-Mining (TDM) and Copyrights’ invited by <a href="https://k-pol.org/"> Korean Policy Platform</a> (April. 2024) <br>
+▪ ‘Policy Discussion on Machine readable Text Data Mining (TDM) and Copyrights’ invited by <a href="https://k-pol.org/"> Korean Policy Platform</a> (April. 2024) <br>
 ▪ ‘Seoul Dialogue on AI Ethics, Governance and Innovation’, Embassy of Canada + Korea Ministry of Foreign Affairs (March 2024) <br>
 ▪ ‘The EU AI Act: State of Play, Global Implications and How to Prepare for it’ organized by <a href="https://www.responsible.ai/"> Responsible AI Institute </a> (Feb. 2024) <br>
 ▪ ‘Global AI Governance Power Race / Fostering AI Literacy of Generative AI in Southeast Asian Countries’, Workshop on‘Emerging Policy Approaches to Generative Artificial Intelligence in ASEAN’, organized by USAID and the AI Asia Pacific Institute (Dec.2023) <br>
@@ -205,7 +205,7 @@ title: "Eun Chang Choi 최은창"
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>   
-▪ <a href="https://www.seoul.co.kr/news/editOpinion/opinion/issue-korea/2024/04/22/20240422025001">“AI Policy to Address Copyright Controversies regarding Text-Data-Mining and Deepfakes”</a>, Seoul Shinmun (April.22, 2024) <br>
+▪ <a href="https://www.seoul.co.kr/news/editOpinion/opinion/issue-korea/2024/04/22/20240422025001">“AI Policy on Copyright Controversies regarding Text Data Mining and Deepfakes”</a>, Seoul Shinmun (April.22, 2024) <br>
 ▪  <a href="https://www.christiantoday.co.kr/news/358424"> “UNESCO Conference on Global Enterprenership and Social Innovation in Jakarta”,</a> Christian Today (Nov.30,2023)<br>
 ▪  <a href="https://it.chosun.com/news/articleView.html?idxno=2023072603892"> “AI-focused Next Generation Entrepreneurship Program by Impactive AI”, </a> IT Chosun (July.26,2023) <br>
 ▪  <a href="https://www.etnews.com/20230531000207"> “Evaluation of Data Privacy and Value of Multilingual Translation Corpora,”</a> Patent News (May 30,2023) <br>
