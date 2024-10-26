@@ -104,9 +104,9 @@ title: "Eun Chang Choi 최은창"
 ▪ ‘International Electronic Commerce Law’, Graduate School of International Studies, Korea University, Seoul (2002-04) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
-▪ ‘Global AI Governance Frameworks for Risk Control and Safety: What Latin America Needs to Prepare?’, <a href="https://www2.ucsm.edu.pe/JINIS2024/"> The 31st International Systems Engineering Symposium (JINIS) </a>, Universidad Católica de Santa María, Peru (Sept. 2024) <br>
+▪ ‘Global AI Governance Frameworks for Risk Control and Safety: What Latin America Needs to Prepare?’, <a href="https://www2.ucsm.edu.pe/JINIS2024/"> The 31st International Systems Engineering Symposium (JINIS) </a>, <a href="https://www.ucsm.edu.pe/"> Universidad Católica de Santa María,</a> Peru (Sept. 2024) <br>
 ▪ ‘AI for Social Good: Leveraging AI for Sustainable Development Goals’ Universidad Católica de Santa María, Peru (Sept. 2024) <br>
-▪ ‘Unlocking AI Innovation: How to Leverage its Potential Addressing Hidden Technical Debt’ Universidad de Lima, Peru (Sept. 2024) <br>
+▪ ‘Unlocking AI Innovation: How to Leverage its Potential Addressing Hidden Technical Debt’ <a href="https://www.ulima.edu.pe/"> Universidad de Lima,</a> Peru (Sept. 2024) <br>
 ▪ ‘The Phenomenon AI-generated Disinformation and Media Reality’,<a href="https://www.rwandaadma.com"> African Digital Media Academy</a>, Rwanda (June. 2024)<br>
 ▪ ‘Comparing EU AI Act & the U.S. Approach + Copyright Lawsuits against OpenAI’,<a href="https://generativeai.kr/program/"> Generative AI Seoul Conference</a> (Feb.2024)<br>
 ▪ ‘Deep Learning/Machine Learning Technology Revolution’, UNESCO-UNITWIN Conference on Global Enterprenership and Social Innovation, Pullman Jakarta Central Park, Indonesia (Nov.2023) <br>
