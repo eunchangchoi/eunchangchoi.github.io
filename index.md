@@ -106,11 +106,11 @@ title: "Eun Chang Choi 최은창"
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
 ▪ ‘Global AI Governance Frameworks for Risk Control and Safety: What Latin America Needs to Prepare?’, <a href="https://www2.ucsm.edu.pe/JINIS2024/"> The 31st International Systems Engineering Symposium (JINIS) </a>, <a href="https://www.ucsm.edu.pe/"> Universidad Católica de Santa María,</a> Peru (Sept. 2024) <br>
 ▪ ‘AI for Social Good: Leveraging AI for Sustainable Development Goals’ Universidad Católica de Santa María, Peru (Sept. 2024) <br>
-▪ ‘Unlocking AI Innovation: How to Leverage its Potential Addressing Hidden Technical Debt’ <a href="https://www.ulima.edu.pe/"> Universidad de Lima,</a> Peru (Sept. 2024) <br>
+▪ ‘Unlocking AI Innovation: How to Leverage its Potential Addressing Hidden Technical Debt’ <a href="https://www.ulima.edu.pe/">, Universidad de Lima,</a> Peru (Sept. 2024) <br>
 ▪ ‘The Phenomenon AI-generated Disinformation and Media Reality’,<a href="https://www.rwandaadma.com"> African Digital Media Academy</a>, Rwanda (June. 2024)<br>
 ▪ ‘Comparing EU AI Act & the U.S. Approach + Copyright Lawsuits against OpenAI’,<a href="https://generativeai.kr/program/"> Generative AI Seoul Conference</a> (Feb.2024)<br>
 ▪ ‘Deep Learning/Machine Learning Technology Revolution’, UNESCO-UNITWIN Conference on Global Enterprenership and Social Innovation, Pullman Jakarta Central Park, Indonesia (Nov.2023) <br>
-▪ <a href="https://www.francezone.com/xe/hanweeklynews/2348404"> ‘AI-generated Disinformation War’</a>, Overseas Korean Journalists Association, Seoul Press Center, S.Korea (Oct.2023) <br>
+▪ <a href="https://www.francezone.com/xe/hanweeklynews/2348404"> ‘AI-generated Disinformation War’</a>, <a href="https://www.okja.org/"> Overseas Korean Journalists Association </a>, Seoul Press Center, S.Korea (Oct.2023) <br>
 ▪ ‘AI in Asia-Pacific: Charting a Path for Responsible Innovation’ <a href="https://forms.for.asia/proposal/?proposalform=NjQ1N2JkN2I4YmY3Yi8vMjMvLzEyNTQvLzA="> 2023 APrIGF </a> Brisbane, Australia (Aug.2023) <br>
 ▪ ‘AI-powered Image Synthesis: Copyrights and Fair Learning’, Korean Cybercomm Academic Society (May.2023) <br>
 ▪ ‘The Role of Data in Implementing Sustainable Development’, Research Conference of Science, Technology and innovations for Sustainable Development at Faculty of Computing, <a href="https://www.kdu.ac.lk/"> General John Kotelawala Defence University(KDU),</a> Sri Lanka (Jan.2023) <br>
