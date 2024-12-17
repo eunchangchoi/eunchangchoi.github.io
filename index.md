@@ -40,7 +40,7 @@ title: "Eun Chang Choi 최은창"
  <strong> ARTICLES, BOOKS & CHAPTERS </strong> <br>
 ▪ Book,<i> Algorithms as Social Instututions: Systemic Harms from Flawed Algorithms and Blind Trust</i> (forthcoming 2025) <br> 
 ▪ “Who Owns the Baby Shark Dance?: A Copyright Dispute in South Korea” Harvard Technology Review (forthcoming 2025) <br> 
-▪ Chapter,“The Algorithm-driven World and its Implications on Equity” in <i> Coexistence of Humans and Machines </i> (forthcoming 2024) <br> 
+▪ Chapter,“The Global AI Governance” in <i> Coexistence of Humans and Machines </i> (forthcoming 2024) <br> 
 ▪ <a href="https://alook.so/posts/54t4woG">“What Would Plato Make of ChatGPT that Generates False Content?” </a> Alookso Magazine (March 2023) <br>
 ▪ “Open-sourced mRNA COVID 19 Vaccine Manufacturing in Africa’s WHO Tech Hub” <a href="https://blog.naver.com/gp3project/222993202700"> Povertyinfo Blog</a>(Jan.2023) <br> 
 ▪ “Imbuing Democratic Values into the Democratization of Artificial Intelligence” Alookso Magazine <a href="https://alook.so/posts/q1tpJvM">1</a>, <a href="https://alook.so/posts/mbtE1zy"> 2</a>, <a href="https://alook.so/posts/KmtBEro">3 </a> (Dec.2022) <br> 
@@ -197,7 +197,7 @@ title: "Eun Chang Choi 최은창"
 ▪ Panelist, Workshop‘Artificial Intelligence: How to Create a Desired Future Society’, Korea Internet Governance Forum (July.2018) <br>
 ▪ Research trip to U.S.FDA and UCSF Tobacco Research Center with officials of Ministry of Health and Welfare of Korea (Aug.2018) <br> 
 ▪ Co-authored a Policy Report <a href="https://www.kisdi.re.kr/report/view.do?key=m2101113024770&arrMasterId=3934580&masterId=3934580&artId=520556">ICT-based Solutions to Social Problems in Intelligent Information Society(I)</a> <a href= "https://www.kisdi.re.kr/eng/index.do%20%20%20%20KISDI"> KISDI </a>(2017) <br>  
-▪ Organizer,‘Blockchain Paradigm:Information Security and Institutional Goverance’, Korea Internet Governance Forum (Sept.2017) <br>
+▪ Organizer,‘Blockchain Paradigm:Information Security and Institutional Governance’, Korea Internet Governance Forum (Sept.2017) <br>
 ▪ <a href="https://blog.naver.com/gp3project/221112176044">‘Blockchain Technology, the Unbanked and Financial Inclusion’</a> Povertyinfo.org blog (Oct.2017)<br>
 ▪ Moderator,‘IoT Governance: Data Privacy & Security Policy’, Korea Internet Governance Forum, Sejong Univ (Sept.2016) <br>
 ▪ Member, The Expert Council of Robot Ethics at <a href="https://kiria.org/eng"> Korea Institute for Robot Industry Advancement</a> <br>
