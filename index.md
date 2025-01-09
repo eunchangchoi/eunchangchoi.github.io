@@ -87,8 +87,8 @@ title: "Eun Chang Choi 최은창"
 ▪ “Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration’s Approaches”, STEPI Fellowship Research Paper Series,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute of Korea</a> (2014)<br>
      <br>   
  <strong> COURSES TAUGHT </strong> <br>  
-▪‘Data and AI Governance’, Graduate School of Big Data Analytics,<a href="https://www.khu.ac.kr/eng/user/main/view.do"> KyungHee Univ </a>,<a href="https://t.ly/IyU_W"> Syllabus</a> (2023, 2024) <br> 
-▪‘Data Privacy and Information Law’, Graduate School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> KyungHee University</a>, Seoul (2023,2025) <br>
+▪‘AI and Algorithmic Governance’, Graduate School of Big Data Analytics,<a href="https://www.khu.ac.kr/eng/user/main/view.do"> KyungHee University </a>,<a href="https://t.ly/IyU_W"> Syllabus</a> (2023, 2024) <br> 
+▪‘Data Ethics and Information Law’, Graduate School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> KyungHee University</a>, Seoul (2023,2025) <br>
 ▪ UNESCO UNITWIN Next Generation Training Program on AI,<a href="https://ucsp.edu.pe/"> Universidad Católica de San Pablo</a>, Arequipa, Peru (2024) <br>
 ▪ UNESCO UNITWIN Next Generation Training Program on AI,<a href="https://jiu.ac/"> Jakarta International University</a>, Indonesia (2023)  <br>
 ▪ UNESCO UNITWIN Next Generation Training Program on AI, <a href="https://ur.ac.rw/"> University of Rwanda,</a> Kigali, Rwanda (2023, 2024) <br>
