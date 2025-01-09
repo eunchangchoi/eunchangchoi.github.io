@@ -225,7 +225,7 @@ title: "Eun Chang Choi 최은창"
 ▪ <a href="https://soundcloud.com/zion-lee-310060380/digikorea#t=22:52">“COVID 19 Contact Tracing, Legality, and Privacy Risk in S.Korea”</a>, Interviewed with Sciences Po, France(Nov.2020) <br>  
 ▪<a href="http://www.aitimes.com/news/articleView.html?idxno=133368">“AI Governance Forum pose to discuess AI policy suggestion”</a>, AI Times (Nov. 2020)<br>  
 ▪<a href="https://www.mk.co.kr/news/economy/view/2020/10/1097127/">“Blockchain for Anti-Corruption and Financial Inclusion for the Unbanked”</a> Maeil Business News (Oct. 2020)<br>  
-▪ <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=192351"> “COVID-19 Contact Tracing and Data Retention”</a> MediaUs (Sept.2020) <br>  
+▪ <a href="http://www.mediaus.co.kr/news/articleView.html?idxno=192351">“COVID-19 Contact Tracing and Data Retention”</a> MediaUs (Sept.2020) <br>  
 ▪ <a href="http://www.mediatoday.co.kr/news/articleView.html?idxno=208888">“South Korea’s Scope of Contact Tracing for COVID-19 and Social Stigma”</a> Media Today (Aug.2020)  <br>    
 ▪ <a href="https://www.diplomacy.edu/blog/will-algorithms-make-safe-decisions-foreign-affairs">“Will Algorithms Make Safe Decisions in Foreign Affairs?”</a> AI Lab, DiploFoundation, Geneva, Switzerland (Dec.2019) <br>
 ▪ <a href="https://dig.watch/sessions/session-fakenews"> “Fake News Session in the IGF”</a>, 2018 Internet Governance Forum Report by the Geneva Internet Platform (Nov.2018) <br>
@@ -236,12 +236,11 @@ title: "Eun Chang Choi 최은창"
   
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>  
-   Law and Technology Policy redarding Governancing Emerging Technological Risk <br> 
-   Safety/ Bias/Fairness/(Mis)Alignment of Algorithms; Explainable AI <br>
-   Artificial Intelligence and Legal Reasoning ; The Political Economy of Law <br>
-   The Global Politics on Governaning Artificial Intelligence; Regulating Advanced AI Agents <br>
+   Law and Technology Public Policy; AI Law ; Governancing Emerging Technological Risk <br> 
+   AI Safety, Bias, Fairness and (Mis)Alignment of Algorithms;  Regulating Advanced AI Agents <br>
+   The Global Politics on Governaning Artificial Intelligence; AI for Global South <br>
    Copyright Law; Ownership of Data by Generative AI; AI-generated Disinformation War <br>
-   Computational Law (Artificial Intelligence and Legal Reasoning) <br>
+   Computational Law (Artificial Intelligence and Legal Reasoning); Explainable AI <br>
    Data Commons + AI for Sustainable Development(AI4Good); The Value of Open-source AI Models <br> 
    Global Intellectual Property Law; Global Vaccine Access and Health Inequality; Genome Editing Patents <br>  
   <br>
