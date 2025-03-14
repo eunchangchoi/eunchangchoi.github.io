@@ -104,7 +104,7 @@ title: "Eun Chang Choi 최은창"
 ▪ ‘International Electronic Commerce Law’, Graduate School of International Studies, Korea University, Seoul (2002-04) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
-▪ ‘International Variation in Fair Use Criteria for Machine Learning: A Comparative Copyright Approach of Canada, Japan and the U.S.’, <a href="https://ipresearchersasia.org/annual-conference"> The 7th IP & Innovation Researchers of Asia Conference,</a> Faculty of Law, Waseda University,Tokyo (April 2025)<br>
+▪ ‘International Variation in Fair Use Criteria for Machine Learning: A Comparative Thoughts on Copyright in Canada, Japan and the U.S.’, <a href="https://ipresearchersasia.org/annual-conference"> The 7th IP & Innovation Researchers of Asia Conference,</a> Faculty of Law, Waseda University, Tokyo (April 2025)<br>
 ▪ ‘Global AI Governance Frameworks for Risk Control and Safety: What Latin America Needs to Prepare?’, <a href="https://www2.ucsm.edu.pe/JINIS2024/"> The 31st International Systems Engineering Symposium (JINIS) </a>, <a href="https://www.ucsm.edu.pe/"> Universidad Católica de Santa María,</a> Peru (Sept. 2024) <br>
 ▪ ‘How to Use Data Legitimately for Small and Midsize Enterprises (SMEs)?’, <a href="https://investigacion.ucsm.edu.pe/en/innicia-vri/"> Innicia Business Incubator</a>, UCSM, Peru (Sept. 2024) <br>
 ▪ ‘AI for Social Good: Leveraging AI for Sustainable Development Goals’ Universidad Católica de Santa María, Peru (Sept. 2024) <br>
