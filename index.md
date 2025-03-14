@@ -104,7 +104,9 @@ title: "Eun Chang Choi 최은창"
 ▪ ‘International Electronic Commerce Law’, Graduate School of International Studies, Korea University, Seoul (2002-04) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
+▪ ‘International Variation in Fair Use Criteria for Machine Learning: A Comparative Copyright Approach of Canada, Japan and the U.S.’, IP & Innovation Researchers of Asia Conference, Faculty of Law, Waseda University, Tokyo (April 2025)<br>
 ▪ ‘Global AI Governance Frameworks for Risk Control and Safety: What Latin America Needs to Prepare?’, <a href="https://www2.ucsm.edu.pe/JINIS2024/"> The 31st International Systems Engineering Symposium (JINIS) </a>, <a href="https://www.ucsm.edu.pe/"> Universidad Católica de Santa María,</a> Peru (Sept. 2024) <br>
+▪ ‘How to Use Data Legitimately for Small and Midsize Enterprise(SME)?’, <a href="https://investigacion.ucsm.edu.pe/en/innicia-vri/"> Innicia Business Incubator</a>, Universidad Católica de Santa María,</a> Peru (Sept. 2024) <br
 ▪ ‘AI for Social Good: Leveraging AI for Sustainable Development Goals’ Universidad Católica de Santa María, Peru (Sept. 2024) <br>
 ▪ ‘Unlocking AI Innovation: How to Leverage its Potential Addressing Hidden Technical Debt’ <a href="https://www.ulima.edu.pe/">, Universidad de Lima,</a> Peru (Sept. 2024) <br>
 ▪ ‘The Phenomenon AI-generated Disinformation and Media Reality’,<a href="https://www.rwandaadma.com"> African Digital Media Academy</a>, Rwanda (June. 2024)<br>
@@ -158,6 +160,7 @@ title: "Eun Chang Choi 최은창"
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT </strong> <br>  
+▪ ‘AI for a Better World: Unlocking Sustainable Development Goals’, Global Development Learning Network, <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a>(April. 2025) <br>
 ▪ ‘Policy Discussion on Machine readable Text Data Mining (TDM) and Copyrights’ invited by <a href="https://k-pol.org/"> Korean Policy Platform</a> (April. 2024) <br>
 ▪ ‘Seoul Dialogue on AI Ethics, Governance and Innovation’, Embassy of Canada + Korea Ministry of Foreign Affairs (March 2024) <br>
 ▪ ‘The EU AI Act: State of Play, Global Implications and How to Prepare for it’ organized by <a href="https://www.responsible.ai/"> Responsible AI Institute </a> (Feb. 2024) <br>
