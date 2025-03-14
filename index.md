@@ -160,7 +160,7 @@ title: "Eun Chang Choi 최은창"
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT </strong> <br>  
-▪ ‘AI for a Better World: Unlocking Sustainable Development Goals’, Global Development Learning Network, <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a>(April. 2025) <br>
+▪ ‘AI for a Better World: Unlocking Sustainable Development Goals’, lectured for government officials in the <a href="https://www.gdln.or.kr/main/"> Global Development Learning Network</a>, <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a>(April. 2025) <br>
 ▪ ‘Policy Discussion on Machine readable Text Data Mining (TDM) and Copyrights’ invited by <a href="https://k-pol.org/"> Korean Policy Platform</a> (April. 2024) <br>
 ▪ ‘Seoul Dialogue on AI Ethics, Governance and Innovation’, Embassy of Canada + Korea Ministry of Foreign Affairs (March 2024) <br>
 ▪ ‘The EU AI Act: State of Play, Global Implications and How to Prepare for it’ organized by <a href="https://www.responsible.ai/"> Responsible AI Institute </a> (Feb. 2024) <br>
