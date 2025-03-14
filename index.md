@@ -106,7 +106,7 @@ title: "Eun Chang Choi 최은창"
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
 ▪ ‘International Variation in Fair Use Criteria for Machine Learning: A Comparative Copyright Approach of Canada, Japan and the U.S.’, IP & Innovation Researchers of Asia Conference, Faculty of Law, Waseda University, Tokyo (April 2025)<br>
 ▪ ‘Global AI Governance Frameworks for Risk Control and Safety: What Latin America Needs to Prepare?’, <a href="https://www2.ucsm.edu.pe/JINIS2024/"> The 31st International Systems Engineering Symposium (JINIS) </a>, <a href="https://www.ucsm.edu.pe/"> Universidad Católica de Santa María,</a> Peru (Sept. 2024) <br>
-▪ ‘How to Use Data Legitimately for Small and Midsize Enterprise(SME)?’, <a href="https://investigacion.ucsm.edu.pe/en/innicia-vri/"> Innicia Business Incubator</a>, Universidad Católica de Santa María,</a> Peru (Sept. 2024) <br
+▪ ‘How to Use Data Legitimately for Small and Midsize Enterprises (SMEs)?’, <a href="https://investigacion.ucsm.edu.pe/en/innicia-vri/"> Innicia Business Incubator</a>, Universidad Católica de Santa María,</a> Peru (Sept. 2024) <br
 ▪ ‘AI for Social Good: Leveraging AI for Sustainable Development Goals’ Universidad Católica de Santa María, Peru (Sept. 2024) <br>
 ▪ ‘Unlocking AI Innovation: How to Leverage its Potential Addressing Hidden Technical Debt’ <a href="https://www.ulima.edu.pe/">, Universidad de Lima,</a> Peru (Sept. 2024) <br>
 ▪ ‘The Phenomenon AI-generated Disinformation and Media Reality’,<a href="https://www.rwandaadma.com"> African Digital Media Academy</a>, Rwanda (June. 2024)<br>
