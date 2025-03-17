@@ -161,7 +161,7 @@ title: "Eun Chang Choi 최은창"
      
  <strong> PUBLIC POLICY ENGAGEMENT </strong> <br>  
 ▪ ‘AI for a Better World: Unlocking Sustainable Development Goals’, lectured for government officials in the <a href="https://www.gdln.or.kr/main/"> Global Development Learning Network</a>, <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a>(April. 2025) <br>
-▪ Provided consultation to organizations for <a href="https://aitrustops.or.kr/web/main.do"> AI Trustworthiness Verification (CAT)</a> based on ISO/IEC 23894, ISO/IEC 42001 (Dec.2024) <br>
+▪ Provided consultation to organizations for <a href="https://aitrustops.or.kr/web/main.do?lang=ko"><i>AI Trustworthiness Verification</i> </a> based on ISO/IEC 23894, ISO/IEC 42001 (Dec.2024) <br>
 ▪ ‘Policy Discussion on Machine readable Text Data Mining (TDM) and Copyrights’ invited by <a href="https://k-pol.org/"> Korean Policy Platform</a> (April. 2024) <br>
 ▪ ‘Seoul Dialogue on AI Ethics, Governance and Innovation’, Embassy of Canada + Korea Ministry of Foreign Affairs (March 2024) <br>
 ▪ ‘The EU AI Act: State of Play, Global Implications and How to Prepare for it’ organized by <a href="https://www.responsible.ai/"> Responsible AI Institute </a> (Feb. 2024) <br>
@@ -182,7 +182,7 @@ title: "Eun Chang Choi 최은창"
 ▪ Advised for the Ethical Framework for Designing Home Healthcare AI Robotics, Seoul National University of Education (April. 2021)<br>
 ▪ Panelist, Main Session <a href="https://www.intgovforum.org/multilingual/content/igf-2020-main-session-nris-role-of-the-internet-in-emergency-situations">‘The Role of the Internet in Emergency Situations: COVID-19 ’</a>, Internet Governance Forum (Nov.2020) <br>  
 ▪ <a href="http://www.koica.go.kr/koica_kr/985/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa29pY2Ffa3IlMkYyOTMlMkYzNjM4NTklMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2"> ‘Blockchain for Humanity and Development Agenda’</a>, <a href="http://www.koica.go.kr/sites/koica_en/index.do"> Korea International Cooperation Agency </a>, <a href="https://youtu.be/BunQy8hsnVQ?t=5742"> Video </a> (Oct.2020)<br> 
-▪ Provided consultation to a government agency on Infodemic Scenarios of Disasters at National Disaster Management Research Institute (NDMRI) (May.2020)<br>
+▪ Provided consultation to a government agency on Infodemic Scenarios of Disasters at <a href="https://www.ndmi.go.kr/eng/main.do"> National Disaster Management Research Institute (NDMRI) </a>(May.2020)<br>
 ▪ Advised <a href="https://eng.kcc.go.kr/user/ehpMain.do"> Korea Communications Commission(KCC) </a> about Regulating AI Deepfakes in the Political Arena(Nov.2019) <br> 
 ▪ <a href="https://unidir.org/press-release/unidir-releases-major-new-report-data-risk-and-autonomous-systems">‘Autonomous Systems, Robustness and Data'</a> Interview with United Nations Institute for Disarmament Research (Nov.2020)<br>  
 ▪ Panelist,<a href="https://www.intgovforum.org/en/content/igf-2019-%E2%80%93-day-3-%E2%80%93-convention-hall-ii-%E2%80%93-emerging-technologies-and-their-interfaces-with">'Emerging Technologies Interfaces with Inclusion, Security and Human Rights’</a>, <a href="https://www.intgovforum.org/en/content/berlin-igf-messages"> UN IGF </a> Germany (Nov.2019)<br> 
