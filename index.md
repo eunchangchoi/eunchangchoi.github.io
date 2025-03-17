@@ -91,7 +91,7 @@ title: "Eun Chang Choi 최은창"
 ▪‘AI, Data & Algorithmic Governance’, Graduate School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> KyungHee University </a>,<a href="https://t.ly/IyU_W"> Syllabus</a> (2023, 2024) <br> 
 ▪ UNESCO UNITWIN Next Generation Training Program on AI,<a href="https://ucsp.edu.pe/"> Universidad Católica de San Pablo</a>, Arequipa, Peru (2024) <br>
 ▪ UNESCO UNITWIN Next Generation Training Program on AI,<a href="https://jiu.ac/"> Jakarta International University</a>, Indonesia (2023)  <br>
-▪ UNESCO UNITWIN Next Generation Training Program on AI, <a href="https://ur.ac.rw/"> University of Rwanda,</a> Kigali, Rwanda (2023, 2024) <br>
+▪ UNESCO UNITWIN Next Generation Training Program on AI, <a href="https://ur.ac.rw/"> University of Rwanda,</a> Kigali, Rwanda (2023, 2024, 2025) <br>
 ▪ <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx">‘AI: Ethics, Security, Personal Data and Governance’</a> ITU Academy of Centres of Excellence(CoE), Bangkok, Thailand (2019) <br>
 ▪ <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx"> ‘Artificial Intelligence: Overview and Applications’</a>, ITU Academy of Centres of Excellence(CoE), Bangkok, Thailand (2019) <br>
 ▪ ‘AI Governance’, Asia Pacific Internet Governance Academy(APIGA), organized by <a href="https://www.icann.org/">ICANN</a> & <a href="https://www.kisa.or.kr/EN"> KISA</a>, Seoul (2019)  <br>
@@ -109,7 +109,7 @@ title: "Eun Chang Choi 최은창"
 ▪ ‘How to Use Data Legitimately for Small and Midsize Enterprises (SMEs)?’, <a href="https://investigacion.ucsm.edu.pe/en/innicia-vri/"> Innicia Business Incubator</a>, UCSM, Peru (Sept. 2024) <br>
 ▪ ‘AI for Social Good: Leveraging AI for Sustainable Development Goals’ Universidad Católica de Santa María, Peru (Sept. 2024) <br>
 ▪ ‘Unlocking AI Innovation:How to Leverage its Potential Addressing Hidden Technical Debt’ <a href="https://www.ulima.edu.pe/">, Universidad de Lima,</a> Peru (Sept. 2024) <br>
-▪ ‘The Phenomenon AI-generated Disinformation and Media Reality’,<a href="https://www.rwandaadma.com"> African Digital Media Academy</a>, Rwanda (June. 2024)<br>
+▪ ‘The Phenomenon AI-generated Disinformation and Media Reality’,<a href="https://www.rwandaadma.com"> African Digital Media Academy</a>, Rwanda (June 2024)<br>
 ▪ ‘Comparing EU AI Act & the U.S. Approach + Copyright Lawsuits against OpenAI’,<a href="https://generativeai.kr/program/"> Generative AI Seoul Conference</a> (Feb.2024)<br>
 ▪ ‘Deep Learning/Machine Learning Technology Revolution’, UNESCO-UNITWIN Conference on Global Enterprenership and Social Innovation, Pullman Jakarta Central Park, Indonesia (Nov.2023) <br>
 ▪ <a href="https://www.francezone.com/xe/hanweeklynews/2348404">‘AI-generated Disinformation War’</a>, <a href="https://www.okja.org/"> Overseas Korean Journalists Association </a>, Seoul Press Center, S.Korea (Oct.2023) <br>
@@ -121,17 +121,17 @@ title: "Eun Chang Choi 최은창"
 ▪ Discussant, <a href="https://www.un.org/techenvoy/global-digital-compact"> Global Digital Compact for Corporate Sustainability</a>, organized by <a href="https://ap.rigf.asia/news/2022-program-schedule/"> UN IGF & APrIGF</a>, Singapore (Sept.2022)<br> 
 ▪ ‘AI for Public Good and Socio-economic Impacts’, ‘Why is Open Data Vital for UN Sustainable Development Goals?’ at Next Generation Entrepreneurship Training, <a href="https://unitwin.handong.edu/en/business/business01.php?PHPSESSID=69c02cb1186389da4b0fabb228f124c0"> UNESCO UNI-TWIN Program</a> Handong University, Gyeongju, S.Korea (Aug.2022) <br>
 ▪ ‘The Ethics of AI-Powered Voice Chatbots and Virtual Reality for Digital Afterlives’ and ‘The Global Treands and Issues of Robot Ethics’
- <a href="https://www.clawar.org/icres2022/technical-program"> International Conference on Robot Ethics and Standards</a>(ICRES) COEX, Seoul, S.Korea (July.2022)<br> 
-▪ ‘Metaverse as the Public Sphere and Its Role in Democracy: Platform Architecture, Data Privacy and Abuse’ <a href="https://ksaie.or.kr"> The Korean Society for Artificial Intelligence Ethics </a> & <a href="http://www.politics21.or.kr/"> The 21th Century Political Science Association </a>, Busan, S.Korea (May.2022)<br> 
-▪ ‘AI-Generated Virtual Reality in the Metaverse and Sexual Abuse’ <a href="http://www.kiiss.or.kr/journal/sub02.html/"> Intelligent Information System Conference </a> S.Korea (May.2022)<br>
+ <a href="https://www.clawar.org/icres2022/technical-program"> International Conference on Robot Ethics and Standards</a>(ICRES) COEX, Seoul, S.Korea (July 2022)<br> 
+▪ ‘Metaverse as the Public Sphere and Its Role in Democracy: Platform Architecture, Data Privacy and Abuse’ <a href="https://ksaie.or.kr"> The Korean Society for Artificial Intelligence Ethics </a> & <a href="http://www.politics21.or.kr/"> The 21th Century Political Science Association </a>, Busan, S.Korea (May 2022)<br> 
+▪ ‘AI-Generated Virtual Reality in the Metaverse and Sexual Abuse’ <a href="http://www.kiiss.or.kr/journal/sub02.html/"> Intelligent Information System Conference </a> S.Korea (May 2022)<br>
 ▪ ‘Social Interactions in Virtual Reality and Human Rights’,<a href="https://www.humanrights.go.kr/base/main/view"> National Human Rights Commission of Korea </a>, S.Korea (Feb.2022)<br> 
 ▪ ‘Who Holds Copyright and Patent of AI-generated Content and Invention?’, <a href="https://aisummit.co.kr/"> AI Summit Seoul Conference</a>,COEX,S.Korea (Dec.2021)<br>
 ▪ ‘Why AI Literacy is Critical for Algorithmic Governance?’,<a href="https://youthigf.in"> Indian Youth Internet Governance Forum</a>(Dec.2021)<br> 
 ▪ <a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&where=subject%7Ctag&keyword=2021+%EA%B0%80%EC%9D%84&uid=1217/">‘NFTying Memes, Digital Arts Trading and Copyright Theft'</a> Korean Cybercomm Academic Society (Nov.2021) <br>
 ▪ ‘Business Insight: The Risk and Ethics of Artificial Intelligence’<a href="https://www.kma.or.kr/main.do"> Korea Management Association </a>(Nov.2021) <br>
 ▪ ‘Data Privacy:Federated Learning and the Limit of Differential Privacy’ Korea Internet Governance Forum (Aug.2021) <br>  
-▪ ‘Risk Constructivism and Cultural Cognition’, <a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php">The Evolution of Technology in Society Conference </a>, SNU + <a href="https://www.kisa.or.kr"> KISA</a> (June.2021)<br>
-▪ ‘The Peril of Politicizing Science and Vaccine Hesitancy’, Graduate School of Public Health, Yonsei Univ(June.2021)<br>
+▪ ‘Risk Constructivism and Cultural Cognition’, <a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php">The Evolution of Technology in Society Conference </a>, SNU + <a href="https://www.kisa.or.kr"> KISA</a> (June 2021)<br>
+▪ ‘The Peril of Politicizing Science and Vaccine Hesitancy’, Graduate School of Public Health, Yonsei Univ(June 2021)<br>
 ▪ ‘The Role of Experts Witness in Toxic Tort Claims: Proof of Harm in Tobacco’ Korean Society for Research on Nicotine (May.2021)<br>
 ▪ ‘Ethical AI: A New Corporate Social Responsibility’,<a href="https://aisummit.co.kr/?lang=en"> AI Summit Seoul Conference</a>, COEX, S.Korea (Dec.2020)<br> 
 ▪ <a href="http://www.cybercom.or.kr/?m=bbs&bid=notice_&uid=1134">‘Blockchain in Media Value Chain and Copyrights Management’</a>, Korean Cybercomm Academic Society (Nov.2020)<br>           
@@ -160,9 +160,9 @@ title: "Eun Chang Choi 최은창"
   <br>
      
  <strong> PUBLIC POLICY ENGAGEMENT </strong> <br>  
-▪ ‘AI for a Better World: Unlocking Sustainable Development Goals’, lectured for government officials in the <a href="https://www.gdln.or.kr/main/"> Global Development Learning Network</a>,<a href="https://www.kdischool.ac.kr/"> organized by KDI School of Public Policy and Management</a> (April. 2025) <br>
+▪ ‘AI for a Better World: Unlocking Sustainable Development Goals’, lectured for government officials in the <a href="https://www.gdln.or.kr/main/"> Global Development Learning Network</a>, organized by <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a> (April 2025) <br>
 ▪ Provided consultation to organizations for <a href="https://aitrustops.or.kr/web/main.do?lang=ko"><i>AI Trustworthiness Verification</i> </a> based on ISO/IEC 23894, ISO/IEC 42001 (Dec.2024) <br>
-▪ ‘Policy Discussion on Machine readable Text Data Mining (TDM) and Copyrights’ invited by <a href="https://k-pol.org/"> Korean Policy Platform</a> (April. 2024) <br>
+▪ ‘Policy Discussion on Machine readable Text Data Mining (TDM) and Copyrights’ invited by <a href="https://k-pol.org/"> Korean Policy Platform</a> (April 2024) <br>
 ▪ ‘Seoul Dialogue on AI Ethics, Governance and Innovation’, Embassy of Canada + Korea Ministry of Foreign Affairs (March 2024) <br>
 ▪ ‘The EU AI Act: State of Play, Global Implications and How to Prepare for it’ organized by <a href="https://www.responsible.ai/"> Responsible AI Institute </a> (Feb. 2024) <br>
 ▪ ‘Global AI Governance Power Race / Fostering AI Literacy of Generative AI in Southeast Asian Countries’, Workshop on‘Emerging Policy Approaches to Generative Artificial Intelligence in ASEAN’, organized by USAID and the AI Asia Pacific Institute (Dec.2023) <br>
@@ -177,9 +177,9 @@ title: "Eun Chang Choi 최은창"
 ▪ Panelist,‘Myanmar's Internet Suppression and Democracy after Military Coup’ Korea Internet Governance Forum (Aug.2021) <br>  
 ▪ <a href="https://ap.rigf.asia/fellowship/2021/introducing-the-mentors-of-2021-fellowship-program/?fbclid=IwAR2pn3lY-fE0daHxOW4vCcvk0HX-zwFHd8uJxaPnT266Hn7BOkA52UudjMw"> Mentoring</a> for Fellows,<a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum</a> & <a href="https://www.apsig.asia/"> APSIG </a>(2023 Australia; 2022 Singapore; 2021 Nepal)<br> 
 ▪ <a href="https://www.asiae.co.kr/article/2021081610112312900">Fear and Misinformation in the Cultural History of Epidemics’</a>, <a href="https://opengov.seoul.go.kr/mediahub/20417385"> Citizen University, Seoul Metropolitan Government </a> (Aug.2021) <br> 
-▪ Invited author talk <a href="https://youtu.be/mRsfLzJmdj8?t=15">‘Disinformation, Lies and Political Propaganda on Social Media’</a> at <a href="https://factchecker.or.kr/notices/225"> the Factcheck Week,</a> organized by <a href="https://edu.kcmf.or.kr/main/index.jsp"> the Community Media Foundation </a> and Korea Communications Commission (KCC)(April. 2021) <br>
+▪ Invited author talk <a href="https://youtu.be/mRsfLzJmdj8?t=15">‘Disinformation, Lies and Political Propaganda on Social Media’</a> at <a href="https://factchecker.or.kr/notices/225"> the Factcheck Week,</a> organized by <a href="https://edu.kcmf.or.kr/main/index.jsp"> the Community Media Foundation </a> and Korea Communications Commission (KCC)(April 2021) <br>
 ▪ Panelist, Asian Pacific Table-top Exercise on the Human Element in Autonomous Weapon Systems,<a href="http://unidir.org"> UNDIR </a> (Feb.2021)<br>
-▪ Advised for the Ethical Framework for Designing Home Healthcare AI Robotics, Seoul National University of Education (April. 2021)<br>
+▪ Advised for the Ethical Framework for Designing Home Healthcare AI Robotics, Seoul National University of Education (April 2021)<br>
 ▪ Panelist, Main Session <a href="https://www.intgovforum.org/multilingual/content/igf-2020-main-session-nris-role-of-the-internet-in-emergency-situations">‘The Role of the Internet in Emergency Situations: COVID-19 ’</a>, Internet Governance Forum (Nov.2020) <br>  
 ▪ <a href="http://www.koica.go.kr/koica_kr/985/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGa29pY2Ffa3IlMkYyOTMlMkYzNjM4NTklMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2"> ‘Blockchain for Humanity and Development Agenda’</a>, <a href="http://www.koica.go.kr/sites/koica_en/index.do"> Korea International Cooperation Agency </a>, <a href="https://youtu.be/BunQy8hsnVQ?t=5742"> Video </a> (Oct.2020)<br> 
 ▪ Provided consultation to a government agency on Infodemic Scenarios of Disasters at <a href="https://www.ndmi.go.kr/eng/main.do"> National Disaster Management Research Institute (NDMRI) </a>(May.2020)<br>
@@ -209,7 +209,7 @@ title: "Eun Chang Choi 최은창"
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>   
-▪ <a href="https://www.seoul.co.kr/news/editOpinion/opinion/issue-korea/2024/04/22/20240422025001">“AI Policy on Copyright Controversies regarding Text Data Mining and Deepfakes”</a>, Seoul Shinmun (April.22, 2024) <br>
+▪ <a href="https://www.seoul.co.kr/news/editOpinion/opinion/issue-korea/2024/04/22/20240422025001">“AI Policy on Copyright Controversies regarding Text Data Mining and Deepfakes”</a>, Seoul Shinmun (April 22, 2024) <br>
 ▪  <a href="https://www.christiantoday.co.kr/news/358424"> “UNESCO Conference on Global Enterprenership and Social Innovation in Jakarta”,</a> Christian Today (Nov.30,2023)<br>
 ▪  <a href="https://it.chosun.com/news/articleView.html?idxno=2023072603892"> “AI-focused Next Generation Entrepreneurship Program by Impactive AI”, </a> IT Chosun (July.26,2023) <br>
 ▪  <a href="https://www.etnews.com/20230531000207"> “Evaluation of Data Privacy and Value of Multilingual Translation Corpora,”</a> Patent News (May 30,2023) <br>
