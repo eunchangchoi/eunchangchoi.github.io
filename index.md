@@ -159,8 +159,9 @@ title: "Eun Chang Choi 최은창"
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">‘Net Neuteality in the new ICT Ecosystem :Zero-rating’</a> OpenNet Korea, Seoul (2015) <br>
   <br>
      
- <strong> PUBLIC POLICY ENGAGEMENT </strong> <br>  
+ <strong> CONSULTING & PUBLIC POLICY ENGAGEMENT </strong> <br>  
 ▪ ‘AI for a Better World: Unlocking Sustainable Development Goals’, lectured for government officials in the <a href="https://www.gdln.or.kr/main/"> Global Development Learning Network(GDLN) </a>, organized by <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a> S.Korea (April 2025) <br>
+▪ Led the <a href="https://aitrustops.or.kr/web/main.do"> ‘AI Trustworthiness Vertification’(TTA)</a> process for Impactive AI, focusing on the AI governance framework and product reliability, in accordance with ISO/IEC 23894:2023, ISO/IEC 42001: 2023, the NIST AI Risk Management Framework (Dec. 2024) <br>
 ▪ Provided consultation to organizations for <a href="https://aitrustops.or.kr/web/main.do?lang=ko"><i>AI Trustworthiness Verification</i> </a> based on ISO/IEC 23894, ISO/IEC 42001 (Dec.2024) <br>
 ▪ ‘Policy Discussion on Machine readable Text Data Mining (TDM) and Copyrights’ invited by <a href="https://k-pol.org/"> Korean Policy Platform</a> (April 2024) <br>
 ▪ ‘Seoul Dialogue on AI Ethics, Governance and Innovation’, Embassy of Canada + Korea Ministry of Foreign Affairs (March 2024) <br>
