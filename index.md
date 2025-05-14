@@ -240,7 +240,7 @@ title: "Eun Chang Choi 최은창"
   
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>  
-   Law and Policy for Trustworthy AI System; Governancing Emerging Technological Risk <br> 
+   Law and Policy for Trustworthy AI System; Governance of Emerging Technological Risk <br> 
    AIMS (Artificial Intelligence Management Systems) — Privacy, Bias, Security, Inequality, Safety  <br>
    Regulating Advanced AI Agents; Algorithmic Social Order; (Mis)Alignment of Algorithms <br>
    The Global Politics on Governaning Artificial Intelligence; AI for Global South <br>
