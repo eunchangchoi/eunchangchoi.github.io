@@ -241,7 +241,7 @@ title: "Eun Chang Choi 최은창"
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>  
    Law and Policy for Trustworthy AI System; Governance of Emerging Technological Risk <br> 
-   Regulating Advanced AI Agents; Algorithmic Social Order; (Mis)Alignment of Algorithms <br>
+   Regulating Advanced AI Agents; Artificial Intelligence Risk Regulation; (Mis)Alignment of Algorithms <br>
    AI GRC (Governance, Risk Management, Compliance) Framework <br>
    AIMS (Artificial Intelligence Management Systems) — Privacy, Bias, Security, Inequality, Safety  <br>
    The Global Politics on Governing Artificial Intelligence; AI for the Global South <br>
