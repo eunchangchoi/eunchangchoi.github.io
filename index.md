@@ -87,11 +87,11 @@ title: "Eun Chang Choi 최은창"
 ▪ “Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration’s Approaches”, STEPI Fellowship Research Paper Series,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute of Korea</a> (2014)<br>
      <br>   
  <strong> COURSES TAUGHT </strong> <br>  
-▪‘Information Systems Security and Data Ethics’, Graduate School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> KyungHee University</a>, Seoul (2025)<br>
-▪‘AI, Data & Algorithmic Governance’, Graduate School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> KyungHee University </a>,<a href="https://t.ly/IyU_W"> Syllabus</a> (2023, 2024) <br> 
+▪‘Information Systems Security and Data Ethics’, Graduate School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> KyungHee University</a>, Seoul, S.Korea (2025)<br>
+▪‘AI, Data & Algorithmic Governance’, Graduate School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> KyungHee University </a>,<a href="https://t.ly/IyU_W"> Syllabus</a> (2023, 2024, 2025) <br> 
 ▪ UNESCO UNITWIN Next Generation Training Program on AI,<a href="https://ucsp.edu.pe/"> Universidad Católica de San Pablo</a>, Arequipa, Peru (2024) <br>
 ▪ UNESCO UNITWIN Next Generation Training Program on AI,<a href="https://jiu.ac/"> Jakarta International University</a>, Indonesia (2023)  <br>
-▪ UNESCO UNITWIN Next Generation Training Program on AI, <a href="https://ur.ac.rw/"> University of Rwanda,</a> Kigali, Rwanda (2023, 2024, 2025) <br>
+▪ UNESCO UNITWIN Next Generation Training Program on AI, <a href="https://ur.ac.rw/"> University of Rwanda</a>, <a href="https://www.iprckigali.rp.ac.rw">IPRC Kigali Rwanda Polytechnic </a> Kigali, Rwanda (2023, 2024, 2025) <br>
 ▪ <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx">‘AI: Ethics, Security, Personal Data and Governance’</a> ITU Academy of Centres of Excellence(CoE), Bangkok, Thailand (2019) <br>
 ▪ <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx"> ‘Artificial Intelligence: Overview and Applications’</a>, ITU Academy of Centres of Excellence(CoE), Bangkok, Thailand (2019) <br>
 ▪ ‘AI Governance’, Asia Pacific Internet Governance Academy(APIGA), organized by <a href="https://www.icann.org/">ICANN</a> & <a href="https://www.kisa.or.kr/EN"> KISA</a>, Seoul (2019)  <br>
@@ -104,6 +104,8 @@ title: "Eun Chang Choi 최은창"
 ▪ ‘International Electronic Commerce Law’, Graduate School of International Studies, Korea University, Seoul (2002-04) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
+▪ ‘AI for Africa : Open-Weight, Vertical Small LLMs, Sovereignty and Suggestions for Rwanda's AI Ecosystem’, Norskken House in Kigali, invited by Ministry of ICT and Innovation, Rwanda (July 31, 2025) <br>
+▪ ‘Evolution of Medical LLMs for Public Healthcare in Africa and its Limitations’, the Centre of Excellence in Biomedical Engineering and e-Health, University of Rwanda (July 30, 2025) <br>
 ▪ ‘International Variations in Fair Use Criteria for Machine Learning: Comparative Thoughts on Copyright in Canada, Japan, and the U.S’, <a href="https://ipresearchersasia.org/annual-conference"> The 7th IP & Innovation Researchers of Asia Conference,</a> Faculty of Law, Waseda University, Tokyo (April 2025)<br>
 ▪ ‘Global AI Governance Frameworks for Risk Control and Safety: What Latin America Needs to Prepare?’, <a href="https://www2.ucsm.edu.pe/JINIS2024/"> The 31st International Systems Engineering Symposium (JINIS) </a>, <a href="https://www.ucsm.edu.pe/"> Universidad Católica de Santa María,</a> Peru (Sept. 2024) <br>
 ▪ ‘How to Use Data Legitimately for Small and Midsize Enterprises (SMEs)?’, <a href="https://investigacion.ucsm.edu.pe/en/innicia-vri/"> Innicia Business Incubator</a>, UCSM, Peru (Sept. 2024) <br>
@@ -160,7 +162,7 @@ title: "Eun Chang Choi 최은창"
   <br>
      
  <strong> CONSULTING & PUBLIC POLICY ENGAGEMENT </strong> <br>  
-▪ ‘AI for a Better World: Unlocking Sustainable Development Goals’, lectured for government officials in the <a href="https://www.gdln.or.kr/main/"> Global Development Learning Network(GDLN) </a>, organized by <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a> S.Korea (April 2025) <br>
+▪ ‘AI for a Better World: Unlocking Sustainable Development Goals’, lectured for government officials of low-income countries, <a href="https://www.gdln.or.kr/main/"> Global Development Learning Network(GDLN) </a>, organized by <a href="https://www.kdischool.ac.kr/"> KDI School of Public Policy and Management</a> S.Korea (April 2025) <br>
 ▪ Led the <a href="https://aitrustops.or.kr/web/main.do"> ‘AI Trustworthiness Vertification’(TTA)</a> process for Impactive AI, focusing on the AI governance framework and product reliability, in accordance with <a href="https://cdn.standards.iteh.ai/samples/77304/cb803ee4e9624430a5db177459158b24/ISO-IEC-23894-2023.pdf"> ISO/IEC 23894</a>, <a href="https://cdn.standards.iteh.ai/samples/81230/4c1911ebc9a641fcb6ee21aa09c28ad3/ISO-IEC-42001-2023.pdf"> ISO/IEC 42001,</a> and the  <a href="https://www.nist.gov/itl/ai-risk-management-framework"> NIST AI Risk Management Framework</a>(Dec.2024) <br> 
 ▪ ‘Policy Discussion on Machine readable Text Data Mining (TDM) and Copyrights’ invited by <a href="https://k-pol.org/"> Korean Policy Platform</a> (April 2024) <br>
 ▪ ‘Seoul Dialogue on AI Ethics, Governance and Innovation’, Embassy of Canada + Korea Ministry of Foreign Affairs (March 2024) <br>
