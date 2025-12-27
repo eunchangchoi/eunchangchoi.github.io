@@ -250,7 +250,7 @@ title: "Eun Chang Choi 최은창"
    AI Law, Government, and Policy (Privacy, Data Protection, Emotional Recognition, Social Discrimination, Misuse) <br> 
    AI GRC (Governance, Risk Management, Compliance) Framework; Accountability of Agentic AI Systems <br>
    Global AI Safety Governance, Technology Standards & International Politics <br>  
-   Emerging LLM Vulnerabilities: Deceptive Alignment, Faking, and Reward Hacking <br>
+   LLM Vulnerabilities and Security Risks: Deceptive Alignment, Faking, and Reward Hacking <br>
    Copyright Disputes with Generative AI; AI Inventorship; Disinformation Warfare with AI <br>
    Computational Law (Artificial Intelligence and Legal Reasoning); AI in the Courtroom <br> 
    AI for Sustainable Development(AI4Good); Open-weight AI Ecosystem for the Global South <br> 
