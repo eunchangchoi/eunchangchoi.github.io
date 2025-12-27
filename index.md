@@ -248,12 +248,12 @@ title: "Eun Chang Choi 최은창"
  <strong> ACADEMIC INTERESTS </strong> <br>  
    AI Law, Government, and Public Policy (Privacy, Data Protection, Emotional Recognition, Social Discrimination, Misuse) <br> 
    AI GRC (Governance, Risk Management, Compliance) Framework;  Agentic AI Accountability with Efficient Risk Control <br>
-   Measuring (Mis)Alignment of Algorithms <br>  Governance of Emerging Technological Risks of Large Language Models <br> 
-   International AI Governance and Global Politics ; Open-weight AI Ecosystem for the Global South <br>
+   International AI Governance and Global Politics ; Measuring (Mis)Alignment of Algorithms and Faking Alignment <br>  
+   Governance of Emerging Technological Risks of Large Language Models; Lying and Deception of Advanced AI <br>
    Copyright Law; Ownership of Data by Generative AI; AI-generated Disinformation War <br>
    Computational Law (Artificial Intelligence and Legal Reasoning); Explainable AI <br>
    The Design and Implementation of AIMS (AI Risk Management Systems)— ISO/IEC 42001,ISO/IEC 23894  <br>
-   AI for Sustainable Development(AI4Good); The Value of Open-source AI Models <br> 
+   AI for Sustainable Development(AI4Good); Open-weight AI Ecosystem for the Global South <br> 
    Global Intellectual Property Law; Global Vaccine Access and Health Inequality; Genome Editing Patents <br>  
   <br>
    <strong> CONTACT</strong> <br>   
