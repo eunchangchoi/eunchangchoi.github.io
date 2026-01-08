@@ -89,7 +89,7 @@ title: "Eun Chang Choi 최은창"
      <br>   
  <strong> COURSES TAUGHT </strong> <br>  
 ▪‘Information Systems Security and Data Ethics’, Graduate School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> Kyung Hee University</a>, Seoul, S.Korea (2025)<br>
-▪‘AI, Data & Algorithmic Governance’, Graduate School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> Kyung Hee University </a>,<a href="https://github.com/eunchangchoi/Lectures/blob/main/2025-Fall%20Syllabus%20KHU%20Data%20%26%20Algorithm%20Governance%20(20250904).pdf"> Syllabus</a> (2023, 2024, 2025) <br> 
+▪‘AI, Data & Algorithmic Governance’, Graduate School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> Kyung Hee University </a>,<a href="https://github.com/eunchangchoi/Lectures/blob/main/2025-Fall%20Syllabus%20Data%20%26%20Algorithm%20Governance%20(2025%20Oct%20%20KHU).pdf"> Syllabus</a> (2024, 2025) <br> 
 ▪ UNESCO UNITWIN Next Generation Training Program on AI,<a href="https://ucsp.edu.pe/"> Universidad Católica de San Pablo</a>, Arequipa, Peru (2024) <br>
 ▪ UNESCO UNITWIN Next Generation Training Program on AI,<a href="https://jiu.ac/"> Jakarta International University</a>, Indonesia (2023)  <br>
 ▪ UNESCO UNITWIN Next Generation Training Program on AI, <a href="https://ur.ac.rw/"> Univ of Rwanda</a>, <a href="https://www.iprckigali.rp.ac.rw"> Rwanda Polytechnic </a> Rwanda (<a href="https://x.com/RwandaPolytec/status/1680892759413071872">2023</a>, 2024, 2025) <br>
