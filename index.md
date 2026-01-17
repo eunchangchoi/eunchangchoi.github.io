@@ -248,12 +248,12 @@ title: "Eun Chang Choi 최은창"
   
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>  
-   Data Politics and Power; Digital Sovereignty and the Political Economy of Technology  <br>
-   AI, Government and Technology Policy (Responsibly Managed AI, Trustworthiness, Human-AI Value Alignment) <br> 
+   AI, Government and Technology Policy (Responsibly Managed AI, Trustworthiness, Value Alignment) <br> 
    Legal and Ethical Analysis on Algorithmic Risks (Data Protection, Emotional Recognition, Social Discrimination) <br>
    Accountability of Agentic AI Systems (Explainability, Security, Controllability, Responsibility Gap) <br>
    Global AI Safety Governance, Technology Standards & International Politics in the US-China Arms Race<br>  
    LLM Vulnerabilities and Security Risks (Deceptive Alignment, Faking, and Reward Hacking) <br>
+   Data Politics and Power; Digital Sovereignty and the Political Economy of Technology  <br>
    Data Warfare: Race toward Data Hegemony for Digital Empire <br>
    Copyright Disputes with Generative AI; AI Inventorship; Disinformation Warfare with AI <br>
    Computational Law (Artificial Intelligence and Legal Reasoning); AI in the Courtroom <br> 
