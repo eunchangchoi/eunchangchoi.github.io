@@ -248,10 +248,10 @@ title: "Eun Chang Choi 최은창"
   
  <br>   
  <strong> ACADEMIC INTERESTS </strong> <br>  
+   Shaping Global AI Safety Governance and Technology Standards amidst the US-China Arms Race<br> 
    AI, Government and Technology Policy (Responsibly Managed AI, Trustworthiness, Value Alignment) <br> 
    Legal and Ethical Analysis on Algorithmic Risks (Data Protection, Emotional Recognition, Social Discrimination) <br>
-   Accountability of Agentic AI Systems (Explainability, Security, Controllability, Responsibility Gap) <br>
-   Global AI Safety Governance, Technology Standards & International Politics in the US-China Arms Race<br>  
+   Accountability of Agentic AI Systems (Explainability, Security, Controllability, Responsibility Gap) <br> 
    LLM Vulnerabilities and Security Risks (Deceptive Alignment, Faking, and Reward Hacking) <br>
    Data Politics and Power; Digital Sovereignty and the Political Economy of Technology  <br>
    Data Warfare: Race toward Data Hegemony for Digital Empire <br>
