@@ -164,9 +164,9 @@ title: "Eun Chang Choi 최은창"
 ▪‘Analysis on the Stanford AI 100 Report’<a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php"> Technology & Society Forum</a>, Seoul National University (Nov. 2016) <br>
 ▪ <a href="https://opennet.or.kr/wp-content/uploads/2015/08/발표자료-Net-Neutrality-OTT-Zero-ratinghandout-2015812-.pdf">‘Net Neuteality in the new ICT Ecosystem :Zero-rating’</a> OpenNet Korea, Seoul (2015) <br>
   <br>
-     
+   
  <strong> CONSULTING & PUBLIC POLICY ENGAGEMENT </strong> <br>  
-▪ Discussant ‘Strategies and Future Directions for an AI-driven Democratic Government’ at the Agile AI Government Seminar organized by <a href="https://www.kaiss.or.kr/event/?bmode=view&idx=169744972">The Korean Association of AI Service Science</a>(2026)
+▪ Discussant ‘Strategies and Future Directions for an AI-driven Democratic Government’ at the Agile AI Government Seminar organized by <a href="https://www.kaiss.or.kr/event/?bmode=view&idx=169744972">The Korean Association of AI Service Science</a>(2026)  <br>
 ▪ Provided professional consultation on <a href="https://tta-trustworthy-ai.gitbook.io/cat/cat-2.0/aisystem"> ‘Certification of AI Trustworthiness 2.0’</a> audited by Korea’s Telecommunications Technology Association (TTA) ensuring conformity with
 <a href="https://cdn.standards.iteh.ai/samples/77304/cb803ee4e9624430a5db177459158b24/ISO-IEC-23894-2023.pdf"> ISO/IEC 23894 (2023) Artificial intelligence—Guidance on Risk Management</a>(2025) <br> 
 ▪ <a href="https://www.linkedin.com/feed/update/urn:li:activity:7355949028733255680"> ‘AI for Africa: Open-Weight, Small LLMs, Sovereignty and Policy Suggestions for AI Ecosystem’</a>, <a href="https://www.norrsken.org/houses/kigali"> Norrsken East Africa in Kigali</a>, invited by <a href="https://x.com/RwandaICT/status/1950209792494174355"> the Ministry of ICT and Innovation</a>, Government of Rwanda (July 31,2025) <a href="https://github.com/eunchangchoi/eunchangchoi.github.io/blob/master/AI%20for%20Africa%20_Open-Weight%20Small%20LLMs%2C%20Sovereignty%20Policy%20Suggestions%20for%20AI%20Ecosystem%20Norrsken%20Choi%202025%20July.pdf"> Slides</a> <br> 
