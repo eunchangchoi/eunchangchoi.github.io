@@ -41,7 +41,7 @@ title: "Eun Chang Choi 최은창"
  <strong> ARTICLES, BOOKS & CHAPTERS </strong> <br>
 ▪ Book, <i> Algorithms as Social Institutions: Systemic Harms from Flawed Algorithms and Blind Trust</i> (forthcoming 2026) <br> 
 ▪ “Who Owns the Baby Shark Dance?: A Copyright Dispute in South Korea” Harvard Technology Review (forthcoming 2026) <br> 
-▪ “How to Secure AI Safety: Complexity, Agentic AI and Recursive Self-Improvement” in <i> Coexistence of Humans and Machines </i> (2025) <br> 
+▪ “The Safety Discourse in the Era of Artificial General Intelligence(AGI)” in AI and the Transformation of Human Civilization (Civilization Studies Series, Vol.7.) Seoul: Kyung Hee Institute for Human Society(2026) <br>  
 ▪ “What Would Plato Make of ChatGPT that Generates False Content?” Alookso Magazine (March 2023) <br>
 ▪ “Open-sourced mRNA COVID 19 Vaccine Manufacturing in Africa’s WHO Tech Hub” <a href="https://blog.naver.com/gp3project/222993202700"> Povertyinfo Blog</a>(Jan.2023) <br> 
 ▪ “Imbuing Democratic Values into the Democratization of Artificial Intelligence” Alookso Magazine (Dec.2022) <br> 
@@ -105,7 +105,8 @@ title: "Eun Chang Choi 최은창"
 ▪ ‘International Electronic Commerce Law’, Graduate School of International Studies, Korea University, Seoul (2002-04) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
-▪ ‘Agentic AI: Governing Security Risks and Responsibility Framework’, inaugural conference of <a href="https://www.kaiss.or.kr/index"> Korea AI Service Society </a> (Dec.11, 2025) <br> 
+▪ ‘Clinical Responsibility and Risk in the Use of Medical Diagnostic AI: The Gap between Performance and Expectations’ Ewha Medical Research Institute (March 23, 2026) <br> 
+▪ ‘Agentic AI: Governing Security Risks and Responsibility Framework’, inaugural conference of <a href="https://www.kaiss.or.kr/index"> The Korean Association of AI Service Science </a> (Dec.11, 2025) <br> 
 ▪ ‘Evolution of Medical LLMs for Public Healthcare in Africa and its Limitations’,Regional Centre of Excellence in Biomedical Engineering and e-Health,<a href="https://cst.ur.ac.rw/">  College of Science and Technology</a>, University of Rwanda, Kigali (July 30, 2025) <a href="https://github.com/eunchangchoi/eunchangchoi.github.io/blob/master/Evolution%20of%20Medical%20LLMs%20for%20Public%20Healthcare%20in%20Africa%20and%20its%20Limitations%20CBEB%20Univ%20of%20Rwanda%20(July%202025%20Choi).pdf"> Slides</a> <br> 
 ▪ ‘Innovation for Africa : Domain Specific Small LLMs, Vertical AI, Fine-tuning & Machine Learning Applications’, Faculty Members of  <a href="https://www.iprckigali.rp.ac.rw/"> IPRC Rwanda Polytechnic</a>, Kigali, Rwanda (July 29, 2025) <a href="https://github.com/eunchangchoi/eunchangchoi.github.io/blob/master/Domain%20Specific%20Vertical%20Small%20LLMs%2C%20Fine-tuning%20%26%20ML%20Applications%20(IPRC%20Rwanda%20Polytechnic%202025%20July)Choi%20git.pdf"> Slides</a> <br>                                                                                                                                      
 ▪ ‘Fair Use Criteria for Machine Learning: Comparative Thoughts on Copyright in Canada, Japan, and the U.S’, <a href="https://ipresearchersasia.org/annual-conference"> The 7th IP & Innovation Researchers of Asia Conference,</a> Faculty of Law, Waseda University(早稲田大学), Tokyo, Japan (April 2025)<br>
@@ -165,6 +166,7 @@ title: "Eun Chang Choi 최은창"
   <br>
      
  <strong> CONSULTING & PUBLIC POLICY ENGAGEMENT </strong> <br>  
+▪ Discussant ‘Strategies and Future Directions for an AI-driven Democratic Government’ at the Agile AI Government Seminar organized by <a href="https://www.kaiss.or.kr/event/?bmode=view&idx=169744972">The Korean Association of AI Service Science</a>(2026)
 ▪ Provided professional consultation on <a href="https://tta-trustworthy-ai.gitbook.io/cat/cat-2.0/aisystem"> ‘Certification of AI Trustworthiness 2.0’</a> audited by Korea’s Telecommunications Technology Association (TTA) ensuring conformity with
 <a href="https://cdn.standards.iteh.ai/samples/77304/cb803ee4e9624430a5db177459158b24/ISO-IEC-23894-2023.pdf"> ISO/IEC 23894 (2023) Artificial intelligence—Guidance on Risk Management</a>(2025) <br> 
 ▪ <a href="https://www.linkedin.com/feed/update/urn:li:activity:7355949028733255680"> ‘AI for Africa: Open-Weight, Small LLMs, Sovereignty and Policy Suggestions for AI Ecosystem’</a>, <a href="https://www.norrsken.org/houses/kigali"> Norrsken East Africa in Kigali</a>, invited by <a href="https://x.com/RwandaICT/status/1950209792494174355"> the Ministry of ICT and Innovation</a>, Government of Rwanda (July 31,2025) <a href="https://github.com/eunchangchoi/eunchangchoi.github.io/blob/master/AI%20for%20Africa%20_Open-Weight%20Small%20LLMs%2C%20Sovereignty%20Policy%20Suggestions%20for%20AI%20Ecosystem%20Norrsken%20Choi%202025%20July.pdf"> Slides</a> <br> 
