@@ -41,7 +41,7 @@ title: "Eun Chang Choi 최은창"
  <strong> ARTICLES, BOOKS & CHAPTERS </strong> <br>
 ▪ Book, <i> Algorithms as Social Institutions: Systemic Harms from Flawed Algorithms and Blind Trust</i> (forthcoming 2026) <br> 
 ▪ “Who Owns the Baby Shark Dance?: A Copyright Dispute in South Korea” Harvard Technology Review (forthcoming 2026) <br> 
-▪ “The Safety Discourse in the Era of Artificial General Intelligence(AGI)” in AI and the Transformation of Human Civilization (Civilization Studies Series, Vol.7.) Seoul: Kyung Hee Institute for Human Society(2026) <br>  
+▪ “The Safety Discourse in the Era of Artificial General Intelligence(AGI)” in AI and the Transformation of Human Civilization (Civilization Studies Series, Vol.7.) Seoul: Kyung Hee Institute for Human Society (2026) <br>  
 ▪ “What Would Plato Make of ChatGPT that Generates False Content?” Alookso Magazine (March 2023) <br>
 ▪ “Open-sourced mRNA COVID 19 Vaccine Manufacturing in Africa’s WHO Tech Hub” <a href="https://blog.naver.com/gp3project/222993202700"> Povertyinfo Blog</a>(Jan.2023) <br> 
 ▪ “Imbuing Democratic Values into the Democratization of Artificial Intelligence” Alookso Magazine (Dec.2022) <br> 
