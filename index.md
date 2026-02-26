@@ -115,7 +115,7 @@ title: "Eun Chang Choi 최은창"
 ▪ ‘AI for Social Good: Leveraging AI for Sustainable Development Goals’ Universidad Católica de Santa María, Peru (Sept. 2024) <br>
 ▪ ‘Unlocking AI Innovation:How to Leverage its Potential Addressing Hidden Technical Debt’ <a href="https://www.ulima.edu.pe/">, Universidad de Lima,</a> Peru (Sept. 2024) <br>
 ▪ ‘The Phenomenon AI-generated Disinformation and Media Reality’,<a href="https://www.rwandaadma.com"> African Digital Media Academy</a>, Rwanda (June 2024)<br>
-▪ ‘Comparing EU AI Act & the U.S. Approach + Copyright Lawsuits against OpenAI’,The 2nd GenAI Seoul Conference 2024, organized by DMK Global </a> (Feb.2024)<br>
+▪ ‘Comparing EU AI Act & the U.S. Approach + Copyright Lawsuits against OpenAI’, GenAI Seoul 2024, organized by DMK Global (Feb.2024)<br>
 ▪ ‘Deep Learning/Machine Learning Technology Revolution’, UNESCO-UNITWIN Conference on Global Enterprenership and Social Innovation, Pullman Jakarta Central Park, Indonesia (Nov.2023) <br>
 ▪ <a href="https://www.francezone.com/xe/hanweeklynews/2348404">‘AI-generated Disinformation War’</a>, <a href="https://www.okja.org/"> Overseas Korean Journalists Association </a>, Seoul Press Center, S.Korea (Oct.2023) <br>
 ▪ ‘AI in Asia-Pacific: Charting a Path for Responsible Innovation’ <a href="https://forms.for.asia/proposal/?proposalform=NjQ1N2JkN2I4YmY3Yi8vMjMvLzEyNTQvLzA="> 2023 APrIGF </a> Brisbane, Australia (Aug.2023) <br>
