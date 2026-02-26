@@ -41,7 +41,7 @@ title: "Eun Chang Choi 최은창"
  <strong> ARTICLES, BOOKS & CHAPTERS </strong> <br>
 ▪ Book, <i> Algorithms as Social Institutions: Systemic Harms from Flawed Algorithms and Blind Trust</i> (forthcoming 2026) <br> 
 ▪ “Who Owns the Baby Shark Dance?: A Copyright Dispute in South Korea” Harvard Technology Review (forthcoming 2026) <br> 
-▪ Chapter “The Safety Discourse in the Era of Artificial General Intelligence(AGI)” in <i> AI and the Transformation of Human Civilization</i>(Civilization Studies Series, Vol.7.) Seoul: Kyung Hee Institute for Human Society (2026) <br>  
+▪ Book Chapter “The Safety Discourse in the Era of Artificial General Intelligence(AGI)” in <i> AI and the Transformation of Human Civilization</i>(Civilization Studies Series, Vol.7.) Seoul: <a href= "http://kihs.khu.ac.kr/"> Kyung Hee Institute for Human Society</a> (2026) <br>  
 ▪ “What Would Plato Make of ChatGPT that Generates False Content?” Alookso Magazine (March 2023) <br>
 ▪ “Open-sourced mRNA COVID 19 Vaccine Manufacturing in Africa’s WHO Tech Hub” <a href="https://blog.naver.com/gp3project/222993202700"> Povertyinfo Blog</a>(Jan.2023) <br> 
 ▪ “Imbuing Democratic Values into the Democratization of Artificial Intelligence” Alookso Magazine (Dec.2022) <br> 
@@ -49,7 +49,7 @@ title: "Eun Chang Choi 최은창"
 ▪ <a href="http://cdss.yonsei.ac.kr/index.php/issue-brief/?mod=document&uid=129"> “AI Large Language Models and AI Democratization”</a> <a href="http://cdss.yonsei.ac.kr/"> Center for Digital Social Science, Yonsei University, </a>Issue Brief Vol.48 (Nov.2022) <br>  
 ▪ <a href="https://www.technologyreview.kr/%ed%95%a9%ec%84%b1-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%9d%98-%ec%8b%9c%eb%8c%80%ea%b0%80-%ec%98%a4%ea%b3%a0-%ec%9e%88%eb%8b%a4/"> “The Promise and Pitfall of Synthetic Data in Training AI Systems” </a> MIT Technology Review (Oct.2022)<br>
 ▪ <a href="https://www.technologyreview.kr/%ed%85%8d%ec%8a%a4%ed%8a%b8%eb%a5%bc-%ec%9d%b4%eb%af%b8%ec%a7%80%eb%a1%9c-%eb%b0%94%ea%bf%94%ec%a3%bc%eb%8a%94-ai%eb%a5%bc-%eb%91%98%eb%9f%ac%ec%8b%bc-%ec%a0%80%ec%9e%91%ea%b6%8c-%eb%85%bc%ec%9f%81/"> “Copyright Issues in Text-to-Image Models Sparks Copyright Controversy”</a> MIT Technology Review (Sept.2022)<br>
-▪ Chapter,“On Technology Risk” in <i> <a href="https://sapyoung.com/bbs/board.php?bo_table=booklist2&wr_id=431"> Twenty Key Concepts of Digital Technology and Society </a> </i>, Publisher :社會評論(Sept.2022) <br>
+▪ Book Chapter,“On Technology Risk” in <i> <a href="https://sapyoung.com/bbs/board.php?bo_table=booklist2&wr_id=431"> Twenty Key Concepts of Digital Technology and Society </a> </i>, Publisher :社會評論(Sept.2022) <br>
 ▪ Book Translation <a href="http://www.yes24.com/Product/Goods/110725374"><i> Memes in Digital Culture</i>,</a> Publisher: MIT Press, Hanul MPlus (July 2022) <br>
 ▪ “The Ethics of Metaverse and Law: From Sexual Exploitation to Fraud in Virtual Space” Alookso Magazine (July 2022)<br>
 ▪ <a href="https://www.ibric.org/myboard/read.php?id=4087&Page=1&Board=REPORT&TodayReview=1/"> “Global COVID-19 Vaccine Equity, Differential Pricing and the Waiver of Patents”</a> BRIC BioWave <a href="https://www.ibric.org/biowave/bio_webzine_index.php"> POSTECH </a>(April 2022)<br>
