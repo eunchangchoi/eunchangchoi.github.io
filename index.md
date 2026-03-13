@@ -264,4 +264,4 @@ title: "Eun Chang Choi 최은창"
    Global Intellectual Property Law; Global Vaccine Access and Health Inequality; Genome Editing Patents <br>  
   <br>
    <strong> CONTACT</strong> <br>   
-   techlaw (at) khu.ac.kr ;  andrew.choi@smit.ac.kr; eunchang.choi (at) impactive-ai.com ; eunchang.choi (at) aya.yale.edu ; head (at) povertyinfo.org 
+   techlaw (at) khu.ac.kr ;  eunchang.choi (at) impactive-ai.com ; eunchang.choi (at) aya.yale.edu 
