@@ -91,7 +91,7 @@ title: "Eun Chang Choi 최은창"
      <br>   
  <strong> COURSES TAUGHT </strong> <br>  
 ▪‘Information Systems Security and Data Privacy’, Graduate School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> Kyung Hee University</a>, <a href="https://github.com/eunchangchoi/Lectures/blob/main/2026%20Information%20Systems%20Security%20and%20Data%20Privacy%20KHU%20(Syllabus%20Ver%204.0).pdf"> Syllabus</a> (2025, 2026)<br>
-▪‘AI, Data & Algorithmic Governance’, Graduate School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> Kyung Hee University </a>,<a href="https://github.com/eunchangchoi/Lectures/blob/main/2025-Fall%20Syllabus%20Data%20%26%20Algorithm%20Governance%20(2025%20Oct%20%20KHU).pdf">Syllabus</a> (2024, 2025) <br> 
+▪‘AI, Data & Algorithmic Governance’, Graduate School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> Kyung Hee University,</a><a href="https://github.com/eunchangchoi/Lectures/blob/main/2025-Fall%20Syllabus%20Data%20%26%20Algorithm%20Governance%20(2025%20Oct%20%20KHU).pdf"> Syllabus</a> (2024, 2025) <br> 
 ▪ UNESCO UNITWIN Next Generation Training Program on AI,<a href="https://ucsp.edu.pe/"> Universidad Católica de San Pablo</a>, Arequipa, Peru (July. 2024) <br>
 ▪ UNESCO UNITWIN Next Generation Training Program on AI,<a href="https://jiu.ac/"> Jakarta International University</a>, Indonesia (July.2023)  <br>
 ▪ UNESCO UNITWIN Next Generation Training Program on AI, <a href="https://ur.ac.rw/"> Univ of Rwanda</a>, <a href="https://www.iprckigali.rp.ac.rw"> Rwanda Polytechnic </a> Kigali (<a href="https://x.com/RwandaPolytec/status/1680892759413071872"> 2023</a>, 2024, 2025) <br>
@@ -107,7 +107,7 @@ title: "Eun Chang Choi 최은창"
 ▪ ‘International Electronic Commerce Law’, Graduate School of International Studies, Korea University, Seoul (2002-04) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
-▪ ‘Clinical Responsibility and Risk in the Use of AI-Assisted Diagnosis: The Gap between Expectations and Reality’ <a href="https://research.ewhamed.ac.kr/"> Ewha Medical Research Institute </a>and  <a href="https://ewhamed.ac.kr/ewhamedeng/index.do"> Ewha University Medical School,</a>Seoul (May 2026) <br> 
+▪ ‘Clinical Responsibility and Risk in the Use of AI-Assisted Diagnosis: The Gap between Expectations and Reality’, <a href="https://research.ewhamed.ac.kr/"> Ewha Medical Research Institute </a>and <a href="https://ewhamed.ac.kr/ewhamedeng/index.do"> Ewha University Medical School,</a>Seoul (May 2026) <br> 
 ▪ ‘Strengthening Trans-Pacific Cybersecurity Cooperation to Counter Weaponized AI Threats and Uncertainty’, Beacom College of Computer & Cyber Sciences, Dakota State University, SD (March 2026) <br> 
 ▪ ‘Agentic AI: Governing Security Risks and Responsibility Framework’, <a href="https://www.kaiss.or.kr/index">Korean Association of AI Service Science </a> Conference (Dec.2025) <br> 
 ▪ ‘Evolution of Medical LLMs for Public Healthcare in Africa and its Limitations’,Regional Centre of Excellence in Biomedical Engineering and e-Health,<a href="https://cst.ur.ac.rw/">  College of Science and Technology</a>, University of Rwanda IPRC), Kigali Rwanda (July 30,2025) <a href="https://github.com/eunchangchoi/eunchangchoi.github.io/blob/master/Evolution%20of%20Medical%20LLMs%20for%20Public%20Healthcare%20in%20Africa%20and%20its%20Limitations%20CBEB%20Univ%20of%20Rwanda%20(July%202025%20Choi).pdf"> Slides</a> <br> 
