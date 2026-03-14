@@ -107,7 +107,7 @@ title: "Eun Chang Choi 최은창"
 ▪ ‘International Electronic Commerce Law’, Graduate School of International Studies, Korea University, Seoul (2002-04) <br>
     <br>
  <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
-▪ ‘Clinical Responsibility and Risk in the Use of AI-Assisted Diagnosis: The Gap between Expectations and Reality’, <a href="https://research.ewhamed.ac.kr/"> Ewha Medical Research Institute </a>and <a href="https://ewhamed.ac.kr/ewhamedeng/index.do"> Ewha University Medical School,</a>Seoul (May 2026) <br> 
+▪ ‘Clinical Responsibility and Risk in the Use of AI-Assisted Diagnosis: The Gap between Expectations and Reality’, <a href="https://research.ewhamed.ac.kr/"> Ewha Medical Research Institute </a>and <a href="https://ewhamed.ac.kr/ewhamedeng/index.do"> Ewha University Medical School,</a> Seoul (May 2026) <br> 
 ▪ ‘Strengthening Trans-Pacific Cybersecurity Cooperation to Counter Weaponized AI Threats and Uncertainty’, Beacom College of Computer & Cyber Sciences, Dakota State University, SD (March 2026) <br> 
 ▪ ‘Agentic AI: Governing Security Risks and Responsibility Framework’, <a href="https://www.kaiss.or.kr/index">Korean Association of AI Service Science </a> Conference (Dec.2025) <br> 
 ▪ ‘Evolution of Medical LLMs for Public Healthcare in Africa and its Limitations’,Regional Centre of Excellence in Biomedical Engineering and e-Health,<a href="https://cst.ur.ac.rw/">  College of Science and Technology</a>, University of Rwanda IPRC), Kigali Rwanda (July 30,2025) <a href="https://github.com/eunchangchoi/eunchangchoi.github.io/blob/master/Evolution%20of%20Medical%20LLMs%20for%20Public%20Healthcare%20in%20Africa%20and%20its%20Limitations%20CBEB%20Univ%20of%20Rwanda%20(July%202025%20Choi).pdf"> Slides</a> <br> 
