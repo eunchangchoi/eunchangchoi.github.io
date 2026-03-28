@@ -221,6 +221,7 @@ title: "Eun Chang Choi 최은창"
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>   
+▪  <a href="https://www.newswire.co.kr/newsRead.php?no=1031088"> SMIT and Dakota State University (DSU) Signed Dual Degree Partnership </a> (March 26, 2026) <br>
 ▪ <a href="https://www.seoul.co.kr/news/editOpinion/opinion/issue-korea/2024/04/22/20240422025001">“AI Policy on Copyright Controversies regarding Text Data Mining and Deepfakes”</a>, Seoul Shinmun (April 22, 2024) <br>
 ▪  <a href="https://www.christiantoday.co.kr/news/358424"> “UNESCO Conference on Global Enterprenership and Social Innovation in Jakarta”,</a> Christian Today (Nov.30,2023)<br>
 ▪  <a href="https://it.chosun.com/news/articleView.html?idxno=2023072603892"> “AI-focused Next Generation Entrepreneurship Program by Impactive AI”, </a> IT Chosun (July.26,2023) <br>
