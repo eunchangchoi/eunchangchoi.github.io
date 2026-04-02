@@ -169,6 +169,7 @@ title: "Eun Chang Choi 최은창"
   <br>
    
  <strong> CONSULTING & PUBLIC POLICY ENGAGEMENT </strong> <br>  
+▪ ‘AI-Based Public Procurement Digital Transformation Project for Food Security Enhancement in Cameroon 2026-27’, funded by <a href="https://www.koica.go.kr/koica_en/3446/subview.do"> Creative Technology Solution Program</a> of <a href="https://www.koica.go.kr/sites/koica_en/index.do"> Korea International Cooperation Agency</a> <br>
 ▪ Discussant ‘Strategies and Future Directions for an AI-driven Democratic Government’ at <i>Agile AI Government Seminar</i>, organized by <a href="https://www.kaiss.or.kr/event/?bmode=view&idx=169744972"> Korean Association of AI Service Science</a> and National Human Resources Development Institute (2026)  <br>
 ▪ Provided professional consultation on <a href="https://tta-trustworthy-ai.gitbook.io/cat/cat-2.0/aisystem"> ‘Certification of AI Trustworthiness 2.0’</a> audited by Korea’s Telecommunications Technology Association (TTA) ensuring conformity with
 <a href="https://cdn.standards.iteh.ai/samples/77304/cb803ee4e9624430a5db177459158b24/ISO-IEC-23894-2023.pdf"> ISO/IEC 23894 (2023) Artificial intelligence—Guidance on Risk Management</a>(2025) <br> 
