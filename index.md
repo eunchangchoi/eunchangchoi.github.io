@@ -18,8 +18,8 @@ title: "Eun Chang Choi 최은창"
   <a href="http://www.yes24.com/Product/Goods/87629913"><img style="vertical-align:top;height:200px;width:162px;" src="images/book6.png"></a>
   <a href="https://www.copyright.or.kr/information-materials/publication/research-report/view.do?brdctsno=40222&list.do?pageIndex=5&brdclasscode=&nationcode=&searchText=&servicecode=06&searchTarget=ALL&brdctsstatecode="><img style="vertical-align:top;height:202px;width:163px;" src="images/book7.png"></a>
   <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791130337722&orderClick=LA6"><img style="vertical-align:top;height:202px;width:163px;" src="images/book8.jpg"></a>
-  <a href="https://sapyoung.com/bbs/board.php?bo_table=booklist2&wr_id=431"> <img style="vertical-align:top;height:200px;width:163px;" src="images/book9.png"></a>
-  <img style="vertical-align:top;height:200px;width:170px;" src="images/book10.jpeg">  
+  <a href="https://sapyoung.com/bbs/board.php?bo_table=booklist2&wr_id=431"> <img style="vertical-align:top;height:200px;width:163px;" src="images/book9.png"></a> 
+  <a href= "https://product.kyobobook.co.kr/detail/S000219725334"><img style="vertical-align:top;height:200px;width:171px;" src="images/book10.jpeg"> </a> 
  <br> 
 <p style="font-size:1.1em"> Professor Eun Chang Choi, 최은창(崔恩彰) focuses on the nexus of Artificial Intelligence, Technology Public Policy, and Information Law. His research agenda centers on (1) institutional design and safety governance for Frontier LLMs and Agentic AI (liability attribution, misalignment mechanisms), (2) global governance framework for AI safety (comparative analysis of the EU, the US and China),(3) the accountability of high-stakes AI (bias audit, misuse, risk controls, algorithmic power), and (4) AI in the courtroom and in legal systems <br> 
   <br> 
@@ -43,7 +43,7 @@ title: "Eun Chang Choi 최은창"
  <strong> ARTICLES, BOOKS & CHAPTERS </strong> <br>
 ▪ Book, <i> Algorithms as Social Institutions: Systemic Harms from Flawed Algorithms and Blind Trust</i> (forthcoming 2026) <br> 
 ▪ “Who Owns the Baby Shark Dance?: A Copyright Dispute in South Korea” Harvard Technology Review (forthcoming 2026) <br> 
-▪ Book Chapter “The Safety Discourse in the Era of Artificial General Intelligence(AGI)” in <i> <a href= "https://product.kyobobook.co.kr/detail/S000219725334">AI and the Transformation of Human Civilization</i> </a>(Civilization Studies Series, Vol.7.) Seoul: Kyung Hee University Press</a> (2026) <br>  
+▪ Book Chapter “The Safety Discourse in the Era of Artificial General Intelligence(AGI)” in <i> <a href= "https://product.kyobobook.co.kr/detail/S000219725334">AI and the Transformation of Human Civilization</i>, </a>(Civilization Studies Series, Vol.7.) Seoul: Kyung Hee University Press</a> (2026) <br>  
 ▪ “What Would Plato Make of ChatGPT that Generates False Content?” Alookso Magazine (March 2023) <br>
 ▪ “Open-sourced mRNA COVID 19 Vaccine Manufacturing in Africa’s WHO Tech Hub” <a href="https://blog.naver.com/gp3project/222993202700"> Povertyinfo Blog</a>(Jan.2023) <br> 
 ▪ “Imbuing Democratic Values into the Democratization of Artificial Intelligence” Alookso Magazine (Dec.2022) <br> 
