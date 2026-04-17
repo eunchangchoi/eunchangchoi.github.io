@@ -19,7 +19,7 @@ title: "Eun Chang Choi 최은창"
   <a href="https://www.copyright.or.kr/information-materials/publication/research-report/view.do?brdctsno=40222&list.do?pageIndex=5&brdclasscode=&nationcode=&searchText=&servicecode=06&searchTarget=ALL&brdctsstatecode="><img style="vertical-align:top;height:202px;width:163px;" src="images/book7.png"></a>
   <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791130337722&orderClick=LA6"><img style="vertical-align:top;height:202px;width:163px;" src="images/book8.jpg"></a>
   <a href="https://sapyoung.com/bbs/board.php?bo_table=booklist2&wr_id=431"> <img style="vertical-align:top;height:200px;width:163px;" src="images/book9.png"></a>
-  <img style="vertical-align:top;height:200px;width:169px;" src="images/book10.jpeg">  
+  <img style="vertical-align:top;height:200px;width:170px;" src="images/book10.jpeg">  
  <br> 
 <p style="font-size:1.1em"> Professor Eun Chang Choi, 최은창(崔恩彰) focuses on the nexus of Artificial Intelligence, Technology Public Policy, and Information Law. His research agenda centers on (1) institutional design and safety governance for Frontier LLMs and Agentic AI (liability attribution, misalignment mechanisms), (2) global governance framework for AI safety (comparative analysis of the EU, the US and China),(3) the accountability of high-stakes AI (bias audit, misuse, risk controls, algorithmic power), and (4) AI in the courtroom and in legal systems <br> 
   <br> 
