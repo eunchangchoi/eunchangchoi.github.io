@@ -106,7 +106,7 @@ title: "Eun Chang Choi 최은창"
 ▪ ‘The Ethics In Management Information Systems’, Graduate School of Business, Ewha Womans University, Seoul (2005-06) <br>
 ▪ ‘International Electronic Commerce Law’, Graduate School of International Studies, Korea University, Seoul (2002-04) <br>
     <br>
- <strong> CONFERENCES, TALKS, & PRESENTATIONS </strong> <br>  
+ <strong> INVITED TALKS, & PRESENTATIONS IN CONFERENCES </strong> <br>  
 ▪ ‘Clinical Responsibility and Risk in the Use of AI-Assisted Diagnosis: The Gap between Expectations and Reality’, <a href="https://research.ewhamed.ac.kr/"> Ewha Medical Research Institute </a>and <a href="https://ewhamed.ac.kr/ewhamedeng/index.do"> Ewha University Medical School,</a> Seoul (May 2026) <br> 
 ▪ ‘Strengthening Trans-Pacific Cybersecurity Cooperation to Counter Weaponized AI Threats and Uncertainty’,<a href="https://dsu.edu/academics/colleges/beacom-college/"> Beacom College of Computer & Cyber Sciences</a> , Dakota State University, Madison, South Dakota (March 2026) <br> 
 ▪ ‘Agentic AI: Governing Security Risks and Responsibility Framework’, <a href="https://www.kaiss.or.kr/index">Korean Association of AI Service Science </a> Conference (Dec.2025) <br> 
