@@ -89,7 +89,7 @@ title: "Eun Chang Choi 최은창"
 ▪ “The U.S. Supreme Court’s Ruling on BRCA1/BRCA2 Gene Patent:Bioethical and Legal Implications”<a href="https://lst.go.kr/eng/index.do"> Korea National Institute for Bioethics Policy </a>(2014).Elected as an author through competition who undertook to write on the commissioned research paper.<br>  
 ▪ “Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration’s Approaches”, STEPI Fellowship Research Paper Series,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute of Korea</a> (2014)<br>
      <br>   
- <strong> COURSES TAUGHT </strong> <br>  
+ <strong> TEACHING & LECTURES </strong> <br>  
 ▪‘Information Systems Security and Data Privacy’, Graduate School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> Kyung Hee University</a>, <a href="https://github.com/eunchangchoi/Lectures/blob/main/2026%20Spring%20Information%20Security%20and%20Data%20Ethics%20Syllabus%20(Ver%205.1).pdf"> Syllabus</a> (2025, 2026)<br>
 ▪‘AI, Data & Algorithmic Governance’, Graduate School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> Kyung Hee University,</a><a href="https://github.com/eunchangchoi/Lectures/blob/main/2025-Fall%20Syllabus%20Data%20%26%20Algorithm%20Governance%20(2025%20Oct%20%20KHU).pdf"> Syllabus</a> (2024, 2025) <br> 
 ▪ UNESCO UNITWIN Next Generation Training Program on AI,<a href="https://ucsp.edu.pe/"> Universidad Católica de San Pablo</a>, Arequipa, Peru (July. 2024) <br>
