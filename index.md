@@ -146,7 +146,7 @@ title: "Eun Chang Choi 최은창"
 ▪ ‘Technology Risks and Scientific Uncertainty’ at <a href="http://www.snuiis.re.kr/sub2/2_2_6_2.php"> Technology & Society Forum </a>, Seoul National University (Sept.2020)<br>
 ▪  <a href="http://www.igf.or.kr/2554">‘Global Landscape of AI Ethics Principles: Soft Law or Hard Law?’</a>, Korea Internet Governance Forum (Aug.2020) <br> 
 ▪ ‘S.Korea's Contacts Tracing for COVID-19’, Kr-IGF Workshop <a href="https://www.slideshare.net/secret/vlJ18LSZxcB11J"> Slides </a>, <a href="https://youtu.be/4UZlkRLKGes"> Video </a>(Aug.2020) <br> 
-▪ <a href="http://kaobe.or.kr/home/page/?pid=conference22">‘Business Ethics for Ethical AI: The Function of AI Ethics Board’</a> Korea Academy of Business Ethics Conference (Aug.2020) <br> 
+▪‘Business Ethics for Ethical AI: The Function of AI Ethics Board’ <a href="http://kaobe.or.kr/"> Korea Academy of Business Ethics Conference</a> (Aug.2020) <br> 
 ▪ ‘Medical Misinformation and Scientific Uncertainty: COVID-19, Ebola & HIV/AIDS’,Korea Society of Internet Ethics Conference<br>
 ▪ <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> ‘Internet Memes Warfare: Political Campaigns, Ads and Copyrights’</a> Korean Cybercomm Academic Society (June 2020)<br>
 ▪ ‘How Misinformation Obstruct Public Health Measures during Pandemics’, School of Public Health, Yonsei University (March. 2020)<br>
