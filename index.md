@@ -264,11 +264,9 @@ title: "Eun-Chang Choi 최은창"
    Accountability of Agentic AI Systems (Explainability, Security, Controllability, Responsibility Gap) <br> 
    LLM Vulnerabilities and Security Risks (Deceptive Alignment, Faking, and Reward Hacking) <br>
    Blockchain Ecosystems: Decentralized Autonomous Organizations (DAOs), and Self-Governance  <br>
-   Data Politics and Power; Digital Sovereignty and the Political Economy of Technology  <br>
-   Data Warfare: Race toward Data Hegemony for Digital Empire <br>
+   Data Politics and Power; Economic Sociology; Science, Technology and Society (STS) <br>
    Copyright Disputes with Generative AI; AI Inventorship; Disinformation Warfare with AI <br>
-   Computational Law (Artificial Intelligence and Legal Reasoning); AI in the Courtroom <br> 
-   Global Intellectual Property Law; Global Vaccine Access and Health Inequality; Genome Editing Patents <br>  
+   Global Vaccine Access and Health Inequality; Genome Editing Patents <br>  
   <br>
    <strong> CONTACT</strong> <br>   
    techlaw (at) khu.ac.kr ;  eunchang.choi (at) impactive-ai.com ; eunchang.choi (at) aya.yale.edu 
