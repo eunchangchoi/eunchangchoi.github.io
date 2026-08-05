@@ -259,13 +259,12 @@ title: "Eun-Chang Choi 최은창"
  <strong> ACADEMIC INTERESTS </strong> <br>  
    Technology & Governance; Social Justice and Technology ; Law & Technology <br> 
    AI, Government and Technology Policy (Responsibly Managed AI, Trustworthiness, Value Alignment) <br> 
-   Shaping Global AI Safety Governance and Technology Standards amidst the US-China Arms Race<br> 
+   Shaping Global AI Safety Governance and Technology Standards amidst the US-China AI Arms Race<br> 
    AI for Sustainable Development(AI4Good); Open-weight AI Ecosystem for the Global South <br> 
    Legal and Ethical Analysis on Algorithmic Risks (Data Protection, Emotional Recognition, Social Discrimination) <br>
    Accountability of Agentic AI Systems (Explainability, Security, Controllability, Responsibility Gap) <br> 
    LLM Vulnerabilities and Security Risks (Deceptive Alignment, Faking, and Reward Hacking) <br>
-   Blockchain Ecosystems: Decentralized Autonomous Organizations (DAOs), and Self-Governance  <br>
-   Data Politics and Power; Economic Sociology; Science, Technology and Society (STS) <br>
+   Politics of Big Data and Power; Comparative Politics; U.S.-China Technology Hegemony Competition <br>
    Copyright Disputes with Generative AI; AI Inventorship; Disinformation Warfare with AI <br>
    Global Vaccine Access and Health Inequality; Genome Editing Patents <br>  
   <br>
