@@ -221,7 +221,8 @@ title: "Eun-Chang Choi 최은창"
 ▪ Multi-Stakeholder Steering Group(MSG), <a href="https://ap.rigf.asia/"> Asia Pacific Regional Internet Governance Forum(APrIGF)</a> <br>  
   <br> 
  <strong> IN THE NEWS & INTERVIEWS</strong> <br>   
-▪ <a href="https://www.newswire.co.kr/newsRead.php?no=1031088"> “SMIT of Korea and Dakota State University Signed Dual Degree Partnership </a> (March. 2026) <br>
+▪ <a href="https://www.newswire.co.kr/newsRead.php?no=1031088"> “SMIT of Korea and Dakota State University Signed Dual Degree Partnership”  </a> (March. 2026) <br>
+▪ <a href="https://www.smit.ac.kr/file/Brochure_DSU%20Cybersecurity%20(KR).pdf"> The SMIT-DSU International Cybersecurity Graduate Program Brochure </a> <br>
 ▪ <a href="https://www.youtube.com/watch?v=dcDWxz5GMdg"> “UNESCO UNITWIN 2024 Next Generation AI Training in Peru” </a> (July.2024) <br> 
 ▪ <a href="https://www.youtube.com/watch?v=IX-_e0Wv7gA&t=47s"> “UNESCO UNITWIN AI-powered Next Generation Training in Rwanda” </a> (June.2024) <br> 
 ▪ <a href="https://www.seoul.co.kr/news/editOpinion/opinion/issue-korea/2024/04/22/20240422025001">“AI Policy on Copyright Controversies regarding Text Data Mining and Deepfakes”</a>, Seoul Shinmun (April 22, 2024) <br> 
