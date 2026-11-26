@@ -99,7 +99,7 @@ title: "Eun-Chang Choi 최은창"
 ▪ <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx">‘AI: Ethics, Security, Personal Data and Governance’</a> ITU Academy of Centres of Excellence(CoE), Bangkok, Thailand (2019) <br>
 ▪ <a href="https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/Pages/Events/2019/Artificial-Intelligence-Overview-and-Applications.aspx"> ‘Artificial Intelligence: Overview and Applications’</a>, ITU Academy of Centres of Excellence(CoE), Bangkok, Thailand (2019) <br>
 ▪ ‘AI Governance’, Asia Pacific Internet Governance Academy(APIGA), organized by <a href="https://www.icann.org/">ICANN</a> & <a href="https://www.kisa.or.kr/EN"> KISA</a>, Seoul (2019)  <br>
-▪ ‘International Business Transaction Law’, Division of International Studies, Hanyang University, Seoul (2015) <br>
+▪ ‘International Business Transaction Law’, Division of International Studies, Hanyang University, Seoul (2013,2014) <br>
 ▪ ‘Media Sphere and International Politics’, Department of Political Science, Konkuk University, Seoul (2013,2014) <br>
 ▪ ‘International Intellectual Property Law’, Department of Law, Myongji University, Seoul (2012) <br>
 ▪ ‘Globalization, Poverty, Development and Law’, Graduate School of International Studies, Korea University (2012) <br>
