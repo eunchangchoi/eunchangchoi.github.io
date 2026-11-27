@@ -90,7 +90,7 @@ title: "Eun-Chang Choi 최은창"
 ▪ “Regulatory Science for Public Health and Safety: Lessons from the U.S. Food and Drug Administration’s Approaches”, STEPI Fellowship Research Paper Series,<a href="https://www.stepi.re.kr/site/stepien/main.do"> Science & Technology Policy Institute of Korea</a> (2014)<br>
      <br>   
  <strong> COURSES TAUGHT</strong> <br>  
-▪‘Artificial Intelligence Governance for Enterprises’,<a href="https://www.aaltoee.fi/en"> aSSIST-Aalto University </a> <a href="https://w2.assist.ac.kr/aalto_web/index.php"> Joint MBA Program in English </a> (2026 Fall, Winter)<br>
+▪‘Artificial Intelligence Governance’,<a href="https://www.aaltoee.fi/en"> aSSIST-Aalto University </a> <a href="https://w2.assist.ac.kr/aalto_web/index.php">  MBA Program </a> in English (Fall, 2026) <br>
 ▪‘Information Systems Security and Data Privacy’, School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> Kyung Hee University</a>, <a href="https://github.com/eunchangchoi/Lectures/blob/main/2026%20Spring%20Information%20Security%20and%20Data%20Ethics%20Syllabus%20(Ver%205.1).pdf"> Syllabus</a> (2025, 2026 Spring)<br>
 ▪‘AI, Data & Algorithmic Governance’, School of Big Data Analytics,<a href="http://bigdata21.khu.ac.kr/main/main.html"> Kyung Hee University,</a><a href="https://github.com/eunchangchoi/Lectures/blob/main/2025-Fall%20Syllabus%20Data%20%26%20Algorithm%20Governance%20(2025%20Oct%20%20KHU).pdf"> Syllabus</a> (2024, 2025, 2026 Fall) <br> 
 ▪ UNESCO UNITWIN Next Generation Training Program on AI,<a href="https://ucsp.edu.pe/"> Universidad Católica de San Pablo</a>, Arequipa, Peru (July. 2024) <br>
@@ -150,7 +150,7 @@ title: "Eun-Chang Choi 최은창"
 ▪‘Business Ethics for Ethical AI: The Function of AI Ethics Board’ <a href="http://kaobe.or.kr/"> Korea Academy of Business Ethics Conference</a> (Aug.2020) <br> 
 ▪ ‘Medical Misinformation and Scientific Uncertainty: COVID-19, Ebola & HIV/AIDS’,Korea Society of Internet Ethics Conference<br>
 ▪ <a href="https://www.slideshare.net/EunChangChoi/internet-meme-warfare-political-propaganda-commercial-ads-copyright-lawsuits"> ‘Internet Memes Warfare: Political Campaigns, Ads and Copyrights’</a> Korean Cybercomm Academic Society (June 2020)<br>
-▪ ‘How Misinformation Obstruct Public Health Measures during Pandemics’, School of Public Health, Yonsei University (March. 2020)<br>
+▪ ‘How Misinformation Obstruct Public Health Measures during Pandemics’, School of Public Health, Yonsei University, Seoul (March. 2020)<br>
 ▪ Invited Talk ‘Data Governance and Regulation for Sustainable Smart Cities’, Alexander von Humboldt Institut für Internet und Gesellschaft gGmbH (HIIG) Berlin (Oct. 2020)<br>
 ▪ <a href="https://bit.ly/36qHFoj">‘The Risk Perception of AI’</a>, Korean Association for AI & Law (KAAIL) AI Policy Forum & Microsoft Korea (Oct.2019) <br>
 ▪ <a href="https://clawar.org/wp-content/uploads/2019/11/ICRES2019_p64_paper_4.pdf">"The Making of South Korea’s Robot Ethics Charter"</a>, <a href="https://clawar.org/conference-proceedings/icres-conference/icres-2019-proceedings/"> International Conference on Robot Ethics and Standards</a>, London, UK (2019)<br>
@@ -170,7 +170,7 @@ title: "Eun-Chang Choi 최은창"
   <br>
    
  <strong> CONSULTING & PUBLIC POLICY ENGAGEMENT </strong> <br>  
-▪ Advisory Committee Member, “Research and Analysis of Artificial Intelligence Trends and Development of an AI Terminology Glossary,” commissioned by the  <a href="https://eng.nia.or.kr/site/nia_eng/main.do"> National Information Society Agency (NIA) </a> (2026)<br>
+▪ Advised and reviewed <a href="https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=28928&parentSeq=28928"> “ AI Terminology Glossary,” </a> commissioned by the National Information Society Agency (NIA) (2026)<br>
 ▪ ‘AI-Based Public Procurement Digital Transformation Project for Food Security Enhancement in the Republic of Cameroon’, funded by <a href="https://www.koica.go.kr/koica_en/3446/subview.do"> Creative Technology Solution, Development Innovation Program </a> of <a href="https://www.koica.go.kr/sites/koica_en/index.do"> Korea International Cooperation Agency(KOICA)</a> (2026-27)<br>
 ▪ Discussant ‘Strategies and Future Directions for an AI-driven Democratic Government’ at <i>Agile AI Government Seminar</i>, organized by <a href="https://www.kaiss.or.kr/event/?bmode=view&idx=169744972"> Korean Association of AI Service Science</a> and National Human Resources Development Institute (March 2026)  <br>
 ▪ Provided professional consultation on <a href="https://tta-trustworthy-ai.gitbook.io/cat/cat-2.0/aisystem"> ‘Certification of AI Trustworthiness 2.0’</a> audited by Korea’s Telecommunications Technology Association (TTA) ensuring conformity with
