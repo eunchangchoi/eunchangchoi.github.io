@@ -170,7 +170,7 @@ title: "Eun-Chang Choi 최은창"
   <br>
    
  <strong> CONSULTING & PUBLIC POLICY ENGAGEMENT </strong> <br>  
-▪ Advised and reviewed <a href="https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=28928&parentSeq=28928"> “ AI Terminology Glossary,” </a> commissioned by the National Information Society Agency (NIA) (2026)<br>
+▪ Advised and reviewed <a href="https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=28928&parentSeq=28928"> <i> 20026 AI Terminology Glossary </i>,</a> a commissioned project funded by the National Information Society Agency (NIA) (2026)<br>
 ▪ ‘AI-Based Public Procurement Digital Transformation Project for Food Security Enhancement in the Republic of Cameroon’, funded by <a href="https://www.koica.go.kr/koica_en/3446/subview.do"> Creative Technology Solution, Development Innovation Program </a> of <a href="https://www.koica.go.kr/sites/koica_en/index.do"> Korea International Cooperation Agency(KOICA)</a> (2026-27)<br>
 ▪ Discussant ‘Strategies and Future Directions for an AI-driven Democratic Government’ at <i>Agile AI Government Seminar</i>, organized by <a href="https://www.kaiss.or.kr/event/?bmode=view&idx=169744972"> Korean Association of AI Service Science</a> and National Human Resources Development Institute (March 2026)  <br>
 ▪ Provided professional consultation on <a href="https://tta-trustworthy-ai.gitbook.io/cat/cat-2.0/aisystem"> ‘Certification of AI Trustworthiness 2.0’</a> audited by Korea’s Telecommunications Technology Association (TTA) ensuring conformity with
